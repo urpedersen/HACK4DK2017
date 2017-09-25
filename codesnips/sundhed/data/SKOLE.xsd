@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:od="urn:schemas-microsoft-com:officedata">
+<xsd:element name="dataroot">
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element ref="SKOLE" minOccurs="0" maxOccurs="unbounded"/>
+</xsd:sequence>
+<xsd:attribute name="generated" type="xsd:dateTime"/>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name="SKOLE">
+<xsd:annotation>
+<xsd:appinfo>
+<od:tableProperty name="GUID" type="9" value="/IVhXahqFk+gENUO9QnedQ==
+"/>
+<od:tableProperty name="Orientation" type="2" value="0"/>
+<od:tableProperty name="OrderByOn" type="1" value="0"/>
+<od:tableProperty name="NameMap" type="11" value="CswOVQAAAAD8hWFdqGoWT6AQ1Q71Cd51AAAAANwaTf2v/uRAAAAAAAAAAABTAEsA
+TwBMAEUAXwBOAFkAAAAAAAAAPmZ+jFjFp0KD/3l1/jPD2QcAAAD8hWFdqGoWT6AQ
+1Q71Cd51SQBEAAAAAAAAAG3j8MPh3thKiME4id5dAxAHAAAA/IVhXahqFk+gENUO
+9QnedUsA2ABOAAAAAAAAAPEKpIbsjfZLiculFz5PCoAHAAAA/IVhXahqFk+gENUO
+9QnedVMASwBPAEwARQAtAEkARAAAAAAAAACCyKgfcAuqSqOPxp6hCINTBwAAAPyF
+YV2oahZPoBDVDvUJ3nVTAEsATwBMAEUAxQBSAAAAAAAAAI6C0Pu+7w9AlF0Cqcbl
+N/4HAAAA/IVhXahqFk+gENUO9QnedUsATABBAFMAUwBFAFQAUgBJAE4AAAAAAAAA
+DYmeV6ByKUujpbRZVY0CrQcAAAD8hWFdqGoWT6AQ1Q71Cd51RgBSAEEAVgDGAFIA
+UwBEAEEAVABPAAAAAAAAAPCsg5xA/mpMkUJN6pnuq4oHAAAA/IVhXahqFk+gENUO
+9QnedUYAUgBBAFYAxgBSAMUAUgBTAEEARwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+DAAAAAUAAAAAAAAAAAAAAAAAAAAAAA==
+"/>
+<od:tableProperty name="DefaultView" type="2" value="2"/>
+<od:tableProperty name="DisplayViewsOnSharePointSite" type="2" value="1"/>
+<od:tableProperty name="TotalsRow" type="1" value="0"/>
+<od:tableProperty name="FilterOnLoad" type="1" value="0"/>
+<od:tableProperty name="OrderByOnLoad" type="1" value="1"/>
+<od:tableProperty name="HideNewField" type="1" value="0"/>
+<od:tableProperty name="BackTint" type="6" value="100"/>
+<od:tableProperty name="BackShade" type="6" value="100"/>
+<od:tableProperty name="ThemeFontIndex" type="4" value="-1"/>
+<od:tableProperty name="AlternateBackThemeColorIndex" type="4" value="-1"/>
+<od:tableProperty name="AlternateBackTint" type="6" value="100"/>
+<od:tableProperty name="AlternateBackShade" type="6" value="100"/>
+<od:tableProperty name="ReadOnlyWhenDisconnected" type="1" value="0"/>
+<od:tableProperty name="DatasheetGridlinesThemeColorIndex" type="4" value="-1"/>
+<od:tableProperty name="DatasheetForeThemeColorIndex" type="4" value="-1"/>
+<od:tableProperty name="PublishToWeb" type="2" value="1"/>
+</xsd:appinfo>
+</xsd:annotation>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name="ID" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int">
+<xsd:annotation>
+<xsd:appinfo>
+<od:fieldProperty name="GUID" type="9" value="PmZ+jFjFp0KD/3l1/jPD2Q==
+"/>
+<od:fieldProperty name="ColumnWidth" type="3" value="-1"/>
+<od:fieldProperty name="ColumnOrder" type="3" value="0"/>
+<od:fieldProperty name="ColumnHidden" type="1" value="0"/>
+<od:fieldProperty name="TextAlign" type="2" value="0"/>
+<od:fieldProperty name="AggregateType" type="4" value="-1"/>
+<od:fieldProperty name="CurrencyLCID" type="4" value="0"/>
+</xsd:appinfo>
+</xsd:annotation>
+</xsd:element>
+<xsd:element name="KØN" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:annotation>
+<xsd:appinfo>
+<od:fieldProperty name="GUID" type="9" value="bePww+He2EqIwTiJ3l0DEA==
+"/>
+<od:fieldProperty name="ColumnWidth" type="3" value="-1"/>
+<od:fieldProperty name="ColumnOrder" type="3" value="0"/>
+<od:fieldProperty name="ColumnHidden" type="1" value="0"/>
+<od:fieldProperty name="TextAlign" type="2" value="0"/>
+<od:fieldProperty name="AggregateType" type="4" value="-1"/>
+<od:fieldProperty name="CurrencyLCID" type="4" value="0"/>
+</xsd:appinfo>
+</xsd:annotation>
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="SKOLE-ID" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int">
+<xsd:annotation>
+<xsd:appinfo>
+<od:fieldProperty name="GUID" type="9" value="8QqkhuyN9kuJy6UXPk8KgA==
+"/>
+<od:fieldProperty name="ColumnWidth" type="3" value="-1"/>
+<od:fieldProperty name="ColumnOrder" type="3" value="0"/>
+<od:fieldProperty name="ColumnHidden" type="1" value="0"/>
+<od:fieldProperty name="TextAlign" type="2" value="0"/>
+<od:fieldProperty name="AggregateType" type="4" value="-1"/>
+<od:fieldProperty name="CurrencyLCID" type="4" value="0"/>
+</xsd:appinfo>
+</xsd:annotation>
+</xsd:element>
+<xsd:element name="SKOLEÅR" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int">
+<xsd:annotation>
+<xsd:appinfo>
+<od:fieldProperty name="GUID" type="9" value="gsioH3ALqkqjj8aeoQiDUw==
+"/>
+<od:fieldProperty name="ColumnWidth" type="3" value="-1"/>
+<od:fieldProperty name="ColumnOrder" type="3" value="0"/>
+<od:fieldProperty name="ColumnHidden" type="1" value="0"/>
+<od:fieldProperty name="TextAlign" type="2" value="0"/>
+<od:fieldProperty name="AggregateType" type="4" value="-1"/>
+<od:fieldProperty name="CurrencyLCID" type="4" value="0"/>
+</xsd:appinfo>
+</xsd:annotation>
+</xsd:element>
+<xsd:element name="KLASSETRIN" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int">
+<xsd:annotation>
+<xsd:appinfo>
+<od:fieldProperty name="GUID" type="9" value="joLQ+77vD0CUXQKpxuU3/g==
+"/>
+<od:fieldProperty name="ColumnWidth" type="3" value="-1"/>
+<od:fieldProperty name="ColumnOrder" type="3" value="0"/>
+<od:fieldProperty name="ColumnHidden" type="1" value="0"/>
+<od:fieldProperty name="TextAlign" type="2" value="0"/>
+<od:fieldProperty name="AggregateType" type="4" value="-1"/>
+<od:fieldProperty name="CurrencyLCID" type="4" value="0"/>
+</xsd:appinfo>
+</xsd:annotation>
+</xsd:element>
+<xsd:element name="FRAVÆRSDATO" minOccurs="0" od:jetType="datetime" od:sqlSType="datetime" type="xsd:dateTime">
+<xsd:annotation>
+<xsd:appinfo>
+<od:fieldProperty name="GUID" type="9" value="DYmeV6ByKUujpbRZVY0CrQ==
+"/>
+<od:fieldProperty name="ColumnWidth" type="3" value="-1"/>
+<od:fieldProperty name="ColumnOrder" type="3" value="0"/>
+<od:fieldProperty name="ColumnHidden" type="1" value="0"/>
+<od:fieldProperty name="TextAlign" type="2" value="0"/>
+<od:fieldProperty name="AggregateType" type="4" value="-1"/>
+<od:fieldProperty name="CurrencyLCID" type="4" value="0"/>
+</xsd:appinfo>
+</xsd:annotation>
+</xsd:element>
+<xsd:element name="FRAVÆRÅRSAG" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:annotation>
+<xsd:appinfo>
+<od:fieldProperty name="GUID" type="9" value="8KyDnED+akyRQk3qme6rig==
+"/>
+<od:fieldProperty name="ColumnWidth" type="3" value="2805"/>
+<od:fieldProperty name="ColumnOrder" type="3" value="0"/>
+<od:fieldProperty name="ColumnHidden" type="1" value="0"/>
+<od:fieldProperty name="TextAlign" type="2" value="0"/>
+<od:fieldProperty name="AggregateType" type="4" value="-1"/>
+<od:fieldProperty name="CurrencyLCID" type="4" value="0"/>
+</xsd:appinfo>
+</xsd:annotation>
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+</xsd:schema>

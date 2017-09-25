@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:od="urn:schemas-microsoft-com:officedata">
+<xsd:element name="dataroot">
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element ref="INSTITUTION" minOccurs="0" maxOccurs="unbounded"/>
+</xsd:sequence>
+<xsd:attribute name="generated" type="xsd:dateTime"/>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name="INSTITUTION">
+<xsd:annotation>
+<xsd:appinfo>
+<od:tableProperty name="GUID" type="9" value="RU47H/PQZkGN7j1n2OACaA==
+"/>
+</xsd:appinfo>
+</xsd:annotation>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name="ID" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int">
+<xsd:annotation>
+<xsd:appinfo>
+<od:fieldProperty name="GUID" type="9" value="P16Kd5PHXkS6FqEDmUYJFA==
+"/>
+</xsd:appinfo>
+</xsd:annotation>
+</xsd:element>
+<xsd:element name="KØN" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:annotation>
+<xsd:appinfo>
+<od:fieldProperty name="GUID" type="9" value="cyUja4/F7UW9ny71ibC5KQ==
+"/>
+</xsd:appinfo>
+</xsd:annotation>
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="INDMELDT_DATO" minOccurs="0" od:jetType="datetime" od:sqlSType="datetime" type="xsd:dateTime">
+<xsd:annotation>
+<xsd:appinfo>
+<od:fieldProperty name="GUID" type="9" value="4BXYKF8a8kSg0BXGqR5eKw==
+"/>
+</xsd:appinfo>
+</xsd:annotation>
+</xsd:element>
+<xsd:element name="UDMELDT_DATO" minOccurs="0" od:jetType="datetime" od:sqlSType="datetime" type="xsd:dateTime">
+<xsd:annotation>
+<xsd:appinfo>
+<od:fieldProperty name="GUID" type="9" value="hnQvV35p60mv4O/kXRDgZQ==
+"/>
+</xsd:appinfo>
+</xsd:annotation>
+</xsd:element>
+<xsd:element name="PASNINGSTYPE" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:annotation>
+<xsd:appinfo>
+<od:fieldProperty name="GUID" type="9" value="eWY5KKcXPU+RrLcIHtSMyg==
+"/>
+</xsd:appinfo>
+</xsd:annotation>
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="ANTAL_MIN_UGENTTLIGT" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int">
+<xsd:annotation>
+<xsd:appinfo>
+<od:fieldProperty name="GUID" type="9" value="9KULEaJitE2ACH9/9MWtjg==
+"/>
+</xsd:appinfo>
+</xsd:annotation>
+</xsd:element>
+<xsd:element name="INSTITUTIONSID" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int">
+<xsd:annotation>
+<xsd:appinfo>
+<od:fieldProperty name="GUID" type="9" value="SO2gnD1EyEWJyEtQM/uurw==
+"/>
+</xsd:appinfo>
+</xsd:annotation>
+</xsd:element>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+</xsd:schema>

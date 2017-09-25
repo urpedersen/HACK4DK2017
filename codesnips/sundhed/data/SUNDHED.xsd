@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:od="urn:schemas-microsoft-com:officedata">
+<xsd:element name="dataroot">
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element ref="SUNDHED" minOccurs="0" maxOccurs="unbounded"/>
+</xsd:sequence>
+<xsd:attribute name="generated" type="xsd:dateTime"/>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name="SUNDHED">
+<xsd:annotation>
+<xsd:appinfo>
+<od:tableProperty name="GUID" type="9" value="OCuoMAnQZkGGE5Iy+cFLOg==
+"/>
+</xsd:appinfo>
+</xsd:annotation>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name="ID" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int">
+<xsd:annotation>
+<xsd:appinfo>
+<od:fieldProperty name="GUID" type="9" value="oloUxJlVIk22LMp821Zygw==
+"/>
+</xsd:appinfo>
+</xsd:annotation>
+</xsd:element>
+<xsd:element name="KØN" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:annotation>
+<xsd:appinfo>
+<od:fieldProperty name="GUID" type="9" value="n/f9zvZWm0qz3oCfKvjLDA==
+"/>
+</xsd:appinfo>
+</xsd:annotation>
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="MÅLEDATO" minOccurs="0" od:jetType="datetime" od:sqlSType="datetime" type="xsd:dateTime">
+<xsd:annotation>
+<xsd:appinfo>
+<od:fieldProperty name="GUID" type="9" value="d/ht+qfz9E+YwWC39ZYTaQ==
+"/>
+</xsd:appinfo>
+</xsd:annotation>
+</xsd:element>
+<xsd:element name="VÆGT" minOccurs="0" od:jetType="single" od:sqlSType="real" type="xsd:float">
+<xsd:annotation>
+<xsd:appinfo>
+<od:fieldProperty name="GUID" type="9" value="k2+ZSXrmeEuZNZfASO9Ysg==
+"/>
+</xsd:appinfo>
+</xsd:annotation>
+</xsd:element>
+<xsd:element name="LÆNGDE" minOccurs="0" od:jetType="single" od:sqlSType="real" type="xsd:float">
+<xsd:annotation>
+<xsd:appinfo>
+<od:fieldProperty name="GUID" type="9" value="1bFTrufJtUur2zrMIGTSLg==
+"/>
+</xsd:appinfo>
+</xsd:annotation>
+</xsd:element>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+</xsd:schema>
