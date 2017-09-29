@@ -14,7 +14,7 @@ where dc.deathcause like "%abort%"
 ```
 
 ### Infectioner
-```
+```SQL
 SELECT ageYears,dateOfBirth,sex,hood,street,street_number,deathcause,latitude,longitude FROM hack4dk.hack4dk_burial_persons_deathcauses as d 
 left join hack4dk_burial_person as p ON p.id = d.persons_id
 left join hack4dk_burial_address as a on a.persons_id = p.id
