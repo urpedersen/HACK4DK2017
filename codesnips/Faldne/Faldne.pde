@@ -1,6 +1,8 @@
 XML xml;
 //Table dateTable;
 
+ArrayList<Death> Deaths = new ArrayList<Death>(); 
+
 int curDay = 1;
 int curMonth = 1;
 int curYear = 0;
@@ -29,8 +31,17 @@ void setup() {
   xml = loadXML("Faldne1914-1918.xml");
   XML[] allData = xml.getChildren("Faldne1914-1918");
   
+  print(allData.length);
+  
   for (int i = 0; i < allData.length; i++){
-      XML[] dateData = allData[i].getChildren("Dødsdato");  
+      XML[] dateData = allData[i].getChildren("Dødsdato"); 
+      XML[] firstNameData = allData[i].getChildren("Afdøde_Fornavn");
+      XML[] lastNameData = allData[i].getChildren("Afdøde_Efternavn"); 
+      String firstName = firstNameData[0].getContent(); 
+      String lastName = lastNameData[0].getContent();
+      //print(firstName);
+      //print(' ');
+      //println(lastName);
       String date = dateData[0].getContent();
       //println(date);
       int day;
@@ -88,6 +99,8 @@ void setup() {
 
 void draw() {
   
+  
+  
   curDay++;
   if (curDay > 31){
     curMonth++;
@@ -101,16 +114,22 @@ void draw() {
     
     println(DateCount[curYear][curMonth][curDay]);
     for (int i = 0; i < DateCount[curYear][curMonth][curDay];i++){
-      Deaths.add(new Death(int random(0,width),int random(0,height)));
+      Deaths.add(new Death(random(0,width),random(0,height)));
       //point(random(0,width),random(0,height));
     }
+    
+    for (int j = 0; j < Deaths.size() ;j++){
+      Death dea = Deaths.get(j); 
+      dea.draw();
+    } 
   
 }
 
 class Death{
-    int x,y,time;
+    float x,y;
+    int time;
     
-    Death(int newx,int newy){
+    Death(float newx,float newy){
         x = newx;
         y = newy;
         time = 0;
@@ -118,6 +137,7 @@ class Death{
     
     void draw(){
          stroke(255-time,0,0);
+         fill(255-time,0,0);
          ellipse(x,y,10,10);
          time++;
     }

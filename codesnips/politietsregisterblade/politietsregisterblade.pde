@@ -2,9 +2,9 @@ JSONArray values;
 
 void setup() {
   println("Begin");
-  
+
   // values = loadJSONArray("http://www.politietsregisterblade.dk/api/1/?type=person&firstname=Heine&lastname=Larsen");
-  // values = loadJSONArray("http://www.politietsregisterblade.dk/api/1/?type=person&firstnames=Ulf");
+   values = loadJSONArray("http://www.politietsregisterblade.dk/api/1/?type=person&firstnames=Ulf");
   // values = loadJSONArray("http://www.politietsregisterblade.dk/api/1/?type=person&firstnames=Joan");
   // values = loadJSONArray("http://www.politietsregisterblade.dk/api/1/?type=person&lastname=Pedersen");
   // values = loadJSONArray("http://www.politietsregisterblade.dk/api/1/?type=person&lastname=Rosendal");
@@ -12,12 +12,12 @@ void setup() {
   // values = loadJSONArray("http://www.politietsregisterblade.dk/api/1/?type=person&lastname=Rørbæk");
   // values = loadJSONArray("http://www.politietsregisterblade.dk/api/1/?type=person&birthplace=Norge");
   // values = loadJSONArray("http://www.politietsregisterblade.dk/api/1/?type=person&birthplace=Island");
-  values = loadJSONArray("http://www.politietsregisterblade.dk/api/1/?type=person&birthplace=Hammel");
+  //values = loadJSONArray("http://www.politietsregisterblade.dk/api/1/?type=person&birthplace=Hammel");
 
   println("loaded");
 
   for (int i = 0; i < values.size(); i++) {
-    
+
     JSONObject job = values.getJSONObject(i); 
     String birthplace = job.getString("birthplace");
     String dateofbirth = job.getString("dateofbirth");
@@ -31,9 +31,7 @@ void setup() {
 
     //println(i + " " + firstnames +  " " + lastname + " : birthplace = " + birthplace + " , dateofbirth = " + dateofbirth + " dateofdeath = " + dateofdeath);
     println(registerblad + " " + firstnames +  " " + lastname + " : birthplace = " + birthplace + " , dateofbirth = " + dateofbirth);
-
   }
-  
-  println("End");
 
+  println("End");
 }
