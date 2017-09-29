@@ -1,0 +1,11 @@
+
+
+avconv -i mozart.flac  mozart.mp3
+avconv -i mozart.mp3  -acodec libvorbis mozart.ogg
+
+
+for i in $(seq 1 8);do
+	avconv -i fart${i}.mp3  -acodec libvorbis fart${i}.ogg
+done
+
+

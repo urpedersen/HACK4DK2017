@@ -1,0 +1,86 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+ <meta charset="utf-8">
+ <title>Memory game</title>
+ <link rel="stylesheet" type="text/css" href="./css/styles.css">
+ <script type="text/javascript" src="./js/memory_game.js"></script>
+</head>
+
+<!-- initialize(rows,columns) a memory game where cows and columns determines the soze of teh game-->
+<body onload="javascript:initialize(4,4)">
+
+	<h1> Moon Memory </h1>
+
+<!-- <p>Time: <input id=timer type="text" name="timer">0</input></p>  -->
+
+<!-- Canvas element for memory game -->
+<canvas id="memory_game" width="500" height="500"></canvas>
+
+<!-- Images links to images. The pairs are 0 & 1, 2 & 3, 4 & 5 and so on -->
+<img id="img_backside" src="./img/moon.png" width=0 height=0 style="display:none"></img>
+<img id="img0" src="./img/img1.jpg" width=0 height=0 style="display:none"></img>
+<img id="img1" src="./img/img1.jpg" width=0 height=0 style="display:none"></img>
+<img id="img2" src="./img/img2.jpg" width=0 height=0 style="display:none"></img>
+<img id="img3" src="./img/img2.jpg" width=0 height=0 style="display:none"></img>
+<img id="img4" src="./img/img3.jpg" width=0 height=0 style="display:none"></img>
+<img id="img5" src="./img/img3.jpg" width=0 height=0 style="display:none"></img>
+<img id="img6" src="./img/img4.jpg" width=0 height=0 style="display:none"></img>
+<img id="img7" src="./img/img4.jpg" width=0 height=0 style="display:none"></img>
+<img id="img8" src="./img/img5.jpg" width=0 height=0 style="display:none"></img>
+<img id="img9" src="./img/img5.jpg" width=0 height=0 style="display:none"></img>
+<img id="img10" src="./img/img6.jpg" width=0 height=0 style="display:none"></img>
+<img id="img11" src="./img/img6.jpg" width=0 height=0 style="display:none"></img>
+<img id="img12" src="./img/img7.jpg" width=0 height=0 style="display:none"></img>
+<img id="img13" src="./img/img7.jpg" width=0 height=0 style="display:none"></img>
+<img id="img14" src="./img/img8.jpg" width=0 height=0 style="display:none"></img>
+<img id="img15" src="./img/img8.jpg" width=0 height=0 style="display:none"></img>
+
+<!-- Sounds played when turning cards  -->
+<audio id="aud0" autoplay="false" style="display:none"> 
+  <source src="./audio/fart0.ogg" type="audio/ogg" /> 
+  <source src="./audio/fart0.mp3" type="audio/mpeg" />  
+</audio>
+<audio id="aud1" autoplay="false" style="display:none"> 
+  <source src="./audio/fart1.ogg" type="audio/ogg" /> 
+  <source src="./audio/fart1.mp3" type="audio/mpeg" />  
+</audio>
+<audio id="aud2" autoplay="false" style="display:none"> 
+  <source src="./audio/fart2.ogg" type="audio/ogg" /> 
+  <source src="./audio/fart2.mp3" type="audio/mpeg" />  
+</audio>
+<audio id="aud3" autoplay="false" style="display:none"> 
+  <source src="./audio/fart3.ogg" type="audio/ogg" /> 
+  <source src="./audio/fart3.mp3" type="audio/mpeg" />  
+</audio>
+<audio id="aud4" autoplay="false" style="display:none"> 
+  <source src="./audio/fart4.ogg" type="audio/ogg" /> 
+  <source src="./audio/fart4.mp3" type="audio/mpeg" />  
+</audio>
+<audio id="aud5" autoplay="false" style="display:none"> 
+  <source src="./audio/fart5.ogg" type="audio/ogg" /> 
+  <source src="./audio/fart5.mp3" type="audio/mpeg" />  
+</audio>
+
+
+<!-- Playing background music  -->
+<p>
+	<audio controls autoplay>
+  		<source src="./audio/mozart.ogg" type="audio/ogg" />
+  		<source src="./audio/mozart.mp3" type="audio/mpeg" />
+  		Your browser does not support the audio element.
+	</audio>
+</p>
+
+<!-- Links -->
+<p>Link to images at SMK: <a href="http://collection.smk.dk/#/detail/KKS2008-7%2F7">http://collection.smk.dk/#/detail/KKS2008-7%2F7</a></p>
+<p><a href="https://dk.wikimedia.org/wiki/Fil:Full_Moon_Luc_Viatour.jpg">Full moon imaghttps://freesound.org/people/CrazyStyles/sounds/245891/e</a></p>
+<p>Music: <a href="https://commons.wikimedia.org/wiki/File:PDP-CH_-_Budapest_String_Quartet_-_String_Quartet_No._17_(Mozart)_-_2nd_Movement_-_Menuetto_moderato_-_Hmv-d1388-08246.flac">Budapest String Quartet - String Quartet No. 17 (Mozart) - 2nd Movement - Menuetto moderato</a></p>
+<p>Sounds: <a href="https://freesound.org/people/CrazyStyles/sounds/245891/">https://freesound.org/people/CrazyStyles/sounds/245891/</a>
+<p>Download HTML/Javascript code here: <a href="./memory_game.tgz">memory_game.tgz</a>.</p>
+<p><a href="./old/">Older versions</a></p>
+</body>
+</html>
+
+

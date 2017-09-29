@@ -1,0 +1,15 @@
+
+Memory game by Ulf R. Pedersen
+
+Images:
+http://collection.smk.dk/#/detail/KKS2008-7%2F7
+wget http://cspic.smk.dk/globus/GLOBUS%202009/kks2008-7-1.JPG
+wget http://cspic.smk.dk/globus/GLOBUS%202009/kks2008-7-2.JPG
+wget http://cspic.smk.dk/globus/GLOBUS%202009/kks2008-7-3.JPG
+
+
+Notes: 
+tar -zcvf memory_game.tgz *
+
+
+
