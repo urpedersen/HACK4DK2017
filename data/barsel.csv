@@ -1,0 +1,300 @@
+id,ageYears,dateOfDeath,sex,hood,street,street_number,deathcause,latitude,longitude,position,relationtype
+30413,28,1863-10-15,Kvinde,NULL,NULL,NULL,Barselbetændelse,NULL,NULL,NULL,NULL
+34307,33,1880-05-23,Kvinde,"Indre By",Hindegade,5,"Barselkrampe ",55.685931900000,12.588164500000,NULL,"Ægtefælles erhverv"
+26849,37,1877-09-05,Kvinde,"Amager Vest",Sundbyvester,NULL,Barselseng,NULL,NULL,NULL,"Ægtefælles erhverv"
+34269,21,1881-03-09,Kvinde,Østerbro,Rosendalsvej,16,Barselseng,NULL,NULL,NULL,"Ægtefælles erhverv"
+34544,34,1877-07-15,Kvinde,Vesterbro,Absalonsgade,43,Barselseng,55.668573500000,12.556116500000,NULL,"Eget erhverv"
+35369,32,1880-07-01,Kvinde,Nørrebro,Fredensgade,16,Barselseng,NULL,NULL,NULL,"Ægtefælles erhverv"
+36804,33,1864-06-26,Kvinde,"Indre By",Dybensgade,5,Barselseng,55.678185100000,12.583838400000,NULL,"Ægtefælles erhverv"
+37699,26,1864-11-23,Kvinde,Nørrebro,Slotsgade,10,Barselseng,55.688276600000,12.557277600000,NULL,NULL
+45715,31,1877-11-26,Kvinde,"Indre By","Store Fiolstræde",17,Barselseng,NULL,NULL,NULL,"Ægtefælles erhverv"
+66691,38,1882-09-20,Kvinde,"Indre By",Sølvgade,94,Barselseng,55.690190200000,12.572999600000,NULL,"Ægtefælles erhverv"
+76298,32,1870-01-28,Kvinde,"Indre By",Åbenrå,24,Barselseng,NULL,NULL,NULL,"Ægtefælles erhverv"
+77488,42,1870-04-03,Kvinde,"Indre By",Boldhusgade,2,Barselseng,55.677552100000,12.582083500000,NULL,"Ægtefælles erhverv"
+80999,22,1870-08-13,Kvinde,"Indre By",Kronprinsensgade,10,Barselseng,55.680680300000,12.579495000000,NULL,"Ægtefælles erhverv"
+86555,33,1862-04-02,Kvinde,"Indre By",Adelgade,18,Barselseng,NULL,NULL,NULL,"Ægtefælles erhverv"
+815,40,1863-01-11,Kvinde,Nørrebro,"Sankt Hans Gade",7,"Barselsfeber (Barselfeber)",55.689428000000,12.563889500000,Forretning,"Ægtefælles erhverv"
+1611,27,1862-12-29,Kvinde,"Indre By","Store Fiolstræde",34,"Barselsfeber (Barselfeber)",NULL,NULL,Pianofortestemmer,"Ægtefælles erhverv"
+2219,33,1862-12-30,Kvinde,"Indre By",Krystalgade,28,"Barselsfeber (Barselfeber)",NULL,NULL,Værtshusholder,"Ægtefælles erhverv"
+2305,48,1877-01-09,Kvinde,Frederiksberg,Tårnborgvej,8,"Barselsfeber (Barselfeber)",55.675933900000,12.546484500000,NULL,"Ægtefælles erhverv"
+2445,36,1884-06-28,Kvinde,Nørrebro,Skyttegade,8,"Barselsfeber (Barselfeber)",55.687296800000,12.549144400000,NULL,"Ægtefælles erhverv"
+2782,28,1877-01-14,Kvinde,Østerbro,Strandvejen,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,Billetkasserer,"Ægtefælles erhverv"
+3079,30,1863-01-04,Kvinde,"Indre By",Lorentzensgade,8,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+3099,22,1863-01-04,Kvinde,"Indre By",Amaliegade,23,"Barselsfeber (Barselfeber)",55.685265200000,12.594007700000,NULL,NULL
+3442,30,1863-01-01,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,Rejseeffektarbejder,"Ægtefælles erhverv"
+3769,30,1863-01-01,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+4726,30,1884-07-18,Kvinde,Østerbro,Batterivej,27,"Barselsfeber (Barselfeber)",NULL,NULL,Typografsvend,"Ægtefælles erhverv"
+4812,43,1879-01-02,Kvinde,Nørrebro,Ryesgade,49,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+5180,19,1863-01-13,Kvinde,"Indre By",Kokkegade,8,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+7840,24,1879-01-09,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+8060,42,1899-07-08,Kvinde,Østerbro,Århusgade,76,"Barselsfeber (Barselfeber)",55.706213400000,12.583987000000,NULL,"Ægtefælles erhverv"
+8060,42,1899-07-08,Kvinde,Østerbro,Århusgade,76,"Barselsfeber (Barselfeber)",55.706128400000,12.584012200000,NULL,"Ægtefælles erhverv"
+12483,26,1884-12-16,Kvinde,Nørrebro,Ravnsborggade,18,"Barselsfeber (Barselfeber)",55.689171800000,12.562860900000,NULL,"Ægtefælles erhverv"
+12483,26,1884-12-16,Kvinde,Nørrebro,Ravnsborggade,18,"Barselsfeber (Barselfeber)",55.689200300000,12.563007700000,NULL,"Ægtefælles erhverv"
+12483,26,1884-12-16,Kvinde,Nørrebro,Ravnsborggade,18,"Barselsfeber (Barselfeber)",55.689094100000,12.562890600000,NULL,"Ægtefælles erhverv"
+12483,26,1884-12-16,Kvinde,Nørrebro,Ravnsborggade,18,"Barselsfeber (Barselfeber)",55.689029500000,12.563040100000,NULL,"Ægtefælles erhverv"
+12483,26,1884-12-16,Kvinde,Nørrebro,Ravnsborggade,18,"Barselsfeber (Barselfeber)",55.689128400000,12.563163400000,NULL,"Ægtefælles erhverv"
+7698,36,1863-01-14,Kvinde,"Indre By","Sankt Peders Stræde",32,"Barselsfeber (Barselfeber)",55.678846000000,12.567324700000,NULL,"Ægtefælles erhverv"
+7698,36,1863-01-14,Kvinde,"Indre By","Sankt Peders Stræde",32,"Barselsfeber (Barselfeber)",55.678955700000,12.567279000000,NULL,"Ægtefælles erhverv"
+13154,43,1884-11-15,Kvinde,NULL,*Uangivet/ukendt,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+13600,41,1863-01-21,Kvinde,"Indre By","Store Kannikestræde",NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+15999,22,1884-12-24,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+15653,28,1863-11-15,Kvinde,"Indre By","Dronningens Tværgade",6,"Barselsfeber (Barselfeber)",55.683435600000,12.588198900000,NULL,"Ægtefælles erhverv"
+15653,28,1863-11-15,Kvinde,"Indre By","Dronningens Tværgade",6,"Barselsfeber (Barselfeber)",55.683662300000,12.588307800000,NULL,"Ægtefælles erhverv"
+15653,28,1863-11-15,Kvinde,"Indre By","Dronningens Tværgade",6,"Barselsfeber (Barselfeber)",55.683693300000,12.588382600000,NULL,"Ægtefælles erhverv"
+15653,28,1863-11-15,Kvinde,"Indre By","Dronningens Tværgade",6,"Barselsfeber (Barselfeber)",55.683813100000,12.588371700000,NULL,"Ægtefælles erhverv"
+16616,27,1884-11-27,Kvinde,Nørrebro,Ryesgade,70,"Barselsfeber (Barselfeber)",55.694827500000,12.571371700000,NULL,NULL
+16616,27,1884-11-27,Kvinde,Nørrebro,Ryesgade,70,"Barselsfeber (Barselfeber)",55.694740300000,12.571393400000,NULL,NULL
+16616,27,1884-11-27,Kvinde,Nørrebro,Ryesgade,70,"Barselsfeber (Barselfeber)",55.694687300000,12.571490900000,NULL,NULL
+16616,27,1884-11-27,Kvinde,Nørrebro,Ryesgade,70,"Barselsfeber (Barselfeber)",55.694642600000,12.571565300000,NULL,NULL
+16821,24,1879-08-29,Kvinde,Vesterbro,Absalonsgade,44,"Barselsfeber (Barselfeber)",55.668758500000,12.555677000000,NULL,"Eget erhverv"
+17129,NULL,1879-08-29,Kvinde,Vesterbro,Absalonsgade,44,"Barselsfeber (Barselfeber)",55.668758500000,12.555677000000,NULL,"Eget erhverv"
+17379,22,1863-10-30,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+17859,24,1863-02-05,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+17897,37,1863-09-26,Kvinde,"Indre By","Mikkel Bryggers Gade",12,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+17975,23,1863-08-10,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+18289,26,1863-09-05,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+18681,25,1863-03-23,Kvinde,"Indre By",Stormgade,31,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+18687,25,1863-11-14,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+19052,37,1863-02-12,Kvinde,"Indre By",Adelgade,101,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+19457,44,1863-06-04,Kvinde,"Indre By",Springgade,20,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+20043,42,1863-01-27,Kvinde,"Indre By",Elefantgade,6,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+20091,26,1863-04-05,Kvinde,Christianshavn,Amagergade,25,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+20128,26,1863-11-28,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+20189,35,1863-06-30,Kvinde,"Indre By",Rosengården,5,"Barselsfeber (Barselfeber)",55.682164600000,12.573107400000,NULL,"Ægtefælles erhverv"
+20237,39,1863-04-30,Kvinde,"Indre By","Dronningens Tværgade",47,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+20440,36,1863-01-31,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+21303,38,1863-05-13,Kvinde,"Indre By",Pilestræde,4,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+21651,22,1863-10-12,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Eget erhverv"
+22014,37,1863-04-25,Kvinde,"Indre By",Borgergade,55,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+22635,25,1863-03-12,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Eget erhverv"
+22802,36,1863-08-20,Kvinde,"Indre By",Adelgade,87,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+22911,23,1863-12-12,Kvinde,Christianshavn,"Christianshavns Torv",9,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+23537,18,1863-09-23,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+24936,36,1863-02-11,Kvinde,"Indre By",Adelgade,13,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+25007,25,1863-04-16,Kvinde,"Indre By",Timiansgade,9,"Barselsfeber (Barselfeber)",55.688921500000,12.585493500000,NULL,"Ægtefælles erhverv"
+25090,36,1863-12-15,Kvinde,"Indre By","Højbro Plads",12,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+25145,34,1863-02-13,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Eget erhverv"
+25487,30,1863-03-13,Kvinde,"Indre By","Lille Kannikestræde",9,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+25661,38,1863-09-03,Kvinde,"Indre By","Bag Børsen",14,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+26301,40,1870-03-05,Kvinde,"Indre By",Skindergade,8,"Barselsfeber (Barselfeber)",55.680767300000,12.575854200000,NULL,"Ægtefælles erhverv"
+26347,37,1870-03-02,Kvinde,Østerbro,Batterivej,13,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+26409,28,1863-11-29,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+26617,42,1880-05-25,Kvinde,"Indre By",Grønnegade,10,"Barselsfeber (Barselfeber)",55.680787900000,12.582423800000,NULL,"Ægtefælles erhverv"
+26796,22,1877-04-05,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+26826,26,1863-03-03,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Eget erhverv"
+26866,39,1863-04-16,Kvinde,"Indre By",Borgergade,142,"Barselsfeber (Barselfeber)",55.687451700000,12.588597300000,NULL,"Ægtefælles erhverv"
+27186,22,1863-04-18,Kvinde,"Indre By","Ny Adelgade",70,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+27700,26,1880-03-27,Kvinde,"Indre By","Dronningens Tværgade",51,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles forhenværende"
+28035,30,1863-03-04,Kvinde,"Indre By",Rosengade,6,"Barselsfeber (Barselfeber)",55.687270700000,12.583905500000,NULL,"Eget erhverv"
+28042,40,1863-03-08,Kvinde,"Indre By",Landemærket,19,"Barselsfeber (Barselfeber)",55.682351800000,12.576725400000,NULL,"Ægtefælles erhverv"
+28767,36,NULL,Kvinde,Vesterbro,"Lille Istedgade",3,"Barselsfeber (Barselfeber)",55.670899200000,12.559995900000,NULL,"Ægtefælles erhverv"
+28844,41,1863-11-07,Kvinde,"Indre By",Rosengade,6,"Barselsfeber (Barselfeber)",55.687270700000,12.583905500000,NULL,"Ægtefælles erhverv"
+28911,31,1863-02-13,Kvinde,"Indre By",Teglgårdstræde,11,"Barselsfeber (Barselfeber)",55.679590300000,12.568095500000,NULL,"Ægtefælles erhverv"
+29112,31,1880-02-15,Kvinde,Vesterbro,Saxogade,17,"Barselsfeber (Barselfeber)",55.671538700000,12.550839300000,NULL,"Ægtefælles erhverv"
+29245,29,1880-02-21,Kvinde,"Indre By",Klerkegade,31,"Barselsfeber (Barselfeber)",55.686983800000,12.582852300000,NULL,"Ægtefælles erhverv"
+29263,33,1880-03-24,Kvinde,"Indre By",Springgade,20,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+30030,27,1863-11-13,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+30193,31,1889-11-15,Kvinde,Frederiksberg,Sindshvilevej,19,"Barselsfeber (Barselfeber)",55.685343200000,12.534859000000,NULL,"Ægtefælles erhverv"
+30193,31,1889-11-15,Kvinde,Frederiksberg,Sindshvilevej,19,"Barselsfeber (Barselfeber)",55.685385400000,12.534692100000,NULL,"Ægtefælles erhverv"
+30379,20,1863-05-29,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+31026,21,1863-04-01,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+31031,36,1863-03-30,Kvinde,"Indre By",Rosengade,7,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+31638,41,1863-08-14,Kvinde,"Indre By",Amaliegade,25,"Barselsfeber (Barselfeber)",55.685487900000,12.594190900000,NULL,"Ægtefælles erhverv"
+31638,41,1863-08-14,Kvinde,"Indre By",Amaliegade,25,"Barselsfeber (Barselfeber)",55.685864400000,12.593424600000,NULL,"Ægtefælles erhverv"
+31981,25,1879-06-18,Kvinde,"Indre By",Amaliegade,23,"Barselsfeber (Barselfeber)",55.685265200000,12.594007700000,NULL,NULL
+32210,39,1863-02-10,Kvinde,"Indre By","Peder Hvitfeldts Stræde",14,"Barselsfeber (Barselfeber)",55.681902200000,12.573905400000,NULL,"Ægtefælles erhverv"
+32505,23,1863-03-22,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Eget erhverv"
+32538,41,1863-04-23,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+32807,26,1863-09-15,Kvinde,"Indre By",Vesterbro,78,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Eget erhverv"
+33149,27,1880-03-04,Kvinde,"Indre By",Vesterbrogade,48,"Barselsfeber (Barselfeber)",55.672527800000,12.554956100000,NULL,"Ægtefælles erhverv"
+34668,24,1863-06-08,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+35165,27,1863-11-02,Kvinde,"Indre By",Amaliegade,25,"Barselsfeber (Barselfeber)",55.685487900000,12.594190900000,NULL,NULL
+35165,27,1863-11-02,Kvinde,"Indre By",Amaliegade,25,"Barselsfeber (Barselfeber)",55.685864400000,12.593424600000,NULL,NULL
+35188,36,1863-04-12,Kvinde,"Indre By",Grønnegade,8,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+35757,31,1863-02-18,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+35841,38,1879-03-02,Kvinde,Nørrebro,Fælledvej,15,"Barselsfeber (Barselfeber)",55.689475600000,12.560053100000,NULL,"Ægtefælles erhverv"
+35941,30,1863-11-24,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+36008,27,1863-01-30,Kvinde,"Indre By",Vestergade,29,"Barselsfeber (Barselfeber)",55.677165800000,12.569488000000,NULL,"Eget erhverv"
+36008,27,1863-01-30,Kvinde,"Indre By",Vestergade,29,"Barselsfeber (Barselfeber)",55.676972500000,12.569682700000,NULL,"Eget erhverv"
+36010,37,1863-02-01,Kvinde,"Indre By",Borgergade,88,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+36083,26,1863-07-07,Kvinde,"Indre By","Dronningens Tværgade",24,"Barselsfeber (Barselfeber)",55.683919400000,12.586444100000,NULL,"Eget erhverv"
+36177,28,1863-05-13,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Eget erhverv"
+36193,25,1863-10-05,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+36204,28,1863-03-05,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+36288,24,1863-12-05,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+36658,29,1880-09-12,Kvinde,"Indre By","J.A. Schwartz Gade",26,"Barselsfeber (Barselfeber)",55.693417000000,12.576390800000,NULL,"Ægtefælles erhverv"
+36747,33,1864-02-24,Kvinde,"Indre By",Amaliegade,25,"Barselsfeber (Barselfeber)",55.685487900000,12.594190900000,NULL,NULL
+36747,33,1864-02-24,Kvinde,"Indre By",Amaliegade,25,"Barselsfeber (Barselfeber)",55.685864400000,12.593424600000,NULL,NULL
+36866,29,1864-10-15,Kvinde,"Indre By",Vandkunsten,7,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+36888,24,1864-06-18,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+36925,28,1864-05-26,Kvinde,"Indre By",Kronprinsensgade,48,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+36942,26,1864-01-23,Kvinde,"Indre By",Vognmagergade,19,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+37307,28,1864-01-19,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+37501,39,1879-03-28,Kvinde,"Indre By","Lille Regnegade",8,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+37647,24,1864-04-17,Kvinde,"Indre By","Nørre Vold",28,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+37796,20,1880-07-19,Kvinde,"Indre By",Salviegade,47,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+37861,29,1877-02-14,Kvinde,"Indre By",Asylgade,7,"Barselsfeber (Barselfeber)",55.678311500000,12.584271300000,NULL,"Ægtefælles erhverv"
+38411,40,1864-04-17,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+38611,28,1864-12-19,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+38622,38,1864-03-18,Kvinde,"Indre By",Nybrogade,6,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+39737,32,1879-04-24,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Eget erhverv"
+40401,24,1864-05-05,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+40639,43,1864-06-15,Kvinde,"Indre By",Åbenrå,13,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+40880,20,1864-06-16,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+40901,37,1864-11-13,Kvinde,Nørrebro,Stengade,19,"Barselsfeber (Barselfeber)",55.687334600000,12.556529400000,NULL,"Ægtefælles erhverv"
+41122,33,1879-12-05,Kvinde,"Indre By","Nørre Søgade",37,"Barselsfeber (Barselfeber)",55.682552100000,12.562237800000,NULL,"Ægtefælles erhverv"
+41122,33,1879-12-05,Kvinde,"Indre By","Nørre Søgade",37,"Barselsfeber (Barselfeber)",55.682406800000,12.562107000000,NULL,"Ægtefælles erhverv"
+41122,33,1879-12-05,Kvinde,"Indre By","Nørre Søgade",37,"Barselsfeber (Barselfeber)",55.682346900000,12.561964000000,NULL,"Ægtefælles erhverv"
+41122,33,1879-12-05,Kvinde,"Indre By","Nørre Søgade",37,"Barselsfeber (Barselfeber)",55.682571800000,12.562109900000,NULL,"Ægtefælles erhverv"
+41140,28,1864-05-25,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+41231,34,1864-03-09,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+41720,21,1881-05-19,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+42005,25,1881-05-06,Kvinde,"Indre By","Store Helliggeiststræde",20,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+43797,39,1877-06-05,Kvinde,Christianshavn,"Wilders Plads",32,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+43849,27,1864-01-29,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+45747,38,1864-11-05,Kvinde,Nørrebro,Korsgade,18,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+45923,39,1864-04-27,Kvinde,Christianshavn,"Overgaden Oven Vandet",32,"Barselsfeber (Barselfeber)",55.671594900000,12.589939700000,NULL,"Ægtefælles erhverv"
+45923,39,1864-04-27,Kvinde,Christianshavn,"Overgaden Oven Vandet",32,"Barselsfeber (Barselfeber)",55.671679000000,12.590074500000,NULL,"Ægtefælles erhverv"
+45923,39,1864-04-27,Kvinde,Christianshavn,"Overgaden Oven Vandet",32,"Barselsfeber (Barselfeber)",55.671737300000,12.590184200000,NULL,"Ægtefælles erhverv"
+45933,24,1864-05-18,Kvinde,"Indre By",Amaliegade,25,"Barselsfeber (Barselfeber)",55.685487900000,12.594190900000,NULL,NULL
+45933,24,1864-05-18,Kvinde,"Indre By",Amaliegade,25,"Barselsfeber (Barselfeber)",55.685864400000,12.593424600000,NULL,NULL
+47269,29,1864-11-16,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+47434,26,1864-08-17,Kvinde,"Indre By",Gothersgade,45,"Barselsfeber (Barselfeber)",55.682420300000,12.581265100000,NULL,"Ægtefælles erhverv"
+47464,35,1864-03-15,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+47565,25,1864-04-10,Kvinde,"Indre By","Store Kongensgade",99,"Barselsfeber (Barselfeber)",55.687028700000,12.589834600000,NULL,"Eget erhverv"
+47873,34,1864-06-07,Kvinde,"Indre By","Dronningens Tværgade",15,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+47891,34,1864-06-14,Kvinde,"Indre By",Hummergade,18,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+49447,20,1864-07-12,Kvinde,"Indre By",Adelgade,93,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+49579,27,1864-06-12,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+49926,35,1864-06-05,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+49927,23,1864-06-05,Kvinde,"Indre By",Antoniestræde,10,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+50026,19,1864-05-09,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+50220,24,1864-09-24,Kvinde,"Indre By",Toldbodgade,14,"Barselsfeber (Barselfeber)",55.680566800000,12.592242200000,NULL,"Ægtefælles erhverv"
+50220,24,1864-09-24,Kvinde,"Indre By",Toldbodgade,14,"Barselsfeber (Barselfeber)",55.680462700000,12.592425400000,NULL,"Ægtefælles erhverv"
+50220,24,1864-09-24,Kvinde,"Indre By",Toldbodgade,14,"Barselsfeber (Barselfeber)",55.680430600000,12.592608700000,NULL,"Ægtefælles erhverv"
+50366,38,1864-03-18,Kvinde,Christianshavn,Amagergade,4,"Barselsfeber (Barselfeber)",55.670641100000,12.592791600000,NULL,"Ægtefælles erhverv"
+50366,38,1864-03-18,Kvinde,Christianshavn,Amagergade,4,"Barselsfeber (Barselfeber)",55.670671100000,12.592848500000,NULL,"Ægtefælles erhverv"
+50366,38,1864-03-18,Kvinde,Christianshavn,Amagergade,4,"Barselsfeber (Barselfeber)",55.670618400000,12.592958400000,NULL,"Ægtefælles erhverv"
+50366,38,1864-03-18,Kvinde,Christianshavn,Amagergade,4,"Barselsfeber (Barselfeber)",55.670562900000,12.592871300000,NULL,"Ægtefælles erhverv"
+50366,38,1864-03-18,Kvinde,Christianshavn,Amagergade,4,"Barselsfeber (Barselfeber)",55.670522000000,12.592795500000,NULL,"Ægtefælles erhverv"
+50366,38,1864-03-18,Kvinde,Christianshavn,Amagergade,4,"Barselsfeber (Barselfeber)",55.670601100000,12.592797600000,NULL,"Ægtefælles erhverv"
+50454,38,1864-06-10,Kvinde,"Indre By",Møntergade,26,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+51308,24,1864-02-19,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+51337,23,1864-02-26,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+51417,26,1864-02-08,Kvinde,"Indre By",Borgergade,43,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+51775,24,1864-07-03,Kvinde,"Amager Vest",Sundbyvester,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+52167,22,1881-09-20,Kvinde,"Indre By",Amaliegade,25,"Barselsfeber (Barselfeber)",55.685487900000,12.594190900000,NULL,NULL
+52167,22,1881-09-20,Kvinde,"Indre By",Amaliegade,25,"Barselsfeber (Barselfeber)",55.685864400000,12.593424600000,NULL,NULL
+52453,41,1864-04-23,Kvinde,"Indre By",Trompetergangen,6,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+52901,40,1864-04-13,Kvinde,"Indre By",Møntergade,2,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+53209,20,1864-01-20,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+53220,21,1864-01-19,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+53742,23,1864-06-23,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+53746,24,1864-06-23,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+54079,42,1864-09-01,Kvinde,"Indre By",Borgergade,124,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+54275,24,1864-04-04,Kvinde,Nørrebro,Nørrebrogade,82,"Barselsfeber (Barselfeber)",55.691913300000,12.552740400000,NULL,NULL
+54423,28,1877-06-07,Kvinde,Nørrebro,Ryesgade,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+54433,27,1902-12-11,Kvinde,"Amager Vest",Kurlandsgade,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Eget erhverv"
+54499,30,1864-05-25,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+54711,17,1864-04-08,Kvinde,"Indre By","Lille Kongensgade",21,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Eget erhverv"
+54717,35,1864-04-11,Kvinde,"Indre By",Dybensgade,4,"Barselsfeber (Barselfeber)",55.678322100000,12.583811900000,NULL,"Ægtefælles erhverv"
+55398,28,1864-02-15,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Eget erhverv"
+55400,29,1864-10-29,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+55425,29,1864-10-05,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+55622,32,1864-02-19,Kvinde,Østerbro,"Øster Fælled",22,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+55632,24,1864-05-12,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+7871,24,1863-01-17,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+57104,25,1877-03-16,Kvinde,"Indre By",Fredericiagade,88,"Barselsfeber (Barselfeber)",55.687721600000,12.583795000000,NULL,"Ægtefælles erhverv"
+57104,25,1877-03-16,Kvinde,"Indre By",Fredericiagade,88,"Barselsfeber (Barselfeber)",55.687795500000,12.583750800000,NULL,"Ægtefælles erhverv"
+57191,24,1882-07-04,Kvinde,"Indre By",Amaliegade,25,"Barselsfeber (Barselfeber)",55.685487900000,12.594190900000,NULL,NULL
+57191,24,1882-07-04,Kvinde,"Indre By",Amaliegade,25,"Barselsfeber (Barselfeber)",55.685864400000,12.593424600000,NULL,NULL
+58713,28,1882-12-18,Kvinde,Nørrebro,Fælledvej,7,"Barselsfeber (Barselfeber)",55.688912500000,12.559704600000,NULL,"Ægtefælles erhverv"
+59936,25,1864-04-12,Kvinde,"Indre By",Borgergade,53,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+60579,22,1877-02-12,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+61091,36,1877-12-16,Kvinde,"Indre By","Øster Søgade",104,"Barselsfeber (Barselfeber)",55.695166800000,12.578343900000,NULL,"Ægtefælles erhverv"
+61091,36,1877-12-16,Kvinde,"Indre By","Øster Søgade",104,"Barselsfeber (Barselfeber)",55.695054900000,12.578475700000,NULL,"Ægtefælles erhverv"
+62271,34,1884-02-15,Kvinde,"Indre By","Toldbodvejs Runddel",42,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+64087,31,1870-10-28,Kvinde,Nørrebro,Ravnsborggade,15,"Barselsfeber (Barselfeber)",55.688915700000,12.562190200000,NULL,NULL
+64087,31,1870-10-28,Kvinde,Nørrebro,Ravnsborggade,15,"Barselsfeber (Barselfeber)",55.689004900000,12.562297000000,NULL,NULL
+64574,30,1882-11-12,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+65106,22,1884-03-23,Kvinde,"Indre By",Asylgade,14,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+66533,30,1864-05-17,Kvinde,"Indre By","Store Kongensgade",80,"Barselsfeber (Barselfeber)",55.684980200000,12.588462000000,NULL,NULL
+67813,37,1884-01-09,Kvinde,"Indre By","Hauser Plads",32,"Barselsfeber (Barselfeber)",55.683029600000,12.575102700000,NULL,"Ægtefælles erhverv"
+67900,32,1902-06-07,NULL,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+16688,24,1863-06-18,Kvinde,"Indre By",Amaliegade,25,"Barselsfeber (Barselfeber)",55.685487900000,12.594190900000,NULL,NULL
+16688,24,1863-06-18,Kvinde,"Indre By",Amaliegade,25,"Barselsfeber (Barselfeber)",55.685864400000,12.593424600000,NULL,NULL
+71547,41,1864-02-21,Kvinde,Nørrebro,Nørrebrogade,40,"Barselsfeber (Barselfeber)",55.689107600000,12.557817500000,NULL,NULL
+75456,26,1884-03-09,Kvinde,NULL,*Uangivet/ukendt,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+75797,26,1864-03-09,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Eget erhverv"
+75876,20,1864-06-08,Kvinde,"Indre By",Springgade,24,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+76470,25,1870-02-07,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+76839,45,1870-03-09,Kvinde,"Indre By",Borgergade,7,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+77004,38,1870-03-16,Kvinde,"Indre By",Amaliegade,25,"Barselsfeber (Barselfeber)",55.685487900000,12.594190900000,NULL,"Ægtefælles erhverv"
+77004,38,1870-03-16,Kvinde,"Indre By",Amaliegade,25,"Barselsfeber (Barselfeber)",55.685864400000,12.593424600000,NULL,"Ægtefælles erhverv"
+77705,34,1870-04-08,Kvinde,"Indre By","Store Strandstræde",8,"Barselsfeber (Barselfeber)",55.680944200000,12.588405800000,NULL,"Ægtefælles erhverv"
+77941,36,1883-05-16,Kvinde,NULL,*Uangivet/ukendt,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+78097,23,1883-05-18,Kvinde,NULL,*Uangivet/ukendt,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+9064,19,1899-07-12,Kvinde,Brønshøj-Husum,Brønshøjgade,8,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Eget erhverv"
+78826,28,1870-05-09,Kvinde,Nørrebro,Guldbergsgade,1,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+81008,23,1870-08-13,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+81477,41,1870-09-12,Kvinde,"Indre By",Landemærket,11,"Barselsfeber (Barselfeber)",55.681935800000,12.576098200000,NULL,"Ægtefælles erhverv"
+82884,20,1870-11-20,Kvinde,"Indre By","Ny Kronprinsessegade",4,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+83086,20,1861-12-28,Kvinde,"Indre By",Grønnegade,18,"Barselsfeber (Barselfeber)",55.681005800000,12.582717500000,NULL,"Eget erhverv"
+83305,35,1862-01-08,Kvinde,"Indre By","Lille Kongensgade",24,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+83309,23,1862-01-07,Kvinde,"Indre By",Amaliegade,25,"Barselsfeber (Barselfeber)",55.685487900000,12.594190900000,NULL,NULL
+83309,23,1862-01-07,Kvinde,"Indre By",Amaliegade,25,"Barselsfeber (Barselfeber)",55.685864400000,12.593424600000,NULL,NULL
+83413,25,1862-01-12,Kvinde,"Indre By",Toldbodgade,11,"Barselsfeber (Barselfeber)",55.680315700000,12.591702800000,NULL,"Eget erhverv"
+83448,25,1862-01-12,Kvinde,"Indre By",Toldbodgade,11,"Barselsfeber (Barselfeber)",55.680315700000,12.591702800000,NULL,"Eget erhverv"
+83513,26,1862-01-15,Kvinde,"Indre By",Klerkegade,5,"Barselsfeber (Barselfeber)",55.686270200000,12.585366100000,NULL,"Eget erhverv"
+83528,29,1862-01-16,Kvinde,"Indre By",Borgergade,112,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+83624,44,1862-01-18,Kvinde,"Indre By",Toldbodgade,7,"Barselsfeber (Barselfeber)",55.680155500000,12.591572400000,NULL,"Ægtefælles erhverv"
+83624,44,1862-01-18,Kvinde,"Indre By",Toldbodgade,7,"Barselsfeber (Barselfeber)",55.680232700000,12.591294300000,NULL,"Ægtefælles erhverv"
+83631,35,1862-01-19,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+83707,35,1862-01-22,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+84160,29,1862-02-02,Kvinde,"Indre By",Borgergade,142,"Barselsfeber (Barselfeber)",55.687451700000,12.588597300000,NULL,"Ægtefælles erhverv"
+84267,35,1870-12-05,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+84323,24,1870-12-11,Kvinde,"Indre By",Laksegade,15,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+84445,39,1870-12-13,Kvinde,"Indre By",Adelgade,20,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+84460,32,1870-12-15,Kvinde,"Indre By","Vester Vold",87,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+85022,37,1862-02-10,Kvinde,Frederiksberg,Ørstedsgade,29,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+85023,22,1862-02-08,Kvinde,"Indre By",Toldbodgade,3,"Barselsfeber (Barselfeber)",55.679998000000,12.591443200000,NULL,"Ægtefælles erhverv"
+85053,22,1862-02-10,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+85064,26,1862-02-13,Kvinde,"Indre By","Sankt Peders Stræde",NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Eget erhverv"
+85091,28,1862-02-12,Kvinde,"Indre By",Borgergade,132,"Barselsfeber (Barselfeber)",55.686413800000,12.587697400000,NULL,"Ægtefælles erhverv"
+85279,26,1862-02-17,Kvinde,"Indre By","Gammel Mønt",27,"Barselsfeber (Barselfeber)",55.681513500000,12.580527000000,NULL,"Ægtefælles erhverv"
+85343,23,1862-02-22,Kvinde,"Indre By",Gothersgade,112,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+85354,21,1862-02-20,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Eget erhverv"
+85518,22,1862-02-28,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+85529,34,1862-03-28,Kvinde,"Indre By","Gammel Mønt",10,"Barselsfeber (Barselfeber)",55.681699800000,12.580699900000,NULL,"Ægtefælles erhverv"
+85546,26,1862-03-02,Kvinde,"Indre By","Store Fiolstræde",26,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+85602,28,1862-03-04,Kvinde,"Indre By",Nyhavn,12,"Barselsfeber (Barselfeber)",55.679725100000,12.589765600000,NULL,"Ægtefælles erhverv"
+85602,28,1862-03-04,Kvinde,"Indre By",Nyhavn,12,"Barselsfeber (Barselfeber)",55.679455800000,12.589593500000,NULL,"Ægtefælles erhverv"
+85602,28,1862-03-04,Kvinde,"Indre By",Nyhavn,12,"Barselsfeber (Barselfeber)",55.679412100000,12.589561300000,NULL,"Ægtefælles erhverv"
+85863,23,1862-03-09,Kvinde,"Indre By",Borgergade,49,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+85970,34,1862-03-13,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Eget erhverv"
+86083,24,1862-03-14,Kvinde,"Indre By",Borgergade,64,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+86105,26,1862-03-14,Kvinde,Nørrebro,Nørrebrogade,1,"Barselsfeber (Barselfeber)",55.687206300000,12.562082700000,NULL,"Ægtefælles erhverv"
+86378,32,1862-03-25,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+86381,36,1862-03-24,Kvinde,"Indre By","Sankt Peders Stræde",4,"Barselsfeber (Barselfeber)",55.679597400000,12.570278600000,NULL,"Ægtefælles erhverv"
+86522,33,1862-03-31,Kvinde,Nørrebro,Fælledvej,11,"Barselsfeber (Barselfeber)",55.689247800000,12.559947500000,NULL,"Ægtefælles erhverv"
+86531,31,1862-03-31,Kvinde,"Indre By",Antoniestræde,14,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Ægtefælles erhverv"
+86635,20,1862-04-09,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+87139,23,1862-04-19,Kvinde,"Indre By",Borgergade,62,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+87187,22,1862-04-18,Kvinde,"Indre By","Dronningens Tværgade",44,"Barselsfeber (Barselfeber)",55.684912800000,12.584744100000,NULL,"Ægtefælles erhverv"
+87195,21,1862-04-19,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+87772,29,1862-05-03,Kvinde,"Indre By",Borgergade,149,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+88017,26,1862-05-13,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+88192,43,1862-05-30,Kvinde,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,NULL
+88330,40,1862-06-03,Kvinde,"Indre By",Borgergade,67,"Barselsfeber (Barselfeber)",NULL,NULL,NULL,"Eget erhverv"
+25672,34,1863-06-21,Kvinde,"Indre By","Store Fiolstræde",22,Barseltilstand,NULL,NULL,NULL,"Eget erhverv"
+17550,35,1889-12-08,Kvinde,Nørrebro,Nordvestvej,32,"Blodprop under barselseng",NULL,NULL,NULL,"Ægtefælles erhverv"
+16126,27,1863-02-23,Kvinde,"Indre By",Amaliegade,23,"Feber efter Barselseng",55.685265200000,12.594007700000,NULL,NULL
+36017,42,1863-09-19,Kvinde,"Indre By","Lille Brøndstræde",3,"Følger af barselseng",NULL,NULL,NULL,"Ægtefælles erhverv"
+54389,34,1902-02-26,Kvinde,"Indre By","Olfert Fischers Gade",9,"Hjertesygdom (fødsel og barselseng)",55.686666800000,12.588384300000,NULL,"Ægtefælles erhverv"
+18891,42,1863-03-20,Kvinde,"Indre By","Sankt Peders Stræde",28,"Pludselig død i barselseng",55.678913200000,12.567720200000,NULL,"Ægtefælles erhverv"
+18891,42,1863-03-20,Kvinde,"Indre By","Sankt Peders Stræde",28,"Pludselig død i barselseng",55.678955500000,12.567696500000,NULL,"Ægtefælles erhverv"
+18891,42,1863-03-20,Kvinde,"Indre By","Sankt Peders Stræde",28,"Pludselig død i barselseng",55.679118300000,12.567592900000,NULL,"Ægtefælles erhverv"
+41222,33,1864-02-15,Kvinde,Nørrebro,Gormsgade,3,"Pludselig død i barselseng",NULL,NULL,NULL,"Ægtefælles erhverv"
+68785,33,1882-10-08,Kvinde,"Indre By",Pilestræde,33,"Pludselig død i barselseng",55.680664700000,12.580288800000,NULL,"Ægtefælles erhverv"
+49829,30,1864-09-04,Kvinde,"Indre By","Bag Hovedvagten",13,"Underlivsbetændelse i barselssengen",NULL,NULL,NULL,"Ægtefælles erhverv"
