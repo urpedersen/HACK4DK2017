@@ -52,6 +52,22 @@ SELECT person_id,firstnames,lastname,gender,street,number,day,month,year,latitud
 left join hack4dk_police_address as a on a.person_id = p.id
 Where latitude IS NOT NULL
 ```
+### Døde i begge databaser. En masse info!
+```
+#SELECT bp.firstnames,bp.lastname,bp.dateOfDeath,pp.deathyear,pp.deathmonth,pp.deathday #For checking
+SELECT bp.id,bp.firstnames,bp.lastname,bp.dateOfDeath,dc.deathcause,pp.id,pa.day,pa.month,pa.year,pa.full_address,pa.latitude,pa.longitude
+#SELECT *
+FROM hack4dk.hack4dk_police_person as pp
+left join hack4dk_burial_person  as bp on bp.firstnames = pp.firstnames AND bp.lastname = pp.lastname AND  year(bp.dateOfDeath) = pp.deathyear and month(bp.dateOfDeath) = pp.deathmonth
+left join hack4dk_police_address as pa on pp.id = pa.person_id
+left join hack4dk_burial_persons_deathcauses as pdc on pdc.persons_id = bp.id
+left join hack4dk_burial_deathcauses as dc on pdc.deathcauses_id = dc.id
+where deathyear IS NOT NULL AND latitude IS NOT NULL
+#where latitude IS NOT NULL
+
+#CONCAT(deathyear,'-',deathmonth,'-',deathday)
+```
+
 ### Heste er søde 
 ```SQL
 SELECT p.id,p.firstnames, p.lastname, ageYears,dateOfDeath,sex,street,street_number,deathcause,latitude,longitude FROM hack4dk.hack4dk_burial_persons_deathcauses as d 
