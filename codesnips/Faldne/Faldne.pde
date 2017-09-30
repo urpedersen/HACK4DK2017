@@ -10,7 +10,7 @@ int curYear = 0;
 int[][][] DateCount;
 
 void setup() {
-  size(1600, 800);
+  size(800, 800);
   background(20);
   stroke(255,100,100);
   DateCount = new int[8][13][32];
@@ -54,6 +54,7 @@ void setup() {
     int yearMoved = year-1914;
     
     DateCount[yearMoved][month][day]++;
+      //Deaths.add(new
       } 
       catch(Exception e) {
         //println(e.getMessage());
@@ -98,6 +99,8 @@ void setup() {
 }
 
 void draw() {
+  background(0);
+  
   
   
   
@@ -119,15 +122,26 @@ void draw() {
     }
     
     for (int j = 0; j < Deaths.size() ;j++){
-      Death dea = Deaths.get(j); 
+      Death dea = Deaths.get(j);
       dea.draw();
+      if (dea.time > 255){
+        Deaths.remove(j);    
+      }
     } 
+    
+    stroke(255);
+    fill(255);
+    text(curDay,10,10);
+    text(curMonth,10,20);
+    text(curYear+1914,10,30);
   
 }
 
 class Death{
+    float day,month,year;
     float x,y;
     int time;
+    String name;
     
     Death(float newx,float newy){
         x = newx;
@@ -139,6 +153,7 @@ class Death{
          stroke(255-time,0,0);
          fill(255-time,0,0);
          ellipse(x,y,10,10);
+         text(name,x,y);
          time++;
     }
     
