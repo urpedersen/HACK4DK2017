@@ -10,32 +10,46 @@ int lastYear = 1923;
 
 PFont font;
 
+String path = "../befolkning/data/";
+
 void setup() {
  //fullScreen();
- size(1200,800);
- //size(800,600);
+ //size(1920,1080);  // 1920x1080
+ size(400,300);
  background(0);
 
  colorMode(HSB, 100);
- address = loadTable("address.csv", "header");
+ address = loadTable(path + "address.csv", "header");
  println("Number of rows: " + address.getRowCount());
  //table.sort("dateOfDeath");
  //trimTable(table);
  
-  font = createFont("OldStandard-Regular.ttf", 32);
+  font = createFont( path + "OldStandard-Regular.ttf", 32);
   textFont(font, 32);
  
-  latMin = 55.62;
-  latMax = 55.74;
-  lonMin = 12.45;
-  lonMax = 12.64;
+ 
+
   //drawAddress(true);
 }
 
 void draw() {
-  background(0);
+  background(10);
   //fill(0,1);
   //rect(0,0,width,height);
+  
+  String label = "Vesterbro";
+  
+  if(label=="København") { 
+    latMin = 55.62;
+    latMax = 55.74;
+    lonMin = 12.45;
+    lonMax = 12.64;
+  } else if(label=="Vesterbro") {
+    latMin = 55.657;
+    latMax = 55.678;
+    lonMin = 12.527;
+    lonMax = 12.569;    
+  }
   
   year = firstYear+frameCount%(lastYear-firstYear);
   println(year);
@@ -45,13 +59,18 @@ void draw() {
   drawPersons();
   drawClock();
   
-  if(frameCount==1)
-    saveFrame("image.png");
-  
+
+  text(label +  " anno " + firstYear + "-" + lastYear + " (Police registration cards)", 40,height-40);
+
+  writeImages();
+}
+
+void writeImages(){
   int imgID = year-firstYear;
   saveFrame("img/" + nf(imgID,4) + ".png");
-
-  text("Regristration cards anno " + firstYear + "-" + lastYear, 40,height-40);
+  
+  if(frameCount%100==1)
+    saveFrame("image.png");
 }
 
 // Draw a clock
