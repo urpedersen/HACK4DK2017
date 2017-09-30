@@ -24,8 +24,8 @@ void drawAddress(){
        float lon = row.getFloat("longitude");
        int postnummer = row.getInt("postnummer");
        if(!Float.isNaN(lat) || !Float.isNaN(lon)){
-         float x = map(lat,55.66,55.70,0.0,(float)width);
-         float y = map(lon,12.52,12.61,0.0,(float)height);
+         float x = map(lat,55.74,55.62,0,width);
+         float y = map(lon,12.52,12.61,0,height);
          float c = map(postnummer,1000,3000,0,100);
          fill(c,55,100,100);
          noStroke();

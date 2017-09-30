@@ -3,7 +3,7 @@
 void setup() {
  size(800,600);
  colorMode(HSB, 100);
- table = loadTable("all_small.csv", "header");
+ table = loadTable("barsel.csv", "header");
  println("Number of rows: " + table.getRowCount());
  //table.sort("dateOfDeath");
  //trimTable(table);
