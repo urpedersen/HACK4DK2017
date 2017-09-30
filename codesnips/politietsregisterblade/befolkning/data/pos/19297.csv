@@ -1,0 +1,11 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Edvard Carl Peter",Hansen,1,5,7,1929,NULL,NULL
+"Charlotte Caroline Gunhilda",Hultberg,2,27,7,1929,NULL,NULL
+"Hans Christian",Christensen,1,2,7,1929,NULL,NULL
+"Marie Sofie Frederikke",Hansen,2,22,7,1929,NULL,NULL
+"Oskar Florentin",Olsen,1,1,7,1929,NULL,NULL
+"Laura Elisabeth Pedersen",Hald,2,13,7,1929,NULL,NULL
+"Emma Johanne Oline",Staph,2,8,7,1929,NULL,NULL
+"Jensine Caroline",Wilms,2,5,7,1929,55.668335500000,12.555807500000
+Arne,Beyerholm,1,1,7,1929,55.666271600000,12.520798700000
+"Johannes Carl",Hansen,1,1,7,1929,NULL,NULL

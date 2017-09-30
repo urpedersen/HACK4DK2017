@@ -1,0 +1,2991 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Carl Gustav Emanuel Bjørn",Strøm,1,21,7,1922,55.654138800000,12.611044200000
+"Svend Peter",Svendsen,1,8,7,1922,55.656961000000,12.602643000000
+"Alfred Johannes",Sørensen,1,12,7,1922,NULL,NULL
+"Hendrik van der",Wal,1,21,7,1922,NULL,NULL
+"Holger Peter",Thomsen,1,20,7,1922,55.664175400000,12.603933100000
+"Holger Peter",Thomsen,1,10,7,1922,55.663264300000,12.614397200000
+Hugo,Toxværd,1,10,7,1922,NULL,NULL
+"Laurits Peter Adolf",Thrane,1,17,7,1922,NULL,NULL
+"Poula Helmine Camilla",Thomsen,2,7,7,1922,55.696992600000,12.583524000000
+"Valdemar S.",Thomsen,1,18,7,1922,NULL,NULL
+"Christian Eduard",Thomsen,1,15,7,1922,55.664001000000,12.599669600000
+"Olof Erik Emil",Vagnø,1,28,7,1922,NULL,NULL
+"Einar August Rahbech",Sørensen,1,11,7,1922,55.669040800000,12.554346700000
+Ingeborg,Thomsen,2,24,7,1922,NULL,NULL
+"Hedvig Marie Jensen",Thuesen,2,1,7,1922,NULL,NULL
+"Hans Peter",Jensen,1,6,7,1922,NULL,NULL
+"Helga Kilian",Jensen,2,10,7,1922,NULL,NULL
+"Hans Christian",Jensen,1,22,7,1922,NULL,NULL
+"Oscar Martin",Jørgensen,1,24,7,1922,NULL,NULL
+"Aage Theodor Julius",Larsen,1,26,7,1922,NULL,NULL
+"Axel Thorkil",Nielsen,1,28,7,1922,NULL,NULL
+Holger,Lundorff,1,8,7,1922,NULL,NULL
+"Theodor Edvard",Larsen,1,4,7,1922,NULL,NULL
+"Kai Vilhelm",Pedersen,1,10,7,1922,NULL,NULL
+"Olga Helene Henriette",Riisberg,2,12,7,1922,NULL,NULL
+"Peter Frederik Jørgen",Steffensen,1,28,7,1922,NULL,NULL
+"Inge Margrethe Stæhr",Olsen,2,31,7,1922,55.663489200000,12.615183500000
+"Emma Petrine",Olsen,2,4,7,1922,55.691707700000,12.563169800000
+"Helga Johanne",Møller,2,7,7,1922,NULL,NULL
+"Anna Jonasdatter",Koivula,2,23,7,1922,NULL,NULL
+"Gerhard Julius",Tronier,1,16,7,1922,55.665491700000,12.609582100000
+Erhardt,Palm,1,28,7,1922,NULL,NULL
+"Astrid Gerda",Hansen,2,10,7,1922,55.668344300000,12.579056400000
+"Søren Valdemar",Helmundt,1,4,7,1922,NULL,NULL
+"Laura Marie",Holm,2,18,7,1922,NULL,NULL
+"Mary Helene",Petersen,2,22,7,1922,NULL,NULL
+"Evald Vilfred",Hansen,1,24,7,1922,55.671012600000,12.592073200000
+"Selma Astrid Valborg",Hansen,2,22,7,1922,NULL,NULL
+"Helga Marie Louise",Haakonsson,2,5,7,1922,NULL,NULL
+"Alexandrine Anani",Stroukow,2,27,7,1922,NULL,NULL
+"Olga Alexandra",Stroukow,2,27,7,1922,NULL,NULL
+"Peter Henry",Petersen,1,1,7,1922,NULL,NULL
+"Marie Andrea Nicoline",Pallesen,2,22,7,1922,NULL,NULL
+"Ellen Viola Emilie Petersen",Paaske,2,3,7,1922,NULL,NULL
+"Niels Christian",Graversen,1,4,7,1922,55.672068200000,12.592426900000
+"Charles Theodor",Nielsen,1,19,7,1922,NULL,NULL
+"Arthur Ragnar William",Møller,1,22,7,1922,55.660050500000,12.608694100000
+Jens,Johnsen,1,1,7,1922,NULL,NULL
+"Kirsten Ebba Marie",Petersen,2,5,7,1922,55.668867500000,12.579732200000
+"Agnes Bertine",Larsen,2,25,7,1922,NULL,NULL
+"Christian Reinholdt Tendrup",Olsen,1,29,7,1922,NULL,NULL
+"Agnes Emile",Andersson,2,3,7,1922,NULL,NULL
+Thora,Andersen,2,1,7,1922,NULL,NULL
+"Augusta Sofie",Andersen,2,25,7,1922,55.664283100000,12.595708200000
+"Jens Christian Skaarup",Gotdrup,1,17,7,1922,55.663444500000,12.580599000000
+"Wilfred Osvald",Andersen,1,10,7,1922,55.666315400000,12.613098200000
+"Henry Louis",Hansen,1,29,7,1922,55.660150300000,12.608941500000
+"Reinhard Nicolaus",Eggers,1,25,7,1922,55.659282300000,12.606160800000
+"Kaj Jan Marius",Eggertsen,1,22,7,1922,55.693922000000,12.543058200000
+"Sofie Vilhelmine Henriette",Hansen,2,15,7,1922,NULL,NULL
+"Harald Frederik",Baggesen,1,6,7,1922,NULL,NULL
+"Kaj Viggo Emanuel",Ekenberg,1,11,7,1922,55.670303100000,12.587819300000
+"Elna Jørgine",Olsen,2,1,7,1922,NULL,NULL
+"Valdemar Bernhard",Olsen,1,31,7,1922,NULL,NULL
+"Alfred Peter",Christensen,1,28,7,1922,55.709917700000,12.556654000000
+"Johannes Hjort",Petersen,1,20,7,1922,NULL,NULL
+"Agnes Augusta",Petersen,2,15,7,1922,NULL,NULL
+"Lars Christian",Petersen,1,12,7,1922,NULL,NULL
+"Louise Nicoline Lütchen",Petersen,2,10,7,1922,NULL,NULL
+"Marie Frederikke Elisabeth",Petersen,2,12,7,1922,NULL,NULL
+"Ellen Cathinka",Andersen,2,1,7,1922,55.673190200000,12.591364700000
+"Emma Augusta Camilla",Andersen,2,4,7,1922,55.665141200000,12.603577300000
+"Niels Peter Poul",Petersen,1,20,7,1922,NULL,NULL
+"Erik Kjær",Andersen,1,18,7,1922,55.665331300000,12.579813900000
+"Erna Marie",Andersen,2,6,7,1922,55.664361600000,12.602205400000
+"Sara Marie Johansen",Bardenfeldt,2,7,7,1922,NULL,NULL
+"Jenny Rasmine",Hansen,2,15,7,1922,55.686544600000,12.549864900000
+"Jens Carl",Andersen,1,5,7,1922,55.666720100000,12.613869600000
+"Alfred Lauritz",Hansen,1,11,7,1922,NULL,NULL
+"Jens Foli",Anderen,1,7,7,1922,55.659318400000,12.608447400000
+"Poul Marius",Pedersen,1,18,7,1922,NULL,NULL
+"Georg Otto Amdi",Rasmussen,1,19,7,1922,NULL,NULL
+"Georg Otto Amdi",Rasmussen,1,14,7,1922,NULL,NULL
+"Holger Sofus",Rasmussen,1,8,7,1922,NULL,NULL
+"Laurine Christiane Karen",Andersen,2,14,7,1922,55.653672300000,12.602334800000
+"Carl Viggo",Clausen,1,3,7,1922,55.665331300000,12.579813900000
+"Jensine Caroline",Rasmussen,2,1,7,1922,NULL,NULL
+"Jens Nicolai Himmelstrup",Jensen,1,20,7,1922,NULL,NULL
+"Karen Anine",Rasmussen,2,6,7,1922,NULL,NULL
+"Frida Johanne Nathalia",Haase,2,4,7,1922,NULL,NULL
+"Julie Marie",Bay,2,13,7,1922,55.655493500000,12.611461600000
+"Inez Bertha Ingeborg",Bayer,2,22,7,1922,55.658977400000,12.603470200000
+"Rasmus Skov",Petersen,1,4,7,1922,NULL,NULL
+"Richard Frederik",Petersen,1,21,7,1922,NULL,NULL
+"Karen Dorthea",Hansen,2,18,7,1922,55.654491700000,12.612591100000
+"Karen Marie Nielsine",Hansen,2,6,7,1922,NULL,NULL
+"Axel Wilhelm Holst",Jensen,1,7,7,1922,NULL,NULL
+"Anna Marie",Clausen,2,24,7,1922,NULL,NULL
+"Peter Helge",Andersen,1,15,7,1922,55.664115300000,12.614715300000
+"Laura Marie Johanne",Hansen,2,20,7,1922,55.657679900000,12.606932700000
+"Povl Oluf",Andersen,1,8,7,1922,55.659279100000,12.608834000000
+"Jens Hans Holger",Lomholdt,1,14,7,1922,55.667903600000,12.549872200000
+"Nede Cathrine",Nielsen,2,28,7,1922,55.661377200000,12.604268100000
+Niels,Nielsen,1,31,7,1922,NULL,NULL
+"Niels Andreas",Nielsen,1,11,7,1922,NULL,NULL
+"Johanne Emilie",Lund,2,19,7,1922,NULL,NULL
+"Hans Jacob",Madsen,1,11,7,1922,NULL,NULL
+Esther,Holstein,2,11,7,1922,NULL,NULL
+Ejnar,Brix,1,29,7,1922,NULL,NULL
+"Amanda Josefine",Brodersen,2,12,7,1922,55.664195600000,12.601383100000
+"Ada Augusta",Brockmann,2,29,7,1922,55.706676200000,12.578140500000
+"Anna Christine",Nielsen,2,8,7,1922,NULL,NULL
+"Theodor Peter",Hansen,1,14,7,1922,55.673738900000,12.591247800000
+"Maren Mathilde",Madsen,2,8,7,1922,NULL,NULL
+"Martin Bernhard Ardahl",Madsen,1,15,7,1922,NULL,NULL
+"Karen Margrethe Johanne Tonine",Bendixen,2,1,7,1922,55.666296000000,12.615327500000
+"Else Johanne Lundgren",Hansen,2,17,7,1922,55.711388300000,12.517910300000
+Otto,Holm,1,27,7,1922,NULL,NULL
+Oluf,Hansen,1,15,7,1922,NULL,NULL
+"Gerhard Drejer",Christensen,1,18,7,1922,NULL,NULL
+"Anders Lauritz",Larsen,1,3,7,1922,NULL,NULL
+"Arthur Vilhelm Nicolai",Jensen,1,4,7,1922,NULL,NULL
+"Peter Emil Christian",Madsen,1,10,7,1922,NULL,NULL
+"Peter Julius",Madsen,1,11,7,1922,NULL,NULL
+"Carl Ferdinand Martinus",Larsen,1,5,7,1922,NULL,NULL
+"Karen Juliane Kirstine Thomasine",Nielsen,2,3,7,1922,NULL,NULL
+"Ellen Linnea",Bengtsson,2,14,7,1922,55.665683700000,12.575515600000
+"Carl Hugo",Persson,1,13,7,1922,55.656910600000,12.612080900000
+"Alma Bergthora",Schmeltz,2,27,7,1922,NULL,NULL
+"Johannes Christian",Johansen,1,10,7,1922,NULL,NULL
+"Hilda Elisabeth",Holm,2,13,7,1922,NULL,NULL
+"Carl Marius Dyrlund",Schmidt,1,31,7,1922,NULL,NULL
+"Christian Valdemar",Nielsen,1,12,7,1922,NULL,NULL
+"Niels Peter",Hansen,1,5,7,1922,NULL,NULL
+"Minona Marie",Johansen,2,5,7,1922,NULL,NULL
+"Axel Edvard Georg",Mortensen,1,11,7,1922,55.652442900000,12.623898500000
+"Richardt Gustav Vilhelm",Enderleit,1,4,7,1922,NULL,NULL
+"Anders Carl Valdemar",Pedersen,1,19,7,1922,NULL,NULL
+"Rosa Jørgine",Hansen,2,8,7,1922,NULL,NULL
+"Carl Christian Ludvig",Petersen,1,4,7,1922,NULL,NULL
+Jørgen,Beyerholm,1,9,7,1922,55.665557300000,12.598200800000
+"Einar Svend Valdemar",Larsen,1,3,7,1922,NULL,NULL
+"Elisabeth Marie",Bisgaard,2,4,7,1922,55.667903600000,12.549872200000
+"Sverre Clausen",Schmidt,1,19,7,1922,55.656293600000,12.608751400000
+"Sverre Clausen",Schmidt,1,25,7,1922,55.709082600000,12.569435700000
+"Astrid Marie Due",Jensen,2,22,7,1922,55.668492600000,12.579731000000
+"August Bernhard Reinholdt",Jensen,1,31,7,1922,NULL,NULL
+"Robert Richard",Hansen,1,15,7,1922,NULL,NULL
+"Søren Alfred",Nielsen,1,4,7,1922,NULL,NULL
+"Axel Christian",Jensen,1,16,7,1922,NULL,NULL
+"Vilhelm Alfred Richard",Hansen,1,17,7,1922,NULL,NULL
+"Lilly Hansine",Jacobsen,2,5,7,1922,NULL,NULL
+Johannes,Ernst,1,27,7,1922,55.673199600000,12.559254500000
+Anna,Erceninks,2,18,7,1922,NULL,NULL
+"Anna Cathrine",Petersen,2,8,7,1922,NULL,NULL
+"Anna Cathrine Nathalie",Petersen,2,1,7,1922,NULL,NULL
+"Carl Vilhelm Herman",Schmitten,1,4,7,1922,NULL,NULL
+Herman,Christensen,1,24,7,1922,55.673509600000,12.590411400000
+Ingeborg,Espersen,2,10,7,1922,55.671886600000,12.591270800000
+"Anna Marie Oktavia",Petersen,2,8,7,1922,NULL,NULL
+Niels,Mogensen,1,27,7,1922,NULL,NULL
+"Oline Chatrine",Borckmann,2,2,7,1922,NULL,NULL
+"Gustav von Deuen",Friese,1,22,7,1922,NULL,NULL
+"Ingeborg Theodora",Christensen,2,8,7,1922,55.703678600000,12.584895300000
+"Christian Dosinius",Christiansen,1,29,7,1922,NULL,NULL
+"Heinrich Ernst August",Brammer,1,8,7,1922,55.687418200000,12.589667400000
+"Alfred Emil",Nielsen,1,22,7,1922,NULL,NULL
+"Anders Petersen",Jensen,1,21,7,1922,NULL,NULL
+"Gjørdis Katrine",Vinkenæs,2,18,7,1922,55.664392700000,12.607778900000
+"Ellen Frederikke Christine",Christiansen,2,8,7,1922,55.656961000000,12.602643000000
+"Anna Julie Antoinette",Nygaard,2,1,7,1922,NULL,NULL
+Carl,Møller,1,6,7,1922,NULL,NULL
+"Ingeborg Augusta Caroline",Carlsen,2,4,7,1922,55.668890600000,12.600864500000
+"Svend Aksel Albert",Fagerström,1,10,7,1922,55.663337600000,12.581620600000
+"Gudrun Magda",Bretting,2,4,7,1922,55.664462100000,12.581084600000
+"Jens Christian Ernst August",Christensen,1,10,7,1922,55.660358300000,12.617216700000
+"Jens Eskild",Christensen,1,15,7,1922,55.664342600000,12.599713100000
+"Karen Margrethe Frederikke",Larsen,2,1,7,1922,NULL,NULL
+"Arthur Villiam",Wiborg,1,4,7,1922,55.713695100000,12.576760800000
+"Marie Petrea Constance",Christensen,2,7,7,1922,55.655699400000,12.604505400000
+"Niels Ingermann Andreas",Jensen,1,6,7,1922,NULL,NULL
+Cecilie,Pettersson,2,4,7,1922,NULL,NULL
+"Thora Hedvig Frederikke Amalie",Iven,2,7,7,1922,NULL,NULL
+Mariane,Wendel,2,18,7,1922,NULL,NULL
+"Henrik Planch",Henriksen,1,1,7,1922,NULL,NULL
+"Carl Johan",Christell,1,27,7,1922,55.659054700000,12.606442800000
+"Orla Robert Martinus",Eriksen,1,20,7,1922,NULL,NULL
+"Laura Emilie",Poulsen,2,18,7,1922,NULL,NULL
+"Gudrun Emely",Wahlstrøm,2,21,7,1922,NULL,NULL
+"Gillis Emanuel",Vallin,1,1,7,1922,NULL,NULL
+"Barthold Paul Frederik",Jensen,1,7,7,1922,NULL,NULL
+"Gotfred Louis Emanuel",Kolringen,1,18,7,1922,55.665491700000,12.609582100000
+"Kamma Martha Vilhelmine",Flügge,3,3,7,1922,NULL,NULL
+"Carl David",Fog,1,5,7,1922,55.676331300000,12.598966600000
+"Olga Eleonora",Tørnquist,2,29,7,1922,NULL,NULL
+"Knud Theodor",Christensen,1,11,7,1922,55.651967500000,12.615974500000
+"Axel Peter Bruno",Jacobsson,1,27,7,1922,NULL,NULL
+"Ege Haagen Christian",Petersen,1,10,7,1922,55.666315400000,12.613098200000
+"Bertram Himmelstrup",Jensen,1,5,7,1922,NULL,NULL
+"Hans Peter",Olsen,1,13,7,1922,NULL,NULL
+Anna,Bigus,2,12,7,1922,NULL,NULL
+Mary,Christensen,2,11,7,1922,NULL,NULL
+"Magnus Max",Christensen,1,28,7,1922,NULL,NULL
+"Kaja Johanne Dahlerup",Jensen,2,29,7,1922,NULL,NULL
+"Eleonora Ellevine Hansine",Petersen,2,25,7,1922,55.670742800000,12.590986800000
+"Ellen Christine",Petersen,2,14,7,1922,55.659695900000,12.604202100000
+"Ellen Elisabeth",Petersen,2,13,7,1922,55.667079300000,12.598175900000
+"Jens Peter",Nielsen,1,29,7,1922,NULL,NULL
+"Anna Birtha",Hermain,2,17,7,1922,NULL,NULL
+"Richard Lieber Jens Sofus",Lieberkind,1,24,7,1922,55.685668100000,12.566010800000
+"Elna Karin",Petersen,2,18,7,1922,55.665884000000,12.578505000000
+"Ella Elisbeth",Johansson,2,14,7,1922,55.682806900000,12.564072300000
+"Frederik Martin",Mortensen,1,12,7,1922,55.684746900000,12.566802000000
+"Einar Marius",Jørgensen,1,7,7,1922,NULL,NULL
+"Elisa Kirstine Birgitte",Jørgensen,2,27,7,1922,NULL,NULL
+"Alma Cecilie",Frederiksen,2,11,7,1922,55.673844000000,12.591802500000
+"Ella Andrea",Jørgensen,2,21,7,1922,NULL,NULL
+Aletsej,Michaelsen,1,25,7,1922,NULL,NULL
+"Harry Marius",Veile,1,6,7,1922,55.684662600000,12.567605700000
+"Alfred Harald",Andersen,1,18,7,1922,55.671313100000,12.552442500000
+"Carl Ejgil",Frederiksen,1,2,7,1922,55.647012200000,12.614467400000
+Valdemar,Christensen,1,10,7,1922,55.675289600000,12.597311200000
+"Christian Alfred Oscar",Frederiksen,1,24,7,1922,55.664093500000,12.609998400000
+Niels,Pedersen,1,22,7,1922,NULL,NULL
+"Ingeborg Laurine",Kjørtsholtzen,2,4,7,1922,NULL,NULL
+"Holger Theophilius",Mandix,1,22,7,1922,NULL,NULL
+"Johanne Frederikke",Nielson,2,3,7,1922,55.685376900000,12.569097600000
+Agnes,Larsen,2,15,7,1922,55.683073200000,12.572740200000
+"Anna Margrethe",Sinding,2,2,7,1922,55.680596600000,12.584671000000
+"Johannes Peter",Jakobsen,1,27,7,1922,NULL,NULL
+"Gudrun Dahlerup",Petersen,2,12,7,1922,55.685186900000,12.565263100000
+"Kamma Henny Augusta",Rist,2,8,7,1922,NULL,NULL
+Victor,Koefoed,1,25,7,1922,55.684267100000,12.570478400000
+Mella,Skalka,2,22,7,1922,NULL,NULL
+"Richard Peter",Nielsen,1,21,7,1922,55.691101300000,12.559026800000
+Richard,Wolff,1,3,7,1922,NULL,NULL
+"Ingeborg Anna Marie",Zimling,2,4,7,1922,NULL,NULL
+"Henry Olsen",Ærø,1,6,7,1922,NULL,NULL
+"Jens Pagh",Holbech,1,29,7,1922,NULL,NULL
+"Jørgen Peter",Nielsen,1,4,7,1922,NULL,NULL
+"Charles Antonius",Bouwman,1,8,7,1922,55.671397900000,12.575096800000
+"Hulda Amalie Caroline",Fuhlendorf,2,16,7,1922,55.661138100000,12.603588100000
+"Anna Petra",Petersen,2,1,7,1922,55.679479000000,12.574546400000
+"Anna Petra",Petersen,2,13,7,1922,55.671438600000,12.561695600000
+"Elisabeth Anna",Gunnarsson,2,28,7,1922,55.660136300000,12.608085500000
+"Axel Einar",Østlund,1,3,7,1922,55.664655200000,12.578495700000
+"Gerda Margrethe",Petersen,2,18,7,1922,55.665884000000,12.578505000000
+"Karen Marie",Christensen,2,24,7,1922,55.673776500000,12.576675700000
+Oswald,Rietmann,1,24,7,1922,55.684644500000,12.557834500000
+Oswald,Rietmann,1,5,7,1922,NULL,NULL
+"Axel Vilherlm",Petersen,1,11,7,1922,NULL,NULL
+"Axel Vilherlm",Petersen,1,1,7,1922,55.669011600000,12.554495800000
+"Anna Marie Josefine",Jeppesen,2,8,7,1922,55.679141100000,12.566731700000
+"Edvin Stougaard",Andersen,1,19,7,1922,55.682707700000,12.586153300000
+"Karl Henry",Christensen,1,9,7,1922,NULL,NULL
+Ellen,Olsen,2,11,7,1922,55.684941500000,12.569777600000
+"Anna Evelina",Sjöholm,2,17,7,1922,NULL,NULL
+"Asta Margrethe",Petersen,2,6,7,1922,55.685428200000,12.566633900000
+"Hans Axel",Jensen,1,28,7,1922,55.685428200000,12.566633900000
+Ester,Adolfsson,2,25,7,1922,55.707492100000,12.577737400000
+"Jens Frederik Albert",Petersen,1,7,7,1922,55.685722700000,12.566767500000
+"Anna Hansine Jacobine",Hansen,2,20,7,1922,NULL,NULL
+"Anna Johanne",Hansen,2,6,7,1922,55.680596600000,12.584671000000
+"Agda Viola Hansine Hansen",Rosen,2,10,7,1922,55.683781000000,12.563438100000
+"Christian Carl",Christensen,1,25,7,1922,55.674190100000,12.550852200000
+"Helga Margrethe",Andersen,2,14,7,1922,55.678369500000,12.566706100000
+"Bertha Johanne Eleonora",Knutzen,2,6,7,1922,NULL,NULL
+"Hans Marius",Petersen,1,25,7,1922,NULL,NULL
+"Pouline Hansine",Jensen,2,21,7,1922,NULL,NULL
+"Ella Augusta",Jensen,2,3,7,1922,NULL,NULL
+"Amanda Hansine",Larsen,2,5,7,1922,55.680906300000,12.575519500000
+Anna,Christgau,2,5,7,1922,NULL,NULL
+"Rigmor Marentze",Jensen,2,15,7,1922,NULL,NULL
+"Anna Elisabeth",Lundqvist,2,19,7,1922,NULL,NULL
+"Sara Vilhelmine",Jensen,2,25,7,1922,NULL,NULL
+"Erna Johanne",Bylov,2,24,7,1922,NULL,NULL
+"Axel Thor",Rosvall,1,31,7,1922,NULL,NULL
+"Christian Peter",Larsen,1,19,7,1922,NULL,NULL
+"Erna Elisabeth Johanne",Jensen,2,18,7,1922,NULL,NULL
+Anders,Carlsen,1,1,7,1922,55.683463700000,12.571323700000
+"Selma Caroline",Jensen,2,1,7,1922,55.704524700000,12.585309200000
+"Jacob Krisdorff",Nielsen,1,11,7,1922,55.684746900000,12.566802000000
+"Carl Ole Buhl",Halkjær,1,10,7,1922,NULL,NULL
+Gunnlaug,Breim,3,22,7,1922,55.683781000000,12.563438100000
+"Ellen Mary",Johanson,2,1,7,1922,NULL,NULL
+"Jørgen Peter Christian",Hallum,1,12,7,1922,NULL,NULL
+"Helge Hartmann Frants",Steenberg,1,8,7,1922,NULL,NULL
+"Axel Marius",Johansen,1,6,7,1922,NULL,NULL
+Børge,Johansen,1,8,7,1922,NULL,NULL
+"Ida Emile",Hamborg,2,7,7,1922,55.664001000000,12.599669600000
+Knud,Brorsen,1,6,7,1922,NULL,NULL
+Cornelius,Moesgaard,1,4,7,1922,NULL,NULL
+"Carl Richard Buchholtz",Ryager,1,3,7,1922,55.679026500000,12.568234300000
+"Anna Kirstine Jensen",Weng,2,29,7,1922,NULL,NULL
+"Anna Kirstine Jensen",Weng,2,14,7,1922,NULL,NULL
+"Clara Louise Andersen",Jensen,2,1,7,1922,NULL,NULL
+Conrad,Jensen,1,13,7,1922,NULL,NULL
+Dagmar,Jensen,2,6,7,1922,NULL,NULL
+"Johanne Kirstine",Pedersen,2,4,7,1922,NULL,NULL
+Ellen,Kruse,2,1,7,1922,55.664694800000,12.594813500000
+"Jørgen Christensen",Lausen,1,4,7,1922,NULL,NULL
+"Christian Frantz",Petersen,1,4,7,1922,55.682075500000,12.564270200000
+"Harry Jensen",Mønsted,1,23,7,1922,NULL,NULL
+Axel,Rasmussen,1,24,7,1922,NULL,NULL
+Christine,Pedersen,2,8,7,1922,NULL,NULL
+Arthur,Knights,1,1,7,1922,NULL,NULL
+"Ernst Juul",Krogsgaard,1,6,7,1922,NULL,NULL
+"Christine Elisabeth",Petersen,2,4,7,1922,NULL,NULL
+"Niels Andreas",Olsen,1,21,7,1922,55.682575400000,12.563804500000
+Thomina,Thomsen,2,13,7,1922,NULL,NULL
+"Jakob Theodor",Petersen,1,26,7,1922,NULL,NULL
+"Otto Carl",Olsen,1,18,7,1922,55.681489600000,12.563815900000
+"Alex Ludvig Stiller",Buchgreitz,1,22,7,1922,55.672338400000,12.554216500000
+"Anna Linnea",Westerdahl,2,12,7,1922,55.679783500000,12.574873400000
+"Thorkild Kaj Henrik Emilius",Rasmussen,1,24,7,1922,NULL,NULL
+"Valborg Edith",Rasmussen,2,21,7,1922,NULL,NULL
+"Edith Emilie",Petersen,2,6,7,1922,NULL,NULL
+"Edvard Albert",Petersen,1,8,7,1922,55.683614300000,12.565462200000
+"Anna Sofie",Rölin,2,4,7,1922,NULL,NULL
+"Christian Thomsen",Jensen,1,11,7,1922,55.682960300000,12.562462700000
+Carl,Teaik,1,8,7,1922,55.655989500000,12.612002600000
+"Helmuth Christian Hansen",Thilgren,1,20,7,1922,NULL,NULL
+Tage,Juul,1,12,7,1922,55.685363500000,12.567689300000
+Martin,Schmidt,1,7,7,1922,55.683964500000,12.565422300000
+"Anders Valdemar",Rasmussen,1,4,7,1922,55.671438600000,12.561695600000
+"Svend Aage",Larsen,1,7,7,1922,NULL,NULL
+Jan,Westra,1,10,7,1922,55.677492500000,12.566969400000
+Arnold,Hasencleves,1,10,7,1922,NULL,NULL
+"Ingeborg Louise",Nielsen,2,19,7,1922,55.684253600000,12.563684100000
+Ella,Petersen,2,5,7,1922,NULL,NULL
+"Christine Dorthea",Jensen,2,26,7,1922,55.692680700000,12.555987900000
+Elise,Tatt,2,3,7,1922,55.660452000000,12.616607300000
+"Else Helvig",Tegder,2,1,7,1922,NULL,NULL
+"Ernst Erling",Jonssen,1,15,7,1922,NULL,NULL
+"Steen Hansen",Hau,1,11,7,1922,NULL,NULL
+Elisabeth,Hansen,2,31,7,1922,NULL,NULL
+"Alfred Christian Marius Bjørklund",Svendsen,1,16,7,1922,55.665350000000,12.610699300000
+"Carl Edvard Emil",Svendsen,1,8,7,1922,NULL,NULL
+"Anna Marie Rosa",Hansen,2,1,7,1922,NULL,NULL
+"Petra Christine",Hansgaard,2,2,7,1922,NULL,NULL
+"Anna Otilia",Hansen,2,29,7,1922,55.675966700000,12.566018500000
+"Ingeborg Henrikke",Petersen,2,5,7,1922,55.675750200000,12.573730200000
+"Elisa Maria Cecilia",Haxthausen,2,18,7,1922,NULL,NULL
+"Cathrine Rasmine",Rasmussen,2,25,7,1922,NULL,NULL
+"Einar Peder",Jensen,1,11,7,1922,55.660157800000,12.608290000000
+"Ellen Marie",Petersen,2,3,7,1922,55.683017800000,12.564762800000
+"Ingrid Marie",Jørgensen,2,7,7,1922,55.673924200000,12.564848600000
+"Frithiof Christian",Heise,1,11,7,1922,NULL,NULL
+Poul,Collin,1,10,7,1922,55.677492500000,12.566969400000
+"Andreas Christen",Jensen,1,4,7,1922,NULL,NULL
+"Kaj Hans Stefan Nielsen",Hansen,1,6,7,1922,55.691435600000,12.553505600000
+"Johannes Vilhelm",Heil,1,25,7,1922,55.689989200000,12.572102900000
+"Johanns Christian",Petersen,3,7,7,1922,NULL,NULL
+"Carl Julius",Nielsen,1,4,7,1922,55.686573200000,12.567745900000
+"Carl Iver",Nielsen,1,18,7,1922,55.685123700000,12.569988600000
+"Anders Jessen",Gammelgaard,1,25,7,1922,55.684267100000,12.570478400000
+"Sofie Mathilde",Schuchard,2,31,7,1922,NULL,NULL
+"Johanne Sofie",Hansen,2,5,7,1922,55.680596600000,12.584671000000
+"Niels Sørensen Blaabjerg",Justesen,1,20,7,1922,55.682448000000,12.563654800000
+"Carl Otto Valfrid",Møller,1,29,7,1922,NULL,NULL
+"Elvira Christine",Rasmussen,2,19,7,1922,55.698614700000,12.576127500000
+"Herta Josefina",Lindqvist,2,24,7,1922,55.699283700000,12.580778600000
+Julie,Petersen,2,14,7,1922,55.673924200000,12.564848600000
+Olga,Caspersen,2,1,7,1922,NULL,NULL
+"Ellen Cecilie Marie Sofie",Iversen,2,7,7,1922,NULL,NULL
+"Svend Roland Holger",Schønfeldt,1,13,7,1922,NULL,NULL
+"Johanne Annette Josefine",Olsen,2,31,7,1922,55.673377600000,12.592927300000
+"Vilhelm Reinholdt",Jensen,1,4,7,1922,55.680434100000,12.573248800000
+"Holger Christian",Sørensen,1,4,7,1922,NULL,NULL
+Kirsten,Iversen,2,14,7,1922,55.673924200000,12.564848600000
+"Henry August",Petersen,1,7,7,1922,NULL,NULL
+Ellen,Jensen,2,12,7,1922,55.684858300000,12.564305100000
+"Fritzina Maria",Petersson,2,13,7,1922,55.681089300000,12.574515900000
+"Karen Sigrid Helga",Jørgensen,2,5,7,1922,55.678201400000,12.573014700000
+"Hedvig Eleonora",Hansson,2,18,7,1922,55.684198700000,12.571073300000
+"Peter Marius",Sørensen,1,11,7,1922,NULL,NULL
+"Laust Christian",Lausten,1,4,7,1922,NULL,NULL
+"Johannes Andreas Mathias",Koch,1,18,7,1922,NULL,NULL
+"Hans Marius",Rasmussen,1,15,7,1922,55.685247200000,12.570128200000
+Vilhelm,Jørgensen,1,12,7,1922,NULL,NULL
+"Emma Cathrine",Kröger,2,26,7,1922,NULL,NULL
+"Peter Christensen",Kaas,1,26,7,1922,55.663834700000,12.598962400000
+"Mathilde Christine",Jørgensen,2,22,7,1922,NULL,NULL
+"Oscar Christian",Jørgensen,1,24,7,1922,NULL,NULL
+"Kaj Aage Henry",Seehusen,1,8,7,1922,NULL,NULL
+"Ragnhild Tora Lauisse",Jørgensen,2,8,7,1922,NULL,NULL
+Rasmus,Jørgensen,1,29,7,1922,NULL,NULL
+"Kirsten Manda",Olsen,2,8,7,1922,NULL,NULL
+"Peter Valdemar",Nielsen,1,17,7,1922,55.699554700000,12.582166900000
+"Oda Alice Henriette",Larsen,2,20,7,1922,55.686194200000,12.566886800000
+"Iris Helene",Rasmussen,2,5,7,1922,55.678196100000,12.575246500000
+Anton,Sigsgaard,1,27,7,1922,55.671076800000,12.554584700000
+"Hans Jørgen Christian Hansen",Gislinge,1,31,7,1922,NULL,NULL
+Aage,Winther,1,20,7,1922,55.681295700000,12.583037500000
+Jens,Jacobsen,1,12,7,1922,55.685886100000,12.567702700000
+"Victor Daniel",Olsen,1,5,7,1922,NULL,NULL
+Vilhelmine,Jørgensen,2,7,7,1922,NULL,NULL
+"Arvind Peter Andreas",Simonsen,1,25,7,1922,NULL,NULL
+"Karen Jensen",Winther,2,5,7,1922,NULL,NULL
+"Karen Sofie",Jacobsen,2,5,7,1922,55.685769900000,12.588768600000
+Lester,Jørgensen,1,6,7,1922,55.682277900000,12.571107800000
+"Rasmus Johannes",Nielsen,1,2,7,1922,NULL,NULL
+"Hans Christian Emil",Møller,1,6,7,1922,55.683781000000,12.563438100000
+"Henry Georg Johan",Mundt,1,11,7,1922,55.685351400000,12.552599100000
+"Valdemar Jens",Lauridsen,1,14,7,1922,NULL,NULL
+"Valdemar Jens",Lauridsen,1,4,7,1922,NULL,NULL
+Henry,Reventlov,1,5,7,1922,NULL,NULL
+"Carla Gerda",Niclasen,2,6,7,1922,NULL,NULL
+"Niels Vilhelm",Jepsen,1,26,7,1922,55.677716900000,12.574473500000
+"Marie Elisabeth",Wohlert,2,24,7,1922,NULL,NULL
+"Olga Elvira Caroline",Jacobsen,2,11,7,1922,55.676314200000,12.571827400000
+"Adelhaid Emma Grafenkamm",Schou,2,27,7,1922,55.684747900000,12.588286500000
+"Mary Andrea",Petersen,2,8,7,1922,NULL,NULL
+"Christian Richardt",Nielsen,1,3,7,1922,NULL,NULL
+Aage,Nørgaard,1,11,7,1922,NULL,NULL
+"Ragnhild Valborg Amalie",Gam,2,1,7,1922,55.677236200000,12.576766100000
+"Valdemar Alexander",Nielsen,1,2,7,1922,NULL,NULL
+"Rasmus Vestergaard",Schroll,1,6,7,1922,55.670006400000,12.589927000000
+"Anna Katharina",Lauritzen,2,13,7,1922,55.673924200000,12.564848600000
+Inga,Sigurdson,2,12,7,1922,55.672062800000,12.577461300000
+"Carla Anna Nicoline",Olsen,2,10,7,1922,55.677890500000,12.567749300000
+"Hans Peter Henry",Hansen,1,12,7,1922,55.672903300000,12.559247100000
+"Vilhelm Harald Oluf",Rind,1,25,7,1922,NULL,NULL
+"Edvard Knud",Mörch,1,18,7,1922,NULL,NULL
+"Gundorf Helmuth",Ring,1,19,7,1922,NULL,NULL
+"Anna Cecilie",Thomsen,2,10,7,1922,55.686996100000,12.566993500000
+"Gustav Theodor",Lindberg,1,22,7,1922,NULL,NULL
+Ernst,Ovesen,1,1,7,1922,NULL,NULL
+"Ernst Christian",Ringberg,1,13,7,1922,NULL,NULL
+"Max Georg",Ringelmann,1,4,7,1922,NULL,NULL
+"Ella Marie Eulalia Wulff",Wulffeldt,2,22,7,1922,55.665066500000,12.606952700000
+"Carl Peter August",Thomsen,1,11,7,1922,55.671076800000,12.554584700000
+Clara,Olesen,2,10,7,1922,55.685584400000,12.568733100000
+"Axel Norup",Larsen,1,12,7,1922,55.670874100000,12.543798400000
+"Marie Frederikke",Carstensen,2,5,7,1922,55.677169200000,12.567459200000
+"Karla Elvira",Rodian,2,11,7,1922,NULL,NULL
+"Oluf Peter Aage",Olsen,1,11,7,1922,NULL,NULL
+"Johan Friis",Petersen,1,2,7,1922,NULL,NULL
+"Elly Vilhelmine",Olsen,2,10,7,1922,55.684537000000,12.569800400000
+Annie,Peltin,2,5,7,1922,NULL,NULL
+"Maren Olga",Jørgensen,2,14,7,1922,NULL,NULL
+"Oscar Garibaldi Alexander",Peülike,1,17,7,1922,NULL,NULL
+"Meinert Nikolaus",Nahmens,1,1,7,1922,NULL,NULL
+"Mads Sofus",Thomsen,1,14,7,1922,55.679228800000,12.577839100000
+Karen,Nielsen,2,18,7,1922,NULL,NULL
+Carla,Larsen,2,31,7,1922,55.690347300000,12.572006700000
+"Sarah Louise",Thomsen,2,14,7,1922,55.673924200000,12.564848600000
+"Ejnar Fritz August Beriot",Titzel,1,12,7,1922,NULL,NULL
+Edith,Nielsen,2,18,7,1922,55.678034600000,12.580396600000
+"Jens Christian",Nielsen,1,5,7,1922,55.676008300000,12.566148100000
+"Anna Vilhelmine",Puls,2,24,7,1922,NULL,NULL
+Henry,Tofteng,1,18,7,1922,NULL,NULL
+"Villy Aage",Munck,1,5,7,1922,NULL,NULL
+"Christian Alfred Holst",Tonning,1,25,7,1922,55.672062800000,12.577461300000
+"Johanne Christine",Petersen,2,7,7,1922,NULL,NULL
+"Thorvald Victor",Hedemand,1,10,7,1922,NULL,NULL
+"Karen Julie",Hansen,2,3,7,1922,55.678369500000,12.566706100000
+"Caroline Augusta",Lauritzen,2,1,7,1922,55.677737400000,12.578395100000
+Oline,Oppenheuser,2,1,7,1922,NULL,NULL
+"Agda Edith",Wagner,2,24,7,1922,NULL,NULL
+Axel,Wagner,1,31,7,1922,55.673632900000,12.555842400000
+"Peter Dalstrøm",Pedersen,1,3,7,1922,55.671992000000,12.548197500000
+"Gunnar Eskild",Larsen,1,11,7,1922,55.678376900000,12.569330100000
+"Gerda Marie Augusta Dagmar",Olsen,2,24,7,1922,NULL,NULL
+"Carl August",Christensen,1,4,7,1922,55.683504500000,12.565514500000
+"Carl Christian Jacob",Christensen,1,11,7,1922,55.671382500000,12.559903000000
+"Poul Ingemann Henry",Petersen,1,24,7,1922,NULL,NULL
+"Poul Lars Peter",Petersen,1,4,7,1922,55.681728600000,12.561303100000
+"Poul Valdemar",Petersen,1,12,7,1922,NULL,NULL
+"Ragnhild Frida Emilie Hvalsøe",Petersen,2,21,7,1922,NULL,NULL
+"Ulrik Ludvig",Olsen,1,27,7,1922,NULL,NULL
+"Poul Christian Nielsen",Palle,1,7,7,1922,55.678812000000,12.570307500000
+"Christian Carl",Rasmussen,1,15,7,1922,NULL,NULL
+"Ingeborg Kirstine",Michaelsen,2,7,7,1922,55.677822100000,12.575838400000
+"Johanne Christine",Petersen,2,7,7,1922,NULL,NULL
+"Thora Henriette Bodil Marie",Thuesen,2,19,7,1922,55.681558100000,12.563648700000
+"Ingvard Johannes",Jensen,1,24,7,1922,55.684650000000,12.571620800000
+"Johan August",Jensen,1,27,7,1922,NULL,NULL
+"Jenny Kirsting",Larsen,2,3,7,1922,55.694237500000,12.570014200000
+"Helga Johanne Christiane",Jensen,2,28,7,1922,NULL,NULL
+"Oda Marie",Christensen,2,13,7,1922,NULL,NULL
+"Hugo Samuel",Svensson,1,24,7,1922,NULL,NULL
+"Signe Caroline",Petersen,2,3,7,1922,NULL,NULL
+"Emma Margrethe Veronica",Tøpfer,2,6,7,1922,NULL,NULL
+"Hilfsid Johanne",Jensen,2,31,7,1922,NULL,NULL
+"Carla Cecilie",Kirchhoff,2,25,7,1922,NULL,NULL
+"Rimi Lusha Charles",Christensen,1,17,7,1922,55.669740100000,12.558053900000
+"Jens Christian",Jensen,1,24,7,1922,NULL,NULL
+"Jens Nissen",Svendsen,1,28,7,1922,55.685428200000,12.566633900000
+"Kirstine Marie",Laursen,2,31,7,1922,NULL,NULL
+Søren,Christensen,1,18,7,1922,NULL,NULL
+"Anders Christian Ernst",Simonsen,1,5,7,1922,NULL,NULL
+"Valdemar Viggo",Rasmussen,1,31,7,1922,55.685332000000,12.565023400000
+Viggo,Rasmussen,1,1,7,1922,55.678730100000,12.574982500000
+"Karen Elna",Nielsen,2,5,7,1922,55.696480400000,12.574800800000
+"Edith Carla Vilhelmine Victoria Thomsen",Jensen,2,17,7,1922,55.694778200000,12.561043700000
+"Elna Johanne Charlotte",Hansen,2,4,7,1922,NULL,NULL
+"Elna Kirstine",Hansen,2,26,7,1922,55.672128600000,12.578674600000
+"Astrid Sofie",Mortensen,2,6,7,1922,55.678196100000,12.575246500000
+"Niels Jørgen",Hansen,1,18,7,1922,55.684941500000,12.569777600000
+Elisabeth,Sørensen,2,6,7,1922,55.684663400000,12.564081500000
+"Dagmar Louise",Christensen,2,5,7,1922,55.678196100000,12.575246500000
+"Sofus Marinus",Petersen,1,29,7,1922,55.684989800000,12.567749300000
+"Johannes Carl",Mortensen,1,18,7,1922,55.678520400000,12.592339200000
+Laurits,Larsen,1,29,7,1922,55.698260000000,12.577472700000
+Hans,Kjær,1,3,7,1922,55.678306000000,12.569661700000
+"Niels Christian",Simonsen,1,5,7,1922,NULL,NULL
+"Ludovica Andrea",Mortensen,2,5,7,1922,55.678196100000,12.575246500000
+"Alma Marie",Jensen,2,7,7,1922,55.685083000000,12.568743700000
+"Ellen Victoria",Jensen,2,13,7,1922,55.682199300000,12.571865100000
+"August Thorvald",Jensen,1,1,7,1922,55.682277900000,12.571107800000
+"Else Johanne Kristine",Jensen,2,24,7,1922,NULL,NULL
+"Anna Margrethe Therese",Pohling,2,14,7,1922,NULL,NULL
+"Anna Christine",Jensen,2,4,7,1922,55.677346000000,12.567790500000
+"Anna Gudrun Rasmine",Jensen,2,10,7,1922,55.690580100000,12.540358000000
+"Ane Jensine",Jensen,2,14,7,1922,55.673924200000,12.564848600000
+Frode,Hansen,1,1,7,1922,55.658703600000,12.603642200000
+"Niels Ejnar Vestergaard",Jørgensen,1,13,7,1922,NULL,NULL
+"Vilhelmine Marie",Jørgensen,2,3,7,1922,55.667748600000,12.596939900000
+Valdemar,Petersen,1,10,7,1922,55.696111000000,12.573817800000
+"Niels Hansen",Sørensen,1,29,7,1922,55.686679100000,12.546804200000
+"Ketty Marie Adeline",Sørensen,2,8,7,1922,NULL,NULL
+"Knud Groth",Sørensen,1,15,7,1922,55.677945900000,12.575615500000
+"Jensine Birgitte",Christensen,2,13,7,1922,NULL,NULL
+"Clara Marie",Storch,2,20,7,1922,55.683636400000,12.565044400000
+"Osvald Leo",Hansen,1,21,7,1922,55.698366700000,12.575665400000
+"Thor johannes",Jørgensen,1,8,7,1922,55.684492000000,12.572964000000
+"Blenda Caroline",Jønsson,2,15,7,1922,55.683158100000,12.572571100000
+"Gudrun Borghild",Christiansen,2,8,7,1922,55.690592200000,12.573945700000
+"Mette Kirstine",Jensen,2,1,7,1922,55.672705900000,12.576186300000
+Villiam,Sørensen,1,14,7,1922,55.694197100000,12.577381700000
+"Hans Christian Schmidt",Hermansen,1,25,7,1922,55.694045400000,12.549595100000
+Louise,Nissen,2,4,7,1922,NULL,NULL
+"Merie Frieda Margaretha",Nissen,2,20,7,1922,55.685502300000,12.565330700000
+"Svend Aage Huggo",Hansen,1,11,7,1922,55.683876900000,12.567891800000
+"Helga Vilhelmine",Nordberg,2,7,7,1922,55.675966700000,12.566018500000
+"Holger Laurits",Laursen,1,4,7,1922,55.684599300000,12.571124700000
+Laura,Laursen,2,31,7,1922,NULL,NULL
+Vagn,Kaastrup,1,27,7,1922,55.679026500000,12.568234300000
+"Leo Etienne Albert",Hansen,1,1,7,1922,NULL,NULL
+"Petra Gunhild Emilie",Levinsen,2,6,7,1922,55.708543100000,12.570295900000
+"Clara Pouline",Jensen,2,20,7,1922,55.657822200000,12.519723400000
+"Vitak Ruth",Hansen,3,5,7,1922,55.707407600000,12.582718600000
+"Niels Uldahl",Jensen,1,10,7,1922,55.676830700000,12.571922300000
+"Inger Oline Jensine",Christiansen,2,4,7,1922,NULL,NULL
+Johan,Christiansen,1,29,7,1922,55.675966700000,12.566018500000
+"Clara Alfrida",Haarnell,2,17,7,1922,55.699891700000,12.580664300000
+"Alf Mogens Christian",Henriksen,1,8,7,1922,55.671067200000,12.560406700000
+"Carl Edvard Dam",Hendriksen,1,12,7,1922,55.685485400000,12.567664900000
+"Carl Edvard Dam",Hendriksen,1,12,7,1922,55.685485400000,12.567664900000
+"Else Cathrine",Nielsen,2,18,7,1922,55.683284100000,12.564630200000
+"Oda Hansine Petrea",Jensen,2,1,7,1922,NULL,NULL
+Margret,Halldorsdatter,2,4,7,1922,55.684537000000,12.569800400000
+Nikoline,Sparre,2,12,7,1922,55.690712800000,12.572533000000
+"Etna Valborg",Nielsen,2,24,7,1922,55.678519800000,12.574401500000
+"Astrid Nicoline",Jørgensen,2,1,7,1922,NULL,NULL
+"Hanna Henriette",Hammarlund,2,7,7,1922,55.676830700000,12.571922300000
+"Ruth Christina",Skarp,2,15,7,1922,NULL,NULL
+"Anna Marie",Sundberg,2,21,7,1922,55.694835200000,12.554251200000
+"Erna Margrethe",Henriksen,2,1,7,1922,55.688148500000,12.541533000000
+"Agnes Elisabeth Frida",Skjoldsøe,2,1,7,1922,55.694778200000,12.561043700000
+"Hedvig Ingeborg",Henriksson,2,15,7,1922,55.707688700000,12.570957700000
+Laufey,Magnusson,3,13,7,1922,55.678726200000,12.574796400000
+"Helge Vietang",Malm,1,1,7,1922,55.686484400000,12.566766100000
+Niels,Christiansen,1,3,7,1922,55.681489600000,12.563815900000
+"Edith Kirstine Selma",Norwin,2,25,7,1922,55.663372200000,12.602354900000
+Eigild,Mandal,1,1,7,1922,55.677520800000,12.576457400000
+"Emil Carl Johan",Johansen,1,14,7,1922,55.681736000000,12.563247600000
+"Marie Christine Jensine",Listh,2,10,7,1922,NULL,NULL
+Magnus,Søby,1,3,7,1922,55.683781000000,12.563438100000
+"Christine Louise",Jørgensen,2,12,7,1922,NULL,NULL
+"Dagmar Hedvig",Jørgensen,2,14,7,1922,NULL,NULL
+"Nelly Marie",Marckusen,2,21,7,1922,55.682895700000,12.588877100000
+"Hans Christian",Nielsen,1,6,7,1922,55.682700300000,12.563964500000
+"Olga Linnea Emilie",Olofsson,2,1,7,1922,55.677491700000,12.567614000000
+"Georg Thorvald Petersen",Næsby,1,18,7,1922,55.675243600000,12.572429200000
+"Ellen Minna Othilie Pouline Theodora",Raagefelt,2,20,7,1922,NULL,NULL
+Emma,Søndergaard,2,26,7,1922,55.679743100000,12.571473400000
+"Olga Cathrine",Stendal,2,1,7,1922,55.722020700000,12.572733800000
+Alfred,Clausen,1,27,7,1922,55.688606900000,12.557658500000
+Axel,Clausen,1,7,7,1922,55.692089700000,12.554341600000
+"Einer Sofus Peter",Jørgensen,1,1,7,1922,55.680685500000,12.573099100000
+"Elise Christine",Jørgensen,2,31,7,1922,NULL,NULL
+"Jean Knudsen",Overgaard,1,11,7,1922,NULL,NULL
+"Elna Gerda",Starck,2,17,7,1922,55.685428200000,12.566633900000
+"Armand Hjalmar Alexander Bræmer",Jensen,1,8,7,1922,55.683223000000,12.565586200000
+"Otto Lundbye",Steen,1,3,7,1922,55.685574900000,12.566264200000
+"Mette Kathrine",Knudsen,2,1,7,1922,55.677461500000,12.577319300000
+"Henning Theodor Bernhard",Reher,1,31,7,1922,55.674528900000,12.576019100000
+"Christian Jørgen",Reitzel,1,8,7,1922,55.688540000000,12.583869700000
+"Elna Margrethe",Andreasen,2,6,7,1922,55.664458700000,12.578232000000
+Edel,Bonnevie,2,2,7,1922,55.675750200000,12.573730200000
+"Gerhard Valdemar",Andresen,1,29,7,1922,55.689028900000,12.553577800000
+"Ella Margrethe",Bech,2,7,7,1922,55.692416700000,12.564468700000
+"Johanne Christence",Langergaard,2,1,7,1922,NULL,NULL
+"Julie Eline Rigmor",Spar,2,24,7,1922,55.678122500000,12.590481900000
+"Robert Amli",Specht,1,19,7,1922,55.686360100000,12.566263000000
+"Clara Frida",Bebensee,2,12,7,1922,NULL,NULL
+Carl,Suchy,1,11,7,1922,55.686000100000,12.567632600000
+"Carl Christian Wilhelm",Lynge,1,29,7,1922,55.686484400000,12.566766100000
+Alflutd,Lysholm,2,3,7,1922,NULL,NULL
+"Ellen Agnes",Mathiasen,2,10,7,1922,55.673517300000,12.575976700000
+"Margrethe Jensine Vilhelmine",Bendixen,2,14,7,1922,55.691688000000,12.558909900000
+"Gustav Adolf",Mathiesen,1,21,7,1922,55.670639800000,12.558860700000
+"Alma Marie",Nielsen,2,18,7,1922,NULL,NULL
+"Kai Erhardt Virgenius Oliver Qvist",Dunhammer,1,19,7,1922,NULL,NULL
+"Augusta Vilhelmine Marie",Nielsen,2,7,7,1922,55.682273600000,12.564387800000
+"Kai Otto",Andersen,1,12,7,1922,55.684858300000,12.564305100000
+"Christine Petersen",Mau,2,25,7,1922,55.684267100000,12.570478400000
+Rebekka,Babitzkow,2,7,7,1922,55.670530000000,12.570808600000
+"Herman Alfred",Bach,1,14,7,1922,NULL,NULL
+"Axel Holger Niels Peter",Adamsen,1,7,7,1922,55.729056100000,12.563837500000
+"Hans Alfred Valdemar",Drewsen,1,11,7,1922,NULL,NULL
+Henri,Blanch,1,10,7,1922,55.677492500000,12.566969400000
+"Agnes Cecilie",Løfqvist,2,14,7,1922,55.685336500000,12.570162600000
+Thilda,Aakesson,2,13,7,1922,55.673797600000,12.577517400000
+Michael,Almon,1,5,7,1922,NULL,NULL
+Thora,Ahlmann,2,15,7,1922,NULL,NULL
+"Inger Frederikke",Block,2,5,7,1922,55.683578400000,12.574037900000
+"Arthur Vilhelm",Albrechtsen,1,13,7,1922,NULL,NULL
+"Carl Frederik Bernstoff",Alskov,1,19,7,1922,55.654626700000,12.610715600000
+Lillian,Andersen,2,15,7,1922,55.673924200000,12.564848600000
+"Erik Edvard Alvar",Ahlstrøm,1,17,7,1922,55.685502300000,12.565330700000
+"Ellen Margrethe",Bentzen,2,4,7,1922,NULL,NULL
+"Helene Hedvig Alba",Bagger,2,1,7,1922,55.673105000000,12.554452900000
+"Ole Peter",Damm,1,27,7,1922,55.681848400000,12.570919900000
+"Oluf Ludvig",Bang,1,26,7,1922,55.672306400000,12.548098700000
+"Anni Evaline",Amilon,2,21,7,1922,55.684068000000,12.587319800000
+"Svend Aage Nicolajsen",Dahm,1,5,7,1922,55.689597600000,12.553654400000
+"Rosa Henrietta",Aalling,2,8,7,1922,NULL,NULL
+"Alex Heinrich Marinus",Amorøe,1,1,7,1922,55.693495000000,12.545400900000
+Henry,Andreasen,1,27,7,1922,55.668910000000,12.555584000000
+Henry,Andreasen,1,15,7,1922,55.671127200000,12.559941000000
+"Bertha Marie",Dahl,2,3,7,1922,55.668347200000,12.549215000000
+"Vetsera Viola Elin Irene",Parlum,2,14,7,1922,NULL,NULL
+"Niels Ludvig Christian",Damgaard,1,7,7,1922,55.665076700000,12.582894800000
+Friedrich,Auerbeck,1,25,7,1922,55.673114800000,12.558880900000
+"Elvine Marie Christine",Avnsbo,2,24,7,1922,NULL,NULL
+"Ruth Emilia",Johansson,2,29,7,1922,55.675966700000,12.566018500000
+Elisabeth,Abrahamsen,2,7,7,1922,55.664470100000,12.602743500000
+"Jørgen Christian",Dahl,1,7,7,1922,55.689530700000,12.571834200000
+"Arthur Vilhelm",Bergqvist,1,20,7,1922,55.677264900000,12.569646600000
+"Poul Bjarne",Damsbo,1,18,7,1922,55.685485400000,12.567664900000
+Astrid,Søndergaard,2,26,7,1922,55.679743100000,12.571473400000
+"Svea Maria",Augustsson,2,29,7,1922,NULL,NULL
+"Marry Jensine",Augustinus,2,15,7,1922,55.700651500000,12.541719000000
+"Ellen Elisabeth",Schörling,2,11,7,1922,55.679901400000,12.574698100000
+"Aage Bernhardt",Jørgensen,1,17,7,1922,55.664315200000,12.580569800000
+"Hugo Flemming Seth",Davidsen,1,14,7,1922,55.684827300000,12.569066400000
+"Vilhelm Christian",Adamsen,1,6,7,1922,55.678908800000,12.589713100000
+Carl,Berthelsen,1,3,7,1922,55.682239400000,12.561789400000
+"Ella Graakjær",Berthelsen,2,20,7,1922,55.689702900000,12.564727300000
+"Ester Elisabeth",Danielsson,2,29,7,1922,NULL,NULL
+"Jens Axel Edvin",Andreasen,1,20,7,1922,55.691213300000,12.542532000000
+Johan,"Andreasen (Kl. Sørensen)",1,14,7,1922,55.671326500000,12.546083600000
+"Carla Petrea",Aagesen,2,18,7,1922,55.698819700000,12.542678400000
+Christian,Djurhuus,1,10,7,1922,NULL,NULL
+"Dagmar Johanne Karen",Andresen,2,24,7,1922,55.691897700000,12.540825700000
+"Mary Gerda",Arildsen,2,4,7,1922,55.665844500000,12.598533300000
+"Dura Rakel",Abrohomovits,2,29,7,1922,55.673648600000,12.559428300000
+Esther,Adolfsson,2,21,7,1922,55.707492100000,12.577737400000
+"Helena Augusta",Aanonsen,2,26,7,1922,NULL,NULL
+"Frida Charlotte Thyra",Doberck,2,3,7,1922,NULL,NULL
+Arne,Abildgaard,1,8,7,1922,55.673517300000,12.575976700000
+"Otto Christian",Abildgaard,1,28,7,1922,55.690876000000,12.564918200000
+"Erik Christian",Abildtrup,1,15,7,1922,55.666596900000,12.556311900000
+"Alfrida Louise Sophie",Abildstrøm,2,4,7,1922,NULL,NULL
+"Johanne Kirstine",Andresen,2,26,7,1922,55.691897700000,12.540825700000
+"Kai Otto Niels",Andresen,1,24,7,1922,55.691897700000,12.540825700000
+"Frederik Ernst August",Danielsen,1,1,7,1922,55.670303100000,12.587819300000
+Kaj,Agertoft,1,17,7,1922,NULL,NULL
+"Kai Emil",Aggersbøl,2,4,7,1922,55.690158000000,12.571177700000
+Herluf,Arnholm,1,20,7,1922,NULL,NULL
+"Ejnar Mose Jensen",Dige,1,4,7,1922,55.681742800000,12.564822200000
+"Kirsti Rasmine",Aistrup,2,15,7,1922,55.697752400000,12.543929800000
+Margrethe,Andreasen,2,1,7,1922,NULL,NULL
+Emmy,Fischer,2,4,7,1922,NULL,NULL
+Asthildur,Arneson,2,18,7,1922,NULL,NULL
+"Christian Valdemar",Holgersen,1,22,7,1922,55.681237200000,12.578617700000
+Christian,Holmen,1,8,7,1922,55.681851400000,12.571214300000
+"Ole Severin",Andreasen,1,4,7,1922,55.705209800000,12.578810300000
+"Ole Severin",Andreasen,1,17,7,1922,55.705209800000,12.578810300000
+"Anna Marie",Dau,2,7,7,1922,55.669379700000,12.553539000000
+Julius,Daugaard,1,25,7,1922,55.691960500000,12.554547400000
+Wladimir,Arzumanow,1,12,7,1922,NULL,NULL
+"Christian B.",Holtehus,1,20,7,1922,55.686172800000,12.567934800000
+Edith,Dircks,2,2,7,1922,55.684933900000,12.565736200000
+"Beata Charlotta",Andersson,2,4,7,1922,55.681051600000,12.579516600000
+"Hans Vilhelm",Dahlerup,1,28,7,1922,55.686573100000,12.589835600000
+"Henriette Susanne Vilhelmine",Dahlerup,2,28,7,1922,55.686573100000,12.589835600000
+"Find Erik",Brodersen,1,31,7,1922,55.679946200000,12.591727200000
+Christian,Bengtsson,1,4,7,1922,NULL,NULL
+"Frans Oscar",Andersen,1,14,7,1922,55.686934800000,12.588815200000
+Dagny,Holm,2,5,7,1922,55.675606400000,12.572841600000
+"Kaj Svend Stahl",Bigum,1,1,7,1922,55.667343200000,12.595774800000
+"Kai Dannemann",Bischoff,1,14,7,1922,55.671868400000,12.549115200000
+"Sigrid Astrid Laura",Andreasen,2,15,7,1922,55.701017500000,12.549973300000
+"Anna Margrethe",Asmussen,2,8,7,1922,55.698319100000,12.582389400000
+"Julius Axel",Due,1,5,7,1922,55.655589200000,12.611937100000
+"Svend Aage Rothe",Andresen,1,1,7,1922,55.664310500000,12.601970500000
+"Ellen Margrethe",Jensen,2,25,7,1922,NULL,NULL
+"Julius Toksværd",Becher,1,28,7,1922,NULL,NULL
+Elly,Backer,2,31,7,1922,55.680812100000,12.583826500000
+"Else Marie Sofie",Hunnerup,2,12,7,1922,55.683327000000,12.565323900000
+"Hans Frederik Thorvald",Jensen,1,28,7,1922,NULL,NULL
+"Johanne Marie",Holm,2,1,7,1922,55.685428200000,12.566633900000
+Villiam,Dahlgaard,1,25,7,1922,NULL,NULL
+"William Jørgen Carl",Andreasen,1,6,7,1922,55.663622100000,12.542672000000
+"Erna Charlotte Jensine",Boesen,2,29,7,1922,55.694588800000,12.570542600000
+"Josef Aloysius Frederik Knud",Christensen,1,24,7,1922,NULL,NULL
+"Aage Robert",Dybvang,1,19,7,1922,55.681144900000,12.581240500000
+"Dynnes Christian",Dynnesen,1,21,7,1922,NULL,NULL
+Frida,Høg,2,6,7,1922,55.678519800000,12.574401500000
+Marius,Dünweber,1,22,7,1922,NULL,NULL
+"Otto Michael",Hørskov,1,1,7,1922,55.676212000000,12.572900800000
+Frederik,Albinussen,1,18,7,1922,55.700278200000,12.547414100000
+"Ella Beate",Bodilsson,2,1,7,1922,55.670786200000,12.563763200000
+Andreas,Arntoft,1,27,7,1922,55.670602700000,12.552877300000
+"Ingeborg Mathilde",Dyhrberg,2,8,7,1922,NULL,NULL
+"Emma Christina",Dahlqvist,2,8,7,1922,NULL,NULL
+"Svend Frederik",Jansen,1,4,7,1922,55.673467700000,12.574655600000
+"Holger William",Jarto,1,1,7,1922,55.679783500000,12.574873400000
+"Axel Christian",Carlsen,1,1,7,1922,NULL,NULL
+"Ludvig Tang",Jensen,1,4,7,1922,NULL,NULL
+"Peter Aksel",Christiansen,1,25,7,1922,NULL,NULL
+Niels,Arentoft,1,27,7,1922,55.670602700000,12.552877300000
+"Axel Anker Ingolf Marinus Villy Bold",Dahlstrøm,1,15,7,1922,NULL,NULL
+Christine,Dyrhauge,2,4,7,1922,55.670946300000,12.563026400000
+"Adiane Marie Justine Petrine",Busk,2,11,7,1922,NULL,NULL
+"Frederik Thedor",Dyrving,1,22,7,1922,55.668458800000,12.550135600000
+"Anders Adolf",Anderberg,1,13,7,1922,55.684355900000,12.569037500000
+"Erik Artur",Carlsson,1,15,7,1922,NULL,NULL
+"Edith Marie Emilie",Larsen,2,5,7,1922,55.693155000000,12.550915800000
+"Niels Martin",Jensen,1,3,7,1922,55.664398000000,12.612110100000
+"Ella Margrethe",Larsen,2,14,7,1922,NULL,NULL
+"Anna Marie Cathrine",Christensen,2,4,7,1922,NULL,NULL
+Robert,Fraenkel,1,17,7,1922,55.678669500000,12.588663900000
+"Axel Gerhardt",Jespersen,1,26,7,1922,55.682021500000,12.571960900000
+Marinus,Holbæk,1,5,7,1922,55.682873500000,12.573182600000
+"Agda Evelina",Cronholm,2,13,7,1922,NULL,NULL
+"Karl Sigvard",Jensen,1,13,7,1922,NULL,NULL
+Clara,Christensen,2,6,7,1922,NULL,NULL
+"Alfred Julius Eduard Runge",Eriksen,1,6,7,1922,NULL,NULL
+Maren,Hom,2,18,7,1922,55.699525400000,12.540733600000
+"Ernst Rishøj",Christensen,1,22,7,1922,NULL,NULL
+"Knud Zigler",Fledelius,1,18,7,1922,NULL,NULL
+"Johan Helge Andersen",Krusell,1,18,7,1922,55.683468000000,12.573870700000
+"Lauritz Christian Sofus",Larsen,1,10,7,1922,NULL,NULL
+"Bruno Emil Fritz Rolsted",Hansen,1,21,7,1922,NULL,NULL
+"Gerda Cathrine",Bohn-Jespersen,2,13,7,1922,55.685668100000,12.566010800000
+"Johannes Christian",Graversen,1,7,7,1922,55.684212700000,12.574468800000
+Johanne,Holte,2,4,7,1922,NULL,NULL
+"Anna Mathea Vilhelmine",Grøn,2,11,7,1922,NULL,NULL
+"Christian Hans Johannes",Christiansen,1,31,7,1922,NULL,NULL
+"Anna Christine",Hørl,2,7,7,1922,NULL,NULL
+"Anna Cathrine",Lebel,2,1,7,1922,NULL,NULL
+"Harald Axel",Levring,1,4,7,1922,55.671891500000,12.562583700000
+"Carl Vilhelm",Gyldensted,1,24,7,1922,NULL,NULL
+"Agnes Christine Amalie",Gædde,2,22,7,1922,NULL,NULL
+"Astrid Ester Elvira",Gädda,2,25,7,1922,NULL,NULL
+"Christian Frederik",Götz,1,10,7,1922,NULL,NULL
+"Helene Kathrine",Hagerup,2,4,7,1922,NULL,NULL
+Tekla,Jensen,2,3,7,1922,55.684212700000,12.574468800000
+"Theresia Alexandra Olivia",Jensen,2,27,7,1922,NULL,NULL
+Anton,Larsen,1,6,7,1922,55.680412500000,12.583073100000
+Bruno,Lischka,1,5,7,1922,NULL,NULL
+"Kai Djalmar Moe",Madsen,1,22,7,1922,NULL,NULL
+"Hans Henry Sigfred Hansen",Faurholt,1,10,7,1922,NULL,NULL
+"Charles Vilhelm Ove",Lund,1,3,7,1922,NULL,NULL
+"Rasmus Anton",Madsen,1,10,7,1922,NULL,NULL
+"Jean Viktor Louis",Hellstrøm,1,17,7,1922,NULL,NULL
+"Joachim Poul",Hennings,1,8,7,1922,NULL,NULL
+"Hans Julius",Nielsen,1,6,7,1922,NULL,NULL
+"Hulda Cristine",Myhre,2,17,7,1922,NULL,NULL
+"Dagny Marie",Madsen,2,10,7,1922,NULL,NULL
+"Emmy Axelina",Magnusson,2,15,7,1922,55.680769700000,12.588171300000
+"Henry Viggo",Nielsen,1,25,7,1922,NULL,NULL
+"Henrik Vilhelm",Nielsen,1,6,7,1922,NULL,NULL
+Alfred,Nielsen,1,4,7,1922,NULL,NULL
+"Hilmer Marius",Nilsson,1,3,7,1922,NULL,NULL
+"Holger Land",Nielsen,1,7,7,1922,NULL,NULL
+"Alma Johanne",Nielsen,2,15,7,1922,NULL,NULL
+"Frederik Jacob Marius",Wallentin,1,11,7,1922,55.684264300000,12.587482700000
+"Alfred Christian",Sørensen,1,16,7,1922,NULL,NULL
+"Anna Emilie",Nielsen,2,8,7,1922,NULL,NULL
+"Peter Emil",Sædder,1,1,7,1922,NULL,NULL
+"Else Marie",Sørensen,2,14,7,1922,NULL,NULL
+Erik,Sørensen,1,10,7,1922,NULL,NULL
+"Hans Emil Edelmann",Sørensen,1,21,7,1922,NULL,NULL
+"Hans Frederik Jacob",Sørensen,1,14,7,1922,NULL,NULL
+"Hans Harald Theodor",Sørensen,1,1,7,1922,NULL,NULL
+Henrik,Sørensen,1,1,7,1922,NULL,NULL
+"Ove Vest",Marker,1,4,7,1922,NULL,NULL
+"Roberto Vilhelm",Veile,1,21,7,1922,55.683578400000,12.574037900000
+"Ketty Elisabeth",Rasmussen,2,12,7,1922,NULL,NULL
+"Karl Marius Jensen",Tholstrup,1,5,7,1922,NULL,NULL
+"Johannes Heinrich Viborg",Thomsen,1,11,7,1922,NULL,NULL
+"Lauritz Adolf Kold",Winkel,1,3,7,1922,55.679042000000,12.589221300000
+"Lia de",Zabeline,2,7,7,1922,NULL,NULL
+"Elsa Cathrine",Vorsborg,2,13,7,1922,NULL,NULL
+"Rosa Johanne",Petersen,2,13,7,1922,NULL,NULL
+"Sofus August",Petersen,1,11,7,1922,NULL,NULL
+Søren,Petersen,1,11,7,1922,NULL,NULL
+"Søren Christian Marius",Petersen,1,11,7,1922,NULL,NULL
+"Oda Gabriella",Nielsen,2,31,7,1922,NULL,NULL
+Peter,Nielsen,1,28,7,1922,NULL,NULL
+"Ida Mariane",Nicolaisen,2,8,7,1922,NULL,NULL
+"Telse Elise",Nielsen,2,11,7,1922,NULL,NULL
+"Helga Marie Kirstine",Ovesen,2,3,7,1922,NULL,NULL
+"Niels Peter Robert",Nordstrøm,1,7,7,1922,NULL,NULL
+"Aldo Charles Victor",Olsen,1,13,7,1922,NULL,NULL
+"Hans Christian",Degenkolv,1,5,7,1922,55.697745800000,12.586613000000
+"Louise Marie",Salomonssen,2,7,7,1922,NULL,NULL
+Christine,Petersen,2,11,7,1922,55.677674300000,12.589317000000
+"Einar Frederik Heinrich",Petersen,1,29,7,1922,NULL,NULL
+"Jens Peter",Andersen,1,14,7,1922,NULL,NULL
+"Jens Peter",Andersen,1,1,7,1922,NULL,NULL
+"Georgine Theodora",Hansen,2,15,7,1922,NULL,NULL
+"Nils Olander",Göransson,1,15,7,1922,NULL,NULL
+Julius,Andersen,1,24,7,1922,NULL,NULL
+Ivar,Andersen,1,18,7,1922,NULL,NULL
+"Christian Frederik",Troelsen,1,12,7,1922,NULL,NULL
+"Aly Christine",Hansen,1,17,7,1922,55.691734700000,12.553533400000
+"August Osvald Julius",Hansen,1,11,7,1922,NULL,NULL
+"Mads Marinus Carl",Andersen,1,7,7,1922,55.691817300000,12.559123400000
+"Frederik Ludvig",Bruun,1,4,7,1922,NULL,NULL
+"Erna Marie",Hansen,2,5,7,1922,NULL,NULL
+"Godtfred Christian Marius",Bekker,1,3,7,1922,55.689351200000,12.563075300000
+"August Johannes Weinborg",Andersen,1,12,7,1922,NULL,NULL
+"Betty Jørgine",Hansen,2,11,7,1922,NULL,NULL
+"Wilhelm Gotfred Emil",Hertz,1,15,7,1922,55.684650000000,12.571620800000
+"Carl Ludvig August",Haahr,1,26,7,1922,NULL,NULL
+"Edvard Valentin",Husted,1,5,7,1922,55.688719600000,12.547226800000
+"Ella Johanne Mathilde",Fugmann,2,22,7,1922,NULL,NULL
+"Anna Kristine",Mortensen,2,24,7,1922,NULL,NULL
+"Oscar Godtlieb",Andersen,1,1,7,1922,NULL,NULL
+Axel,Burmester,1,21,7,1922,NULL,NULL
+"Carl Erik",Jensen,1,25,7,1922,NULL,NULL
+"Harald Dahl",Petersen,1,22,7,1922,NULL,NULL
+Jens,Petersen,1,5,7,1922,NULL,NULL
+"Dagmar Camilla",Carlsen,2,7,7,1922,NULL,NULL
+"Dorthe Marie",Hansen,2,7,7,1922,NULL,NULL
+"Assarenus Georg Lundues",Christiansen,1,13,7,1922,NULL,NULL
+"Johannes Alfred Sofus",Carlsen,1,18,7,1922,NULL,NULL
+"Clara Eleonora",Hallstrøm,2,12,7,1922,55.669374200000,12.555295200000
+Arthur,Halvorsen,1,28,7,1922,55.689322100000,12.562656300000
+"Frithiof Georg August",Hammerich,1,5,7,1922,55.690146700000,12.560418200000
+Oskar,Carlson,1,19,7,1922,55.692735800000,12.552978500000
+"Laurits Emanuel Ludvig",Frederiksen,1,12,7,1922,NULL,NULL
+"Agnes Henriette",Christensen,2,7,7,1922,NULL,NULL
+"Anna Marie Nicoline",Benn,2,13,7,1922,NULL,NULL
+Jap,Gam,1,12,7,1922,NULL,NULL
+"Anna Agnete",Christensen,2,7,7,1922,NULL,NULL
+"Carl Henry",Nielsen,1,1,7,1922,NULL,NULL
+Albert,Bengtsen,1,26,7,1922,55.689871800000,12.572344100000
+"Anna Stella Carla Laura",Bendtsen,2,11,7,1922,NULL,NULL
+"Carla Marie",Andersen,2,25,7,1922,NULL,NULL
+"Jens Albert",Sandager,1,7,7,1922,NULL,NULL
+"Andrup Marius Jensen",Bundgaard,3,25,7,1922,NULL,NULL
+"Anna Christine",Hansen,2,15,7,1922,NULL,NULL
+"Charles Johannes",Nielsen,1,1,7,1922,NULL,NULL
+"Oscar Charles",Bengtsson,1,19,7,1922,55.671313100000,12.552442500000
+"Oda Jensine",Christiansen,2,18,7,1922,NULL,NULL
+"Anna Cathrine Frederikke",Hansen,2,15,7,1922,NULL,NULL
+"Axel Vilhelm",Elkjær,1,4,7,1922,NULL,NULL
+"Gudrun Ingeborg Helga",Graef,2,8,7,1922,NULL,NULL
+"Elin Antonia",Andersson,2,29,7,1922,NULL,NULL
+Aage,Hansen,1,6,7,1922,NULL,NULL
+"Adolf Harald",Hansen,1,14,7,1922,55.673114800000,12.558880900000
+"Svend Holger",Christiansen,1,29,7,1922,NULL,NULL
+"Arne Bjørnstjerne",Bjørnson,1,11,7,1922,NULL,NULL
+"Else Marie",Andersen,2,4,7,1922,55.694499500000,12.549362900000
+"Helio Janus",Christensen,1,21,7,1922,NULL,NULL
+"Jens Christian Aage Vestergaard",Christensen,1,4,7,1922,NULL,NULL
+"Thorvald Baltsar",Clausen,1,20,7,1922,55.667456400000,12.547914200000
+"Emilie Margrethe",Hedelund,2,3,7,1922,NULL,NULL
+"Carl Peter",Hegner,1,26,7,1922,55.687907500000,12.560261800000
+"Pouline Jensine",Bergmann,2,1,7,1922,55.691817300000,12.559123400000
+"Ingeborg Louise Christine",Heidemann,2,31,7,1922,NULL,NULL
+Peter,Andersen,1,3,7,1922,NULL,NULL
+"Alex Robert",Høiby,1,10,7,1922,NULL,NULL
+"Erna Olivia",Clausen,2,12,7,1922,55.690377600000,12.555473100000
+"Frederik Berenbard",Clausen,1,8,7,1922,NULL,NULL
+"Johan Carl Christian",Christensen,1,8,7,1922,NULL,NULL
+"Johanne Christine",Christensen,2,24,7,1922,NULL,NULL
+"Albert Nicolai",Eriksen,1,7,7,1922,NULL,NULL
+"Kamma Edith Ulrikke Martine",Christensen,2,1,7,1922,NULL,NULL
+"Karen Margrethe Marie",Christensen,2,7,7,1922,NULL,NULL
+"Hellea Dagny Marie",Andersen,2,6,7,1922,55.689214400000,12.572516800000
+"Leo Axel",Christensen,1,1,7,1922,NULL,NULL
+"Ejnar Alfons",Holm,1,6,7,1922,NULL,NULL
+"Ella Sira",Holm,2,2,7,1922,NULL,NULL
+"Erik Emanuel Oluf",Grejø,1,13,7,1922,NULL,NULL
+"Dagmar Florence",Nilsson,2,3,7,1922,NULL,NULL
+"Anna Margrethe Nielsen",Bach,2,12,7,1922,NULL,NULL
+"Aage Thorvald",Henriksen,1,14,7,1922,NULL,NULL
+Christian,Hesselholdt,1,15,7,1922,NULL,NULL
+"Christian Vilhelm Baldwin",Gröthan,1,17,7,1922,55.688322300000,12.547988800000
+"Børge Lorentzen",Bjørkmann,1,28,7,1922,NULL,NULL
+"Hervor Lorentzen",Bjørkmann,3,20,7,1922,55.690699100000,12.564412200000
+"Poul Edvin",Guldberg,1,22,7,1922,NULL,NULL
+"Else Tove Dyveke",Nielsen,2,18,7,1922,55.681093000000,12.579847500000
+Carl,Christoffersen,1,31,7,1922,NULL,NULL
+"Niels Frederik",Henriksen,1,3,7,1922,NULL,NULL
+"Valdemar Severin",Henriksen,1,21,7,1922,NULL,NULL
+"Viggo Christian",Henriksen,1,22,7,1922,55.691508800000,12.559006400000
+"Martin Evald",Christoffersen,1,10,7,1922,NULL,NULL
+"Johan Christoffer",Flindt,1,17,7,1922,NULL,NULL
+"Gustav Adolf Karlsson",Gustavsson,1,18,7,1922,55.694298000000,12.552143100000
+"Olga Marie",Gustafsson,2,11,7,1922,NULL,NULL
+Emil,Feinberg,1,17,7,1922,55.688726000000,12.563028900000
+"Anders Christian",Feldthusen,1,19,7,1922,NULL,NULL
+"Aage Riddermann",Schiøth,1,13,7,1922,NULL,NULL
+"Hans Peter Jensen",Schiøtt,1,27,7,1922,NULL,NULL
+"Claus Valfrid",Johanson,1,19,7,1922,NULL,NULL
+"Hans Kristian Frederik",Hansen,1,24,7,1922,55.666203800000,12.547801800000
+"Bertha Marie Alexandra",Forsdahl,2,6,7,1922,55.689984700000,12.560326600000
+"Camilla Elisabeth Cathrine",Jocumsen,2,1,7,1922,55.694778200000,12.561043700000
+"Holger Emil",Jokumsen,1,4,7,1922,55.687641100000,12.558167100000
+Frederik,Johansen,1,26,7,1922,NULL,NULL
+"Frederik Vilhelm",Johansen,1,15,7,1922,55.687874700000,12.553735700000
+Hans,Jensen,1,19,7,1922,55.690066200000,12.565649600000
+"Hans Christian",Jensen,1,4,7,1922,NULL,NULL
+Augusta,Schlottmann,2,4,7,1922,NULL,NULL
+Clara,Bolmgreen,2,5,7,1922,NULL,NULL
+"Kai Helmuth",Franck,1,14,7,1922,NULL,NULL
+"Niels Johannes Albertus",Hansen,1,4,7,1922,NULL,NULL
+"Niels Johannes Albertus",Hansen,1,7,7,1922,NULL,NULL
+"Valborg Rosalie",Jensen,2,1,7,1922,NULL,NULL
+"Hans Peter Anton",Jensen,1,10,7,1922,55.687036800000,12.559280800000
+Steffen,Hansen,1,18,7,1922,NULL,NULL
+Martin,Jensen,1,22,7,1922,55.668942900000,12.550111100000
+"Jens Vilhelm Harald",Hansen,1,4,7,1922,NULL,NULL
+"Mathilda Mathed",Jensen,2,1,7,1922,NULL,NULL
+"Anders Peter",Johansen,1,18,7,1922,NULL,NULL
+Ancker,Johansen,1,4,7,1922,NULL,NULL
+Johan,Hansen,1,14,7,1922,NULL,NULL
+"Johanne Agnes",Hansen,2,15,7,1922,NULL,NULL
+"Otto Alfred Martinus",Jensen,1,4,7,1922,55.691762000000,12.559027900000
+"Jens Jørgen",Jensen,1,5,7,1922,NULL,NULL
+"Gudrun Møldrup",Jensen,2,17,7,1922,55.668459300000,12.555870500000
+"Elna Christine",Jensen,2,7,7,1922,NULL,NULL
+"Kai Vilhelm",Andersen,1,6,7,1922,55.688501700000,12.561708500000
+"Rosa Augusta",Jensen,2,28,7,1922,NULL,NULL
+"Rosa Petra",Jensen,2,1,7,1922,55.687561600000,12.558378100000
+"Thyra Elva Elisabeth",Jensen,2,19,7,1922,55.689397500000,12.553489900000
+"Aage Peter Sofus",Jacobsen,1,11,7,1922,NULL,NULL
+"Anna Amalie Hedvig",Justesen,2,1,7,1922,NULL,NULL
+"Ingrid Marie Magdalene Bech",Jensen,2,8,7,1922,NULL,NULL
+Bjarni,Jonsson,1,27,7,1922,NULL,NULL
+"Olaf Martin Christoffer",Hansen,1,6,7,1922,NULL,NULL
+Olof,Jonsson,1,8,7,1922,55.698354500000,12.552109700000
+Solbjörg,Johnsen,2,23,7,1922,NULL,NULL
+"Ellen Martine Henriette",Jensen,2,5,7,1922,NULL,NULL
+"Eli Vilhelm",Jensen,3,22,7,1922,NULL,NULL
+"Carl Christian Peter Sofus",Jensen,1,15,7,1922,NULL,NULL
+"Jacob Christian",Jacobsen,1,31,7,1922,55.693017700000,12.555277000000
+"Ernst Valdemar Emil",Jensen,1,10,7,1922,55.670858800000,12.559109100000
+Frederik,Jensen,1,11,7,1922,NULL,NULL
+"Søren Vilhelm Petersen",Hansen,1,29,7,1922,55.687686500000,12.561676000000
+"Vilhelmine Johanne Frederikke",Hansen,2,4,7,1922,NULL,NULL
+"Jørgen Adolf Harding",Jensen,1,12,7,1922,55.695884900000,12.554167200000
+"Karen Marie",Jensen,2,3,7,1922,55.665947200000,12.576903700000
+"Karna Maren Kirstine Jacobine",Jensen,2,11,7,1922,NULL,NULL
+"Agnes Athente",Jensen,2,27,7,1922,NULL,NULL
+"Carlo Gerhard",Jensen,1,15,7,1922,NULL,NULL
+Axel,Jensen,1,15,7,1922,NULL,NULL
+Hermann,Christensen,1,1,7,1922,NULL,NULL
+"Ignolius Johannes",Christensen,1,10,7,1922,NULL,NULL
+"Agnes Anna",Jørgensen,2,15,7,1922,NULL,NULL
+"Einar Viggo Ludvig Jens",Seerup,1,6,7,1922,NULL,NULL
+"Hilda Marie",Johansen,2,5,7,1922,NULL,NULL
+"Andreas Rode",Mulbjerg,1,13,7,1922,55.684662600000,12.567605700000
+"Otto Leonard",Martinsen,1,31,7,1922,55.689616700000,12.563959600000
+"Mathias Christian",Mathiasen,1,14,7,1922,55.671842600000,12.593066200000
+Niels,Mathiasen,1,29,7,1922,NULL,NULL
+"Johan Peter",Johansen,1,7,7,1922,NULL,NULL
+"Anna Marie Margrethe",Larsen,2,4,7,1922,55.665128500000,12.580959500000
+"Anna Teresia",Larsson,2,13,7,1922,55.687969600000,12.548937600000
+"Johannes Theodor",Johansen,1,31,7,1922,NULL,NULL
+"Henry Valdemar",Madsen,1,6,7,1922,55.695298600000,12.552793400000
+"Peter Thorvald",Jørgensen,1,17,7,1922,NULL,NULL
+"Carl Christian",Larsen,1,6,7,1922,55.688623500000,12.560001100000
+"Carl Christian",Larsen,1,8,7,1922,NULL,NULL
+"Carl Christian Vilhelm",Larsen,1,29,7,1922,NULL,NULL
+"Christian Laurits",Larsen,1,20,7,1922,55.686882400000,12.556957700000
+"Poul Christian",Jørgensen,1,18,7,1922,NULL,NULL
+"Hedvig Anelline",Larsen,2,12,7,1922,55.691207300000,12.555840500000
+"Charles Peter Richard",Larsen,1,7,7,1922,55.664312500000,12.597705200000
+"Niels Christian Vilhelm",Madsen,1,28,7,1922,NULL,NULL
+"Carl Viggo",Møller,1,4,7,1922,NULL,NULL
+"Holger Vilhelm",Slaugh,1,5,7,1922,NULL,NULL
+"Dorthea Christine",Knudsen,2,22,7,1922,NULL,NULL
+"Dyveke Valborg Margrethe",Knudsen,2,4,7,1922,55.681305700000,12.572460000000
+"Valdemar Anders",Jørgensen,1,1,7,1922,55.689465900000,12.564273100000
+Jens,Larsen,1,4,7,1922,55.691817300000,12.559123400000
+"Jens Martin",Larsen,1,26,7,1922,55.697110700000,12.548333100000
+Victor,Stafhell,1,25,7,1922,NULL,NULL
+"Ingeborg Vilhelmine",Larsen,2,19,7,1922,NULL,NULL
+"Karen Margrethe",Kaae,2,1,7,1922,55.694778200000,12.561043700000
+"Carl Lauritz",Jørgensen,1,28,7,1922,NULL,NULL
+"Frederik Emil",Knudsen,1,22,7,1922,NULL,NULL
+"Carl Peter",Jørgensen,1,6,7,1922,NULL,NULL
+"Anine Kirstine",Michelsen,2,17,7,1922,55.692500400000,12.551908600000
+"Oline Agnete",Larsen,2,8,7,1922,NULL,NULL
+"Laura Louise",Larsen,2,6,7,1922,NULL,NULL
+"Lauritz Cramer",Larsen,1,28,7,1922,55.689823300000,12.553889400000
+"Hansine Caroline",Kofoed,2,1,7,1922,55.695437900000,12.552762100000
+"Thorhuld Vilhelm",Lehde,1,22,7,1922,NULL,NULL
+Carlo,Leis,1,19,7,1922,NULL,NULL
+"Adolphine Marie",Kaiser,2,1,7,1922,55.694778200000,12.561043700000
+"Peter Georg",Larsen,1,12,7,1922,55.686360100000,12.566263000000
+"Elly Edith",Madsen,2,20,7,1922,NULL,NULL
+"Johan Albin Johansson",Knudsen,1,10,7,1922,NULL,NULL
+"Niels Peter Laurits",Larsen,1,11,7,1922,55.676485500000,12.573034800000
+Rudolf,Larsen,1,8,7,1922,55.685535700000,12.548794300000
+"Senta Augusta Emma",Larsen,2,5,7,1922,55.672161800000,12.557375100000
+"Niels Christian Harald",Nielsen,1,5,7,1922,55.673114800000,12.558880900000
+Jens,Nielsen,1,1,7,1922,NULL,NULL
+"Jacob Christian",Nielsen,1,5,7,1922,NULL,NULL
+"Axel Carl Christian",Olsen,1,11,7,1922,55.689139700000,12.562447900000
+"Jens Gustav",Nielsen,1,18,7,1922,NULL,NULL
+"Svend Louis",Mikkelsen,1,14,7,1922,55.688292900000,12.553719300000
+"Octavia Jensine Sørine",Larsen,2,13,7,1922,55.691612500000,12.558408000000
+"Frands Ole Jørgen",Jørgensen,1,20,7,1922,NULL,NULL
+"Bernhard Vilhelm",Olsen,1,10,7,1922,NULL,NULL
+"Harald Niels Christian",Nielsen,1,11,7,1922,55.681197300000,12.562987700000
+"Harald Petrus",Nielsen,1,17,7,1922,55.671647000000,12.562394300000
+Christian,Nielsen,1,5,7,1922,NULL,NULL
+"Karen Elisabeth Svebølle",Nielsen,2,25,7,1922,NULL,NULL
+"Karen Kirstine",Nielsen,2,8,7,1922,NULL,NULL
+"Karen Margrethe",Nielsen,2,1,7,1922,NULL,NULL
+"Knud Vilhelm",Nielsen,1,1,7,1922,NULL,NULL
+"Emma Almina",Olsson,2,1,7,1922,NULL,NULL
+"Karen Sofie",Jørgensen,2,15,7,1922,NULL,NULL
+"Lorentz Hjalmar",Oehlerich,1,22,7,1922,NULL,NULL
+Edith,Pay,2,4,7,1922,55.680812100000,12.583826500000
+Inger,Pay,2,4,7,1922,55.680812100000,12.583826500000
+Laurits,Nielsen,1,20,7,1922,NULL,NULL
+Harald,Olsen,1,27,7,1922,55.686650700000,12.549576400000
+"Metha Johanne Jørgine",Jørgensen,2,3,7,1922,55.692201600000,12.558839900000
+"Axel Julius",Nielsen,1,20,7,1922,55.687231000000,12.543212700000
+"Nora Edith Ingrid",Nielsen,2,13,7,1922,55.694778200000,12.561043700000
+"Oda Anna Marenta Henriette",Nielsen,2,6,7,1922,NULL,NULL
+"Hans Peter",Mortensen,1,8,7,1922,55.663806000000,12.596555500000
+"Carl Ludvig",Nilsson,1,27,7,1922,55.677716900000,12.574473500000
+"Jens Peter",Mortensen,1,10,7,1922,NULL,NULL
+"Marry Evidia Petronella",Kielberg,2,22,7,1922,NULL,NULL
+"Dagny Gundhild",Lange,2,4,7,1922,55.695733600000,12.555889700000
+Karen,Olesen,2,19,7,1922,NULL,NULL
+"Ove Martin",Nielsen,1,18,7,1922,NULL,NULL
+"Anna Johanne Kirstine",Draskau,2,17,7,1922,55.695425600000,12.555118800000
+"Niels Peter Edvard Tage",Olsen,1,15,7,1922,NULL,NULL
+Kirstine,Nielsen,2,1,7,1922,NULL,NULL
+"Holger Christian Hans Jørgen",Dreyer,1,21,7,1922,55.671484600000,12.552439500000
+"Clara Magdalene",Nielsen,2,5,7,1922,NULL,NULL
+"Claudine Hansine Christine",Nielsen,2,3,7,1922,NULL,NULL
+"Victor Richard Georg",Lohse,1,21,7,1922,55.691855400000,12.560383800000
+"Poul Erland",Nielsen,1,27,7,1922,55.689345300000,12.560402300000
+"Ernst Robert Otto",Drewes,1,10,7,1922,55.685570200000,12.550562100000
+"Alma Cathrine",Olsson,2,8,7,1922,55.689468800000,12.573226000000
+"Alma Valborg Caroline",Olsen,2,24,7,1922,NULL,NULL
+"Andrea Hansine Kirstine",Olsen,2,3,7,1922,NULL,NULL
+Michael,Drymala,1,14,7,1922,NULL,NULL
+"Ellen Alfrida",Drøger,2,20,7,1922,55.662829500000,12.599362600000
+Anna,Krogh,2,20,7,1922,NULL,NULL
+"Anker Philip",Nathan,1,3,7,1922,NULL,NULL
+"Anker Philip",Nathan,1,21,7,1922,NULL,NULL
+"Svend Aage",Neldam,1,1,7,1922,NULL,NULL
+"Niels Lauritz G.",Laursen,1,1,7,1922,NULL,NULL
+"Theodor Martin",Leerhøj,1,1,7,1922,NULL,NULL
+"Svend Aage",Nielsen,1,5,7,1922,NULL,NULL
+Valdemar,Mortensen,1,17,7,1922,55.693984400000,12.544205100000
+Nis,Nissen,1,12,7,1922,55.685416300000,12.553364600000
+"Helga Frederikke",Nielsen,2,7,7,1922,NULL,NULL
+Evald,Nielsen,1,6,7,1922,NULL,NULL
+"Renne Eugen Tonny Meier",Levin,3,17,7,1922,NULL,NULL
+"Alfred Marinus",Nielsen,1,26,7,1922,NULL,NULL
+Peter,Malmdorf,1,4,7,1922,55.690558100000,12.574015200000
+"Edith Frederikke",Lorentzen,2,27,7,1922,NULL,NULL
+"Hermann Oscar",Nielsen,1,12,7,1922,NULL,NULL
+Holger,Nielsen,1,14,7,1922,NULL,NULL
+"Aina Margit Christine",Andersson,2,13,7,1922,55.676257900000,12.587377900000
+"Aage Christian",Christiansen,1,4,7,1922,NULL,NULL
+"Poul arthur",Christensen,1,6,7,1922,55.669786000000,12.543553900000
+"Carl Laurits",Christensen,1,8,7,1922,55.689800300000,12.573209600000
+"Ellen Caroline Margrethe",Gonnsen,2,6,7,1922,55.678241100000,12.568733200000
+"William Heinrich",Gormsen,1,31,7,1922,NULL,NULL
+"Meta Frederikke",Brandt,2,5,7,1922,55.690190200000,12.572999600000
+Christian,Erlandsen,1,18,7,1922,NULL,NULL
+"Jens Peter Charles",Ernst,1,26,7,1922,NULL,NULL
+"Anna Margrethe Josefine Magdalene",Andersen,2,29,7,1922,NULL,NULL
+"Oda Marie",Andersen,2,1,7,1922,NULL,NULL
+"Karen Bertelsen",Houe,2,17,7,1922,NULL,NULL
+"Else Marie",Ibsen,2,10,7,1922,55.689762700000,12.572578700000
+"Valborg Marie",Morgan,2,21,7,1922,55.702800500000,12.584730700000
+"Elly Elisabeth Vilhelmine",Hverring,2,8,7,1922,NULL,NULL
+"Agnes Mathilde",Olsen,2,18,7,1922,NULL,NULL
+"Elemine Dusine",Christensen,2,1,7,1922,55.725185800000,12.571226600000
+"Viggo Peter",Korup,1,13,7,1922,55.690124800000,12.559642100000
+"Dirk Hansen",Bagger,1,21,7,1922,55.682598800000,12.586068100000
+"Hans Eskild William",Jepsen,1,18,7,1922,55.688359700000,12.581447800000
+"Rasmus Thorvald",Andersen,1,4,7,1922,55.681963700000,12.581737500000
+Caroline,Hansen,2,15,7,1922,NULL,NULL
+"Ellen Margrethe Ulla",Bodi,2,1,7,1922,NULL,NULL
+Hansine,Bollerslev,2,18,7,1922,55.685663000000,12.594826600000
+"Kai Gottlieb",Andersen,1,3,7,1922,55.675731500000,12.599944500000
+Peter,Frandsen,1,15,7,1922,55.694197100000,12.577381700000
+"Thorvald Alfred",Frandsen,1,27,7,1922,NULL,NULL
+"Hans Peter",Christensen,1,13,7,1922,55.673207600000,12.589471500000
+"Kaja Johanne",Hansen,2,1,7,1922,55.679172300000,12.591809200000
+"Ejnar Viggo",Andersen,1,13,7,1922,NULL,NULL
+"Einer Christian David",Christiansen,1,18,7,1922,55.684733900000,12.583653000000
+"Helene Sofie",Christensen,2,10,7,1922,55.693692600000,12.586461800000
+"Axel Thorvald Robert",Hansen,1,15,7,1922,55.686747700000,12.589994400000
+"Hilda Marie",Christensen,2,5,7,1922,55.681386800000,12.591233600000
+"Rosa Camilla",Hansen,2,8,7,1922,NULL,NULL
+"Jens Jensen",Christensen,1,22,7,1922,55.684599300000,12.571124700000
+Helene,Borchert,2,7,7,1922,55.687137200000,12.589927900000
+"Rasmus Ejnar",Gregersen,1,21,7,1922,NULL,NULL
+"Rasmus Ejnar",Gregersen,1,7,7,1922,NULL,NULL
+"Sigfred Emanuel",Isberg,1,13,7,1922,55.683637500000,12.587432600000
+"Julius Hemming",Christensen,1,4,7,1922,NULL,NULL
+"Karen Sophie",Christensen,2,4,7,1922,55.684729800000,12.569313800000
+"Marius Henrik",Hansen,1,26,7,1922,NULL,NULL
+"Martha Sofie",Hansen,2,7,7,1922,55.686454700000,12.591840500000
+"Eleonora Christine",Holm,2,19,7,1922,55.691010600000,12.573488800000
+Carl,Hansen,1,7,7,1922,55.689126600000,12.583977800000
+"Elly Maja Nielsine",Frederiksen,2,13,7,1922,55.681705200000,12.585313600000
+"Ingrid Ragnhilda Lilly",Frederiksen,2,3,7,1922,55.682250600000,12.574985500000
+Birgit,Gausel,2,4,7,1922,NULL,NULL
+"Clara Rachel",Gelberg,2,27,7,1922,55.689377400000,12.572853700000
+"Niels Peter",Hansen,1,12,7,1922,NULL,NULL
+"Anton Laurits",Christiansen,1,6,7,1922,NULL,NULL
+"Johanne Marie",Christiansen,2,11,7,1922,NULL,NULL
+"Louise Amalie",Christiansen,2,21,7,1922,NULL,NULL
+"Elly Hansigne",Hansen,2,15,7,1922,NULL,NULL
+"Elly Oline Christine",Hansen,2,1,7,1922,55.680216400000,12.563705000000
+"Pouline Karla Petrine",Christiansen,2,15,7,1922,NULL,NULL
+"Albin Oscar",Hansen,1,25,7,1922,NULL,NULL
+"Sofus Christian",Christiansen,1,4,7,1922,NULL,NULL
+"Valdemar Lars Hans",Christiansen,1,17,7,1922,NULL,NULL
+Carl,Eggertsen,1,11,7,1922,55.690109900000,12.570917600000
+Marius,Andersen,1,18,7,1922,55.680523600000,12.589099100000
+"Mary Karen Johanne",Andersen,2,19,7,1922,NULL,NULL
+"Thyra Maria",Hauge,2,17,7,1922,NULL,NULL
+"Aage Lauritz",Hansen,1,5,7,1922,NULL,NULL
+Niels,Andersen,1,31,7,1922,NULL,NULL
+"Anker Alexander",Jacobsen,1,17,7,1922,NULL,NULL
+"Kai Vitalis",Hansen,1,17,7,1922,NULL,NULL
+"Ove Carl",Elboth,1,13,7,1922,NULL,NULL
+"Carl Christian Wittrup",Andersen,1,4,7,1922,55.678373600000,12.569589100000
+"Christian Marinus Valdemar",Jacobsen,1,4,7,1922,NULL,NULL
+"Elna Augusta",Jacobsen,2,11,7,1922,55.691379500000,12.573707800000
+"Veronika Astrid Margrethe",Bang,2,1,7,1922,NULL,NULL
+"Christian Vilhelm",Andersen,1,1,7,1922,55.683915600000,12.583050300000
+"Olga Louise",Jacobsen,2,8,7,1922,55.690225400000,12.573703500000
+"Julie Louise Johanne Georgine",Jensen,2,31,7,1922,55.684733900000,12.583653000000
+"Poul Arthur",Henriksen,1,15,7,1922,NULL,NULL
+"Niels Edvard Aurelius",Hansen,1,4,7,1922,NULL,NULL
+Georg,Andersen,1,8,7,1922,55.685539800000,12.594737000000
+"Hans Peter Viggo",Krogsbo,1,1,7,1922,55.689270100000,12.571136100000
+"Anders Peter",Jensen,1,11,7,1922,NULL,NULL
+"Harald Peter",Jensen,1,24,7,1922,55.698424200000,12.583961100000
+"Theodora Marie Cathrine",Engel,2,26,7,1922,NULL,NULL
+"Lilly Karen",Krygel,2,6,7,1922,NULL,NULL
+"Anna Marie Therese",Krüger,2,7,7,1922,NULL,NULL
+"Anton Hjalmar",Jensen,1,5,7,1922,55.680680500000,12.592344100000
+"Ejnar Christoffer",Andersen,1,8,7,1922,55.680523600000,12.589099100000
+"Ejnar Viggo",Andersen,1,15,7,1922,55.689647000000,12.572837800000
+Holger,Jensen,1,23,7,1922,NULL,NULL
+"Alberti Martinus",Jensen,3,19,7,1922,55.685962300000,12.588793300000
+"Ida Jensine Margrethe",Jensen,2,4,7,1922,NULL,NULL
+"Julie Marie",Jørgensen,2,8,7,1922,NULL,NULL
+"Helga Mathilda",Andersson,2,4,7,1922,NULL,NULL
+"Henry Johannes",Andersen,1,18,7,1922,55.682707700000,12.586153300000
+"Carl August",Beck,1,15,7,1922,NULL,NULL
+"Hans Peter Waage",Beck,1,4,7,1922,NULL,NULL
+Vilhelm,Bech,1,4,7,1922,NULL,NULL
+"Ruth Elisabeth",Jönsson,2,6,7,1922,NULL,NULL
+"Neyo Johannes Olsen",Bech,1,20,7,1922,NULL,NULL
+Andrea,Jørgensen,2,5,7,1922,NULL,NULL
+"Thora Svanvit",Gisladotter,2,24,7,1922,NULL,NULL
+"Jens Volmer",Andersen,1,17,7,1922,NULL,NULL
+"Johan Olsson",Børjesson,1,1,7,1922,55.682707700000,12.586153300000
+"Axel Hermann",Bøttger,1,10,7,1922,NULL,NULL
+"Emilie Louise Julie",Berger,2,21,7,1922,55.693059000000,12.575595200000
+"Lilly Elisabeth",Henningsen,2,18,7,1922,55.687523400000,12.582650200000
+"Johanne Olivia",Jensen,2,17,7,1922,NULL,NULL
+Christen,Jørgensen,1,3,7,1922,NULL,NULL
+"Bertha Jensine Cathrine",Petersen,2,7,7,1922,NULL,NULL
+"Johannes Carl",Jensen,1,11,7,1922,55.678321800000,12.587632100000
+"Thorvald Elias",Jensen,1,7,7,1922,NULL,NULL
+"Laura Marie",Jørgensen,2,10,7,1922,NULL,NULL
+"Julie Hansine",Jensen,2,18,7,1922,NULL,NULL
+"Ferdinand Victor",Jensen,1,19,7,1922,55.687549600000,12.589196600000
+"Marie Cathrine Sofie",Jürgensen,2,24,7,1922,55.687523400000,12.582650200000
+"Fritz Peter Christian Marinus",Jensen,1,22,7,1922,NULL,NULL
+Gerda,Jensen,2,13,7,1922,55.683889800000,12.586574600000
+"Jens Frits Vilhelm Bonn",Jensen,1,8,7,1922,NULL,NULL
+"Marie Charlotte",Christensen,2,25,7,1922,NULL,NULL
+"Jenny Marie",Bengtsen,2,7,7,1922,55.682838300000,12.565713100000
+"Marinus Theodor",Christensen,1,11,7,1922,55.687852400000,12.583966500000
+"Niels Christian",Christensen,1,25,7,1922,55.680694100000,12.589380000000
+"Niels Christian Krogh",Christensen,1,22,7,1922,55.684009300000,12.586136100000
+Mathilde,Bjørnson,2,4,7,1922,NULL,NULL
+"Poul Gustav Adolf Frantz",Bøving,1,5,7,1922,55.690642800000,12.574911000000
+"Laura Johanne",Jensen,2,7,7,1922,NULL,NULL
+"Thora Emilie",Brødsgaard,2,10,7,1922,55.689926300000,12.574430500000
+"Oluf Peter Valeur",Christensen,1,1,7,1922,55.682483800000,12.577427200000
+"Oluf Peter Valeur",Christensen,1,3,7,1922,NULL,NULL
+Kirstine,Brønserud,2,7,7,1922,55.690927500000,12.574229300000
+"Carl Andreas Vilhelm",Lindballe,1,7,7,1922,NULL,NULL
+"Anders Peter",Leitritz,1,28,7,1922,NULL,NULL
+"Ejner Johan",Jensen,1,18,7,1922,55.685267300000,12.594508100000
+"Anna Camilla Sylvia",Hansen,2,11,7,1922,NULL,NULL
+"Lilly Verona",Jønsson,2,10,7,1922,55.689870800000,12.560854900000
+"Ellen Olga",Jensen,2,20,7,1922,55.685265200000,12.594007700000
+"Marie Frederikke",Jensen,2,1,7,1922,55.683158300000,12.592253100000
+Martinus,Eskesen,1,6,7,1922,55.693371400000,12.582715700000
+"Holger Mouritz Harry Christensen",Lisabeck,1,3,7,1922,NULL,NULL
+"Anna Johanne",Hansen,2,25,7,1922,NULL,NULL
+"Anna Ingeborg",Heyne,2,8,7,1922,55.685769900000,12.588768600000
+Aage,Eskesen,1,6,7,1922,55.690842300000,12.576738900000
+"Hilda Frederikke",Lindell,2,21,7,1922,NULL,NULL
+"Olin Alfred Licht",Johansen,1,26,7,1922,NULL,NULL
+Minna,Jørgensen,2,11,7,1922,NULL,NULL
+"Emma Annette",Jensen,2,15,7,1922,NULL,NULL
+Sigurd,Knudsen,1,18,7,1922,NULL,NULL
+"Ejnar Johannes",Lund,1,6,7,1922,NULL,NULL
+"Otto Julius Frederik",Lundgren,1,18,7,1922,NULL,NULL
+"Agnes Marie",Christensen,2,7,7,1922,NULL,NULL
+Christian,Hansen,1,10,7,1922,NULL,NULL
+Christian,Hansen,1,10,7,1922,NULL,NULL
+"Helga Ingeborg",Jørgensen,2,8,7,1922,NULL,NULL
+Henry,Jørgensen,1,5,7,1922,NULL,NULL
+"Margrethe Camilla",Christensen,2,15,7,1922,55.684045700000,12.582089800000
+Mine,Jensen,2,4,7,1922,55.686877800000,12.589035300000
+"Astrid Frederikke",Kold,2,25,7,1922,NULL,NULL
+Sigfred,Halldors,1,11,7,1922,NULL,NULL
+"Ida Louise",Küster,2,4,7,1922,NULL,NULL
+"Marie Josefine",Pålsson,2,11,7,1922,NULL,NULL
+Anker,Petersen,1,7,7,1922,NULL,NULL
+"Poul Harald",Ferry,1,4,7,1922,55.692464600000,12.576558100000
+Niels,Findsen,1,11,7,1922,55.694260500000,12.577242900000
+Clara,Rasmussen,2,6,7,1922,NULL,NULL
+"Carl Viggo Lilian",Petersen,1,19,7,1922,NULL,NULL
+"Anna Charlotte",Hoffmeyer,2,11,7,1922,55.679261300000,12.591490000000
+"Ove Leopold Reinholdt",Rütsov,1,2,7,1922,55.689475600000,12.560053100000
+Sofie,Jacobsen,2,5,7,1922,NULL,NULL
+"Paul Gunnar",Rohbeck,1,4,7,1922,55.684198700000,12.571073300000
+"Alfred Janus",Petersen,1,12,7,1922,NULL,NULL
+"Alfred Janus",Petersen,1,4,7,1922,NULL,NULL
+"Alfred Janus",Petersen,1,26,7,1922,NULL,NULL
+"Hans Peter",Petersen,1,24,7,1922,NULL,NULL
+Carl,Petersen,1,31,7,1922,NULL,NULL
+"Anna Marie Christine",Rasmussen,2,1,7,1922,NULL,NULL
+"Augusta Vilhelmine Charlotte",Pålsson,2,1,7,1922,NULL,NULL
+"Bir Max",Perkes,1,29,7,1922,NULL,NULL
+"Sigrid Mathilde",Petersen,2,12,7,1922,55.673105000000,12.554452900000
+"Helmuth Hans",Petersen,1,5,7,1922,NULL,NULL
+Svend,Persson,1,7,7,1922,NULL,NULL
+"Arnold Robert Peter Glerup",Petersen,1,11,7,1922,NULL,NULL
+Asta,Pedersen,2,20,7,1922,NULL,NULL
+"Carl Richard",Petersen,1,22,7,1922,NULL,NULL
+"Carl Stach",Petersen,1,7,7,1922,NULL,NULL
+"Carl Søren Henrik",Petersen,1,6,7,1922,NULL,NULL
+"Heinrich Christian Andreas",Petersen,1,16,7,1922,NULL,NULL
+"Elka Ella Viola",Petersen,2,24,7,1922,NULL,NULL
+"Christian Bernhard",Rasmussen,1,4,7,1922,NULL,NULL
+"Carl Sigurd",Rasmussen,1,10,7,1922,55.669040800000,12.554346700000
+"Sara Dora Jenny Andreasine",Rosenlund,2,4,7,1922,NULL,NULL
+"Hugo Sofus",Petersen,1,4,7,1922,NULL,NULL
+Ida,Persson,2,11,7,1922,NULL,NULL
+"Johannes Albert",Petersen,1,8,7,1922,NULL,NULL
+"Flora Emilie Andrea",Preutz,2,15,7,1922,NULL,NULL
+"Else Anna",Petersen,2,5,7,1922,NULL,NULL
+"Else Dorthea Ovidia",Petersen,2,17,7,1922,NULL,NULL
+"Else Inger Marie",Petersen,2,1,7,1922,NULL,NULL
+"Georg Christian Olaf",Petersen,1,15,7,1922,NULL,NULL
+"Emil Gøsta Eugen",Persson,1,11,7,1922,55.692373500000,12.560823100000
+"Emma Christine",Persson,2,6,7,1922,NULL,NULL
+Erik,Persson,1,1,7,1922,55.691734700000,12.553533400000
+"Ane Cathrine Wilhelmine",Petersen,2,12,7,1922,NULL,NULL
+"Georg Richard",Pedersen,1,1,7,1922,NULL,NULL
+Magnus,Poulsen,1,7,7,1922,NULL,NULL
+"Ane Margrethe",Petersen,2,1,7,1922,NULL,NULL
+"Nathalie Christine Sofie",Poulsen,2,3,7,1922,NULL,NULL
+"Dagny Emilie",Petersen,2,20,7,1922,NULL,NULL
+"Hagbart Carlo",Petersen,1,20,7,1922,NULL,NULL
+Hans,Petersen,1,2,7,1922,55.695923600000,12.555735800000
+Peder,Petersen,1,13,7,1922,NULL,NULL
+"Niels Juhl",Poulsen,1,11,7,1922,NULL,NULL
+"Johannes Marius",Madsen,1,13,7,1922,NULL,NULL
+"Svend Aage",Poulsen,1,28,7,1922,NULL,NULL
+"Niels Frederik Johan",Petersen,1,17,7,1922,NULL,NULL
+"Berthold Edmund",Møller,1,4,7,1922,55.682707700000,12.586153300000
+"Birger Olaf Holger",Madsen,1,7,7,1922,55.689791100000,12.571262000000
+"Johan Vilhelm",Otto,1,26,7,1922,55.680694100000,12.589380000000
+"Lars Peter",Rasmussen,1,7,7,1922,55.692473600000,12.568002100000
+"Anna Mathilde",Nielsen,2,6,7,1922,55.679261300000,12.591490000000
+"Niels Werner",Madsen,1,17,7,1922,NULL,NULL
+"Benda Anna",Petersen,2,24,7,1922,NULL,NULL
+"Albert Arnesen",Monsrud,1,25,7,1922,NULL,NULL
+"Berthold Edmund",Møller,1,6,7,1922,55.682707700000,12.586153300000
+"Martin Alfred",Nielsen,1,15,7,1922,55.685301800000,12.585682600000
+"Thora Marie Hansen",Mohr,2,1,7,1922,55.694778200000,12.561043700000
+"Poul Henry",Mogensen,1,1,7,1922,55.684000900000,12.567564800000
+"Peter Martin",Olufsson,1,18,7,1922,NULL,NULL
+"Ane Marie Kirstine",Pedersen,2,22,7,1922,NULL,NULL
+Axel,Nielsen,1,4,7,1922,55.694604400000,12.577910000000
+James,Milton,1,11,7,1922,55.693044000000,12.583346000000
+Peter,Mikkelsen,1,13,7,1922,55.687830300000,12.583268700000
+Peter,Mikkelsen,1,13,7,1922,55.687830300000,12.583268700000
+Birthe,Larsen,2,7,7,1922,NULL,NULL
+Jens,Mikkelsen,1,20,7,1922,NULL,NULL
+"Carla Emilie Christine",Lassen,2,1,7,1922,NULL,NULL
+"Kai Ferdinand Schmidt",Nielsen,1,18,7,1922,55.695378500000,12.578783700000
+"Kai Marinus",Nielsen,1,5,7,1922,55.681800700000,12.572367400000
+"Kajus Harald",Nielsen,1,31,7,1922,55.680694100000,12.589380000000
+Karen,Nielsen,2,3,7,1922,NULL,NULL
+"Agnes Fransiska Marie",Matuscheck,2,22,7,1922,NULL,NULL
+Peder,Petersen,1,13,7,1922,NULL,NULL
+"Carl Frederik",Nielsen,1,10,7,1922,55.694372800000,12.587201800000
+"Albert Vilhelm",Pedersen,1,24,7,1922,NULL,NULL
+"Ida Sofie",Larsen,2,12,7,1922,55.686697500000,12.586717900000
+Poul,Nielsen,1,3,7,1922,55.682707700000,12.586153300000
+"Karen Oda",Nielsen,2,10,7,1922,55.681133600000,12.587799900000
+"Hanne Marie Cecilie Antonette",Larsen,2,11,7,1922,55.679652400000,12.592399700000
+"Dagmar Elise Alexandra",Olsen,2,3,7,1922,55.697247100000,12.586289600000
+"Inger Elisabeth Constantia",Larsen,2,4,7,1922,55.688860600000,12.572037600000
+"Ingerman Christian Emil",Larsen,1,31,7,1922,NULL,NULL
+"Nanna Kirstine",Larsen,2,3,7,1922,55.691441900000,12.572961100000
+"Ruth Ingeborg",Nilsson,2,20,7,1922,NULL,NULL
+"Clara Amalie",Nielsen,2,4,7,1922,NULL,NULL
+"Gunnar Colberg",Møller,1,11,7,1922,55.689414200000,12.572080200000
+"Svanhild Elisa Jensine",Nielsen,2,11,7,1922,55.690396400000,12.573308900000
+"Søren Bach",Nielsen,1,6,7,1922,55.679840900000,12.589322200000
+"Julie Victoria",Møller,2,6,7,1922,55.705329600000,12.577696700000
+"Theodora Emilie Kruse",Nielsen,2,27,7,1922,NULL,NULL
+"Thora Marie",Nielsen,2,17,7,1922,55.690837900000,12.575881800000
+"Jørgen Peter Bonaverd",Larsen,1,6,7,1922,NULL,NULL
+"Helga Louise",Olsen,2,4,7,1922,NULL,NULL
+"Helga Pouline Margrethe",Olsen,2,4,7,1922,55.685265200000,12.594007700000
+Peder,Larsen,1,7,7,1922,55.685828400000,12.585094300000
+"Christian Michael Fogtmann",Nielsen,1,27,7,1922,55.686778300000,12.588687600000
+"Louise Cathrine",Nielsen,2,13,7,1922,NULL,NULL
+Lucia,Nielsen,2,10,7,1922,55.686388100000,12.550300000000
+"Jens Oscar",Olsen,1,6,7,1922,NULL,NULL
+Margrethe,Nielsen,2,29,7,1922,55.686573100000,12.589835600000
+"Marie Margarethe Thamar",Møller,2,1,7,1922,NULL,NULL
+"Vilhelm Heinrich Brochmann",Møller,1,22,7,1922,55.690359800000,12.559989000000
+"Olga Bernhardine",Olsen,2,21,7,1922,55.692326300000,12.543773600000
+"Ethel Anna",Nielsen,2,8,7,1922,55.690396400000,12.573308900000
+"Olga Marie",Olsen,2,13,7,1922,NULL,NULL
+"Hans Peter",Nielsen,1,31,7,1922,55.689107500000,12.572177500000
+"Henry Michael Fogtmann",Nielsen,1,27,7,1922,55.686778300000,12.588687600000
+Theodor,Petersen,1,31,7,1922,NULL,NULL
+"Inger Marie Anker",Petersen,2,5,7,1922,NULL,NULL
+"Henry Peter Maaritz",Nielsen,1,24,7,1922,55.689203800000,12.573250200000
+"Augusta Eugenia",Persson,2,8,7,1922,55.688677100000,12.558962200000
+"Ane Kirstine",Rasmussen,2,11,7,1922,55.684791900000,12.585178600000
+Frederik,Mortensen,1,14,7,1922,NULL,NULL
+Elisabeth,Paulsen,2,5,7,1922,NULL,NULL
+Johanne,Petersen,2,4,7,1922,NULL,NULL
+"John August",Persson,1,8,7,1922,NULL,NULL
+"Karen Petrea",Petersen,2,6,7,1922,NULL,NULL
+"Marie Jørgine",Rasmussen,2,4,7,1922,NULL,NULL
+"Regine Hansen",Munck,2,11,7,1922,NULL,NULL
+"Albertine Ludovigka",Simonsen,2,7,7,1922,55.688980600000,12.553946900000
+"Paul Basil",Werner,1,18,7,1922,55.698373700000,12.579544000000
+"Olga Cathrine",Rasmussen,2,7,7,1922,NULL,NULL
+"Anna Christina",Persson,2,22,7,1922,NULL,NULL
+"Elise Mathilde",Simonsen,2,10,7,1922,NULL,NULL
+"Karen Amalie Jacobine Schack",Michelsen,2,7,7,1922,NULL,NULL
+"Hans Sofus",Petersen,1,5,7,1922,NULL,NULL
+"Poul Jacob Blicher",Larsen,1,4,7,1922,55.685319200000,12.591986500000
+"Carl Jensen",Uhrenfeldt,1,15,7,1922,NULL,NULL
+"Holger Jensen",Uhrenfeldt,1,15,7,1922,NULL,NULL
+"Peter Victor",Rasmussen,1,14,7,1922,NULL,NULL
+Holger,Petersen,1,20,7,1922,55.686645000000,12.588461800000
+"Søren Petersen",Work,1,21,7,1922,NULL,NULL
+Svend,Ravn,1,1,7,1922,NULL,NULL
+"Otto Folmer",Nielsen,1,7,7,1922,55.686234600000,12.583404600000
+Ejnar,Petersen,1,5,7,1922,NULL,NULL
+Einar,Petersen,1,11,7,1922,NULL,NULL
+"Ellen Nordahl",Petersen,2,8,7,1922,NULL,NULL
+"Villy Sigvard Richard",Nordstrøm,1,5,7,1922,55.690712800000,12.572533000000
+"Julie Antoniette Nielsine Marie",Næhr,2,15,7,1922,55.689367000000,12.584185300000
+"Aage Ejsenhardt",Vohlert,1,7,7,1922,NULL,NULL
+"Astrid Pouline",Petersen,2,11,7,1922,NULL,NULL
+"Poul Einer",Sivertsen,1,3,7,1922,55.691463200000,12.545354500000
+"Olga Sofie",Volmer,2,1,7,1922,NULL,NULL
+"Carla Marie",Rasmussen,2,21,7,1922,NULL,NULL
+"Carl Theodor",Rasmussen,1,11,7,1922,NULL,NULL
+"Harald Frederik",Rasmussen,1,24,7,1922,55.690396400000,12.573308900000
+"Karl Oskar",Persson,1,12,7,1922,NULL,NULL
+Jacob,Zirk,1,12,7,1922,NULL,NULL
+"Hulda Ottonia Tonny",Rasmussen,2,17,7,1922,NULL,NULL
+Hans,Rasmussen,1,17,7,1922,55.691157300000,12.574237500000
+"Poul Valdemar",Salto,1,22,7,1922,NULL,NULL
+"Axel Jean",Sjöström,1,6,7,1922,55.664925100000,12.544164500000
+"Hans Jørgen",Rasmussen,1,1,7,1922,NULL,NULL
+Inga,Rasmussen,2,15,7,1922,55.683915600000,12.583050300000
+"Carl Hubert Martin",Sørensen,1,3,7,1922,NULL,NULL
+"Johannes Christian",Rasmussen,1,4,7,1922,NULL,NULL
+"Mads Jacob Klingspar",Rasmussen,1,15,7,1922,NULL,NULL
+"Svend Aage",Petersen,1,4,7,1922,NULL,NULL
+"Søren Møller",Petersen,1,6,7,1922,NULL,NULL
+"Annine Victoria",Skogstad,2,5,7,1922,NULL,NULL
+"Anker Alfred",Thybo,1,24,7,1922,NULL,NULL
+"Svend Gustav",Thomsen,1,1,7,1922,NULL,NULL
+"Henry Emil",Spangenberg,1,18,7,1922,NULL,NULL
+"Henry Emil",Spangenberg,1,3,7,1922,NULL,NULL
+"Anna Olave",Simonsen,2,17,7,1922,NULL,NULL
+Giovanni,Toffaletti,1,11,7,1922,55.685416300000,12.553364600000
+"Simon Poul",Simonsen,1,24,7,1922,NULL,NULL
+"Willy Peter",Simonsen,1,7,7,1922,NULL,NULL
+"Christian Mathias",Sørensen,1,26,7,1922,NULL,NULL
+Ottilie,Stiasny,2,1,7,1922,NULL,NULL
+"Theodor Christian Nathan",Torp,1,7,7,1922,NULL,NULL
+"Gravers Christian Lauritzen",Underbjerg,1,5,7,1922,NULL,NULL
+Thorsten,Thorstensen,1,24,7,1922,NULL,NULL
+"Hans Julius",Sørensen,1,17,7,1922,55.688140900000,12.557106400000
+"Lauritz Christian",Sørensen,1,13,7,1922,NULL,NULL
+Franceska,Stika,2,19,7,1922,NULL,NULL
+"Carla Flora Petrea Emilie",Treu,2,5,7,1922,NULL,NULL
+"Carl Rasmus",Ørslev,1,1,7,1922,NULL,NULL
+"Ludvig Christensen",Ørsted,1,4,7,1922,NULL,NULL
+Svend,Tanggaard,1,1,7,1922,NULL,NULL
+Caroline,Vennerberg,2,3,7,1922,55.684383500000,12.570191500000
+"Vilhelm Leopold",West,1,27,7,1922,NULL,NULL
+Valdemar,Østergaard,1,3,7,1922,NULL,NULL
+"Hermann Gustav",Thomsen,1,1,7,1922,NULL,NULL
+Jens,Thomsen,1,7,7,1922,NULL,NULL
+"Peter Frits",Warnick,1,13,7,1922,55.692014400000,12.559955000000
+"Sofus Rasmus Jørgen",Rasmussen,1,10,7,1922,NULL,NULL
+"Theodor Edvard Vilhelm",Schmidt,1,13,7,1922,NULL,NULL
+"Kai Christian Vilhelm Carl",Tews,1,11,7,1922,NULL,NULL
+"Rejnholdt Edelhard",Schrøder,1,17,7,1922,NULL,NULL
+"Ejnar Conrad",Staunberg,1,26,7,1922,55.694642700000,12.552268300000
+"Erik Peter August",Weiss,1,1,7,1922,55.688408400000,12.557811400000
+"Agnes Cecilie Franciska",Rosback,2,5,7,1922,NULL,NULL
+"Henry Albert",Rohde,1,25,7,1922,55.684264300000,12.587482700000
+"Poul Gustav",Stern,1,1,7,1922,NULL,NULL
+"Rigmor Aniceta",Witthoff,2,10,7,1922,NULL,NULL
+"Carl Johan",Schaldemose,1,4,7,1922,NULL,NULL
+"Kaj Robert",Werenskjold,1,11,7,1922,55.690973200000,12.564300800000
+Amandus,Vestergaard,1,10,7,1922,55.695027500000,12.548031500000
+"Anna Karina",Viborg,2,22,7,1922,NULL,NULL
+"Alfred Carlis Christian",Wideborg,1,24,7,1922,55.688980600000,12.553946900000
+"Laurits Cornelius",Struve,1,4,7,1922,NULL,NULL
+"Peter Ejnar",Strøbeck,1,4,7,1922,NULL,NULL
+"Wilhelm Robert",Wiegand,1,20,7,1922,55.679809800000,12.589452100000
+"Julian Bentsen Sigurd",Søderberg,1,27,7,1922,NULL,NULL
+"Aage Folmer",Sørensen,1,11,7,1922,NULL,NULL
+"Hans Ludvig Frederik Christian",Schultz,1,8,7,1922,NULL,NULL
+"Albrekt Rottbølle",Schytte,1,18,7,1922,NULL,NULL
+"Anna Elvira",Svensson,2,6,7,1922,55.651755000000,12.610639600000
+"Gustaf Frederik",Svensson,1,31,7,1922,55.677716900000,12.574473500000
+"Gustaf Frederik",Svensson,1,1,7,1922,55.678449300000,12.569524000000
+"Carlo Valdemar",Thomsen,1,3,7,1922,NULL,NULL
+"Carl Johan",Sjøstedt,1,18,7,1922,NULL,NULL
+Egil,Skoppel,1,24,7,1922,55.685539800000,12.594737000000
+Simon,Skappel,1,24,7,1922,55.685539800000,12.594737000000
+Hildegard,Skoppel,2,24,7,1922,55.685539800000,12.594737000000
+"Theodor Ferdinand",Skøttrup,1,8,7,1922,55.685146500000,12.583016800000
+"Erik Edmund Oscar Godik",Sørensen,1,24,7,1922,NULL,NULL
+"Jensine Margrethe",Salzvedell,2,4,7,1922,NULL,NULL
+"Anna Vera",Samer,2,31,7,1922,NULL,NULL
+"Anders Christian",Samuelsen,1,26,7,1922,NULL,NULL
+"Hanne Severine Marie",Sørensen,2,4,7,1922,NULL,NULL
+"Helga Augusta",Sørensen,2,26,7,1922,NULL,NULL
+"Kai Georg",Sørensen,1,4,7,1922,NULL,NULL
+"Johanne Kathinka",Sørensen,2,31,7,1922,NULL,NULL
+"Martha Ottilie",Sortberg,2,4,7,1922,NULL,NULL
+"Cathrine Margrethe",Schneider,2,4,7,1922,NULL,NULL
+"Nancy Petrea",Sørensen,2,31,7,1922,NULL,NULL
+"Dagmar Gunborg",Wallin,2,1,7,1922,55.727479900000,12.573813100000
+"Abraham Bernhard",Warschafsky,1,27,7,1922,NULL,NULL
+"Olga Marie Anna",Sørensen,2,13,7,1922,NULL,NULL
+"Sofie Petrea",Sørensen,2,31,7,1922,NULL,NULL
+"Svend Aage Christian",Sørensen,1,4,7,1922,NULL,NULL
+"Peter Sofus Østergaard",Stockholm,1,5,7,1922,NULL,NULL
+"Martin Gordinius",Strandhof,1,13,7,1922,NULL,NULL
+"Georg Julius",Strauss,1,22,7,1922,NULL,NULL
+"Else Elisabeth",Weiergang,2,5,7,1922,NULL,NULL
+"Carl Aachmann Petersen",Weilby,1,5,7,1922,NULL,NULL
+"Gertrud Elisa",Otto,2,10,7,1922,55.686276400000,12.591690100000
+Friedrich,Brix,1,19,7,1922,55.681101700000,12.590118400000
+"Maren Rosine",Thrane,2,7,7,1922,NULL,NULL
+"Otto Emil",Thrane,1,31,7,1922,NULL,NULL
+Freida,Gorosch,2,20,7,1922,55.688450800000,12.583892800000
+"Ferdinand Valdemar",Wolder,1,8,7,1922,NULL,NULL
+Osvald,Vonsyld,1,4,7,1922,NULL,NULL
+"Jacob Martin",Hansen,1,1,7,1922,NULL,NULL
+"Frederich Josef",Floyd,1,10,7,1922,55.685539800000,12.594737000000
+"Adda Josefine",Kleinert,2,9,7,1922,NULL,NULL
+"Anna Gustave",Myllynen,2,7,7,1922,NULL,NULL
+"Frida Emma",Saalborn,2,13,7,1922,NULL,NULL
+"Giovanni Allessio Archmede Ernesto",Tognarelli,1,15,7,1922,55.681281500000,12.563730300000
+Ernst,Vogler,1,26,7,1922,NULL,NULL
+Christian,Omø,1,14,7,1922,NULL,NULL
+"Bernhard Magnus Heye",Kluen,1,10,7,1922,NULL,NULL
+"Thomas Selby",Pullinger,1,10,7,1922,55.685539800000,12.594737000000
+"Alfred Jørgen Hermansen",Andersen,1,6,7,1922,55.665383100000,12.551244700000
+"Andrea Caroline",Andersen,2,13,7,1922,55.670749000000,12.490782600000
+"Arthur Henry",Andersson,1,22,7,1922,55.664489100000,12.551210700000
+"Thora Anna Cathinka",Hansen,2,5,7,1922,55.669531800000,12.555204000000
+"Anders Peter",Andersen,1,15,7,1922,55.669710700000,12.549307800000
+"Carl Anders",Andersen,1,3,7,1922,NULL,NULL
+"Hans Johannes",Andersen,1,31,7,1922,NULL,NULL
+"Herman Villiam",Hansen,1,10,7,1922,NULL,NULL
+"Hans Peter",Hansen,1,27,7,1922,NULL,NULL
+Christian,Andersen,1,28,7,1922,NULL,NULL
+"Thorvald Carl Valdemar",Hansen,1,10,7,1922,NULL,NULL
+"Holger Theodor Thorsten",Hansen,1,17,7,1922,NULL,NULL
+"Hansine Jocobine",Andersen,2,11,7,1922,55.667678100000,12.548645500000
+"Victor Peter",Andersen,1,6,7,1922,NULL,NULL
+"Viggo Valdemar",Andersen,1,25,7,1922,NULL,NULL
+"Hans Viggo",Andersen,1,19,7,1922,55.671891500000,12.562583700000
+"Peter Johannes",Hansen,1,25,7,1922,NULL,NULL
+"Peter Vilhelm",Hansen,1,1,7,1922,NULL,NULL
+"Bjarnveig Sigridur",Bjarnason,2,1,7,1922,NULL,NULL
+"Bjarnveig Sigridur",Bjarnason,2,6,7,1922,NULL,NULL
+Simon,Jachimonvits,1,20,7,1922,NULL,NULL
+Christen,Andersen,1,14,7,1922,NULL,NULL
+"Henry Bernhardt",Andersen,1,7,7,1922,55.673632900000,12.555842400000
+"Hans Martin",Hansen,1,5,7,1922,NULL,NULL
+Mathias,Badosso,1,10,7,1922,55.670864800000,12.552824500000
+"Hans Peter Vinter",Hansen,1,22,7,1922,NULL,NULL
+"Aage Carl Johannes",Clemmensen,1,4,7,1922,NULL,NULL
+"Albert Saxild",Hansen,3,12,7,1922,NULL,NULL
+"Jens Carl August",Andersen,1,26,7,1922,NULL,NULL
+"Jens Peter Findanius",Andersen,1,10,7,1922,NULL,NULL
+"Christian Peter",Frederiksen,1,7,7,1922,NULL,NULL
+"Folmer Charles",Andersen,1,21,7,1922,NULL,NULL
+"Poul Christen",Christiansen,1,14,7,1922,NULL,NULL
+Emil,Christensen,1,4,7,1922,NULL,NULL
+"Lilla Erna Margrethe",Christensen,2,21,7,1922,55.669905000000,12.550175600000
+"Ane Elisabeth",Frederiksen,2,1,7,1922,NULL,NULL
+"Albert Georg",Frederiksen,1,14,7,1922,55.689507900000,12.571301100000
+Jørgen,Hansen,1,18,7,1922,NULL,NULL
+"Hans Poul",Christensen,1,27,7,1922,NULL,NULL
+"Anna Andersen",Birkemose,2,31,7,1922,NULL,NULL
+"Jens Viggo",Hansen,1,12,7,1922,NULL,NULL
+Christen,Clausen,1,4,7,1922,NULL,NULL
+Christian,Clausen,1,4,7,1922,NULL,NULL
+"Georg Jørgen Peter",Clausen,1,5,7,1922,NULL,NULL
+"Tonny Ingrid Jacobine Emilie",Buchgreibtz,1,1,7,1922,NULL,NULL
+"Astrid Henriette",Jacobsen,2,6,7,1922,NULL,NULL
+"Nanny Olivia",Andersen,2,3,7,1922,55.673114800000,12.558880900000
+"Marie Elisabeth",Hansen,2,13,7,1922,NULL,NULL
+Nikoline,Christiansen,2,11,7,1922,NULL,NULL
+"Marie Sofie",Hansen,2,14,7,1922,NULL,NULL
+"Jacob Christian",Hansen,1,31,7,1922,NULL,NULL
+"Niels Christian",Andersen,1,13,7,1922,NULL,NULL
+"Georg Carl Rohede",Frandsen,1,8,7,1922,NULL,NULL
+"Christian Thomas Lausten",Frandsen,1,22,7,1922,NULL,NULL
+"Franciska Helene Laurense",Jacobsen,2,31,7,1922,NULL,NULL
+"Christian Villiam",Franck,1,31,7,1922,NULL,NULL
+"Gunnar Bendix Nørgaard",Eering,1,3,7,1922,NULL,NULL
+"Henry Valdemar Viggo",Bentzen,1,5,7,1922,55.673753300000,12.552656900000
+"Noak Bernhard",Andersen,1,20,7,1922,55.669956300000,12.549724200000
+Christine,Christensen,2,18,7,1922,55.672287000000,12.550721300000
+"Linda Eleonora Caroline",Hansen,2,13,7,1922,NULL,NULL
+Niels,Hansson,1,24,7,1922,55.668573500000,12.556116500000
+"Johanne Larsine Elisabeth",Blomsterberg,2,19,7,1922,NULL,NULL
+"Jeanne Vilhelmine",Bendtzen,2,22,7,1922,NULL,NULL
+"Meta Johanne",Christensen,2,4,7,1922,55.672640600000,12.556667500000
+"Jens Ludvig",Hansen,1,6,7,1922,NULL,NULL
+"Petra  Vendelboe",Andersen,2,19,7,1922,NULL,NULL
+"Niels Bornemann",Christensen,1,15,7,1922,NULL,NULL
+"Niels Christian",Christensen,1,6,7,1922,55.668335500000,12.555807500000
+"Ellen Fanny Dorthea",Busnavent,2,20,7,1922,NULL,NULL
+"Margrethe Christine",Hansen,2,13,7,1922,NULL,NULL
+"Ellen Mary",Calben,2,29,7,1922,NULL,NULL
+"Lars Harald Godtfred",Bentsen,1,25,7,1922,NULL,NULL
+"Niels Peter Oluf",Christensen,1,26,7,1922,NULL,NULL
+"Hans Christian",Busk,1,4,7,1922,NULL,NULL
+"Carla Christine",Christoffersen,2,1,7,1922,NULL,NULL
+"Agda Maria",Bodin,2,27,7,1922,NULL,NULL
+"Georg Hans",Christoffersen,1,29,7,1922,NULL,NULL
+"Richard Sørensen",Bentsen,1,17,7,1922,55.668068100000,12.548878900000
+"Jens August",Christensen,1,5,7,1922,NULL,NULL
+"Jens August",Christensen,1,1,7,1922,NULL,NULL
+"Frederik Vilhelm",Figge,1,8,7,1922,NULL,NULL
+Helga,Beier,2,6,7,1922,NULL,NULL
+"Peter Georg Oscar",Christensen,1,24,7,1922,NULL,NULL
+"Svend Trøst",Andersen,1,7,7,1922,NULL,NULL
+"Ella Olufa",Bang,2,11,7,1922,NULL,NULL
+Therman,Andersen,1,1,7,1922,NULL,NULL
+"Thomas Peder",Andersen,1,6,7,1922,NULL,NULL
+"Arnold Eriksen",Byth,1,11,7,1922,NULL,NULL
+"Willy Georg",Bährisch,1,10,7,1922,NULL,NULL
+Robert,Bech,1,1,7,1922,NULL,NULL
+"Rasmus Peter",Christensen,1,13,7,1922,NULL,NULL
+"Holger Mertz",Fensholt,1,29,7,1922,NULL,NULL
+Gunnar,Flesborg,1,15,7,1922,NULL,NULL
+"Christine Adriana",Ensmann,2,6,7,1922,NULL,NULL
+"Ingenaar Marie Cornelia",Ensmann,3,6,7,1922,NULL,NULL
+"Marie Cornelia",Ensmann,2,6,7,1922,NULL,NULL
+"Felix Eugen Edmond",Flader,1,4,7,1922,NULL,NULL
+"Marie Birthe Kirstine",Faurskou,2,11,7,1922,NULL,NULL
+Svend,Christensen,1,4,7,1922,NULL,NULL
+"Alfred Johannes",Fastesen,1,31,7,1922,NULL,NULL
+"Villy Eduard Carl",Hoffmann,1,14,7,1922,NULL,NULL
+"Ellen Waage",Bjerre,2,5,7,1922,NULL,NULL
+"Marie Christine",Bøhlers,2,22,7,1922,55.674569700000,12.559309000000
+Thorvald,Christensen,1,7,7,1922,NULL,NULL
+"Christian William",Borup,1,10,7,1922,NULL,NULL
+"Ernst Edvin",Hansen,1,18,7,1922,NULL,NULL
+"Valdemar Alfred",Christensen,1,13,7,1922,NULL,NULL
+"Martin Christian Brøckman",Borup,1,18,7,1922,NULL,NULL
+"Henrik August",Frederiksen,1,14,7,1922,55.671999800000,12.562631300000
+"Georg Marius Thorvald",Geisler,1,26,7,1922,NULL,NULL
+"Anna Margrethe",Hansen,2,14,7,1922,NULL,NULL
+"Eva Elisabeth",Holm,2,6,7,1922,NULL,NULL
+Holger,Christensen,1,4,7,1922,NULL,NULL
+"Harvy Christen Andreas",Bregninge,1,1,7,1922,55.670388700000,12.541450500000
+"Hans Laurits Pedersen",Brogaard,1,5,7,1922,NULL,NULL
+"Jens Otto Kaj",Christensen,1,18,7,1922,NULL,NULL
+Carl,Christiansen,1,31,7,1922,NULL,NULL
+"Harald Louis",Hansen,1,15,7,1922,NULL,NULL
+"Eleonora Kristine",Hansen,2,4,7,1922,NULL,NULL
+"Henry Thomas Christian",Breining,1,4,7,1922,55.667903600000,12.549872200000
+"Charles  Adolf Kyndby",Christensen,1,22,7,1922,55.686882400000,12.556957700000
+"Carl Valdemar",Hansen,1,31,7,1922,NULL,NULL
+"Wilhelm Friedrich August Carl",Bress,1,13,7,1922,NULL,NULL
+"Leo Gottlieb",Brettschneider,1,13,7,1922,55.668910000000,12.555584000000
+Ernst,Graf,1,29,7,1922,NULL,NULL
+"Else Valborg Helga Anny",Hansen,2,18,7,1922,NULL,NULL
+"Mary Charlotte Ulrikka",Frederiksen,2,24,7,1922,NULL,NULL
+"Christian Viggo",Hansen,1,4,7,1922,NULL,NULL
+Jacob,Jacobsen,1,12,7,1922,55.668569300000,12.550802300000
+Frederik,Jensen,1,27,7,1922,NULL,NULL
+"Conrad Johan Georg",Galberg,1,10,7,1922,NULL,NULL
+Frantz,Giovanni,1,10,7,1922,55.670864800000,12.552824500000
+Hans,Jensen,1,3,7,1922,NULL,NULL
+"Niels Peter",Jensen,1,18,7,1922,NULL,NULL
+Jens,Jensen,1,1,7,1922,55.681489600000,12.563815900000
+"Adelaide Marie Louise",Gerton,2,29,7,1922,NULL,NULL
+"Svend Thorkild",Jensen,1,19,7,1922,NULL,NULL
+"Ole Nielsen",Iversen,1,29,7,1922,NULL,NULL
+Oluf,Jønsson,1,19,7,1922,55.697636500000,12.585124700000
+"Oluf Peter",Jensen,1,13,7,1922,NULL,NULL
+"Carl Ferdinand Thorvald",Berger,1,4,7,1922,NULL,NULL
+"Eldia Ane Marie Strande-",Gregersen,3,7,7,1922,55.666041000000,12.554968500000
+Peter,Jensen,1,20,7,1922,NULL,NULL
+"Jerome Napoleon Bonaparte",Greis,1,31,7,1922,NULL,NULL
+"Agnethe Hertz",Jensen,2,24,7,1922,NULL,NULL
+"Anna Marie",Jensen,2,10,7,1922,NULL,NULL
+Käti,Heimann,3,28,7,1922,NULL,NULL
+"Robert Baltzer Ludvig Eiler",Jensen,1,31,7,1922,NULL,NULL
+"Karen Marie",Christensen,2,11,7,1922,NULL,NULL
+"Jens Thorvald Erik",Jensen,1,3,7,1922,NULL,NULL
+Johan,Jensen,1,27,7,1922,NULL,NULL
+"Laust Christian",Jacobsen,1,1,7,1922,55.671485000000,12.549929700000
+"Lilly Cathinka",Jacobsen,2,6,7,1922,NULL,NULL
+"Ellen Ketty Kaiser",Jensen,2,7,7,1922,NULL,NULL
+Herluf,Jensen,1,27,7,1922,NULL,NULL
+Hermann,Jensen,1,25,7,1922,NULL,NULL
+"Svend Emanuel",Jensen,1,25,7,1922,NULL,NULL
+"Anna Sofie",Jensen,2,8,7,1922,55.673632900000,12.555842400000
+"Anker Richard",Jensen,1,5,7,1922,NULL,NULL
+"Peter Axel Marius",Jacobsen,1,4,7,1922,NULL,NULL
+"Dagny Nancy Loreke",Gyldentoft,2,21,7,1922,NULL,NULL
+"Valborg Jensine",Jensen,2,18,7,1922,NULL,NULL
+"Valborg Jensine",Jensen,2,27,7,1922,NULL,NULL
+Augusta,Jensen,2,4,7,1922,NULL,NULL
+"Vilhelm Ferdinand",Jensen,1,4,7,1922,NULL,NULL
+"Kaj Rasmus",Hemmingsen,1,14,7,1922,NULL,NULL
+"Christian Mogens",Christiansen,1,20,7,1922,NULL,NULL
+"Carl Johan",Jensen,1,12,7,1922,NULL,NULL
+"Emma Eleonora Johanne",Jensen,2,11,7,1922,NULL,NULL
+"Else Augusta Friedericka",Conradi,2,24,7,1922,NULL,NULL
+"Knud Valdemar Algot",Haagensen,1,4,7,1922,NULL,NULL
+"Christen Kamp",Jensen,1,17,7,1922,NULL,NULL
+"Christen Kamp",Jensen,1,28,7,1922,NULL,NULL
+Johannes,Jensen,1,5,7,1922,NULL,NULL
+"Frida Elisabeth",Hagen,2,3,7,1922,NULL,NULL
+"Kaj Valdemar Melzig",Jensen,1,4,7,1922,55.665767600000,12.546058800000
+"Christian Herman Godtfred",Jensen,1,29,7,1922,NULL,NULL
+Eva,Jensen,2,4,7,1922,NULL,NULL
+Alfred,Christensen,1,3,7,1922,NULL,NULL
+"Emil Christen Bergstrøm",Henningsen,1,25,7,1922,NULL,NULL
+"Vally Johanne Kirstine",Iversen,2,10,7,1922,NULL,NULL
+"Aage Johannes",Jensen,1,3,7,1922,NULL,NULL
+"Georg Johan",Jensen,1,3,7,1922,NULL,NULL
+"Heinrich Jacob Georg",Hunwartzen,1,25,7,1922,55.667501500000,12.549907900000
+Peter,Hjuler,1,28,7,1922,55.671891500000,12.562583700000
+"Agnes Margrethe Rasmine Jensine",Jensen,2,18,7,1922,NULL,NULL
+"Edvard Johannes",Christiansen,1,8,7,1922,NULL,NULL
+"Gudrun Kirstine",Jensen,2,13,7,1922,NULL,NULL
+"Anton Vilhelm",Elkar,1,26,7,1922,NULL,NULL
+"Jens Frederik",Christiansen,1,4,7,1922,NULL,NULL
+"Aage Børge",Hansen,1,10,7,1922,NULL,NULL
+Camilla,Emil,2,21,7,1922,NULL,NULL
+"Anna Elisabeth",Høckerstrøm,2,7,7,1922,55.671331000000,12.560561700000
+"Poul Hermann Bernhard",Hansen,1,6,7,1922,NULL,NULL
+"Hermann Julius",Hammer,1,24,7,1922,NULL,NULL
+"Karen Marie",Christiansen,2,6,7,1922,NULL,NULL
+"Helga Marie",Ekløf,2,6,7,1922,55.672049400000,12.547055700000
+"Jacob Johannes",Højrup,1,1,7,1922,NULL,NULL
+Carlo,Jørgensen,1,29,7,1922,NULL,NULL
+"Abraham Franciscus von",Langen,1,20,7,1922,55.669140500000,12.557466300000
+Anna,Madsen,2,17,7,1922,NULL,NULL
+Gottfrid,Lind,1,1,7,1922,NULL,NULL
+"Elsa Marie",Nielsen,2,7,7,1922,NULL,NULL
+Jensine,Larsen,2,8,7,1922,NULL,NULL
+Knud,Enghoff,1,25,7,1922,NULL,NULL
+"Niels Peter",Lind,1,1,7,1922,NULL,NULL
+"Dagmar Sigrid Thora Johanne Andrea Holm",Eriksen,2,25,7,1922,NULL,NULL
+"Carl Christian",Nielsen,1,7,7,1922,NULL,NULL
+"Ella Mathilde Nielsen",Lilholm,2,24,7,1922,NULL,NULL
+"Jens Christian Vilhelm",Koch,1,4,7,1922,NULL,NULL
+"Hedevig Marie",Eriksen,2,27,7,1922,NULL,NULL
+"Peter Ludvig",Eskildsen,1,28,7,1922,NULL,NULL
+"Carl Johan Rosenørn",Nielsen,1,11,7,1922,NULL,NULL
+"Carl Simon",Nielsen,1,26,7,1922,NULL,NULL
+"Carl Vilhelm",Nielsen,1,3,7,1922,NULL,NULL
+"Erna Olga Elvira Østerberg",Henriksen,2,15,7,1922,NULL,NULL
+"Ingeborg Sofie",Eriksen,2,11,7,1922,NULL,NULL
+"Svend Carl",Eriksen,1,18,7,1922,NULL,NULL
+Valdemar,Eriksen,1,24,7,1922,NULL,NULL
+Emmy,Nielsen,2,6,7,1922,NULL,NULL
+"Peter Søren",Mortensen,1,17,7,1922,NULL,NULL
+"Valdemar Ove Gustav",Mortensen,1,25,7,1922,NULL,NULL
+"Rosa Elisabeth",Mumm,2,24,7,1922,NULL,NULL
+"Axel Valdemar",Nielsen,1,3,7,1922,NULL,NULL
+"Ellen Kirstine Malmstrøm",Nielsen,2,5,7,1922,NULL,NULL
+"Carl Christian",Jørgensen,1,31,7,1922,55.671746900000,12.549610200000
+"Sophie Marie Louise von",Malmborg,2,14,7,1922,55.672154900000,12.549890300000
+"Ester Sigrid Marie",Nilsson,2,25,7,1922,NULL,NULL
+"Hans Chr.",Jørgensen,1,31,7,1922,NULL,NULL
+"Axel Johannes",Hansen,1,24,7,1922,NULL,NULL
+"Hjalmar Jesper Kjølhede",Karsbo,1,4,7,1922,NULL,NULL
+"Hans Christian",Nielsen,1,13,7,1922,NULL,NULL
+"Hans Frederik",Nielsen,1,1,7,1922,NULL,NULL
+"Jensine Christine",Larsen,2,11,7,1922,NULL,NULL
+"Hans Jørgen",Nielsen,1,6,7,1922,NULL,NULL
+Alfred,Hasemann,1,19,7,1922,NULL,NULL
+"Anna Hansine",Nielsen,2,14,7,1922,NULL,NULL
+"Anna Johanne",Nielsen,2,28,7,1922,NULL,NULL
+"Anne Kirstine",Nielsen,2,25,7,1922,NULL,NULL
+"Dagmar Ulrikka Dothea",Jørgensen,2,1,7,1922,NULL,NULL
+"Dagny Ingeborg Frederikke",Jørgensen,2,29,7,1922,55.658453000000,12.520035300000
+Ejner,Jørgensen,1,13,7,1922,55.671438600000,12.561695600000
+"Axel Johannes",Larsen,1,16,7,1922,NULL,NULL
+"Eli Lars Christian Juel",Jørgensen,1,26,7,1922,NULL,NULL
+"Vilhelm Erhard",Kjær,1,14,7,1922,NULL,NULL
+"Lars Peter",Olsen,1,20,7,1922,NULL,NULL
+Oluf,Madsen,1,3,7,1922,NULL,NULL
+"Rosa Jonna Ella",Klamer,2,12,7,1922,NULL,NULL
+Christian,Knudsen,1,24,7,1922,NULL,NULL
+"Ole Jensen",Kjærgaard,1,3,7,1922,NULL,NULL
+Jens,Knudsen,1,24,7,1922,55.670639800000,12.558860700000
+"Johanne Marie",Larsen,2,25,7,1922,NULL,NULL
+"Julius Frederik",Larsen,1,21,7,1922,NULL,NULL
+"Christian Richardt",Larsen,1,17,7,1922,NULL,NULL
+"Berta Johanne",Nielsen,2,13,7,1922,NULL,NULL
+Hansine,Johansen,2,18,7,1922,NULL,NULL
+"Kaj Frode Erik Norlem",Larsen,1,19,7,1922,NULL,NULL
+"Aage Johannes",Larsen,1,4,7,1922,NULL,NULL
+"Eduard Theobald",Larsen,1,29,7,1922,NULL,NULL
+Kai,Knudsen,2,7,7,1922,NULL,NULL
+Peder,Mehlsen,1,25,7,1922,NULL,NULL
+Henry,Johansen,1,10,7,1922,NULL,NULL
+"Anders Søren",Jørgensen,1,21,7,1922,55.667024500000,12.548943200000
+"Einar Thomas",Larsen,1,5,7,1922,NULL,NULL
+"Jens Albert",Johansen,1,14,7,1922,NULL,NULL
+"Niels Christian",Heiden,1,27,7,1922,55.673199600000,12.559254500000
+"Christian Ove Holm",Møller,1,4,7,1922,NULL,NULL
+"Christian Theodor",Nielsen,1,4,7,1922,NULL,NULL
+"Emil Victor",Larsen,1,6,7,1922,NULL,NULL
+"Mary Frederikke",Heintz,2,18,7,1922,NULL,NULL
+"Ingeborg Marie",Johansen,2,13,7,1922,NULL,NULL
+"Marie Cecilie",Olsen,2,7,7,1922,NULL,NULL
+"Gunhild Ellen Marie",Larsen,2,4,7,1922,NULL,NULL
+Erich,Lauschke,1,28,7,1922,NULL,NULL
+"Ernst Niels Christen",Laustsen,1,6,7,1922,NULL,NULL
+Holger,Nørgaard,1,8,7,1922,55.672574600000,12.551243000000
+"Lilly Eva Frede",Jørgensen,2,22,7,1922,NULL,NULL
+Lutharia,Jørgensen,2,4,7,1922,NULL,NULL
+"Marie Sofie",Jørgensen,2,13,7,1922,NULL,NULL
+"Aage Carl Frederik",Madsen,1,3,7,1922,NULL,NULL
+"Gerner Johannes",Muurbech,1,26,7,1922,NULL,NULL
+"Niels Christian",Larsen,1,17,7,1922,NULL,NULL
+"Carl Magnus",Mortensen,1,1,7,1922,55.692416700000,12.564468700000
+"Niels Laurits Martinus",Larsen,1,12,7,1922,NULL,NULL
+Anders,Nielsen,1,8,7,1922,NULL,NULL
+"Peter Ellegaard",Olsen,1,13,7,1922,NULL,NULL
+"Peter Thorvald",Olsen,1,8,7,1922,NULL,NULL
+"Ellen Margrethe",Mortensen,2,17,7,1922,NULL,NULL
+Petrine,Larsen,2,4,7,1922,NULL,NULL
+"Poul Richard",Larsen,1,10,7,1922,NULL,NULL
+"Axel Alexander",Petersen,1,5,7,1922,NULL,NULL
+"Agnes Marie",Andersen,2,5,7,1922,55.694970100000,12.549260100000
+"Knud Woldsgaard",Nielsen,1,12,7,1922,NULL,NULL
+"Lars Christian",Nielsen,1,22,7,1922,NULL,NULL
+"Anna Palma",Enghoff,2,6,7,1922,NULL,NULL
+"Thorvald Viggo",Larsen,1,5,7,1922,NULL,NULL
+"Rudolf Lauritz",Olsen,1,7,7,1922,NULL,NULL
+Jes,Enne,1,26,7,1922,NULL,NULL
+"Valdemar Frederik",Larsen,1,4,7,1922,NULL,NULL
+"Axel Frederik",Petersen,1,6,7,1922,NULL,NULL
+Mathias,Johansson,1,12,7,1922,55.668545900000,12.538207300000
+"Svend Aage",Olsen,1,9,7,1922,55.669786200000,12.551851700000
+"Agnes Marie Christine Andersen Mortensen",Pallesen,2,26,7,1922,NULL,NULL
+"Lars Sigfred",Palm,1,1,7,1922,NULL,NULL
+Annie,Calculator,2,7,7,1922,55.702216700000,12.580969900000
+Frode,Flensted,1,15,7,1922,NULL,NULL
+"Vilhelm Bertram",Larsen,1,3,7,1922,NULL,NULL
+"Niels Simonsen",Nielsen,1,20,7,1922,NULL,NULL
+"Maren Christine",Ovesen,2,15,7,1922,55.671796700000,12.558442000000
+"Viggo Emil",Olsen,1,18,7,1922,NULL,NULL
+"Viggo Emil",Olsen,1,28,7,1922,NULL,NULL
+"Svend Georg",Lasson,1,18,7,1922,NULL,NULL
+"Carl Georg",Lütjshan,1,6,7,1922,NULL,NULL
+"Axel Anders Marinus",Petersen,1,4,7,1922,NULL,NULL
+"Carl Damgaard",Petersen,1,5,7,1922,NULL,NULL
+"Carl Damgaard",Petersen,1,29,7,1922,NULL,NULL
+"Olga Elisabeth",Andersen,2,1,7,1922,NULL,NULL
+"Carl Frederik",Petersen,1,1,7,1922,NULL,NULL
+"Aage Alexander",Petersen,1,27,7,1922,NULL,NULL
+Christian,Andersen,1,12,7,1922,NULL,NULL
+"Aage Jens Valdemar",Petersen,1,3,7,1922,NULL,NULL
+"Emilie Marie",Baartz,2,31,7,1922,NULL,NULL
+Johannes,Nielsen,1,13,7,1922,NULL,NULL
+"Johanne Nielsine",Nielsen,2,18,7,1922,NULL,NULL
+"Oscar Villiam",Andersen,1,28,7,1922,NULL,NULL
+"Ellen Margrethe Langhoff ?",Petersen,2,3,7,1922,NULL,NULL
+"Elna Margrethe",Petersen,2,24,7,1922,NULL,NULL
+"Elna Margrethe",Petersen,2,24,7,1922,NULL,NULL
+"Ninna Gerda",Overby,2,31,7,1922,NULL,NULL
+Erhardt,Petersen,1,18,7,1922,NULL,NULL
+"Erik Valdemar",Petersen,1,14,7,1922,NULL,NULL
+"Viggo Carl",Andersen,1,8,7,1922,NULL,NULL
+"Gerda Isabella",Carstens,2,7,7,1922,55.699918500000,12.578433600000
+"Marius Gerhard",Nielsen,1,19,7,1922,NULL,NULL
+"Emma Odeliiy Catrine Sørensen",Lilliendahl,2,7,7,1922,NULL,NULL
+"Iris Feodorovna",Lindberg,2,24,7,1922,NULL,NULL
+"Alfred Herman Lauritz",Petersen,1,17,7,1922,NULL,NULL
+"Rudolf Simonsen",Oehlerich,1,17,7,1922,NULL,NULL
+"Karin Brita Hildgard",Linder,2,18,7,1922,55.670822200000,12.582328500000
+Nicolaj,Lewandowsky,1,3,7,1922,NULL,NULL
+"Anna Martha",Andersen,2,7,7,1922,NULL,NULL
+"Anders Henry",Andersen,1,3,7,1922,NULL,NULL
+"Kay Gudmund",Andersen,1,1,7,1922,NULL,NULL
+"Karen Edith",Andersen,2,15,7,1922,NULL,NULL
+"Karen Marie",Andersen,2,1,7,1922,NULL,NULL
+Anna,Petersen,2,18,7,1922,NULL,NULL
+"Maren Birgitte",Nielsen,2,10,7,1922,NULL,NULL
+"Rigmor Emilie",Caspersen,2,1,7,1922,55.701404600000,12.577716400000
+"Anna Elvine",Petersen,2,4,7,1922,NULL,NULL
+"Else Johanne Christine",Madsen,2,6,7,1922,NULL,NULL
+"Karen Frederikke Marie",Melgaard,2,7,7,1922,NULL,NULL
+"Anna Franciska",Petersen,2,5,7,1922,NULL,NULL
+"Maren Nielsine Ketty",Nielsen,2,14,7,1922,55.672154900000,12.549890300000
+"Laura Emilie",Andersen,2,19,7,1922,NULL,NULL
+"Frede Alf Roland",Madsen,1,18,7,1922,NULL,NULL
+Josef,Kosnor,1,18,7,1922,NULL,NULL
+"Alfred Marinus",Lund,1,12,7,1922,NULL,NULL
+Niels,Nielsen,1,4,7,1922,NULL,NULL
+Niels,Nielsen,1,5,7,1922,NULL,NULL
+"Caroline Josefine",Andersen,2,4,7,1922,NULL,NULL
+"Fritz Otto Dahlstrøm",Madsen,1,24,7,1922,NULL,NULL
+"Ludvig Edvard",Nielsen,1,18,7,1922,NULL,NULL
+"Rudolf Carl Leopold Emil",Orbe,1,5,7,1922,NULL,NULL
+"Peter Ferdinand Poul",Nielsen,1,10,7,1922,NULL,NULL
+Osvald,Nielsen,1,12,7,1922,NULL,NULL
+"Henning Vilhelm",Andersson,1,15,7,1922,55.697105300000,12.586321500000
+"Poul Madsen",Nielsen,1,15,7,1922,NULL,NULL
+"Poul Saxtorp",Nielsen,1,29,7,1922,NULL,NULL
+"Anna Laurine",Larsen,2,5,7,1922,NULL,NULL
+"Clara Gundhild",Andersson,2,26,7,1922,NULL,NULL
+"Clara Marie",Andersen,2,14,7,1922,NULL,NULL
+"Niels Frederik",Nielsen,1,22,7,1922,NULL,NULL
+"Anna Marie",Larsen,2,6,7,1922,NULL,NULL
+"Anna Sofie",Larsen,2,13,7,1922,NULL,NULL
+"Gerner Christian",Madsen,1,17,7,1922,NULL,NULL
+Christen,Christensen,1,7,7,1922,NULL,NULL
+"Johanne Cathrine",Andersen,2,6,7,1922,NULL,NULL
+"Johanne Marie Sofie",Andersen,2,6,7,1922,NULL,NULL
+"Johanne Pouline",Andersen,2,13,7,1922,NULL,NULL
+"Harald Martin Bergmann","Madsen (Kl. Miehe)",1,10,7,1922,55.672034600000,12.552391200000
+"Svea Geritta Adelgrunde",Nilsson,2,25,7,1922,55.671622800000,12.554767000000
+"Hans Christian Edvard",Erichsen,1,1,7,1922,NULL,NULL
+"Niels Peter",Nielsen,1,7,7,1922,NULL,NULL
+Erhardt,Keller,1,6,7,1922,NULL,NULL
+"Poul Ludvig",Killendahl,1,10,7,1922,NULL,NULL
+"Erna Hanne Marie",Kirstein,2,19,7,1922,NULL,NULL
+Viggo,Bendix,1,6,7,1922,NULL,NULL
+"Hagbart Emille",Kold,1,20,7,1922,NULL,NULL
+Gustav,Loeb,1,25,7,1922,NULL,NULL
+Max,Kressebuch,1,29,7,1922,NULL,NULL
+"Anette Sophie",Andersen,2,13,7,1922,NULL,NULL
+"Karen Marie",Christensen,2,27,7,1922,NULL,NULL
+"Andreas Frithjof",Andreasen,1,4,7,1922,NULL,NULL
+"Osvald Lauritz",Christiansen,1,4,7,1922,NULL,NULL
+"Millia Josefina",Bassø,2,3,7,1922,55.697247100000,12.586289600000
+"Thora Augusta Ingeborg",Nielsen,2,10,7,1922,NULL,NULL
+"Fritz Carlo",Andreasen,1,5,7,1922,NULL,NULL
+"Jens Christian",Krogh,1,28,7,1922,NULL,NULL
+Valdemar,Nielsen,1,25,7,1922,NULL,NULL
+"Vejland Hertz Harry",Nielsen,1,19,7,1922,NULL,NULL
+"Robert Axel Vilhelm Wandal",Andresen,1,15,7,1922,NULL,NULL
+"Cathinka Consalo Baildom",Ferslev,2,28,7,1922,NULL,NULL
+"Poul Ernst",Christensen,1,6,7,1922,NULL,NULL
+"Bernhard Valdemar",Olsen,1,14,7,1922,NULL,NULL
+"Albertina Carolina",Michaelsson,2,1,7,1922,NULL,NULL
+Amanda,Michelsson,2,11,7,1922,55.671489300000,12.558872400000
+Amanda,Michelsson,2,17,7,1922,NULL,NULL
+"Georg Bernhard",Lundberg,1,21,7,1922,NULL,NULL
+"Svend Knud Valdemar",Lundberg,1,27,7,1922,55.671150400000,12.552476300000
+Thorvald,Christensen,1,7,7,1922,NULL,NULL
+Joseph,Madsen,1,20,7,1922,NULL,NULL
+Viggo,Eggen,1,5,7,1922,NULL,NULL
+"Valborg Astrid Rosa Borch",Christensen,2,12,7,1922,NULL,NULL
+"Holger Thorkild",Krøyer,1,28,7,1922,NULL,NULL
+"Holger Thorkild",Krøyer,1,8,7,1922,NULL,NULL
+"Kaj Johannes Christen Moritz Fritz",Madsen,1,8,7,1922,NULL,NULL
+Hjalmar,Lund,1,13,7,1922,NULL,NULL
+"Alma Madsine Jensen",Borg,2,12,7,1922,NULL,NULL
+"Ane Nielsine",Christensen,2,8,7,1922,NULL,NULL
+"Harry Marius",Elmar,1,18,7,1922,NULL,NULL
+"Harry Einer Tage",Müller,1,22,7,1922,NULL,NULL
+"Anna Marie Jørgine",Elveen,2,1,7,1922,NULL,NULL
+"Emmy Frederikke Christine",Elveen,2,27,7,1922,NULL,NULL
+"Axel Rasmus",Børresen,1,4,7,1922,55.702800500000,12.584730700000
+"Astrid Hansine",Frederiksen,2,13,7,1922,NULL,NULL
+"Birtha Marie Lundbach",Christensen,2,8,7,1922,NULL,NULL
+"Henry Martin",Emmeltorp,1,6,7,1922,NULL,NULL
+"Herman Herlev",Enevoldsen,1,18,7,1922,NULL,NULL
+"Metha Margrethe",Madsen,2,5,7,1922,NULL,NULL
+"Julius Holger Brinch",Kønig,1,5,7,1922,NULL,NULL
+"Kamma Viola Rosendahl",Hansen,2,7,7,1922,55.699258900000,12.578215500000
+"Vilhelm Emanuel",Frederiksen,1,27,7,1922,NULL,NULL
+"Agnes Moesgaard",Hansen,2,19,7,1922,55.697089000000,12.584888100000
+"Else Jørgine Johanne Petra",Frøkier,2,7,7,1922,55.700542100000,12.579573600000
+"Johan Edvard",Lundgreen,1,13,7,1922,55.671438600000,12.561695600000
+"Alfred Valdemar Julius",Hansen,1,6,7,1922,NULL,NULL
+"Clara Julie",Landschwieg,2,4,7,1922,NULL,NULL
+"Theodor Hansen",Frimann,1,20,7,1922,NULL,NULL
+"Johan Aage",Lang,1,18,7,1922,NULL,NULL
+"Ella Johanne",Friis,2,28,7,1922,55.701948100000,12.577852100000
+"Petrea Marie",Madsen,2,6,7,1922,NULL,NULL
+Stamslav,Pelat,1,22,7,1922,NULL,NULL
+"Christian Theodor Eigil Johannes",Pilemann,1,18,7,1922,NULL,NULL
+Martinus,Hansen,1,25,7,1922,NULL,NULL
+Christian,Mikkelsen,1,14,7,1922,NULL,NULL
+"Ebba Frederikke Sofie",Fugl,2,15,7,1922,NULL,NULL
+"Hilda Cecilie Karoline",Hansen,2,1,7,1922,NULL,NULL
+"Harald Andreas Theodor Hansen","Larsen (Kl. Raage)",1,3,7,1922,NULL,NULL
+"Olga Hilma",Hansen,2,18,7,1922,NULL,NULL
+"Anker Fischer",Laursen,1,18,7,1922,55.672903300000,12.559247100000
+"Carla Martine",Haakansen,2,4,7,1922,55.685265200000,12.594007700000
+Johann,Popp,1,1,7,1922,NULL,NULL
+"Harry Edvard",Hansen,1,13,7,1922,NULL,NULL
+"Lars Peter",Hansen,1,15,7,1922,55.697584100000,12.576535300000
+"Hans Peter",Laursen,1,17,7,1922,NULL,NULL
+"Ingrid Elisabett",Hansen,2,14,7,1922,55.703459500000,12.584512400000
+"Gerda Elvira",Magnussen,2,31,7,1922,55.669588900000,12.554120100000
+"Joachim Carl Villadsen",Printz,1,22,7,1922,NULL,NULL
+Anna,Milratz,2,20,7,1922,NULL,NULL
+"Elvira Christine",Hansen,2,27,7,1922,NULL,NULL
+"Astrid Christina",Galatius,2,4,7,1922,55.714127600000,12.575838700000
+"Janus Alfred Johannes",Mørch,1,18,7,1922,NULL,NULL
+"Erna Valborg",Hansen,2,13,7,1922,NULL,NULL
+"Erna Vilhelmine",Hansen,2,6,7,1922,55.692014400000,12.559955000000
+"Erna Vilhelmine",Hansen,2,30,7,1922,55.684858300000,12.564305100000
+"Johanne Marie",Hald,2,16,7,1922,55.698466200000,12.584642200000
+Harald,Marcussen,1,5,7,1922,NULL,NULL
+"Emil Hary",Brinks,1,8,7,1922,NULL,NULL
+"Carl Otto",Mogensen,1,6,7,1922,NULL,NULL
+"Clara Johanne Ingeborg",Christensen,2,6,7,1922,NULL,NULL
+"Carlo Gerhard Valdemar",Christensen,1,18,7,1922,NULL,NULL
+Kjeld,Markussen,1,27,7,1922,NULL,NULL
+"Hans Hansen",Gerhof,1,19,7,1922,NULL,NULL
+"Warna Poulona",Gerhof,2,18,7,1922,NULL,NULL
+Leo,Berg,1,27,7,1922,55.706689500000,12.581372100000
+"Carl Albert",Møller,1,4,7,1922,NULL,NULL
+"Carl Albert",Møller,1,5,7,1922,NULL,NULL
+"Carl Ferdinand",Møller,1,4,7,1922,NULL,NULL
+Inger,Buhl,2,4,7,1922,55.696031200000,12.587665200000
+"Magda Sofie",Mogensen,2,31,7,1922,NULL,NULL
+Andreas,Nissen,1,31,7,1922,NULL,NULL
+"Emilie Marie Frederikke",Bjerregaard,2,4,7,1922,NULL,NULL
+"Max Alfred",Harm,1,1,7,1922,55.698047400000,12.579640300000
+"Hans Christian",Nicolaisen,1,12,7,1922,NULL,NULL
+"Svend Malling",Hansen,1,8,7,1922,55.696395900000,12.580795900000
+"Vilhelm Abildgaard",Hansen,1,8,7,1922,NULL,NULL
+"Herman Vessel Martin Bjørn",Grevlund,1,10,7,1922,NULL,NULL
+"Edvard Edmund Eskild Emanuel",Maansson,1,13,7,1922,NULL,NULL
+Frederik,Nielsen,1,13,7,1922,NULL,NULL
+"Sigrid Sofie",Henriksen,2,10,7,1922,NULL,NULL
+"Edith Sofie Kirstien",Nielsen,2,4,7,1922,NULL,NULL
+"Edith Thyra Anna",Nielsen,2,11,7,1922,55.696028700000,12.571226800000
+"Gudrun Elisabeth",Isbøl,2,17,7,1922,55.689989200000,12.572102900000
+"Carl Emil",Holst,1,27,7,1922,55.696369200000,12.574587600000
+Olga,Hjelmer,2,25,7,1922,NULL,NULL
+"Laura Cecilie Hansine",Jarfeldt,2,1,7,1922,NULL,NULL
+"Karen Edel Andreasen",Jarllev,2,22,7,1922,55.687005700000,12.551716500000
+Alfred,Heinrick,1,18,7,1922,NULL,NULL
+Holger,Bidstrup,1,10,7,1922,NULL,NULL
+Christian,Jespersen,1,5,7,1922,NULL,NULL
+"Meta Marie Kristine",Bøjstrup,2,4,7,1922,NULL,NULL
+"Elna Kirstine",Nielsen,2,22,7,1922,NULL,NULL
+"Edith Gudrun",Jensen,2,10,7,1922,55.703227600000,12.587075400000
+"Edith Oline",Jensen,2,1,7,1922,55.708899100000,12.583394500000
+Alfred,Jessen,1,27,7,1922,NULL,NULL
+"Christian Hermann Stampe",Jessen,1,24,7,1922,55.707931400000,12.569113000000
+"Svend Adolf Robert Alexander",Høegh,1,4,7,1922,NULL,NULL
+"Carl Christian Høyer Petersen",Höj,1,7,7,1922,NULL,NULL
+"Bodil Marie Pouline",Juul,2,6,7,1922,55.680914100000,12.583180100000
+"Clara Kirstine Jensine",Jensen,2,25,7,1922,55.694645200000,12.569435100000
+Emilie,Nielsen,2,7,7,1922,NULL,NULL
+"Erik Bertram",Nielsen,1,4,7,1922,NULL,NULL
+"Niels Marius Sigfred",Junge,1,11,7,1922,55.706669900000,12.581016600000
+Julie,Nielsen,2,17,7,1922,NULL,NULL
+Georgi,Junger,1,24,7,1922,55.680514200000,12.581427500000
+"Anna Frederikke",Jensen,2,1,7,1922,55.670666400000,12.534996700000
+"Svend Aage",Hansen,1,12,7,1922,55.698776600000,12.584313900000
+"Ellen Marie",Jensen,2,1,7,1922,NULL,NULL
+Georg,Nielsen,1,6,7,1922,NULL,NULL
+"Constance Kirstine",Oldager,2,14,7,1922,NULL,NULL
+"Johanne Marie Dagmar",Nielsen,2,11,7,1922,NULL,NULL
+"Alice Sofie",Jacobsen,2,31,7,1922,55.685529700000,12.526079500000
+"Orla Hilmar Rylyo",Jensen,1,5,7,1922,55.691101300000,12.559026800000
+"Julius Christian",Jensen,1,24,7,1922,55.697664400000,12.574348000000
+"Stella Tadæa Elise",Nielsen,2,1,7,1922,NULL,NULL
+"Otto Svend",Jensen,1,4,7,1922,55.708726100000,12.586021400000
+"Svend Aage",Jensen,1,4,7,1922,NULL,NULL
+Viggo,Jensen,1,1,7,1922,55.705241400000,12.579084700000
+Agnete,Johansen,2,24,7,1922,NULL,NULL
+"Kirsten Dagny",Nielsen,2,6,7,1922,NULL,NULL
+Gisli,Olafson,1,8,7,1922,NULL,NULL
+"Ane Christiane",Johansen,2,1,7,1922,55.691022300000,12.574006200000
+"Carl Christian",Jacobsen,1,8,7,1922,NULL,NULL
+"Martha Marie Sofie",Jørgensen,2,7,7,1922,55.700540900000,12.579054500000
+"Claudine Frederikke",Jacobsen,2,6,7,1922,NULL,NULL
+"Christine Marie",Jacobsen,2,11,7,1922,55.706337700000,12.584682300000
+"Dagmar Olivia",Jacobsen,2,29,7,1922,55.693867900000,12.569901600000
+"Alfred August",Højsrup,1,13,7,1922,NULL,NULL
+"Lorentz Olai",Nielsen,1,18,7,1922,55.700375100000,12.587279100000
+"Karen Christine",Jensen,2,12,7,1922,55.704248900000,12.577716600000
+"Villy Christian Fehmerling",Nielsen,1,19,7,1922,NULL,NULL
+"Gerda Johanne",Jacobsen,2,7,7,1922,55.676830700000,12.571922300000
+"Nelly Oline Marie",Jensen,2,6,7,1922,NULL,NULL
+"Knud Dybbøl",Nielsen,1,20,7,1922,NULL,NULL
+"Johanne Marie",Gundersen,2,26,7,1922,55.699858900000,12.587873400000
+"Christen Jensen",Larsen,1,28,7,1922,NULL,NULL
+Saga,Lenk,2,12,7,1922,55.694237500000,12.570014200000
+"Andrea Petrine Birthe",Lekt,2,1,7,1922,NULL,NULL
+"Henrik Ledersburg",Jacobsen,1,18,7,1922,55.697045600000,12.585428100000
+"Ingeborg Johanne",Carlsen,2,28,7,1922,NULL,NULL
+"Anna Margrethe",Jensen,2,15,7,1922,55.704367200000,12.578416200000
+"Anna Kathrine",Kjær,2,15,7,1922,55.667748600000,12.596939900000
+"Nielsine Christine",Jensen,2,6,7,1922,NULL,NULL
+"Olaf Christian",Olsen,1,8,7,1922,NULL,NULL
+Holger,Jensen,1,20,7,1922,NULL,NULL
+"Lorentz Søren",Helleskov,1,4,7,1922,NULL,NULL
+"Aage Henry Oluf",Jensen,1,1,7,1922,55.688292900000,12.553719300000
+"Jenny Albertine Margrethe",Jensen,2,1,7,1922,NULL,NULL
+"Kai Konrad",Kisby,1,19,7,1922,55.709280600000,12.553776200000
+Erna,Larsen,2,4,7,1922,55.716466400000,12.574192900000
+"Jenny Margrethe",Jensen,2,5,7,1922,NULL,NULL
+"Sven Julius",Gustafsson,1,29,7,1922,55.668735200000,12.554053300000
+Karen,Larsen,2,24,7,1922,55.704107800000,12.589232300000
+"Ester Theodora",Jensen,2,6,7,1922,NULL,NULL
+"Dagmar Jacobine Iversen",Holm,2,6,7,1922,NULL,NULL
+"Carl Frederik Valdemar",Larsen,1,15,7,1922,NULL,NULL
+Karen,Lund,2,14,7,1922,NULL,NULL
+"Erna Louise Gertraud",Henschke,2,27,7,1922,55.700167000000,12.585712100000
+Mathilde,Larsen,2,18,7,1922,55.705136700000,12.578160200000
+"Peter Mathias Vilhelm",Kjær,1,8,7,1922,55.696957200000,12.582222100000
+"Sofie Cathrine",Lund,2,8,7,1922,NULL,NULL
+"Alma Olivia",Larsen,2,1,7,1922,NULL,NULL
+"Thomas Christian",Kjær,1,7,7,1922,NULL,NULL
+"Martha Marie Caroline",Carlsen,2,31,7,1922,NULL,NULL
+"Hans Otto",Jensen,1,11,7,1922,55.697775800000,12.574564600000
+"Hans Peter Christoffer",Jensen,1,13,7,1922,55.698054700000,12.575084600000
+"Anna Camilla",Larsen,2,17,7,1922,NULL,NULL
+"Eline Kathrine Elisabet",Clementhsen,2,24,7,1922,NULL,NULL
+"Christen Konrad",Levang,1,18,7,1922,55.690396400000,12.573308900000
+"Otto Einar",Larsen,1,4,7,1922,NULL,NULL
+"Astrid Eleonora",Larsen,2,5,7,1922,55.703531700000,12.590118000000
+"Jens Christian",Jensen,1,22,7,1922,NULL,NULL
+"Carlo August Emanuel",Larsen,1,12,7,1922,NULL,NULL
+"Jens Johannes",Jensen,1,3,7,1922,55.703206300000,12.585208200000
+"Christiane Nielsen",Lyngbo,2,31,7,1922,NULL,NULL
+"Else Marie",Madsen,2,4,7,1922,NULL,NULL
+"Vera Hilda Marie Elisabeth",Martins,2,4,7,1922,NULL,NULL
+"Carl Niels",Jensen,1,6,7,1922,NULL,NULL
+"Carl Oscar",Jensen,1,19,7,1922,NULL,NULL
+"Christine Cecilie",Martinsen,2,4,7,1922,NULL,NULL
+"Anton Henry",Christoffersen,1,4,7,1922,NULL,NULL
+"Carl Sørvig",Holtermann,1,17,7,1922,NULL,NULL
+"Frederik Vilhelm",Holtermann,1,4,7,1922,55.702576400000,12.579370300000
+"Caroline Catharine Christine",Holtfoth,2,4,7,1922,NULL,NULL
+"Aage Andersen",Lervad,1,13,7,1922,NULL,NULL
+"Hans Ewald Ingemann Axel",Larsen,1,4,7,1922,55.714880200000,12.574281900000
+"Harald Victor",Larsen,1,10,7,1922,55.689975800000,12.554989500000
+"Dagmar Kirstine",Laursen,2,2,7,1922,NULL,NULL
+"Sofie Marie",Steffensen,2,15,7,1922,55.707492100000,12.577737400000
+"Emmy Charlotte Alvine",Stein,2,21,7,1922,55.697105300000,12.586321500000
+Mariane,Nørregaard,2,6,7,1922,NULL,NULL
+Marius,Petersen,1,27,7,1922,NULL,NULL
+"Abraham Christian",Svane,1,8,7,1922,55.700623000000,12.577717700000
+"Hans Albert",Svane,1,8,7,1922,NULL,NULL
+"Hans Christian",Christoffersen,1,15,7,1922,NULL,NULL
+Harald,Christoffersen,1,17,7,1922,NULL,NULL
+"Agnes Margrethe",Sørensen,2,4,7,1922,NULL,NULL
+"Jens Ole",Larsen,1,22,7,1922,NULL,NULL
+"Kamma Wasserfeld",Petersen,2,13,7,1922,55.714330600000,12.571190700000
+"Ernst Georg",Løbnitz,1,1,7,1922,NULL,NULL
+"Theodor Frederik",Jensen,1,4,7,1922,55.698511000000,12.575959700000
+"Thora Amalie",Jensen,2,1,7,1922,NULL,NULL
+Mathilde,Marscheider,2,28,7,1922,NULL,NULL
+"Edith Adela",Sørensen,2,24,7,1922,55.664397900000,12.595261600000
+"Mette Marie",Madsen,2,19,7,1922,NULL,NULL
+"Gudrun Kirsten Dorthea",Lønsted,2,6,7,1922,NULL,NULL
+"Valborg Viola Sofie",Løssl,2,17,7,1922,NULL,NULL
+"Henriiette Frederikke Vilhelmine",Møller,3,8,7,1922,55.721799000000,12.556021600000
+Anna,Jørgensen,2,7,7,1922,NULL,NULL
+Anna,Jørgensen,2,4,7,1922,NULL,NULL
+"August Vilhelm",Olsen,1,11,7,1922,NULL,NULL
+"Anders Christian",Levinsen,1,17,7,1922,NULL,NULL
+Victor,Jensen,1,10,7,1922,55.714386700000,12.577264900000
+"Carl Malte",Rasmussen,1,3,7,1922,NULL,NULL
+"Gerda Elenora",Mathiasen,2,4,7,1922,NULL,NULL
+"Alma Nathalie",Nilsson,2,5,7,1922,55.698945400000,12.585397500000
+"Birthe Nielsine",Nielsen,2,4,7,1922,NULL,NULL
+"Carla Hilda Agda",Jepsen,2,4,7,1922,NULL,NULL
+"Olga Augusta",Mathiasen,2,12,7,1922,NULL,NULL
+"Jenny Marie",Simonsen,2,8,7,1922,NULL,NULL
+"Gudrun Charlotte",Jepsen,2,5,7,1922,NULL,NULL
+"Anna Marie",Nielsen,2,1,7,1922,NULL,NULL
+"Minna Anna",Johansen,2,6,7,1922,55.714430200000,12.568956800000
+"Carl Frederik",Mattsson,1,18,7,1922,55.695748500000,12.571127200000
+"Sydney Norma Hertha",Jeppesen,2,5,7,1922,NULL,NULL
+"Niels Juul",Rasmussen,1,20,7,1922,NULL,NULL
+"Andreas Peter Christian",Møller,1,29,7,1922,NULL,NULL
+"Catharina Berta",Siewers,2,1,7,1922,NULL,NULL
+Alma,Johansson,2,19,7,1922,55.702980400000,12.581872600000
+"Arnst Adolph Valdemar",Johansen,1,8,7,1922,NULL,NULL
+Kirsten,Søndergaard,2,18,7,1922,NULL,NULL
+"Elise Marie",Jørgensen,2,13,7,1922,55.702056500000,12.581457800000
+"Ella Sofie",Jørgensen,2,13,7,1922,55.705145200000,12.582372800000
+"Ester Sigrid",Rasmussen,2,6,7,1922,NULL,NULL
+"Frants Oskar",Rasmussen,1,1,7,1922,NULL,NULL
+"Eline Christine",Petersen,2,1,7,1922,55.696957500000,12.586353100000
+"Ellen Louise Hansine",Pedersen,2,14,7,1922,55.716494300000,12.573320000000
+"Georg Mathias",Petersen,1,3,7,1922,NULL,NULL
+Agnes,Nielsen,2,1,7,1922,NULL,NULL
+"Frederik Vilhelm",Johansen,1,10,7,1922,55.696359800000,12.583648300000
+"Emma Caroline Mathilde",Petersen,2,10,7,1922,55.665158700000,12.605235100000
+"Emma Caroline Mathilde",Petersen,2,8,7,1922,NULL,NULL
+"Fritz Rudolf",Schröder,1,17,7,1922,NULL,NULL
+"Erik Valdemar",Jørgensen,1,4,7,1922,55.698296700000,12.585474000000
+"Petra Jensine",Petersen,2,4,7,1922,NULL,NULL
+"Hans Christian Thomas",Petersen,1,27,7,1922,NULL,NULL
+"Ragnhild Kristine",Melbye,2,10,7,1922,NULL,NULL
+"Jens Peter",Thomsen,1,15,7,1922,55.696634000000,12.581838800000
+"Jens Peter",Thomsen,1,18,7,1922,55.696634000000,12.581838800000
+"Anna Marie",Petersen,2,25,7,1922,NULL,NULL
+"Larsine Petrine",Olsen,2,6,7,1922,NULL,NULL
+"Hertha Nielsigne",Johansen,2,15,7,1922,55.663431700000,12.594868300000
+Knud,Petersen,1,25,7,1922,NULL,NULL
+"Olga Dagmar",Petersen,2,13,7,1922,NULL,NULL
+Zenia,Stender,2,19,7,1922,NULL,NULL
+"Oskar Bernhard",Petersen,1,27,7,1922,NULL,NULL
+"Christian Rotvitt",Villumsen,1,6,7,1922,55.708297600000,12.563329600000
+"Arthur Georg Christian",Nielsen,1,21,7,1922,NULL,NULL
+Agnes,Pedersen,2,4,7,1922,NULL,NULL
+"Henry Rigmond",Sørensen,1,31,7,1922,NULL,NULL
+"Einer Søren Marius",Petersen,1,4,7,1922,55.670874100000,12.543798400000
+"Einer Søren Marius",Petersen,1,5,7,1922,55.671294100000,12.558530900000
+"Thorvald Arno Leo",Johansen,1,2,7,1922,55.697199300000,12.581030300000
+"Asta Sofie",Mejstrup,2,5,7,1922,NULL,NULL
+"Frants Adolf Ejler",Petersen,1,8,7,1922,55.671528000000,12.559395900000
+"Henning Berner",Petersen,1,22,7,1922,NULL,NULL
+"Signe Ingeborg",Persson,2,15,7,1922,NULL,NULL
+"Sofie Mathilde Langøe-",Petersen,2,27,7,1922,NULL,NULL
+"Niels Chr.",Petersen,1,4,7,1922,NULL,NULL
+"Astrid Camilla Margrethe",Penter,2,6,7,1922,55.713868300000,12.570874200000
+Astrid,Petersen,2,1,7,1922,NULL,NULL
+"August Kjær",Petersen,1,15,7,1922,NULL,NULL
+"Ida Margrethe",Petersen,2,13,7,1922,NULL,NULL
+"Alma Ingeborg Martine",Jørgensen,2,19,7,1922,NULL,NULL
+Viggo,Petersen,1,7,7,1922,NULL,NULL
+"Ernst Halfdan",Wellendorf,1,6,7,1922,55.699307800000,12.581833900000
+"Oda Karen Marie",Petersen,2,15,7,1922,NULL,NULL
+"Carl Emil",Petersen,1,4,7,1922,NULL,NULL
+"Valdemar Bruno Roald",Olsen,1,1,7,1922,NULL,NULL
+"Isak Jensen",Kold,1,5,7,1922,55.701033300000,12.579943500000
+"Helga Christine",Knudsen,2,26,7,1922,55.668683200000,12.549817800000
+Jenny,Petersen,2,6,7,1922,NULL,NULL
+"Carl Jørgen",Petersen,1,4,7,1922,NULL,NULL
+"Julie Henriette",Svensson,2,14,7,1922,NULL,NULL
+"Carl Marius",Petersen,1,22,7,1922,NULL,NULL
+"Helga Nathalia",Petersen,2,24,7,1922,55.668382600000,12.553213100000
+"Robert Angelo Edelfeldt",Kronhammer,1,15,7,1922,NULL,NULL
+Marie,Knudsen,2,1,7,1922,55.715258800000,12.575512300000
+Ingeborg,Jørgensen,2,27,7,1922,NULL,NULL
+"Carl Vilhelm",Petersen,1,4,7,1922,NULL,NULL
+"Rigmor Augusta Linnea",Svensson,2,21,7,1922,NULL,NULL
+"Jens Carl",Sørensen,1,20,7,1922,55.678895900000,12.569030600000
+"Jacob Peter Salmenius",Lauritzen,1,5,7,1922,NULL,NULL
+"Jens Peter",Petersen,1,10,7,1922,NULL,NULL
+"Laura Susanne",Korch,2,4,7,1922,NULL,NULL
+"Johanne Marie",Jørgensen,2,10,7,1922,NULL,NULL
+"Victor Martin",Svensson,1,5,7,1922,NULL,NULL
+"Yrsa Frederikke",Thomsen,2,4,7,1922,55.699666200000,12.577082400000
+"Oscar Tolstrup",Sørensen,1,5,7,1922,NULL,NULL
+"Jonna Doris Helene",Petersen,2,17,7,1922,55.672595100000,12.556447300000
+"Aage Andreas",Limkilde,1,20,7,1922,NULL,NULL
+Julie,Sørensen,2,6,7,1922,NULL,NULL
+"Nanny Emilie Kühl",Koslouski,2,10,7,1922,NULL,NULL
+"Niels Nielsen",Tornberg,1,31,7,1922,55.703839500000,12.586342400000
+"Karen Lydia Margrethe",Petersen,2,3,7,1922,55.668347200000,12.549215000000
+"Holger Marius",Petersen,1,28,7,1922,55.672903300000,12.559247100000
+"Julie Susanne",Petersen,2,1,7,1922,55.670786200000,12.563763200000
+"Axel Nicolaj",Poulsen,1,4,7,1922,NULL,NULL
+Reinholdt,Krogh,1,12,7,1922,55.703557900000,12.590420600000
+"Svend Anker Christian",Rasmussen,1,14,7,1922,NULL,NULL
+"Julius Valdemar Johannes",Petersen,1,7,7,1922,55.671897000000,12.558096800000
+"Carla Emmely Thyra",Longfors,2,10,7,1922,NULL,NULL
+Inger,Poulsen,2,6,7,1922,NULL,NULL
+"Gunnar Fredrik Jansson",Wallin,1,15,7,1922,NULL,NULL
+"Laurits Toftdahl",Sørensen,1,25,7,1922,NULL,NULL
+"Villiam Arthur Peter",Rasmussen,1,18,7,1922,NULL,NULL
+"Jens Peter",PeterseN,1,20,7,1922,55.670118100000,12.538910900000
+"Jens Peter Christian",Petersen,1,4,7,1922,NULL,NULL
+"Andreas Aagaard",Trane,1,8,7,1922,55.696267600000,12.573707900000
+Elvine,Kvals,2,6,7,1922,NULL,NULL
+"Jensine Catrine",Petersen,2,11,7,1922,55.671749400000,12.562885500000
+"Marius Carl",Sørensen,1,6,7,1922,NULL,NULL
+Ingrid,Petersen,2,20,7,1922,55.671320100000,12.549931500000
+"Harry Orla",Winsløv,1,4,7,1922,55.691235400000,12.558550500000
+"Anna Sofie",Nielsen,2,26,7,1922,NULL,NULL
+"Anna Sofie Larsine",Nielsen,2,19,7,1922,NULL,NULL
+"Kai Lars Peter",Petersen,1,15,7,1922,NULL,NULL
+"Karen Caroline",Petersen,2,24,7,1922,55.664607100000,12.542888600000
+"Rasmine Christine Therecia Olsen",Walther,2,1,7,1922,55.697624300000,12.582273600000
+"Aage Edmund",Nielsen,1,11,7,1922,NULL,NULL
+"Christian Peter Marius",Wigant,1,1,7,1922,55.699734300000,12.580773500000
+"Albert Julius",Poulsen,1,12,7,1922,55.672173900000,12.550436900000
+"Aage Emil",Rasmussen,1,1,7,1922,55.668929500000,12.553856300000
+"Andreas Anders",Poulsen,1,11,7,1922,55.705271000000,12.579364100000
+"Anna von",Rheenen,2,6,7,1922,55.671891500000,12.562583700000
+"Chatrine Marie",Rasmussen,2,21,7,1922,NULL,NULL
+Siguleiga,Moljord,3,14,7,1922,55.705848500000,12.574182100000
+"Laura Emilie",Petersen,2,25,7,1922,NULL,NULL
+"Lauritz Valdemar",Petersen,1,21,7,1922,55.670602700000,12.552877300000
+"Hansine Margrethe",Rasmussen,2,10,7,1922,NULL,NULL
+"Carl Ove",Sømberg,1,12,7,1922,NULL,NULL
+"Emil Linde",Sømberg,1,13,7,1922,55.668805800000,12.549811600000
+"Kaj Charles Staal de",Villeneuve,1,11,7,1922,55.664400400000,12.613669300000
+"Verner Carl Emil",Mommesen,1,31,7,1922,NULL,NULL
+"Søren Frederik",Petersen,1,18,7,1922,55.671841400000,12.563155600000
+"Johanne Augusta",Rasmussen,2,10,7,1922,NULL,NULL
+Emily,Wisdom,2,7,7,1922,55.702216700000,12.580969900000
+"Niels Anders",Petersen,1,10,7,1922,55.669011800000,12.557104300000
+"Clara Johanne Eleonora",Paulsen,2,5,7,1922,55.669864700000,12.545122600000
+Helga,Ruge,2,19,7,1922,NULL,NULL
+"Axel Ausfrid",Setterdahl,1,15,7,1922,55.673733400000,12.556527800000
+"Svend Christian",Simonsen,1,15,7,1922,55.671869300000,12.554101100000
+"Poul Langhoff",Petersen,1,3,7,1922,55.673529300000,12.550247400000
+"Erik August",Steakhalm,1,8,7,1922,NULL,NULL
+"Carl Fritiof",Nielsen,1,24,7,1922,NULL,NULL
+"Carl Anders Peter",Nielsen,1,25,7,1922,NULL,NULL
+"Carl Anders Peter",Nielsen,1,21,7,1922,NULL,NULL
+"Paul Lehde",Petersen,1,3,7,1922,55.670651900000,12.551778300000
+"Poul Magnus",Petersen,1,18,7,1922,NULL,NULL
+"Olga Mathilde",Rasmussen,2,4,7,1922,55.672220200000,12.563547300000
+"Jane Hansine Martie",Pihl,2,7,7,1922,NULL,NULL
+"Birgitte Marie Cathrine",Pilgaard,2,10,7,1922,NULL,NULL
+"Peter Vilhelm",Petersen,1,7,7,1922,NULL,NULL
+Theodor,Petersen,1,12,7,1922,55.679372500000,12.569538800000
+Emilie,Schenstøm,2,29,7,1922,NULL,NULL
+Carl,Skafte,1,4,7,1922,55.669553200000,12.557490200000
+"Therese Amanda",Petersen,2,25,7,1922,55.666354400000,12.549465400000
+"Sigrid Marie",Petersen,2,5,7,1922,55.672796500000,12.550618600000
+"Stine Marie",Petersen,2,11,7,1922,NULL,NULL
+"Peder Lauritz",Pedersen,1,4,7,1922,55.666152100000,12.551006100000
+"Carlo Ludvig",Svendsen,1,20,7,1922,NULL,NULL
+"Carl Henrik",Skotte,1,22,7,1922,55.667063800000,12.548627400000
+"Sigrid Marie",Skovgaards,2,4,7,1922,55.672671900000,12.562046500000
+"Carla Herta Rigmor",Skurup,2,5,7,1922,NULL,NULL
+"Niels Poul Simunsen",Skurup,1,5,7,1922,55.670788300000,12.542975100000
+Henry,Svensson,1,19,7,1922,NULL,NULL
+Henry,Svensson,1,24,7,1922,NULL,NULL
+"Ejner Ferdinand",Sørensen,1,31,7,1922,NULL,NULL
+"Caroline Marie",Schmidt,2,12,7,1922,NULL,NULL
+Viola,Schøller,2,27,7,1922,NULL,NULL
+"Rene Wulff",Nathansen,1,4,7,1922,55.699503000000,12.578734500000
+"Else Kirstine Dusine",Sørensen,2,1,7,1922,NULL,NULL
+"Ernst Vilhelm Sand",Sørensen,1,6,7,1922,NULL,NULL
+"Nancy Isabella Regitze",Sørensen,2,5,7,1922,55.664379400000,12.542818100000
+"Poul Wolder",Schou,1,11,7,1922,NULL,NULL
+"Peder Marinus",Sørensen,1,27,7,1922,55.670714200000,12.558673000000
+Ragnhilda,Sørensen,2,20,7,1922,55.668862100000,12.544304800000
+"Johannes Samuel",Sandberg,1,5,7,1922,NULL,NULL
+"Eiler Johannes",Yttesen,1,4,7,1922,55.713695100000,12.576760800000
+"Edith Sofia",Svensson,2,1,7,1922,55.666941900000,12.547723600000
+"Carl Aage Johan",Sørensen,1,15,7,1922,NULL,NULL
+"Johanne Marie",Rikkels,2,6,7,1922,55.671891500000,12.562583700000
+"Sørine Marie",Sørensen,2,14,7,1922,55.669835900000,12.557762900000
+"Edvin Ferdinand",Svensson,1,25,7,1922,55.671622800000,12.554767000000
+"Børge Jungersen",Schack,1,20,7,1922,NULL,NULL
+"Olrick Peter",Svendsen,3,6,7,1922,NULL,NULL
+"Doris Laura",Wessel,2,1,7,1922,NULL,NULL
+Frederik,Westergaard,1,4,7,1922,55.667226600000,12.547793600000
+Knud,Thorstsen,1,5,7,1922,NULL,NULL
+"Egnar Hans Edvard",Vest,1,31,7,1922,55.671647000000,12.562394300000
+"Ivan Charles",Steffensen,1,13,7,1922,55.698260000000,12.577472700000
+"Martin Valdemar",Willumsen,1,14,7,1922,NULL,NULL
+"Johannes Gotfred",Thomsen,1,10,7,1922,55.669133300000,12.557334600000
+"Anna Kirstine",Simonsen,2,4,7,1922,NULL,NULL
+"Aage Alfred",Michaelsen,1,4,7,1922,NULL,NULL
+"Louis William",Thomsen,1,3,7,1922,NULL,NULL
+"Jens Erik",Ømark,1,4,7,1922,55.672646000000,12.557887400000
+Per,Ørnberg,1,15,7,1922,NULL,NULL
+"Edmund Erik",Welzel,1,15,7,1922,55.680183400000,12.521904200000
+"Bernhardt Magnus",Thygesen,1,31,7,1922,NULL,NULL
+"Niels Peter",Thomsen,1,22,7,1922,NULL,NULL
+Peter,Thomsen,1,25,7,1922,NULL,NULL
+Julius,Rooniss,1,8,7,1922,NULL,NULL
+"Ella Christine Dagmar",Mikkelsen,2,16,7,1922,NULL,NULL
+"Svend Theodor",Westergaard,1,17,7,1922,55.671425100000,12.552755000000
+"Elly Ingeborg",Vestermann,2,12,7,1922,NULL,NULL
+"Adriana Antonie",Verhulst,2,6,7,1922,55.671891500000,12.562583700000
+Valdemar,Thomsen,1,13,7,1922,NULL,NULL
+"Anders Carl Einar",Wilhelmsen,1,17,7,1922,55.672903300000,12.559247100000
+"Hans Detlev",Schönwandt,1,18,7,1922,55.664328800000,12.544472100000
+"Ellen Edith",Waldorff,2,31,7,1922,55.678908800000,12.589713100000
+Arthur,Timmler,1,1,7,1922,NULL,NULL
+"Marius August",Schmidt,1,10,7,1922,NULL,NULL
+"Carl Peter Lindor",Wind,1,1,7,1922,55.679026500000,12.568234300000
+Aage,Andersen,1,26,7,1922,55.699612100000,12.541182400000
+"Ella Cathrine Ludovica Dorthea",Jensen,2,1,7,1922,55.702110900000,12.531899000000
+Andreas,Hansen,1,11,7,1922,55.697088900000,12.548992400000
+"Metha Hansine",Hansen,2,7,7,1922,55.693071500000,12.546008700000
+Frederik,Jensen,1,19,7,1922,NULL,NULL
+"Helga Elvira",Vandbæk,2,5,7,1922,NULL,NULL
+"Ketty Antonia",Wandbech,2,6,7,1922,NULL,NULL
+Anders,Jensen,1,9,7,1922,NULL,NULL
+"Emilia Amalia",Nordell,2,27,7,1922,55.724878100000,12.570001000000
+Thorkild,Rosenkvist,1,22,7,1922,55.667139000000,12.549014700000
+Olga,Hansen,2,6,7,1922,55.699612100000,12.541182400000
+"Victor Arthur",Smith,1,27,7,1922,NULL,NULL
+"Carla Thora Emilie",Sundby,2,4,7,1922,NULL,NULL
+"Margrethe Johanne Claudine",Bröchel,2,1,7,1922,NULL,NULL
+"Helga Marie Christine",Schou,2,20,7,1922,NULL,NULL
+"Margrethe Pouline",Sønderbo,2,4,7,1922,NULL,NULL
+Christian,Stuhr,1,8,7,1922,55.669011600000,12.554495800000
+Georg,Rubecksen,1,18,7,1922,55.666263100000,12.554230200000
+"Hans Henry Vilhelm Oscar",Hansen,1,10,7,1922,55.671813400000,12.545613200000
+"Hilma Maria Constance",Samuelsson,2,4,7,1922,NULL,NULL
+"Harald Christian",Jacobsen,1,18,7,1922,NULL,NULL
+"Emanuel Peter",Jensen,1,13,7,1922,NULL,NULL
+"Elna Otensia",Jensen,2,6,7,1922,NULL,NULL
+"Jull Tonny",Jacobsen,1,7,7,1922,NULL,NULL
+"Marius Oscar",Christensen,1,17,7,1922,NULL,NULL
+"Nicolai Frederik",Simonsen,1,4,7,1922,55.672134300000,12.550743000000
+"Hans Peter David",Hansen,1,18,7,1922,55.698552300000,12.523046900000
+Niels,Hansen,1,31,7,1922,55.690776100000,12.542787100000
+"Albertine Marie",Jensen,2,4,7,1922,NULL,NULL
+"Patrik Carlsson",Tørnqvist,1,24,7,1922,55.668573500000,12.556116500000
+"Carla Victoria Franciska",Petersen,2,1,7,1922,NULL,NULL
+"Gerda Gudrun",Jensen,2,14,7,1922,55.704012600000,12.548527100000
+"Niels Christian",Hansen,1,11,7,1922,NULL,NULL
+"Algunde Rosalie",Jensen,2,6,7,1922,NULL,NULL
+"Harald Flygenring",Hansen,1,22,7,1922,NULL,NULL
+"Astrid Ingeborg",Hansen,2,5,7,1922,55.680596600000,12.584671000000
+"Carl Max",Andersen,1,3,7,1922,55.664868500000,12.496848000000
+"Frederik Rudolf",Ulriksen,1,20,7,1922,NULL,NULL
+"Carl Albert",Jensen,1,15,7,1922,55.699237300000,12.541176900000
+"Henry Harald Kolbech",Hansen,1,17,7,1922,55.664547100000,12.578742200000
+"Henry Harald Kolbech",Hansen,1,22,7,1922,55.689399100000,12.557048600000
+"Frantz Otto",Striebe,1,1,7,1922,55.667928200000,12.546862600000
+"Holger Christian",Hansen,1,20,7,1922,NULL,NULL
+"Andreas Theodor Valdemar",Andersen,1,3,7,1922,55.671401500000,12.558060500000
+"Jens Lauritz",Hansen,1,31,7,1922,55.690776100000,12.542787100000
+"Gerda Jensine",Wissing,2,8,7,1922,55.672521800000,12.561741600000
+"Svend Ove Vilhjelm",Strøh,1,19,7,1922,55.670398400000,12.550001200000
+"Erna Clara Louise",Caspar,2,14,7,1922,55.698952100000,12.521890800000
+Christine,Pedersen,2,8,7,1922,NULL,NULL
+"Lauritz Just Carl",Sunde,1,5,7,1922,55.671231400000,12.554483400000
+Viggo,Jacobsen,1,14,7,1922,NULL,NULL
+Anders,Andersen,1,26,7,1922,55.699326100000,12.540844500000
+Anna,Andersen,2,1,7,1922,NULL,NULL
+Anna,Andersen,2,1,7,1922,NULL,NULL
+"Gerda Sofie",Volfing,2,12,7,1922,55.672556700000,12.551802500000
+Ragnhild,Brandt,2,19,7,1922,NULL,NULL
+"Axel Christian",Jensen,1,26,7,1922,55.692883900000,12.543499900000
+"Axel Georg",Jensen,1,20,7,1922,NULL,NULL
+"Petra Dorthe Elisabeth",Hansen,2,4,7,1922,NULL,NULL
+"Kamma Marie Theresia",Hansen,2,1,7,1922,NULL,NULL
+"Haldur Asbjørn",Jensen,1,3,7,1922,NULL,NULL
+Peter,Boesen,1,15,7,1922,55.698436900000,12.551921600000
+"Frants Vilhelm",Schietan,1,19,7,1922,NULL,NULL
+"Theodor Christian Jensen",Wandsøe,1,18,7,1922,55.665375600000,12.555058400000
+"Helene Henriette Louise",Behrens,2,11,7,1922,NULL,NULL
+"Carl Edvard",Hansen,1,13,7,1922,NULL,NULL
+"Bror Christian",Andersen,1,18,7,1922,55.702171800000,12.549151400000
+"Lilly Sigrid",Hansen,2,25,7,1922,NULL,NULL
+Edith,Andersen,2,13,7,1922,NULL,NULL
+"Marie Margrethe",Bothmann,2,1,7,1922,NULL,NULL
+"Sigrid Margrethe",Brobjerg,2,8,7,1922,NULL,NULL
+"Olga Margrethe Christiane",Andersen,2,21,7,1922,NULL,NULL
+"Sophus Julius",Hansen,1,25,7,1922,NULL,NULL
+"Alexander Edvard Ludvig",Zabell,1,1,7,1922,NULL,NULL
+"Carl Olaf",Hansen,1,12,7,1922,55.691104700000,12.542599300000
+"Margrethe Louise Marie",Hansen,2,3,7,1922,55.695936100000,12.543230200000
+"Christian Johannes",Hansen,1,6,7,1922,NULL,NULL
+"Baldur Adolf",Hansen,1,1,7,1922,55.694554100000,12.543388800000
+"Gunnar Sofus",Wassini,1,10,7,1922,55.664314400000,12.549176400000
+"Alfred Christian",Sigsgaard,1,20,7,1922,NULL,NULL
+"Alfred Christian",Sigsgaard,1,20,7,1922,NULL,NULL
+"Carl Chr. Marinus",Andersen,1,13,7,1922,55.701710100000,12.548900000000
+"Ebba Valgerda Concordia",Hansen,2,1,7,1922,NULL,NULL
+"Ejler Hagan Sophus",Hansen,1,5,7,1922,NULL,NULL
+"Carla Ludvigne Nielsine",Christensen,2,27,7,1922,55.688663700000,12.542118400000
+"Anton Kirstein",Jensen,1,8,7,1922,55.696966100000,12.551512000000
+"Axel Emanuel",Wedel,1,8,7,1922,55.671067200000,12.560406700000
+"Alma Martha Hedvig",Hayne,2,18,7,1922,55.692928900000,12.517922300000
+"Erna Mary Vilhelmine",Hansen,2,11,7,1922,55.698853100000,12.535913300000
+"Ernst Lars Adolf",Hansen,1,13,7,1922,NULL,NULL
+"Ernst Villiam",Hansen,1,24,7,1922,NULL,NULL
+Christian,Frederiksen,1,20,7,1922,NULL,NULL
+"Helga Nielsine",Andersen,2,7,7,1922,55.695412900000,12.543290900000
+"Maren Catrine Amalie",Hermansen,2,15,7,1922,NULL,NULL
+"Hans Otto",Billeschou,1,30,7,1922,55.691813800000,12.544465600000
+"Carla Petrea Christiane",Hansen,2,7,7,1922,NULL,NULL
+"Henry Emil",Andersen,1,25,7,1922,55.692089700000,12.554341600000
+Ingeborg,Hoeck,2,28,7,1922,NULL,NULL
+"Jens Christensen",Andersen,1,1,7,1922,NULL,NULL
+"Frederik Vilhelm",Schotz,1,21,7,1922,NULL,NULL
+"Gudrun Alma Marie",Heidemann,2,26,7,1922,NULL,NULL
+"Kai Eugen",Christensen,1,21,7,1922,55.694291900000,12.545050800000
+"Viggo Alfred",Hansen,1,27,7,1922,NULL,NULL
+"Hans Nyegaard",Heien,1,13,7,1922,NULL,NULL
+"Kaj Hirschspring",Christensen,1,11,7,1922,55.702417500000,12.530768100000
+"Johanne Bolette",Andersen,2,1,7,1922,NULL,NULL
+Christian,Ibsen,1,22,7,1922,NULL,NULL
+"Carl Andreas",Carlsen,1,25,7,1922,NULL,NULL
+"Jens Jusresen Christian",Jensen,1,10,7,1922,55.692435500000,12.543630100000
+"Kai Christian",Andersen,1,25,7,1922,NULL,NULL
+"Antonie Marie van",Zvam,2,3,7,1922,55.672640600000,12.556667500000
+"Jens Peter Johannes",Carlsen,1,18,7,1922,NULL,NULL
+"Agnes Kirstine Alberta",Jensen,2,9,7,1922,NULL,NULL
+Valdemar,Jeppesen,1,21,7,1922,NULL,NULL
+"Jørgen Walther",Andersen,1,31,7,1922,55.698779100000,12.522765500000
+"Valdemar Louis",Falsing,1,31,7,1922,NULL,NULL
+"Thorvald Johannes",Andersen,1,22,7,1922,NULL,NULL
+"Betty Ursula Amalie",Mohr,2,11,7,1922,NULL,NULL
+"Christen Michaelsen",Elleqvist,1,26,7,1922,55.697767300000,12.539209100000
+Karen,Jensen,2,12,7,1922,55.683860900000,12.565755000000
+"Agnes Margrethe",Petersen,2,20,7,1922,NULL,NULL
+"Clara Vilhelma",Meder,2,8,7,1922,NULL,NULL
+"Hans Christian",Johansen,1,9,7,1922,NULL,NULL
+"Nelly Louise Margrethe",Nielsen,2,5,7,1922,NULL,NULL
+Henry,Johansen,1,12,7,1922,NULL,NULL
+Poul,Engell,1,1,7,1922,55.687788500000,12.561401700000
+"Amalie Petrine",Petersen,2,14,7,1922,NULL,NULL
+"Axel Christian",Hansen,1,28,7,1922,55.698241300000,12.577987300000
+"Jens Peter",Nielsen,1,15,7,1922,NULL,NULL
+"Svend Jacob",Nielsen,1,20,7,1922,NULL,NULL
+Meta,Johansen,2,4,7,1922,NULL,NULL
+"Nicoline Vilhelmine",Erhardtsen,2,20,7,1922,55.691071200000,12.540698900000
+"Oluf Thorvald",Nielsen,1,1,7,1922,NULL,NULL
+"Anna Elisabeth",Looft,2,8,7,1922,55.707847700000,12.504654000000
+"Anni Birgitte Magdalene",Looft,2,8,7,1922,55.707847700000,12.504654000000
+"Maja Elfrida",Jensen,2,22,7,1922,55.697556700000,12.546517800000
+"Kaj Valdemar",Nielsen,1,1,7,1922,NULL,NULL
+"Dagmar Marie",Lindahl,2,21,7,1922,55.696562200000,12.545215800000
+"Kamma Wiborg",Nielsen,2,13,7,1922,55.695116200000,12.545718800000
+Hans,Jørgensen,1,18,7,1922,NULL,NULL
+"Hans Einer Erik",Jørgensen,1,8,7,1922,NULL,NULL
+Søren,Nielsen,1,11,7,1922,NULL,NULL
+"Fritz Edvin",Kort,1,31,7,1922,55.700570600000,12.504326000000
+"Søren Christian",Johansen,1,15,7,1922,55.692865300000,12.546950800000
+"Heinrich Vilhelm Julius Ferdinand",Jørgensen,1,17,7,1922,NULL,NULL
+Henry,Jørgensen,1,21,7,1922,NULL,NULL
+"Herbart Louis Evald",Jørgensen,1,22,7,1922,NULL,NULL
+"Niels Frederik",Christensen,1,3,7,1922,55.669134900000,12.552700100000
+"Jens Ernst Victor",Larsen,1,7,7,1922,NULL,NULL
+"Georg Martin",Larsen,1,25,7,1922,55.696369200000,12.574587600000
+"Laurits Peter",Nielsen,1,2,7,1922,NULL,NULL
+Bernhardt,Jürgensen,1,22,7,1922,NULL,NULL
+"Christian Nebbe",Christensen,1,18,7,1922,55.698076500000,12.542947100000
+"Holger Andreas",Weitling,1,10,7,1922,55.667828400000,12.537798900000
+"Carla Hedvig Valborg",Hansen,2,6,7,1922,NULL,NULL
+Margot,Nielsen,2,5,7,1922,NULL,NULL
+"Anna Caroline Marie",Petersen,2,6,7,1922,NULL,NULL
+"Anna Heide",Petersen,2,31,7,1922,55.697163600000,12.552330100000
+"Fritz Christian Ivinius Nicolaj",Ostermann,1,20,7,1922,NULL,NULL
+"Christine Hansine",Hansen,2,12,7,1922,NULL,NULL
+"Lars Christian Oscar",Larsen,1,4,7,1922,NULL,NULL
+"Marius Peter Emil",Nielsen,1,17,7,1922,NULL,NULL
+"Albert Nicolaj Jochum",Falck,1,12,7,1922,NULL,NULL
+"Carl Tofte",Nielsen,1,1,7,1922,NULL,NULL
+"Vilhelm Marius eller Marinus",Mortensen,1,8,7,1922,NULL,NULL
+"Alfred Vilhelm Henrik",Møller,1,14,7,1922,55.699258400000,12.523108000000
+"Mary Jensine",Henriksen,2,14,7,1922,NULL,NULL
+Christian,Ottosen,1,20,7,1922,NULL,NULL
+Carla,Mogensen,2,27,7,1922,55.697732900000,12.543460700000
+Jørgen,Jørgensen,1,1,7,1922,NULL,NULL
+"Valdemar Carl Preben",Fallesen,1,18,7,1922,NULL,NULL
+"Adolf Reinhold",Olsson,1,11,7,1922,55.666934600000,12.499864800000
+"Carl Gustav",Nielsen,1,6,7,1922,NULL,NULL
+"Martinus Jens Peter",Mogensen,1,25,7,1922,NULL,NULL
+"Maria Josefina",Pålsson,2,12,7,1922,NULL,NULL
+"Alfred Peter",Olsen,1,26,7,1922,55.708785300000,12.555241800000
+"Anna Maritza",Persson,2,1,7,1922,NULL,NULL
+"Anna Maritza",Persson,2,6,7,1922,55.692179800000,12.552387100000
+"Petrea Christine",Larsen,2,22,7,1922,NULL,NULL
+"Poul Erik",Larsen,1,13,7,1922,NULL,NULL
+"Peter Vilhelm",Nielsen,1,6,7,1922,55.692388400000,12.545250700000
+"Emil Heinrich",Bruun,1,17,7,1922,55.700236400000,12.549197600000
+Einar,Nielsen,1,20,7,1922,NULL,NULL
+"Thorvald Christian",Larsen,1,13,7,1922,NULL,NULL
+"Rasmine Nelde Eleonora",Nielsen,2,7,7,1922,NULL,NULL
+"Carl Christian",Olsen,1,12,7,1922,NULL,NULL
+"Richard Marius",Nielsen,1,11,7,1922,55.692535000000,12.543486900000
+"Asta Lilly Irene",Olsen,2,11,7,1922,NULL,NULL
+"Anna Marie",Wollenweber,2,11,7,1922,55.689972900000,12.542280400000
+Thorvald,Christensen,1,15,7,1922,NULL,NULL
+"Kaj Rosenstand",Vøldike,1,18,7,1922,55.689764300000,12.541451300000
+"Ella Christine",Hansen,2,4,7,1922,55.681133600000,12.587799900000
+"Conrad Valdemar",Rasmussen,1,11,7,1922,55.689139700000,12.562447900000
+"Villy Henrich Christian",Andersen,1,4,7,1922,55.704561900000,12.501489300000
+Christian,Olsen,1,4,7,1922,NULL,NULL
+"Karen Kirstine Hansine",Petersen,2,14,7,1922,NULL,NULL
+"Ellen Edith Johanne",Rasmussen,2,5,7,1922,55.694419600000,12.552473000000
+"Astrid Camilla",Svensson,2,7,7,1922,NULL,NULL
+"Elvira Helene",Rasmussen,2,10,7,1922,55.704561900000,12.501489300000
+Emil,Rasmussen,1,11,7,1922,55.701545000000,12.534050000000
+"Anna Rigmor",Andersen,2,3,7,1922,NULL,NULL
+"Karin Margrethe de",Neergaard,2,15,7,1922,NULL,NULL
+"Peter Valdemar",Jacobsen,1,7,7,1922,NULL,NULL
+"Elvira Hansine",Kruschwitz,2,4,7,1922,55.670273800000,12.551815000000
+"Franziska Ulrikke Oda",Nielsen,2,3,7,1922,55.700264400000,12.546358200000
+"Ellen Astrid Julie",Nielsen,2,11,7,1922,55.702548700000,12.530909800000
+"Hans Anton",Rasmussen,1,17,7,1922,NULL,NULL
+"Frits William",Nielsen,1,21,7,1922,NULL,NULL
+Niels,Mathiasen,1,19,7,1922,NULL,NULL
+"Carl Rasmus Storkesten",Madsen,1,21,7,1922,55.666862700000,12.513951400000
+Valdemar,Persson,1,29,7,1922,55.695649500000,12.554643800000
+"Peter Christian",Olsen,1,20,7,1922,55.692177700000,12.545955800000
+"Ebba Sofie",Ernst,2,5,7,1922,55.662798700000,12.503620100000
+Julius,Winther,1,7,7,1922,NULL,NULL
+"Ketty Emma Frederikke",Jæckel,2,17,7,1922,NULL,NULL
+"Hardy Einer Viggo",Nielsen,1,17,7,1922,55.687290600000,12.547809700000
+"Axel Fritz August",Proft,1,20,7,1922,55.692212000000,12.544041800000
+"Georg Axel Gustav",Olsen,1,7,7,1922,NULL,NULL
+"Peter Herman",Hansen,1,7,7,1922,55.670662200000,12.490688500000
+"Peter Herman",Hansen,1,3,7,1922,55.670662200000,12.490688500000
+"Holger Robert Emilius",Møller,1,1,7,1922,NULL,NULL
+"Carl Ferdinand",Madsen,1,6,7,1922,NULL,NULL
+"Anna Bodil Cathrine Carla",Poulsen,2,15,7,1922,55.691352400000,12.545225700000
+"Hans Jørgen Carl Valdemar",Skou,1,31,7,1922,NULL,NULL
+"Aksel Arthur Anthonius",Gaarddal,1,27,7,1922,NULL,NULL
+"Henry Daniel Emanuel",Nielsen,1,16,7,1922,NULL,NULL
+"Charles Victor Andre",Hansen,1,10,7,1922,NULL,NULL
+"Johannes Emanuel",Flink,1,11,7,1922,55.666000600000,12.503052000000
+"Johannes Heinrich Aurelius",Rasmussen,1,20,7,1922,NULL,NULL
+"Charles Knud",Hansen,1,12,7,1922,NULL,NULL
+"Holger Harald",Nielsen,1,22,7,1922,55.681797900000,12.561889100000
+"Holger Herman",Hansen,1,3,7,1922,55.670662200000,12.490688500000
+"Caroline Adolfine",Madsen,2,9,7,1922,55.652979500000,12.537951800000
+Ida,Hansen,2,29,7,1922,NULL,NULL
+"John Joseph",Bischoff,1,21,7,1922,55.670874100000,12.543798400000
+"Mathilde Jacobine",Wulff,2,14,7,1922,NULL,NULL
+"Niels Arthur",Møller,1,4,7,1922,NULL,NULL
+"Peter Marius",Møller,1,3,7,1922,NULL,NULL
+"Marie Elise",Christensen,2,10,7,1922,55.665321000000,12.520330000000
+"Eva Sofie Marie",Terkelsen,2,20,7,1922,55.644228500000,12.613861400000
+"Karen Rigmor Ingeborg",Petersen,2,24,7,1922,NULL,NULL
+"Valborg Anna Maria",Olsen,2,4,7,1922,55.701032000000,12.547145900000
+"Valborg Marie Sørine",Olsen,2,11,7,1922,NULL,NULL
+"Orla Ludvig Adam",Schwartz,1,8,7,1922,NULL,NULL
+"Johanne Aurelia",Hansen,2,1,7,1922,55.665492400000,12.524932900000
+"Thorkild Rasmus",Hansen,1,7,7,1922,55.652591200000,12.536336300000
+"Iris Regine Marie",Hansen,2,6,7,1922,55.650004900000,12.534155600000
+Mabel,Qvistgaard,2,27,7,1922,NULL,NULL
+Jens,Olesen,1,4,7,1922,55.691390000000,12.539996400000
+"Crilles Carl Henrik",Madsen,1,11,7,1922,55.664251000000,12.517126900000
+"Karen Gerda Emilie",Hansen,2,11,7,1922,55.665405600000,12.519686800000
+Valdemar,Jørgensen,1,7,7,1922,55.692921200000,12.543054600000
+"William Georg Otto",Hansen,1,8,7,1922,NULL,NULL
+"Henry Rudolf",Sørensen,1,10,7,1922,NULL,NULL
+"Alexander Viktor",Christensen,1,4,7,1922,55.655577100000,12.519969800000
+"Lars Dusinius",Hansen,1,26,7,1922,NULL,NULL
+"Alfrida Larsine",Christensen,2,3,7,1922,NULL,NULL
+"Vilhelmine Constancia",Møller,2,4,7,1922,NULL,NULL
+Anna,Nielsen,2,20,7,1922,55.666600600000,12.500554900000
+Johannes,Madsen,1,5,7,1922,55.655856000000,12.519945800000
+"Alfred Zinklar Harting",Zinglersen,1,29,7,1922,55.669413500000,12.487512900000
+"Inger Dorthea",Olsen,2,19,7,1922,55.689762700000,12.572578700000
+Martha,Hansen,2,6,7,1922,NULL,NULL
+"Helga Fritze Sofie",Andersen,2,26,7,1922,55.667866300000,12.504948400000
+"Ole Villiam Christian",Jensen,1,15,7,1922,NULL,NULL
+"Olga Marie",Christiansen,2,6,7,1922,NULL,NULL
+"Erik Albin Ludvig",Lilja,1,22,7,1922,NULL,NULL
+"Nancy Sofie Augusta Anholm",Fribert,2,3,7,1922,NULL,NULL
+"Elsa Ruth Valborg",Rosberg,2,27,7,1922,55.705878700000,12.527482700000
+"Jenny Helga",Petersen,2,6,7,1922,55.700814800000,12.579549700000
+"Christian Hjalmer",Christiansen,1,11,7,1922,55.708097200000,12.510209700000
+"Rasmus Martin",Rasmussen,1,15,7,1922,55.692865300000,12.546950800000
+"Jens Otto",Petersen,1,6,7,1922,NULL,NULL
+"Karen Marie",Sørensen,2,6,7,1922,NULL,NULL
+"Sofus Ejner",Rasmussen,1,26,7,1922,55.697203100000,12.523809600000
+"Karen Marie Kirstine",Olsen,2,26,7,1922,55.696300100000,12.543564600000
+"Erna Camilla",Svensson,2,18,7,1922,55.704402700000,12.589520700000
+Rosa,Rosenvænge,2,17,7,1922,55.696298000000,12.550755500000
+"Oskar Andreas",Jensen,1,13,7,1922,NULL,NULL
+"Knud Robert",Olsen,1,29,7,1922,NULL,NULL
+"Lars Henrik",Olsen,1,18,7,1922,55.698603600000,12.514354000000
+"Leo Carl",Bengtsen,1,12,7,1922,55.696201100000,12.546288300000
+"Einar Harald Elo",Nielsen,1,5,7,1922,55.664392700000,12.607778900000
+"Asta Margrethe Cathrine",Thomsen,2,18,7,1922,NULL,NULL
+"Louis Henricus",Petersen,1,4,7,1922,NULL,NULL
+Viggo,Christensen,1,4,7,1922,55.670398400000,12.550001200000
+"Adolf Bernhard",Mortensen,1,5,7,1922,NULL,NULL
+"Lars Andreas",Larsen,1,1,7,1922,NULL,NULL
+"Ludvig August",Petersen,1,21,7,1922,NULL,NULL
+"Ejnar Carl",Christiansen,1,4,7,1922,55.666957000000,12.520474800000
+"Einar Højgaard",Christiansen,1,24,7,1922,55.670714200000,12.558673000000
+"Mathias Christian",Madsen,1,1,7,1922,55.663348200000,12.505988000000
+"Henry Martin",Rasmussen,1,22,7,1922,NULL,NULL
+"Carl Peter",Mortensen,1,11,7,1922,NULL,NULL
+"Holger Emil",Hansen,1,8,7,1922,55.686573100000,12.589835600000
+"Johan Arvid",Berglind,1,26,7,1922,55.707121200000,12.561731400000
+"Oscar Vilhelm Wæver",Rasmussen,1,31,7,1922,55.688163400000,12.552861500000
+"Peter August Johannes Lars",Christiansen,1,11,7,1922,55.687002800000,12.580593900000
+"Thomas Christian Frederik",Sørensen,1,17,7,1922,55.670788300000,12.542975100000
+"Helene Nielsine Christine",Nielsen,2,1,7,1922,NULL,NULL
+"Edith Gudrun",Tygesen,2,1,7,1922,55.705656400000,12.490668900000
+"Ella Johanne Møller",Mortensen,2,29,7,1922,NULL,NULL
+"Agnes Caroline",Rasmussen,2,17,7,1922,55.693900200000,12.545669400000
+Anton,Ingwersen,1,10,7,1922,55.660749500000,12.616255600000
+"Karin Ingeborg",Ekstrand,2,5,7,1922,NULL,NULL
+"Mads Christian",Petersen,1,24,7,1922,55.690545400000,12.558595800000
+"Emanuella Jensine",Funck,2,19,7,1922,NULL,NULL
+"Ester Debora Erika",Tøyberg,2,22,7,1922,NULL,NULL
+"Claus Johannes",Svane,1,13,7,1922,NULL,NULL
+"Ejner Hansen",Noring,1,6,7,1922,55.655577100000,12.519969800000
+"Arnold Jørgensen",Fyhr,1,29,7,1922,NULL,NULL
+"Jens Jørgensen",Fyhr,1,29,7,1922,NULL,NULL
+"Hansigne Christine",Nielsen,2,21,7,1922,NULL,NULL
+"Helene Cathrine",Nielsen,2,22,7,1922,55.664647300000,12.500185100000
+"Valborg Kirstine Amalie",Engelsen,2,20,7,1922,55.655664800000,12.522858200000
+"Carla Eleonora Vilhelmine",Pheiffer,2,11,7,1922,NULL,NULL
+"Marie Frederikke",Petersen,2,4,7,1922,NULL,NULL
+"Hans Peter Marius",Mortensen,1,22,7,1922,NULL,NULL
+"Holger Gerhard",Mortensen,1,5,7,1922,55.693918000000,12.546131500000
+"Ingeborg Marie",Nielsen,2,6,7,1922,NULL,NULL
+"Henry Emil",Bundgaard,1,31,7,1922,55.688748600000,12.572971000000
+"Svend Henning",Carlsson,1,14,7,1922,55.653718100000,12.519196000000
+"Laura Thora Pouline",Klemmensen,2,31,7,1922,NULL,NULL
+"Doris Hilda",Griffin,2,27,7,1922,NULL,NULL
+"Knud Steffen",Rasmussen,1,22,7,1922,NULL,NULL
+"Knud Steffen",Rasmussen,1,11,7,1922,55.689933300000,12.571653300000
+"Carl Eduord Anton Christen",Rasmussen,1,26,7,1922,55.693914100000,12.478207700000
+Alfred,Jensen,1,1,7,1922,55.693534100000,12.545894900000
+Annie,Haines,2,27,7,1922,NULL,NULL
+"Ejner Aage Gudmund",Thomsen,1,27,7,1922,55.693996900000,12.516312800000
+"Hulda Emilie",Rasmussen,2,22,7,1922,55.666256300000,12.513737600000
+"Lars Christian",Nielsen,1,11,7,1922,55.658445000000,12.520802500000
+"Carl Vilhelm",Pedersen,1,13,7,1922,55.694916800000,12.547694600000
+"Martin Hvass",Pedersen,1,4,7,1922,55.666957000000,12.520474800000
+"Laura Marie",Nielsen,2,1,7,1922,NULL,NULL
+"Else Thora Caroline",Petersen,2,4,7,1922,NULL,NULL
+"Henry Valdemar",Christiansen,1,6,7,1922,NULL,NULL
+"Elvira Gudrun Marie Christine",Haakansen,2,8,7,1922,55.704274800000,12.529526400000
+"Alma Constantia Ulrikke",Wantzin,2,4,7,1922,55.701389300000,12.549425700000
+"Ove Marius",Varmer,1,26,7,1922,NULL,NULL
+Ingeborg,Heerup,2,15,7,1922,NULL,NULL
+"Georg Alexander",Thomsen,1,18,7,1922,NULL,NULL
+"Carl Christian",Olsen,1,28,7,1922,55.666271800000,12.518814900000
+"Ellen Henriette",Jensen,2,19,7,1922,55.641679400000,12.612470000000
+Evald,Hougaard,1,5,7,1922,55.655856000000,12.519945800000
+"Christian Nicolaj",Hyttel,1,27,7,1922,NULL,NULL
+Esther,Petersen,2,2,7,1922,55.665422000000,12.499845100000
+"Otto Emil",Hansen,1,16,7,1922,55.667844600000,12.512124200000
+"Else Ingeborg Cathrine",Johansen,2,13,7,1922,NULL,NULL
+"Henry Akell",Johansen,1,3,7,1922,NULL,NULL
+"Anna Marie",Hansson,2,31,7,1922,NULL,NULL
+"Marie Magdalene",Nielsen,2,5,7,1922,55.671794300000,12.550470900000
+"Elfrida Magdalene Nielsen",Mygind,2,3,7,1922,55.691019900000,12.530295300000
+"Hansine Nielsen",Mygind,2,3,7,1922,55.691019900000,12.530295300000
+"Eva Elisabeth Olivia Hammer",Mylius,2,1,7,1922,NULL,NULL
+"Aage Vilhelm",Haahr,1,18,7,1922,55.698474100000,12.523166000000
+"Ove Andreas Ebbe",Rasmussen,1,10,7,1922,NULL,NULL
+"Jens Martin",Johansen,1,11,7,1922,55.674205400000,12.491958900000
+"Jens Peter Gustav Adolf",Thomsen,1,3,7,1922,NULL,NULL
+"Dagny Margrethe",Weheeler,2,11,7,1922,55.697055800000,12.544469300000
+"Axel Jørgen",Hansen,1,8,7,1922,55.686573100000,12.589835600000
+"Kai Fritjof Thorolf",Sørrensen,1,31,7,1922,NULL,NULL
+"Martin Carl",Nielsen,1,1,7,1922,55.663477400000,12.494373300000
+"Svend Preben",Rasmussen,1,13,7,1922,55.680981000000,12.582625400000
+"Poul Gunnar",Haar,1,4,7,1922,NULL,NULL
+Herman,Jørgensen,1,3,7,1922,NULL,NULL
+"Jørgen Arne Oluf",Jørgensen,1,4,7,1922,55.666556400000,12.506097700000
+Ruth,Petersen,2,4,7,1922,55.666957000000,12.520474800000
+"Sigrid Elisabeth Sofie",Petersen,2,24,7,1922,55.666775900000,12.505037900000
+"Erna Christine",Petersen,2,3,7,1922,55.693140900000,12.515348100000
+"Thorvald Sofus Andreas",Petersen,1,13,7,1922,NULL,NULL
+"Hansine Christine",Karbo,2,21,7,1922,NULL,NULL
+Anker,Schmidt,1,18,7,1922,NULL,NULL
+"Gerhardt Andr. Alexander",Haase,1,6,7,1922,55.698628100000,12.538939800000
+"Valdemar Emanuel",Sørensen,1,25,7,1922,55.668806200000,12.546824300000
+"Esta Elvira",Petersen,2,1,7,1922,NULL,NULL
+"Esther Louise",Pedersen,2,12,7,1922,55.704158100000,12.528163100000
+"Else Margrethe",Schmidt,2,11,7,1922,55.699258900000,12.578215500000
+"Peter Gotfred",Petersen,1,25,7,1922,55.697123100000,12.543790400000
+"Petra Marie",Olsen,2,7,7,1922,55.665561100000,12.502267700000
+"Louis Andreas Nicolaj",Tranberg,1,4,7,1922,55.670262700000,12.550005200000
+"Helga Magdalene",Schmidt,2,27,7,1922,55.693563400000,12.545294000000
+"Frithjof Frits",Rommedahl,1,15,7,1922,55.669024800000,12.544120300000
+"Edor Martin Andreas Vilhelm",Schmidt,1,28,7,1922,55.641910700000,12.614401800000
+Johann,Rossi,1,27,7,1922,NULL,NULL
+"Valdemar Johannes",Werther,1,15,7,1922,55.652779300000,12.537124500000
+"Erna Louise",Villund,2,14,7,1922,NULL,NULL
+"Lilly Agnethe Johanne",Gebauer,2,4,7,1922,NULL,NULL
+"Ella Emilie",Gerhardt,2,28,7,1922,NULL,NULL
+Alex,Johansen,2,26,7,1922,NULL,NULL
+Bertha,Johansen,2,17,7,1922,NULL,NULL
+"Carla Ingeborg Vilhelmine",Schou,2,18,7,1922,NULL,NULL
+Axel,Mosegaard,1,7,7,1922,55.650004900000,12.534155600000
+"Gudrun Elisabeth",Petersen,2,6,7,1922,NULL,NULL
+Cathrine,Schrøder,2,7,7,1922,55.671995400000,12.555616400000
+"Knud Valdemar",Møller,1,25,7,1922,NULL,NULL
+"Aage Marinus",Vilhelmsen,1,11,7,1922,NULL,NULL
+"Poul Andreas",Petersen,1,25,7,1922,NULL,NULL
+"Harry Henrik",Petersen,1,31,7,1922,55.697894600000,12.544917000000
+"Richard Christian Marius",Jensen,1,13,7,1922,NULL,NULL
+"Helga Kirstine",Petersen,2,20,7,1922,55.709068100000,12.556932600000
+"Sofie Dorthea Christine",Jensen,2,13,7,1922,NULL,NULL
+"Carl Christian Hansen",Grundsøe,1,4,7,1922,NULL,NULL
+"Sofie Victoria",Jensen,2,19,7,1922,55.700651500000,12.541719000000
+Anna,Simonsen,2,1,7,1922,NULL,NULL
+"Herman Aksel Emil",Madsen,1,1,7,1922,NULL,NULL
+"Vera Marie Alexandra",Olsen,2,18,7,1922,55.656947300000,12.519824200000
+"Franciska Albertine Thora Agnes",Holm,2,27,7,1922,55.693645600000,12.540612700000
+"Jens Carsten",Hjelme,1,19,7,1922,55.685886100000,12.567702700000
+"Boje Elvinus",Petersen,1,19,7,1922,55.664676100000,12.498605200000
+"Justine Elvira",Solberg,2,11,7,1922,55.658445000000,12.520802500000
+Harriet,Mønsted,2,10,7,1922,55.691741700000,12.540345500000
+"Viggo Kaj",Jensen,1,15,7,1922,NULL,NULL
+"Alfred Peter",Sommer,1,18,7,1922,NULL,NULL
+"Poul Kai",Christiansen,1,8,7,1922,NULL,NULL
+"Rigmor Margrethe",Lassen,2,13,7,1922,NULL,NULL
+"Axel Edvard",Edil,1,29,7,1922,NULL,NULL
+"Oluf Christian",Nicolajsen,1,20,7,1922,NULL,NULL
+"Anders Carl",Nilausen,1,4,7,1922,NULL,NULL
+"Alf Werner Christian",Nielsen,1,28,7,1922,NULL,NULL
+"Hans Julius",Petersen,1,6,7,1922,NULL,NULL
+"Jesamy Gustava Klara",Pedersen,2,6,7,1922,55.692757100000,12.482146800000
+Verner,Christiansen,1,1,7,1922,NULL,NULL
+Laura,Slæger,2,7,7,1922,55.664378600000,12.519254000000
+"Wilhelm Ludvig",Hagemann,1,21,7,1922,55.692506800000,12.544427600000
+"Arthur Conrad",Larsen,1,1,7,1922,55.694559800000,12.548218200000
+"Johanne Kristensen",Laugesgaard,2,14,7,1922,NULL,NULL
+"Aage Christian Viggo",Laursen,1,31,7,1922,NULL,NULL
+"Jens Christian",Laursen,1,10,7,1922,NULL,NULL
+"Anna Sofie Thorkilde Rosalie",Lemmick,2,1,7,1922,NULL,NULL
+"Birthe Christine",Eduard,2,1,7,1922,NULL,NULL
+"Poul Hugo Joachim",Ejby,1,7,7,1922,NULL,NULL
+"Axel Henry",Rasmussen,1,25,7,1922,NULL,NULL
+Marie,Leskien,2,10,7,1922,NULL,NULL
+"Karen Stine",Jørgensen,2,1,7,1922,NULL,NULL
+"Thorvald Christian",Rasmussen-Borre,1,15,7,1922,NULL,NULL
+"Carl Siegfred",Rasmussen,1,11,7,1922,NULL,NULL
+"Johan Peter Poul Berthel",Knudsen,1,12,7,1922,NULL,NULL
+"Johan Peter Poul Berthel",Knudsen,1,1,7,1922,NULL,NULL
+"Nanny Johanne",Kirketerp,2,4,7,1922,NULL,NULL
+"Carl Vilhelm Justesen",Kirkhammer,1,1,7,1922,NULL,NULL
+"Omega Adelaida Constance Amea",Larsen,2,1,7,1922,NULL,NULL
+"Julie Nicoline",Storm,2,13,7,1922,55.710999400000,12.516762200000
+"Vilhelm Emanuel",Frederiksen,1,6,7,1922,NULL,NULL
+"Vilhelm Ludvig",Hagemann,1,21,7,1922,55.692506800000,12.544427600000
+"Elly Edith",Høglund,2,3,7,1922,55.696291200000,12.547784700000
+"Christian Thorvald",Pedersen,1,4,7,1922,55.693380800000,12.545079700000
+"Christian Valdemar",Petersen,1,22,7,1922,55.711344100000,12.516973900000
+"Kaj Valdemar Alfred",Sundstrøm,1,1,7,1922,NULL,NULL
+"Petrus Adrian Carl Sofus",Hemicke,1,11,7,1922,55.705668500000,12.504908900000
+"Ellen Helene",Jørgensen,2,1,7,1922,NULL,NULL
+"Einar Kuntze",Larsen,1,13,7,1922,NULL,NULL
+Axel,Søndergaard,1,21,7,1922,55.699140200000,12.540540300000
+"Holger Emil Christian",Syndergaard,1,31,7,1922,55.700821300000,12.521183900000
+"Jens Villiam",Petersen,1,22,7,1922,NULL,NULL
+"Helene Dorthea",Larsen,2,7,7,1922,NULL,NULL
+"Carl Johan",Hass,1,1,7,1922,NULL,NULL
+"Christian Frederik",Ishøj,1,4,7,1922,55.692326300000,12.543773600000
+"Johanne Rasmine",Meilsøe,2,12,7,1922,NULL,NULL
+"Klara Alfrida",Raadberg,2,27,7,1922,NULL,NULL
+"Svend Aage Peter",Hansen,1,3,7,1922,55.697043100000,12.545457600000
+"Antoinette Elisabeth",Aagaard,2,20,7,1922,55.672852400000,12.554508800000
+"Gerda Johanne",Andersen,2,18,7,1922,NULL,NULL
+"Robert Georg",Block,1,29,7,1922,55.685123700000,12.569988600000
+Ingeborg,Brocharst,2,20,7,1922,NULL,NULL
+Hjalmar,Bruhn,1,21,7,1922,NULL,NULL
+"Augusta Angelica Emilie",Bruun,2,29,7,1922,NULL,NULL
+"Jens Frederik",Christensen,1,23,7,1922,NULL,NULL
+"Rosa Adaline Petrea",Christensen,2,29,7,1922,55.684485100000,12.559485800000
+"Carl Birger",Dahl,1,7,7,1922,NULL,NULL
+Anna,Eriksen,2,30,7,1922,NULL,NULL
+"Clara Vilhelmine",Hansen,2,5,7,1922,NULL,NULL
+"Karl Emil",Hansen,1,1,7,1922,NULL,NULL
+"Lauritz Valdemar",Hansen,1,22,7,1922,NULL,NULL
+"Minna Elisabeth",Hansen,2,31,7,1922,NULL,NULL
+"Poul Christian Northred",Hansen,1,12,7,1922,NULL,NULL
+"Hans Robert Hilton",Jensen,1,3,7,1922,55.664833100000,12.583454000000
+"Poul Poulsen",Jensen,1,4,7,1922,55.686270200000,12.585366100000
+"Thomas Andreas",Jensen,1,20,7,1922,NULL,NULL
+"Johan Hermann",Johansen,1,1,7,1922,NULL,NULL
+"Jens Christensen",Kousted,1,23,7,1922,NULL,NULL
+Carl,Larsen,1,17,7,1922,NULL,NULL
+"Emil Koch",Larsen,1,8,7,1922,NULL,NULL
+"Niels Christoffer",Larsen,1,31,7,1922,55.689399100000,12.557048600000
+"Gotfred Martin Christiansen",Lohse,1,11,7,1922,NULL,NULL
+"Poula Erica",Madsen,2,6,7,1922,55.687476100000,12.558595400000
+"Marie Helene Kirstine",Marlow,2,18,7,1922,NULL,NULL
+"Harry Peter Carl",Michaelsen,1,15,7,1922,55.688570300000,12.585396400000
+"Anna Olivia",Mikkelsen,2,17,7,1922,NULL,NULL
+"Mathilde Christine",Mikkelsen,2,3,7,1922,NULL,NULL
+"Otto August Heinrich",Moltke,1,22,7,1922,NULL,NULL
+"Dorthea Johanne",Nielsen,2,20,7,1922,NULL,NULL
+"Hans Peter",Nielsen,1,10,7,1922,NULL,NULL
+"Axel Jacob Frederik",Petersen,1,13,7,1922,55.665467400000,12.556748000000
+"Emma Caroline",Petersen,2,20,7,1922,NULL,NULL
+"Jørgen Christian",Petersen,1,2,7,1922,55.669374200000,12.555295200000
+"Kirsten Elisabeth Hansen",Petersen,2,1,7,1922,55.663533900000,12.602009400000
+"Nathalie Christiane",Petersen,2,6,7,1922,55.664361600000,12.602205400000
+"Lauritz Johannes",Rasmussen,1,8,7,1922,NULL,NULL
+August,Rosengreen,1,3,7,1922,55.666007400000,12.550001600000
+"Carl Antonio",Scheuermann,1,17,7,1922,55.688140900000,12.557106400000
+"Julius Peter",Schmitt,1,3,7,1922,NULL,NULL
+Franz,Stika,1,19,7,1922,55.678730100000,12.574982500000
+"Hansa Poula Christine",Sørensen,2,20,7,1922,NULL,NULL
+"Johanne Marie",Sørensen,2,17,7,1922,55.669321100000,12.555691500000
+"Peter Knud",Thomsen,1,9,7,1922,NULL,NULL
+"Ernst Heinrich",Tobler,1,27,7,1922,55.665213000000,12.557645700000
+"Fredolin Elnisky",Tønnesen,1,26,7,1922,55.665721300000,12.515750100000
+"Johan Villiam Ferdinand",Wennerlin,1,17,7,1922,NULL,NULL
+"Anna Valborg",Wüstenberg,2,1,7,1922,NULL,NULL
+"Frida Christiane",Larsen,2,5,7,1922,55.701229000000,12.581173100000
+"Marie Sørine",Petersen,2,10,7,1922,NULL,NULL
+"Thomas Peter",Petersen,1,22,7,1922,NULL,NULL
+Dorthea,Lybecker,2,6,7,1922,NULL,NULL
+"Ellen Sofie",Ladeby,2,15,7,1922,NULL,NULL
+"Olga Victoria",Olsson,2,15,7,1922,55.698581200000,12.580458800000
+"Hans Frederik",Andersen,1,4,7,1922,NULL,NULL
+Ingeman,Andersen,1,31,7,1922,55.698779100000,12.522765500000
+"Carl Halvor Andreas",Witt,1,26,7,1922,NULL,NULL
+"Emil Carl Senca Holst",Therkelsen,1,5,7,1922,NULL,NULL
+"Alma Gunhilda",Thomsen,2,3,7,1922,NULL,NULL
+"Ane Kirstine",Thomsen,2,26,7,1922,NULL,NULL
+"Anna Theodora Kirstine",Thomsen,2,22,7,1922,NULL,NULL
+"Carl Marius",Thomsen,1,13,7,1922,55.664297300000,12.616592800000
+"Else Margrethe",Thiesen,2,19,7,1922,55.698724100000,12.584873200000
+"Ingrid Andrea Emilie",Knap,2,24,7,1922,NULL,NULL
+Alma,Knudsen,2,14,7,1922,55.704557400000,12.585662900000
+"Einar Sigurd",Lundkvist,1,5,7,1922,NULL,NULL
+"Gustav Adolf",Strauss,1,14,7,1922,55.698414000000,12.586058800000
+"Verna Marie",Laugesen,2,15,7,1922,55.684216700000,12.572555100000
+"Jacob Jørgen",Thomsen,1,6,7,1922,NULL,NULL
+"Thora Olga Ring",Madsen,2,13,7,1922,55.699953600000,12.577713000000
+"Axel Ernfrid",Lundqvist,1,25,7,1922,55.696634000000,12.581838800000
+Christen,Thomsen,1,5,7,1922,NULL,NULL
+"Hans Carl Viggo",Nielsen,1,24,7,1922,55.698424200000,12.583961100000
+"Aurelia Viola Helen Margurith",Marvil,2,27,7,1922,NULL,NULL
+Frode,Thomsen,1,5,7,1922,NULL,NULL
+"Fritz Christian",Borck,1,1,7,1922,NULL,NULL
+"Maren Christine",Olsen,2,25,7,1922,55.714907700000,12.574589900000
+"Mary Elisa",Olsen,2,19,7,1922,55.699993200000,12.582535900000
+"Anna Marie",Olsen,2,11,7,1922,55.703425600000,12.589047500000
+"Edel Kirstine Karen",Nielsen,2,29,7,1922,NULL,NULL
+"Oda Fernanda Augusta",Monefeldt,2,21,7,1922,NULL,NULL
+"Christian Frantz",Petersen,1,3,7,1922,55.682075500000,12.564270200000
+"Marie Sofie",Hansen,2,1,7,1922,NULL,NULL
+"Richard Winther",Jensen,1,15,7,1922,55.695323100000,12.553331300000
+"Karl Johan",Sneider,1,8,7,1922,NULL,NULL
+"Ernst August",Schnell,1,15,7,1922,55.716026800000,12.571101300000
+"Hans Christian Andreas",Schnell,1,6,7,1922,NULL,NULL
+"Augusta Emilie",Jensen,2,24,7,1922,NULL,NULL
+"Christian Johan",Sørensen,1,25,7,1922,NULL,NULL
+Frida,Jacobsen,2,20,7,1922,NULL,NULL
+"Viggo Arnold",Hansen,1,4,7,1922,NULL,NULL
+"Laurits Vilhelm",Hansen,1,26,7,1922,55.669990400000,12.551081000000
+Anders,Jensen,1,21,7,1922,55.677117100000,12.587997900000
+"Niels Peter",Hansen,1,26,7,1922,NULL,NULL
+"Povla Andrea",Hansen,2,5,7,1922,55.683885200000,12.573778200000
+"Richard Einer",Frederiksen,1,20,7,1922,NULL,NULL
+"Carla Jensine",Jacobsen,2,26,7,1922,NULL,NULL
+"Ejner Peter",Jacobsen,1,18,7,1922,NULL,NULL
+"Elna Inger Kristine",Johansen,2,22,7,1922,55.679603800000,12.584735600000
+"Elief Birger",Johansen,1,8,7,1922,NULL,NULL
+"Gustav Carl Friderik",Peters,1,20,7,1922,55.670837700000,12.549673400000
+Laurits,Johannesen,1,11,7,1922,55.681085700000,12.578681600000
+"Albert Frits",Jensen,1,6,7,1922,NULL,NULL
+"Olga Johanne Emilie",Svensson,2,3,7,1922,NULL,NULL
+Knud,Petersen,1,17,7,1922,NULL,NULL
+Wolf,Seldowitz,1,17,7,1922,55.671438600000,12.561695600000
+"Laura Christine Charlotte",Schirff,2,8,7,1922,55.690101900000,12.554768300000
+"Henry Auken",Schmidt,1,5,7,1922,55.666387000000,12.550290300000
+"Jens Peter Rathlau",Chistiansen,1,15,7,1922,55.671946400000,12.550783900000
+"Edvard Carl Frederik",Vollandt,1,25,7,1922,55.671484600000,12.552439500000
+"Theodora Alexandra Margrethe",Tegner,2,6,7,1922,55.674248300000,12.550584200000
+"Maja Kirstine",Holmborg,2,10,7,1922,NULL,NULL
+"Svend Juhl",Hansen,1,25,7,1922,55.698076500000,12.542947100000
+"Carl Friedrich Ferdinand",Gölstorph,1,11,7,1922,55.700351000000,12.540932000000
+"Carl Emil Valentin",Jæpelt,1,19,7,1922,NULL,NULL
+"Klara Ida Linnea",Haakansson,2,22,7,1922,NULL,NULL
+"Christian Julius",Andersen,1,28,7,1922,NULL,NULL
+"Olga Mathilde Henriette",Jensen,2,6,7,1922,NULL,NULL
+"Harald Alexander",Dørge,1,17,7,1922,55.688306300000,12.561484800000
+"Valdemar Emanuel",Sørensen,1,17,7,1922,55.672226700000,12.545330400000
+"Valdemar Emanuel",Sørensen,1,25,7,1922,55.668806200000,12.546824300000
+"Harry Carl Theodor",Kagenov,1,14,7,1922,55.680812100000,12.583826500000
+"Valdemar Magnus",Klemensker,1,3,7,1922,NULL,NULL
+"Agnes Christine",Frederiksen,2,11,7,1922,55.684537000000,12.569800400000
+"Carl Ludvig Alexander",Frederiksen,1,8,7,1922,55.678306000000,12.569661700000
+Karen,Frederiksen,2,14,7,1922,55.671951000000,12.577175200000
+"Julie Sofie Dorthea",Frandsen,2,13,7,1922,NULL,NULL
+"Vilhelmine Henriette Marie",Frandsen,2,17,7,1922,NULL,NULL
+"Ernst Ragnar",Fagerberg,1,29,7,1922,55.677492500000,12.566969400000
+Jeppe,Fallesen,1,25,7,1922,55.684267100000,12.570478400000
+"Hugo Albert Wilmer",Eriksen,1,4,7,1922,55.668450800000,12.550411500000
+"Olga Cathrine",Fangel,2,1,7,1922,NULL,NULL
+"Poul Bruno",Eriksen,1,15,7,1922,NULL,NULL
+"Fritz Villy Carl Alfons",Clausen,1,25,7,1922,55.686360100000,12.566263000000
+"Svend Valdemar",Ehlers,1,11,7,1922,NULL,NULL
+"Alfrida Nicoline",Elstrøm,2,7,7,1922,55.677890500000,12.567749300000
+"Maren Cathrine",Hansen,2,18,7,1922,NULL,NULL
+"Verner Ahlgren",Jørgensen,1,12,7,1922,NULL,NULL
+"Ingeborg Kathrine",Iversen,2,19,7,1922,NULL,NULL
+"Valborg Margrethe",Iversen,2,13,7,1922,NULL,NULL
+"Carl Christian",Jørgensen,1,28,7,1922,NULL,NULL
+"Anna Maria",Persson,2,8,7,1922,NULL,NULL
+"Ane Marie",Petersen,2,11,7,1922,NULL,NULL
+"Orla Odin",Jørgensen,1,12,7,1922,NULL,NULL
+"Lars Vestergaard",Jørgensen,1,11,7,1922,NULL,NULL
+"Asbjørn Alfred",Klinkhammer,1,3,7,1922,NULL,NULL
+"Johanne Nikoline",Olsen,2,6,7,1922,NULL,NULL
+"Laura Hansine",Olsen,2,21,7,1922,NULL,NULL
+Abraham,Kempner,1,25,7,1922,NULL,NULL
+"Viggo Emilius",Kibsgaard,1,13,7,1922,NULL,NULL
+"Hartvig Ingolf Lander",Kieler,1,3,7,1922,NULL,NULL
+"Peter Sofus William",Franck,1,18,7,1922,NULL,NULL
+"Poul Christian",Christensen,1,11,7,1922,NULL,NULL
+"Robert Vilhelm",Christensen,1,15,7,1922,NULL,NULL
+"Thorvald Robert",Christensen,1,4,7,1922,NULL,NULL
+"Carl Axel Ehlers",Koch,1,8,7,1922,NULL,NULL
+"Peter Jessen",Kock,1,1,7,1922,NULL,NULL
+"Adler Thor Hansen",Kofoed,1,24,7,1922,NULL,NULL
+"Hans Christian Vilhelm",Larsen,1,18,7,1922,NULL,NULL
+"Eugenia Maria",Olsson,2,4,7,1922,NULL,NULL
+"Peter Eriksen",Petersen,1,12,7,1922,NULL,NULL
+"Hans Christian",Nielsen,1,15,7,1922,NULL,NULL
+"Hans Christian",Nielsen,1,29,7,1922,NULL,NULL
+"Hans Charles",Strandaa,1,13,7,1922,NULL,NULL
+"Menny Astrid Olivia",Hansen,3,1,7,1922,NULL,NULL
+"Maja Kirstine",Holmberg,2,10,7,1922,NULL,NULL
+"Anton Engelhard",Nielsen,1,21,7,1922,NULL,NULL
+"Valdemar Frederik",Wichstrøm,1,27,7,1922,NULL,NULL
+"Caroline Emilie",Ilten,2,6,7,1922,NULL,NULL
+"Oluf August Johan Marius",Hansen,1,28,7,1922,NULL,NULL
+"Magna Elisabeth",Jensen,2,27,7,1922,NULL,NULL
+"Anna Marie Oline Margrethe",Larsen,2,18,7,1922,NULL,NULL
+"Richardt Winther",Jensen,1,15,7,1922,NULL,NULL
+"Juliane Hansine Georgine",Hansen,2,5,7,1922,NULL,NULL
+"Georg Emilius",Hansen,1,3,7,1922,NULL,NULL
+"Niels Theodor",Nielsen,1,17,7,1922,NULL,NULL
+"Harald Otto",Hansen,1,18,7,1922,NULL,NULL
+"Helga Helene",Hansen,2,14,7,1922,NULL,NULL
+Peter,Andersen,1,25,7,1922,NULL,NULL
+Emmy,Larsen,2,6,7,1922,NULL,NULL
+"Olga Margrethe",Nielsen,2,8,7,1922,NULL,NULL
+"Holger Ricard",Petersen,1,29,7,1922,NULL,NULL
+"Axel Ernfrid",Lundqvist,1,25,7,1922,NULL,NULL
+Karen,Jensen,2,27,7,1922,NULL,NULL
+"Franz Theodor Richard",Krueger,1,27,7,1922,NULL,NULL
+Martha,Carlstrøm,2,4,7,1922,NULL,NULL
+Niels,Larsen,1,22,7,1922,NULL,NULL
+"Carla Marie",Koch,3,15,7,1922,NULL,NULL

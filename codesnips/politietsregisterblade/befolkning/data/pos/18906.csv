@@ -1,0 +1,9 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Conrad Bille",Hansen,1,1,6,1890,55.670179400000,12.589239700000
+"Frederikke Marie",Hansen,2,1,6,1890,55.686302600000,12.567446400000
+"Johannes August Peter",Aagesen,1,1,6,1890,NULL,NULL
+Johannes,Petersen,1,9,6,1890,NULL,NULL
+"Anna Nielsine Henriette",Willerup,2,9,6,1890,NULL,NULL
+"Anna Lovise",Baadsagaard,2,19,6,1890,NULL,NULL
+"Johan Peter",Hansen,1,24,6,1890,55.673460200000,12.590695600000
+"Oluf Alexander",Christensen,1,15,6,1890,NULL,NULL

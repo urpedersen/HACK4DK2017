@@ -1,0 +1,19 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Haldor Marinus",Møller,1,20,6,1928,NULL,NULL
+"Maren Sophie",Jensen,2,8,6,1928,NULL,NULL
+"Emil Axel Edvard Valdemar",Jørgensen,1,21,6,1928,55.678276000000,12.568841100000
+"Christian Severin",Jensen,1,18,6,1928,55.682960300000,12.562462700000
+"Niels Peter",Olsen,1,5,6,1928,NULL,NULL
+"Peter Hans",Lindhe,1,4,6,1928,NULL,NULL
+"Carl Wittrup",Rasmussen,1,11,6,1928,55.702334900000,12.557269500000
+"Niels Albert",Olsson,1,18,6,1928,55.686993800000,12.589318000000
+"Carl Christian",Andersen,1,12,6,1928,NULL,NULL
+"Niels Peter",Hansen,1,2,6,1928,NULL,NULL
+"Christian Frederik",Frost,1,15,6,1928,NULL,NULL
+"Peter Johannes Alexander",Johansen,1,1,6,1928,NULL,NULL
+"Elvira Larsine Frederikke",Nielsen,2,23,6,1928,NULL,NULL
+"Carlo Eigil Svend Aage",Sørensen,1,30,6,1928,NULL,NULL
+"Hans Christian William",Jensen,1,7,6,1928,NULL,NULL
+"Charles Victor",Jensen,1,9,6,1928,NULL,NULL
+"Fritz Christian",Hønike,1,23,6,1928,55.692828100000,12.545869900000
+"Jens Peter Heinrich",Petersen,1,23,6,1928,NULL,NULL

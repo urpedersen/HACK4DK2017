@@ -1,0 +1,12 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"William Otto Lund",Geertsen,1,0,0,1912,NULL,NULL
+"Hans Peter",Andersen,1,0,0,1912,55.673114800000,12.558880900000
+"Alma Emma",Wasserfald,2,0,0,1912,55.691387600000,12.558939400000
+"Ellen Henriette",Wasserfall,2,0,0,1912,55.691387600000,12.558939400000
+"Hans Martin Hvidtfeldt",Villumsen,1,0,0,1912,55.689951300000,12.563506000000
+"Svea Violette",Christoffersen,2,7,0,1912,55.686276400000,12.591690100000
+"Johanne Hemmingine",Hemmingsen,2,0,0,1912,55.699024700000,12.546117000000
+"Otto Emil",Steen,1,0,0,1912,NULL,NULL
+Hans,Tolsen,1,0,0,1912,NULL,NULL
+"Laura Marie Johanne Petra",Bentzen,2,0,0,1912,NULL,NULL
+"Thora Jensine Bothilde",Nielsen,2,2,0,1912,NULL,NULL

@@ -1,0 +1,34 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Lars Peter Carl Christian",Madsen,1,4,6,1926,NULL,NULL
+"Anton Johannes Vilhelm",Petersen,1,3,6,1926,NULL,NULL
+"George Douglas",Henningsen,1,23,6,1926,NULL,NULL
+"Maren Sophie",Jensen,2,5,6,1926,NULL,NULL
+"Carl Christian Niels Marius",Christensen,1,27,6,1926,55.673120000000,12.593336200000
+"Valther Emil",Jensen,1,2,6,1926,NULL,NULL
+"Johan Herman",Larsen,1,8,6,1926,55.700325900000,12.579805700000
+"Meta Johanne",Axelsen,2,3,6,1926,NULL,NULL
+Jens,Gabrielsen,1,22,6,1926,NULL,NULL
+"Georg Heinrich Johannes",Krüger,1,4,6,1926,NULL,NULL
+"Karl Bernhard Florentius",Carlsson,1,15,6,1926,NULL,NULL
+"Carl Christian",Iversen,1,8,6,1926,NULL,NULL
+"Hans Christian",Nielsen,1,1,6,1926,NULL,NULL
+"Axel Peter Marius",Olsen,1,10,6,1926,NULL,NULL
+"Ottoline Helene Mathilde",Christensen,2,25,6,1926,NULL,NULL
+"Oda Cecilie",Olsen,2,15,6,1926,NULL,NULL
+"Hans Peter",Jensen,1,5,6,1926,NULL,NULL
+"Doris Olga",Waldorff,2,1,6,1926,NULL,NULL
+Hans,Poulsen,1,3,6,1926,NULL,NULL
+Ane,Jacobsen,2,5,6,1926,NULL,NULL
+"Ingeborg Ulrikka",Scharff,2,16,6,1926,NULL,NULL
+"Marinus Kai",Christensen,1,30,6,1926,NULL,NULL
+"Niels Peter",Meistrup,1,18,6,1926,NULL,NULL
+"Ella Elisabeth Henriksen",Olsen,2,21,6,1926,NULL,NULL
+"Ella Elisabeth Henriksen",Olsen,2,21,6,1926,NULL,NULL
+"Johan Adolph",Seerup,1,24,6,1926,NULL,NULL
+"Cosmos Christian Vilhelm",Thomsen,1,17,6,1926,NULL,NULL
+"Axel Emil",Petersen,1,5,6,1926,55.641646000000,12.614490900000
+"Olga Elisabeth",Petersen,2,22,6,1926,NULL,NULL
+Franz,Winnich,1,3,6,1926,NULL,NULL
+"Anton Ludvig",Skau,1,11,6,1926,55.660366300000,12.487493200000
+"Valdemar Jensen",Gerster,1,28,6,1926,NULL,NULL
+"August Oliver",Richter,1,1,6,1926,NULL,NULL

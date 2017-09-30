@@ -1,0 +1,20 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Hans Peter",Hansen,1,28,4,1928,55.675411300000,12.597484100000
+"Hans Peder",Pedersen,1,15,4,1928,55.681417800000,12.563363500000
+"Rasmus Hansen",Aastrup,1,13,4,1928,NULL,NULL
+"Samuel Jakob",Brünner,1,17,4,1928,NULL,NULL
+"Poul  Vilhelm Edvard",Tonø,1,1,4,1928,NULL,NULL
+"Poul  Vilhelm Edvard",Tonø,1,3,4,1928,NULL,NULL
+"Gudrun Victoria",Eiberg,2,1,4,1928,NULL,NULL
+"Emil Andreas",Michaelsen,1,12,4,1928,55.708697200000,12.568853500000
+"Rasmus Peter",Poulsen,1,5,4,1928,NULL,NULL
+"Christen Carl Vilhelm",Hitz,1,29,4,1928,55.646451400000,12.497888900000
+Nathan,Lotinga,1,17,4,1928,55.666825300000,12.547234900000
+"Elvira Larsine Frederikke",Nielsen,2,1,4,1928,NULL,NULL
+"Karen Kirstine",Jensen,2,15,4,1928,NULL,NULL
+"Johannes Vilhelm",Brøndberg-Jørgensen,1,18,4,1928,NULL,NULL
+"Alma Johanne",Nielsen,2,3,4,1928,NULL,NULL
+"Johannes Marius",Andersen,1,17,4,1928,55.697272100000,12.539193600000
+"Jens Christian Martin",Hetoft,1,27,4,1928,NULL,NULL
+"Hans Frederik",Petersen,1,21,4,1928,55.698704300000,12.540280000000
+"Carl Theodor",Petersen,1,20,4,1928,NULL,NULL

@@ -1,0 +1,13 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+Carl,Pedersen,1,0,0,1904,55.692428900000,12.567723600000
+"Carl Valdemar Emil",Jørgensen,1,0,0,1904,NULL,NULL
+"Dorthea Anna",Jørgensen,2,0,0,1904,NULL,NULL
+"Olga Juliane",Nielsen,2,0,0,1904,NULL,NULL
+"Henrik Herman",Hermansen,1,0,0,1904,NULL,NULL
+"Magrethe Eleonora",Rasmussen,2,1,0,1904,55.698627100000,12.585969500000
+Berndt,Bengtsson,1,0,0,1904,NULL,NULL
+"Anna Elisabeth",Fog,2,0,0,1904,NULL,NULL
+"Valdemar Carl Johannes",Mottlau,1,0,0,1904,NULL,NULL
+"Hansine Jørgine",Andersen,2,0,0,1904,NULL,NULL
+"Hansine Jørgine",Andersen,2,0,0,1904,NULL,NULL
+"Hansine Jørgine",Andersen,2,0,0,1904,NULL,NULL

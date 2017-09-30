@@ -1,0 +1,35 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+Marie,Håkansdotter,2,18,1,1926,NULL,NULL
+"Carl Peter",Andersen,1,5,1,1926,55.674995100000,12.599045000000
+"Poul Edgar",Johansen,1,12,1,1926,NULL,NULL
+"Christian Otto",Martinsen,1,25,1,1926,NULL,NULL
+"Carl Christian",Sand,1,26,1,1926,NULL,NULL
+"Carl Frederik",Hansen,1,25,1,1926,55.673415500000,12.550506800000
+Anton,Hemmingsen,1,1,1,1926,55.710827300000,12.571122700000
+Poula,Laybourn,2,1,1,1926,NULL,NULL
+"Christian Thorvald",Nielsen,1,2,1,1926,NULL,NULL
+Anna,Johannessen,2,5,1,1926,NULL,NULL
+"Carl Frederik Alexander",Knudsen,1,11,1,1926,NULL,NULL
+"Peter Vilhelm Christian Petersen",Molin,1,8,1,1926,NULL,NULL
+Carl,Christensen,1,21,1,1926,55.663857100000,12.545660500000
+"Emma Petrine",Jensen,2,18,1,1926,NULL,NULL
+"Emma Petrine",Jensen,2,18,1,1926,NULL,NULL
+"Alfrida Caroline Persson",Tryggedson,2,20,1,1926,55.665658800000,12.549643200000
+"Hans Christian",Hansen,1,1,1,1926,NULL,NULL
+"Hermann Hans Peter",Bentzen,1,1,1,1926,55.711858500000,12.574093900000
+"Anna Juliane",Petersen,2,1,1,1926,NULL,NULL
+"Ida Kjeldine",Thygesen,2,1,1,1926,NULL,NULL
+"Henry Emanuel",Petersen,1,22,1,1926,NULL,NULL
+"Anna Elisabeth Abelone",Poulsen,2,1,1,1926,NULL,NULL
+"Niels Viliam Theobald",Mogensen,1,1,1,1926,NULL,NULL
+"Johannes Lütken",Nielsen,1,28,1,1926,NULL,NULL
+"Kaj Arne Lauritz Christian",Nielsen,1,4,1,1926,55.700651500000,12.541719000000
+"Alfred Evin Eiberg Ferdinand",Jørgensen,1,8,1,1926,55.678356000000,12.583960600000
+"Alfred Evin Eiberg Ferdinand",Jørgensen,1,22,1,1926,55.669588900000,12.554120100000
+"Mathilde Emilie Marie",Jørgensen,2,1,1,1926,NULL,NULL
+"Paul Willy Otto",Neumann,1,1,1,1926,55.671328400000,12.490121300000
+"Carl Harry",Petersen,1,15,1,1926,55.664458000000,12.541160800000
+"Jens Ludvig",Jensen,1,1,1,1926,55.671745200000,12.489117700000
+"Carlo Christian",Jacobsen,1,25,1,1926,NULL,NULL
+"Egil Gunder Valdemar",Petersen,1,1,1,1926,55.655338900000,12.609712500000
+"Valdemar Carl Frederik August",Leth,1,1,1,1926,NULL,NULL

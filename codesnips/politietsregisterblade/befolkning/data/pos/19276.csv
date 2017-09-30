@@ -1,0 +1,20 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Hans Peter",Larsen,1,11,6,1927,NULL,NULL
+"Povla Perla",Lipschitz,2,30,6,1927,NULL,NULL
+"Gudrun Victoria",Eiberg,2,15,6,1927,NULL,NULL
+"Hans Christian",Mortensen,1,27,6,1927,NULL,NULL
+"Gabrielle Henriette",Iversen,2,1,6,1927,NULL,NULL
+Henriette,Jensen,2,1,6,1927,NULL,NULL
+Jørgen,Andersen,1,1,6,1927,NULL,NULL
+Carl,Christensen,1,15,6,1927,55.664223700000,12.548116400000
+"Asta Elvira Veronika",Carlsen,2,7,6,1927,NULL,NULL
+Cyril,Grabmüller,1,1,6,1927,55.698065200000,12.533840100000
+"Ove Michael",Corell,1,14,6,1927,NULL,NULL
+"Georg Andreas Alexander",Møller,1,11,6,1927,NULL,NULL
+"Edvin Jens",Weberg,1,5,6,1927,NULL,NULL
+"Jens Peter Erhardt",Hansen,1,1,6,1927,NULL,NULL
+"Johannes Carl",Hansen,1,18,6,1927,55.664655200000,12.578495700000
+Emil,Christensen,1,15,6,1927,NULL,NULL
+"Lars Carlo Methil Zimmer",Bagger,1,1,6,1927,55.650305000000,12.534512900000
+"Georg Reinholt Mogensen",Mak,1,11,6,1927,NULL,NULL
+"Carl Vilhelm",Olsen,1,25,6,1927,NULL,NULL

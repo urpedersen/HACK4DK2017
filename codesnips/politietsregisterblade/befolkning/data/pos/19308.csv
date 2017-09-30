@@ -1,0 +1,7 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Alfred Daniel",Henriksen,1,15,8,1930,NULL,NULL
+"Albert Niels",Johansen,1,5,8,1930,NULL,NULL
+"Larsenius Peter Christian Petersen",Tønder,1,5,8,1930,NULL,NULL
+Niels,Overgaard,1,11,8,1930,NULL,NULL
+"Søren Peter",Godtfredsen,1,1,8,1930,NULL,NULL
+"Svend Lauritz",Petersen,1,7,8,1930,55.661759800000,12.514701200000

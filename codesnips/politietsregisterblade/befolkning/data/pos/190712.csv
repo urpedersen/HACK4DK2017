@@ -1,0 +1,3143 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Frantz Otto",Striebe,1,3,12,1907,55.687270700000,12.583905500000
+"Niels Andreas",Stokholm,1,24,12,1907,NULL,NULL
+"Christopher Jacob Emil",Wennecke,1,19,12,1907,NULL,NULL
+"Anna Marie Ingeborg",Jensen,2,5,12,1907,NULL,NULL
+"Villiam Lambert Louis Robert",Jørgensen,1,20,12,1907,NULL,NULL
+"Hans Marius Laurits",Jørgensen,1,19,12,1907,NULL,NULL
+"Marie Petrea",Jørgensen,2,6,12,1907,NULL,NULL
+"Ove Hans",Knudsen,1,18,12,1907,NULL,NULL
+"Emma Maren Kirstine",Larsen,2,17,12,1907,NULL,NULL
+"Olfert Martin Laurentius",Larsen,1,22,12,1907,55.700611800000,12.588278900000
+"Niels Rasmus",Larsen,1,30,12,1907,NULL,NULL
+"Hariette Theodora Josefa",Meyer,2,6,12,1907,NULL,NULL
+"Ellen Harriet Carlotte",Martinus,2,11,12,1907,NULL,NULL
+"Carl Gunnar Vilkens",Sørensen,1,31,12,1907,55.698124700000,12.582139300000
+"Holger Marinus",Pedersen,1,4,12,1907,NULL,NULL
+"Ane Kirstine",Hansen,2,5,12,1907,55.696876700000,12.581892100000
+"Carlo Daniel Hermann Hauge",Holm,1,19,12,1907,NULL,NULL
+"Carlo Daniel Hermann Hauge",Holm,1,17,12,1907,NULL,NULL
+"Johanne Margrethe",Haagensen,2,3,12,1907,NULL,NULL
+"Fritz Lothar",Madsen,1,14,12,1907,NULL,NULL
+Karl,Truelsson,1,3,12,1907,NULL,NULL
+"Antonie Christine Jørgine",Nielsen,2,31,12,1907,NULL,NULL
+"Axel Carl Louis",Boolsen,1,31,12,1907,NULL,NULL
+Ernst,Geisler,1,17,12,1907,55.663821700000,12.600312200000
+"Jens Henrik Nielsen",Løfgreen,1,23,12,1907,55.664882700000,12.606009500000
+"Magnus B.",Mikkelsen,1,11,12,1907,NULL,NULL
+"Sofie Caroline",Andersen,2,2,12,1907,NULL,NULL
+"Hansine Marie",Hansen,2,10,12,1907,55.692473600000,12.568002100000
+Josef,Effenberger,1,3,12,1907,55.658367600000,12.608441300000
+"Clara Hansigne",Olsen,2,3,12,1907,NULL,NULL
+"Hans Christian",Hansen,1,6,12,1907,55.694766700000,12.569733000000
+"Thecla Elida",Andersson,2,9,12,1907,NULL,NULL
+Arved,Andersen,1,27,12,1907,55.666539300000,12.550666000000
+"Anders Lauritz",Andersen,1,23,12,1907,55.699838500000,12.578261900000
+"Hans Peter",Hansen,1,31,12,1907,NULL,NULL
+"Hans Peter Christian",Hansen,1,18,12,1907,55.671803500000,12.552397800000
+"Ebba Hansine Marie",Andersen,2,7,12,1907,55.671266600000,12.589396700000
+"Larsine Birgitte Rosaura",Pedersen,2,9,12,1907,55.697952200000,12.585022700000
+"Rasmus Peter",Bachmann,1,24,12,1907,NULL,NULL
+"Christian Martinus",Andersen,1,13,12,1907,55.680277600000,12.590051500000
+Maren,Petersen,2,6,12,1907,NULL,NULL
+"Agathe Marie",Hansen,2,12,12,1907,NULL,NULL
+"Marius Martinus",Petersen,1,6,12,1907,NULL,NULL
+"Nanny Justine",Petersen,2,2,12,1907,NULL,NULL
+"Niels Peter Christian",Petersen,1,17,12,1907,NULL,NULL
+"Olga Nielsine",Petersen,2,31,12,1907,NULL,NULL
+"Oluf Vilhelm",Petersen,1,17,12,1907,NULL,NULL
+"Heinrich Alfred Otto",Bargisen,1,1,12,1907,55.672640600000,12.556667500000
+"Peter Emil",Petersen,1,13,12,1907,NULL,NULL
+"Hans Julius Andreas Benjamin",Andersen,1,30,12,1907,55.662782300000,12.613663200000
+"Frode Christian Rothe",Nielsen,1,10,12,1907,NULL,NULL
+"Jenny Kornelia",Andersdotter,2,7,12,1907,55.660996200000,12.619495900000
+"Alfred Theodor",Carlsen,1,2,12,1907,55.664692300000,12.607961600000
+"Hans Christian Bernhard",Rasmussen,1,31,12,1907,NULL,NULL
+"Lars Hansen",Andersen,1,5,12,1907,NULL,NULL
+Jens,Rasmussen,1,2,12,1907,NULL,NULL
+"Johan Richardt",Rasmussen,1,17,12,1907,55.689762700000,12.572578700000
+"Johanne Marie Frank",Rasmussen,2,21,12,1907,NULL,NULL
+"Carl Alfred Christian",Støckel,1,16,12,1907,55.663092800000,12.600353900000
+"Ragnhild Elisabeth Caroline",Riel,2,3,12,1907,NULL,NULL
+"Karen Johanne",Hansen,2,20,12,1907,55.715062600000,12.574535100000
+"Carl August",Lorentzen,1,15,12,1907,55.678908800000,12.589713100000
+"August Madvig",Lund,1,2,12,1907,NULL,NULL
+"Hans Herman Aksel",Madsen,1,3,12,1907,NULL,NULL
+"Ane Marie",Ludvigsen,2,1,12,1907,NULL,NULL
+"Frederik Christian",Baumann,1,12,12,1907,NULL,NULL
+"Anna Christine Dusine",Nielsen,2,7,12,1907,NULL,NULL
+"Anna Marie Malvine",Nielsen,2,1,12,1907,NULL,NULL
+"Anna Mathea Johanne",Nielsen,2,1,12,1907,NULL,NULL
+"Anna Sofie Cathrine",Nielsen,2,10,12,1907,NULL,NULL
+"Ida Ingeborg",Lutzen,2,17,12,1907,NULL,NULL
+"Axel Severin",Scharff,1,5,12,1907,NULL,NULL
+"Pouline Margrethe Juliane",Bruhn,2,6,12,1907,NULL,NULL
+"Charles Nikolaj",Nielsen,1,22,12,1907,NULL,NULL
+"Helga Christine Jensine",Wittenburg,2,5,12,1907,NULL,NULL
+"Hauge Johan",Christensen,1,12,12,1907,NULL,NULL
+"Meta Rosalia",Hansen,2,6,12,1907,NULL,NULL
+"Mads Otto Carlo",Sørensen,1,11,12,1907,55.675802300000,12.597566800000
+"Jenny Giritha Karen Marie",Johansen,2,6,12,1907,NULL,NULL
+"Christian Emil",Lassen,1,19,12,1907,NULL,NULL
+Theodora,Hansen,2,3,12,1907,NULL,NULL
+"Julius Peter Emil Magnus",Johansen,1,28,12,1907,NULL,NULL
+"Axel Christian Conrad",Schmidt,1,6,12,1907,NULL,NULL
+"Karen Marie",Bentsen,2,9,12,1907,55.657389500000,12.602788100000
+"Nikoline Louise Merete",Buhell,2,3,12,1907,55.668940800000,12.580739800000
+"Alma Elisabeth Ane",Jensen,2,9,12,1907,55.659580500000,12.607895400000
+"Dagmar Caroline",Nielsen,2,1,12,1907,NULL,NULL
+Jens,Jensen,1,31,12,1907,NULL,NULL
+"Ernst Johan",Bergqvist,1,14,12,1907,55.674961700000,12.597290600000
+Thorvald,Hansen,1,3,12,1907,NULL,NULL
+"Thyra Alvilda",Johansen,2,4,12,1907,NULL,NULL
+Petra,Nielsen,2,5,12,1907,NULL,NULL
+"Elfrida Marie Christine",Nilsson,2,4,12,1907,55.709806000000,12.570471300000
+"Johan Sørensen",Busch,1,11,12,1907,55.693545900000,12.570417100000
+"Sofus Frederik",Busk,1,4,12,1907,55.658921500000,12.607971200000
+Anders,Christiansen,1,13,12,1907,NULL,NULL
+Julius,Holm,1,20,12,1907,NULL,NULL
+"Christian Peder",Bilsgaard,1,28,12,1907,55.695378100000,12.547510300000
+"Helene Camilla",Halberg,2,7,12,1907,55.666845400000,12.548159700000
+"Poul Villiam",Hansen,1,19,12,1907,NULL,NULL
+Gudmond,Nielsen,1,5,12,1907,NULL,NULL
+"Christian Andreas",Hartmann,1,28,12,1907,NULL,NULL
+"Axel Christian",Jensen,1,19,12,1907,NULL,NULL
+"Lauritz Andreas",Nielsen,1,13,12,1907,NULL,NULL
+"Anna Augusta Bodil",Petersen,2,9,12,1907,NULL,NULL
+"Holger Marius Oluf",Mortensen,1,18,12,1907,NULL,NULL
+"Ingeborg Christine",Christensen,2,2,12,1907,NULL,NULL
+"Karen Hansine",Høj,2,3,12,1907,55.673792000000,12.594731100000
+"Laura Rasmine",Knudsen,2,6,12,1907,NULL,NULL
+"Ellen Anna Frederikke",Meilvang,2,3,12,1907,55.714168300000,12.569366900000
+"Carl Albin Julius",Carlsson,1,16,12,1907,55.671579800000,12.561628900000
+"Anna Alida",Jørgensen,2,6,12,1907,NULL,NULL
+"Knut Brynolf",Lange,1,21,12,1907,55.674285000000,12.590507000000
+"Christian Jacob August",Carlsen,1,23,12,1907,NULL,NULL
+"Hans Peter",Meyer,1,16,12,1907,NULL,NULL
+"Franz Ludvig",Wienhold,1,6,12,1907,NULL,NULL
+Anna,Jensen,2,8,12,1907,NULL,NULL
+"Anton Andreas Johan",Møller,1,6,12,1907,NULL,NULL
+"Ernst Elof",Carlsson,1,1,12,1907,55.678011700000,12.574445100000
+"Hansine Amalie",Nielsen,2,7,12,1907,NULL,NULL
+"Johannes Andreas",Carlsen,1,3,12,1907,55.673207600000,12.589471500000
+"Christen Vejgaard",Schultz,1,6,12,1907,NULL,NULL
+"Jens Christian Ernst August",Christensen,1,9,12,1907,55.662712700000,12.596171100000
+"Jens Harald Balduin",Larsen,1,12,12,1907,NULL,NULL
+"Jakob Johan",Christiansen,1,6,12,1907,NULL,NULL
+Johanne,Larsen,2,3,12,1907,NULL,NULL
+"Julius Frederik Ludvig",Larsen,1,6,12,1907,NULL,NULL
+"Lilly Valborg Johanne Margrethe",Nielsen,2,2,12,1907,NULL,NULL
+"Anna Elisabeth",Fischer,2,2,12,1907,55.656302400000,12.612478100000
+"Anna Christine",Irmler,2,10,12,1907,NULL,NULL
+"Ernst Herman",Carsten,1,31,12,1907,NULL,NULL
+"Johan Alfred",Iversen,1,2,12,1907,55.656302400000,12.612478100000
+"Inger Marie Kirstine",Nielsen,2,2,12,1907,NULL,NULL
+"Martha Hansine Jørgine",Knudsen,2,17,12,1907,NULL,NULL
+"Andreas Peter Elsenius",Jacobsen,1,17,12,1907,55.690344300000,12.565107300000
+"Dally Petra Mathea",Petersen,2,7,12,1907,NULL,NULL
+Vilhelm,Knudsen,1,14,12,1907,NULL,NULL
+"Anton Andreas Peter",Jensen,1,24,12,1907,NULL,NULL
+"Marius Hans",Nielsen,1,10,12,1907,NULL,NULL
+"Nielsine Kirstine",Clausen,2,1,12,1907,55.673929900000,12.591120300000
+"Gunnar Andreas",Petersen,1,16,12,1907,NULL,NULL
+Axel,Tychsen,1,6,12,1907,NULL,NULL
+Frederik,Olsen,1,5,12,1907,NULL,NULL
+Georg,Olsen,1,11,12,1907,NULL,NULL
+"Louis Hans Carl",Christensen,1,2,12,1907,55.684694500000,12.558823100000
+"Marie Christine Magdalene",Hinrichsen,2,14,12,1907,NULL,NULL
+"Hertha Eduardine",Hagemann,2,2,12,1907,NULL,NULL
+"Aage Edmund",Foskjær,1,11,12,1907,55.675161900000,12.596705500000
+Peter,Christensen,1,27,12,1907,NULL,NULL
+"Peter Christian",Christensen,1,7,12,1907,55.673888800000,12.593767200000
+"Gerda Elisabeth",Olsen,2,12,12,1907,NULL,NULL
+"Carl Emil",Jensen,1,16,12,1907,NULL,NULL
+"Carl Emil",Jensen,1,3,12,1907,NULL,NULL
+Laurine,Rasmussen,2,1,12,1907,55.690062000000,12.554175900000
+"Carl Henrik Furrebøl",Jensen,1,13,12,1907,NULL,NULL
+"Ellen Amanda Kristine",Lund,2,10,12,1907,55.678239000000,12.579470000000
+"Jenny Elise",Madsen,2,7,12,1907,55.684858300000,12.564305100000
+Bogi,Brynjølfsson,1,11,12,1907,55.695166800000,12.578343900000
+"Jens Peter",Nielsen,1,14,12,1907,NULL,NULL
+"Clara Kirstine Louise",Wedeby,2,3,12,1907,55.714145900000,12.569120800000
+Sine,Jensen,2,3,12,1907,55.700124900000,12.578252200000
+"Alfred Matthias",Andersen,1,12,12,1907,55.668387200000,12.550199800000
+Olafur,Jønsson,1,3,12,1907,55.684697800000,12.570903200000
+Carl,Mikkelsen,1,23,12,1907,NULL,NULL
+"Jens Carl",Jensen,1,6,12,1907,NULL,NULL
+Johanne,Nielsen,2,5,12,1907,55.651893800000,12.611574400000
+"Niels Christian",Petersen,1,13,12,1907,55.682273600000,12.564387800000
+"Niels Christian",Petersen,1,14,12,1907,55.678089000000,12.568351900000
+"Anna Elsine",Christensen,2,2,12,1907,55.662985700000,12.613176400000
+"Thora Pouline Johanne",Lehmann,2,2,12,1907,NULL,NULL
+"Jensine Marie",Nielsen,2,3,12,1907,NULL,NULL
+"Emma Marie",Petersen,2,4,12,1907,55.656841900000,12.605371100000
+"Emmy Constantia Eloisa",Petersen,2,16,12,1907,NULL,NULL
+"Anna Kirstine",Bremer,2,4,12,1907,55.672574600000,12.551243000000
+"Karen Gustafine",Borgwardt,2,18,12,1907,55.684038500000,12.571086200000
+Anine,Andersen,2,6,12,1907,55.676243300000,12.566039300000
+Jutta,Jensen,2,9,12,1907,NULL,NULL
+"Maren Kristine",Jensen,2,1,12,1907,NULL,NULL
+Alfred,Petersen,1,13,12,1907,55.685342800000,12.565618100000
+"Magdalone Sørensen",Brok,2,23,12,1907,NULL,NULL
+"Alfred Peter",Hansen,1,1,12,1907,55.678717200000,12.566652200000
+"Axel Julius",Andersen,1,11,12,1907,NULL,NULL
+"Ellen Marie",Jensen,2,1,12,1907,NULL,NULL
+Agnes,Svendsen,2,6,12,1907,NULL,NULL
+"Bodil Marie Cathrine",Andersen,2,3,12,1907,NULL,NULL
+Bothilda,Andersson,2,3,12,1907,NULL,NULL
+"Albert Rudolf",Sørensen,1,7,12,1907,NULL,NULL
+Axeline,Andersen,2,2,12,1907,NULL,NULL
+"Jens Christian Petersen",Vase,1,6,12,1907,NULL,NULL
+Marian,Wisnewski,1,16,12,1907,NULL,NULL
+"Niels Richard",Vittersek,1,10,12,1907,NULL,NULL
+Martin,Frederiksen,1,4,12,1907,NULL,NULL
+"Kjartan Isfjord",Jensen,1,7,12,1907,NULL,NULL
+"Anna Lydia",Andersen,2,1,12,1907,55.672358300000,12.549236600000
+"Karen Theresie Hansen",Friis,2,28,12,1907,55.699381600000,12.582167300000
+"Lars Vilhelm",Jensen,1,1,12,1907,NULL,NULL
+"Birthe Marie Christine",Andersen,2,4,12,1907,NULL,NULL
+"Ida Sofie",Østergren,2,7,12,1907,NULL,NULL
+"Waldemar Walther",Neumann,1,24,12,1907,55.678812000000,12.570307500000
+"Agnes Magda Thorvaldine",Olsen,2,10,12,1907,55.674728700000,12.598662300000
+"Agnes Sofie Henriette",Olsen,2,2,12,1907,55.684659600000,12.582988200000
+"Carl Vilhelm",Göransson,1,15,12,1907,NULL,NULL
+"Christian Wilhelm",Holl,1,31,12,1907,NULL,NULL
+"Hans Christian Martin",Olsen,1,27,12,1907,NULL,NULL
+Niels,Hogqvist,1,23,12,1907,NULL,NULL
+"Ane Christine",Lund,2,5,12,1907,NULL,NULL
+"Johanne Magdalene",Olsen,2,3,12,1907,NULL,NULL
+"Carl Andreas",Petersen,1,7,12,1907,55.666735500000,12.546323700000
+"August Friederik Heinrich",Leibech,1,16,12,1907,NULL,NULL
+"Christie Henrik",Andersen,2,3,12,1907,55.690510300000,12.559818600000
+"Edvard Ludvig",Jansen,1,23,12,1907,NULL,NULL
+"Heinrich Johan",Jahnsen,1,11,12,1907,NULL,NULL
+"Ernst Poul",Möckel,1,2,12,1907,NULL,NULL
+"Elsa Louise Clara",Andersson,2,18,12,1907,NULL,NULL
+"Emilie Marie",Andersen,2,17,12,1907,55.684298600000,12.570739500000
+"Carl Vilhelm",Pedersen,1,12,12,1907,55.682938600000,12.564657500000
+"Michael Theodor",Jensen,1,16,12,1907,NULL,NULL
+"Jens Christian",Pedersen,1,31,12,1907,55.673213200000,12.574411200000
+"Anna Christine",Hansen,2,17,12,1907,55.680760500000,12.571008100000
+"Olivia Petrea",Jensen,2,5,12,1907,NULL,NULL
+"Helfride Jensine Dorthea Marie Cathrine",Andersen,2,5,12,1907,55.681441500000,12.571007700000
+"Otto Max Johann",Flögel,1,4,12,1907,55.673601500000,12.576183800000
+"Peter Julius",Jensen,1,3,12,1907,NULL,NULL
+Rasmus,Jensen,1,20,12,1907,NULL,NULL
+Signe,Brammer,2,3,12,1907,55.684807800000,12.571806600000
+"Hans Peter Christian",Petersen,1,5,12,1907,NULL,NULL
+"Rigmor Johanne",Jensen,2,4,12,1907,NULL,NULL
+"Anders Lauritz",Larsen,1,7,12,1907,55.684934400000,12.558808200000
+"Selma Marie Dorthea",Jensen,2,4,12,1907,NULL,NULL
+"Ida Augusta",Olsen,2,13,12,1907,NULL,NULL
+"Jutta Walborg",Olsen,2,2,12,1907,NULL,NULL
+"Jutta Walborg",Olsen,2,10,12,1907,55.694616400000,12.577190900000
+"Johan Christian Marius",Petersen,1,13,12,1907,55.683108300000,12.569847700000
+"Thyra Josefine Jacobine",Jensen,2,1,12,1907,NULL,NULL
+"Anna Victoria",Johansdotter,2,7,12,1907,55.664952600000,12.606683600000
+"Svend Oluf",Breum,1,16,12,1907,NULL,NULL
+"Frida Marta Helene",Wencien,2,31,12,1907,NULL,NULL
+"Johannes Christian",Runge,1,11,12,1907,55.678639400000,12.569283600000
+"Edvardine Marie",Larsen,2,3,12,1907,NULL,NULL
+"Ejner Emil",Larsen,1,14,12,1907,55.684663400000,12.564081500000
+"Margrethe Frederikke",Guldager,2,13,12,1907,NULL,NULL
+Petra,Larsen,2,1,12,1907,NULL,NULL
+Fritz,Bruhn,1,16,12,1907,55.685200000000,12.566882100000
+"Charles Olivius",Petersen,1,13,12,1907,NULL,NULL
+"Anne Larsine",Nielsen,2,7,12,1907,55.677958400000,12.586487000000
+"Jens Frederik",Jensen,1,2,12,1907,55.659250200000,12.608293000000
+"Johanne Margrethe Petra",Petersen,2,7,12,1907,55.683305400000,12.571059300000
+"Olga Emmy",Kuntze,2,5,12,1907,NULL,NULL
+"Gudrun Stefania",Jonson,2,1,12,1907,55.685932700000,12.566248400000
+"Hans Frederik Herman",Handrich,1,20,12,1907,NULL,NULL
+"Petra Christine",Jensen,2,4,12,1907,55.678321400000,12.568489300000
+"Thorkild Knudsen",Bruhn,1,16,12,1907,55.684858300000,12.564305100000
+Peter,Jonason,1,8,12,1907,NULL,NULL
+"Anna Marie",Hansen,2,12,12,1907,NULL,NULL
+"Arnold Balduin",Nielsson,1,24,12,1907,55.675119000000,12.599196100000
+"Martha Johanne",Hansson,2,1,12,1907,55.680689900000,12.564061400000
+"Frederik Christian Jens Emnuel",Jørgensen,1,7,12,1907,55.691850000000,12.557854900000
+"Gerda Franciska",Kleist,2,1,12,1907,55.677491700000,12.567614000000
+"Lovise Christiane",Voss,2,6,12,1907,NULL,NULL
+"Franz Walter Hermann",Scheel,1,10,12,1907,NULL,NULL
+"Dorette Karoline Frieda",Schütt,2,12,12,1907,55.672720200000,12.563121100000
+"Jens Peter",Jensen,1,3,12,1907,55.679372500000,12.569538800000
+"Olga Anna Sophie",Olsen,2,22,12,1907,55.685780900000,12.585646600000
+"Oline Sofie",Olsen,2,3,12,1907,NULL,NULL
+"Vilhelm Maria Ludvig Joseph",Jost,1,21,12,1907,NULL,NULL
+Christen,Hansen,1,1,12,1907,55.682700300000,12.563964500000
+"Petra Jensine Bertha Sofie",Olsen,2,3,12,1907,NULL,NULL
+"Sara Kristine",Olsen,2,1,12,1907,55.691968200000,12.554814700000
+"Christian Jørgen",Jensen,1,7,12,1907,NULL,NULL
+"Søren Christian Sørensen",Røn,1,3,12,1907,55.696705400000,12.583260000000
+"Agita Johanne",Vestergaard,2,7,12,1907,55.690158000000,12.571177700000
+"Ane Nielsine Mortine",Nielsen,2,5,12,1907,55.685203800000,12.565845500000
+"Alma Emilie",Rasmussen,2,7,12,1907,NULL,NULL
+"Jenny Johanne",Pedersen,2,1,12,1907,55.678369500000,12.566706100000
+"Anna Sophie",Rasmussen,2,16,12,1907,55.699918500000,12.578433600000
+"Carl Christian",Hansen,1,4,12,1907,NULL,NULL
+"Victoria Catharina",Laugesen,2,6,12,1907,NULL,NULL
+"Alberta Petrine Amalie",Bülow,2,4,12,1907,55.681416800000,12.564007400000
+"Emma Hansine",Bülov,2,14,12,1907,NULL,NULL
+"Andreas Theodor",Friis,1,10,12,1907,55.685825300000,12.568058000000
+"Carlos Robert Marius",Hansen,1,11,12,1907,55.682707700000,12.586153300000
+"Carl Johansen",Hauge,1,11,12,1907,NULL,NULL
+"Stine Nicoline",Jensen,2,9,12,1907,55.680378600000,12.589657400000
+"Edvard Valdemar",Børgesen,1,3,12,1907,55.679724400000,12.571150700000
+"Anna Marie Kirstine",Hansen,2,1,12,1907,NULL,NULL
+"Anna Vilhelmine Petra",Nielsen,2,19,12,1907,55.682185900000,12.564623900000
+"Davida Maria",Børlin,2,5,12,1907,55.680309800000,12.589901300000
+Valdemar,Friis,1,6,12,1907,55.671995400000,12.555616400000
+"Betty Marie",Nielsen,2,2,12,1907,55.686683700000,12.567542800000
+"Aage Poul",Ulmer,1,21,12,1907,NULL,NULL
+"Dagmar Emilie",Rasmussen,2,4,12,1907,55.678321400000,12.568489300000
+"Ester Marie",Frost,2,6,12,1907,NULL,NULL
+"Camilla Vilhelmine",Nielsen,2,31,12,1907,55.688501700000,12.561708500000
+"Ferdinand Christian",Hansen,1,27,12,1907,55.686518000000,12.588174500000
+"Anna Christine Frederikke",Olsen,2,23,12,1907,55.670864800000,12.552824500000
+"Martin Sigvardt",Svendsen,1,20,12,1907,NULL,NULL
+"Carlo August Leopold",Nielsen,1,21,12,1907,NULL,NULL
+"Agnes Ella Christine",Hansen,2,30,12,1907,NULL,NULL
+"Agnes Ella Christine",Hansen,2,2,12,1907,55.680661600000,12.562556600000
+"Vilhelm Emanuel Johan",Schønbech,1,23,12,1907,NULL,NULL
+"Asger Uffe",Schønnemand,1,12,12,1907,NULL,NULL
+"Fanny Petra",Petersen,2,6,12,1907,NULL,NULL
+"Søren Juul",Jensen,1,23,12,1907,55.676954400000,12.575844200000
+"Johanne Sofie Marie",Jørgensen,2,6,12,1907,55.669736800000,12.553715900000
+Jørgen,Jørgensen,1,9,12,1907,55.678812000000,12.570307500000
+"Marie Lovisa Bergh",Wilander,2,6,12,1907,NULL,NULL
+"Frederik Ferdinand",Rasmussen,1,1,12,1907,55.673646300000,12.574311400000
+Frederikke,Rasmussen,2,17,12,1907,55.683636400000,12.565044400000
+"Ebba Edith Selma",Møller,2,20,12,1907,55.673517300000,12.575976700000
+"Hansine Frederikke",Hansen,2,5,12,1907,55.683620100000,12.566429100000
+"Ella Helene Frederikke",Jensen,2,21,12,1907,55.683645500000,12.567048300000
+Christian,Nielsen,1,12,12,1907,55.671016400000,12.552801000000
+Christian,Nielsen,1,22,12,1907,55.678812000000,12.570307500000
+"Helga Nathalie Emilie",Hansen,2,3,12,1907,55.686471100000,12.567914700000
+"Elfrida Ingeborg",Carlsen,2,10,12,1907,NULL,NULL
+"Jacob Christian",Jørgensen,1,4,12,1907,NULL,NULL
+"Christian Valdemar",Jakobsen,1,20,12,1907,55.670714200000,12.558673000000
+"Holger Peter",Petersen,1,13,12,1907,NULL,NULL
+"Ida Emilie Vilhelmine",Petersen,2,4,12,1907,NULL,NULL
+"Niels Peter",Jensen,1,3,12,1907,NULL,NULL
+Gudrun,Petersen,2,11,12,1907,NULL,NULL
+"Karen Marie",Olsen,2,12,12,1907,NULL,NULL
+"Hans Peter Victor Emanuel",Siegfried,1,4,12,1907,NULL,NULL
+"Frederik Christian",Jensen,1,13,12,1907,55.687451700000,12.588597300000
+"Harald Bernhardt",Rasmussen,1,13,12,1907,55.681572000000,12.572550200000
+"Dagny Valborg Viola",Jacobsen,2,9,12,1907,NULL,NULL
+"Dagny Valborg Viola",Jacobsen,2,11,12,1907,NULL,NULL
+"Emmy Marie",Jakobsen,2,5,12,1907,55.670786200000,12.563763200000
+"Niels Alfred",Jørgensen,1,3,12,1907,NULL,NULL
+Henrik,Hansen,1,30,12,1907,55.684989800000,12.567749300000
+"Karen Marie Christence",Pedersen,2,20,12,1907,NULL,NULL
+Hans,Jensen,1,12,12,1907,NULL,NULL
+"Jens Peter August",Rasmussen,1,3,12,1907,NULL,NULL
+"Oluf Frederik Carl",Jørgensen,1,30,12,1907,NULL,NULL
+"Friedrich Emil",Sauter,1,7,12,1907,NULL,NULL
+"Johanne Theodora",Rasmussen,2,6,12,1907,NULL,NULL
+"Jørgen Christian",Nielsen,1,13,12,1907,55.686082100000,12.585024800000
+"Albert Emil",Kunz,1,24,12,1907,55.678730100000,12.574982500000
+Marius,Pedersen,1,3,12,1907,NULL,NULL
+"Peter Emil",Palle,1,21,12,1907,NULL,NULL
+"Olga Anine Christine Christiane",Møller,2,1,12,1907,NULL,NULL
+"Anna Isidora",Timm,2,9,12,1907,NULL,NULL
+Agnes,Christensen,2,3,12,1907,55.680177000000,12.568116300000
+"Martha Eline",Pedersen,2,3,12,1907,NULL,NULL
+"Martha Marie Camilla",Petersen,2,7,12,1907,55.702770800000,12.580276100000
+"Martha Sophie",Petersen,2,11,12,1907,55.686585700000,12.566344700000
+"Merry Hansine",Petersen,2,14,12,1907,55.676243300000,12.566039300000
+"Magnus Kjær",Wissing,1,2,12,1907,55.686573200000,12.567745900000
+Wiggo,Møller,1,3,12,1907,NULL,NULL
+"Mary Johanne Frederikke",Jacobsen,2,10,12,1907,NULL,NULL
+Niels,Jacobsen,1,23,12,1907,55.673149200000,12.575970700000
+"Theodora Mathilde",Nissen,2,1,12,1907,NULL,NULL
+Laurs,Laursen,1,1,12,1907,NULL,NULL
+"Ebba Victoria",Nyberger,2,2,12,1907,55.656636100000,12.608979600000
+"Anna Sigrid Hansine",Svensson,2,3,12,1907,55.671234100000,12.575409900000
+"Axel Alfred",Hansen,1,21,12,1907,55.676290100000,12.573560400000
+"Hans Otto Isidor",Hansen,1,1,12,1907,NULL,NULL
+"Reinvald Victor",Nørring,1,7,12,1907,NULL,NULL
+"Nielsine Hariet Marie",Schou,2,1,12,1907,NULL,NULL
+"Sofie Kristine",Nielsen,2,3,12,1907,55.697128200000,12.580155000000
+"Augusta Margrethe",Volf,2,1,12,1907,NULL,NULL
+Villiam,Nielsen,1,15,12,1907,NULL,NULL
+"Johanne Martine",Hansen,2,23,12,1907,55.668792000000,12.552417600000
+"Elisabeth Dorthea Marie",Spendrup,2,4,12,1907,NULL,NULL
+"Carl Heinrich Gottfred",Matthauss,1,10,12,1907,55.670858800000,12.559109100000
+"Kamma Ulrikka Josefine",Wahlqvist,2,4,12,1907,NULL,NULL
+"Johan Hansen",Staugaard,1,13,12,1907,NULL,NULL
+"Jens Johan Victor",Petersen,1,20,12,1907,NULL,NULL
+"Axel Leonhard",Svendsen,1,13,12,1907,55.677953600000,12.567942600000
+"Nielsine Caroline Mathilde",Pedersen,2,5,12,1907,55.671927700000,12.573403700000
+Theodor,Nielsen,1,3,12,1907,NULL,NULL
+Jensine,Jensen,2,13,12,1907,55.702145600000,12.577880700000
+"Anna Marie",Larsen,2,7,12,1907,55.677815300000,12.578816700000
+"Inger Marie",Hansen,2,14,12,1907,55.676021800000,12.574452000000
+"Meta Asta Rigmor",Olsen,2,2,12,1907,NULL,NULL
+"Niels Peter",Olsen,1,27,12,1907,NULL,NULL
+"Thorvald William",Nielsen,1,13,12,1907,NULL,NULL
+"Olga Johanne",Petersen,2,5,12,1907,55.675588800000,12.545701600000
+"Alfred Johannes",Olsen,1,13,12,1907,NULL,NULL
+Christine,Olsen,2,6,12,1907,55.672903300000,12.559247100000
+"Andrea Middelbo",Madsen,2,4,12,1907,55.704609200000,12.580318000000
+Anna,Olsson,2,12,12,1907,55.677824200000,12.582731500000
+Olaf,Petersen,1,18,12,1907,55.685200000000,12.566882100000
+"Edvard Carl Frederik",Silldorf,1,27,12,1907,NULL,NULL
+"Marius Christian",Mikkelsen,1,18,12,1907,NULL,NULL
+"Christine Caroline",Poulsen,2,2,12,1907,NULL,NULL
+"Christine Marie Magdalene",Hansen,2,17,12,1907,55.677767800000,12.578538100000
+"Ane Kirstine",Christensen,2,5,12,1907,55.665998000000,12.549171900000
+"Rudolf Oskar Viggo",Rosenberg,1,6,12,1907,NULL,NULL
+"Marie Helene Juliane",Kristensen,2,4,12,1907,NULL,NULL
+"Thyra Ingeborg",Larsen,2,23,12,1907,NULL,NULL
+"Lauritz Lars",Thomsen,1,2,12,1907,55.682914500000,12.574806800000
+"Ludolf Johannes",Thomsen,1,20,12,1907,55.671002400000,12.590153100000
+"Poul Adolf",Poulsen,1,12,12,1907,NULL,NULL
+"Ane Marie",Christensen,2,12,12,1907,55.674654500000,12.565659700000
+"Frederikke Louise",Randrup,2,27,12,1907,NULL,NULL
+"Carl August",Hansen,1,9,12,1907,NULL,NULL
+"Sofie Rasmussen",Grønvang,2,4,12,1907,55.691689700000,12.578058700000
+"Ludovicka Vilhelmine",Heddrich,2,7,12,1907,NULL,NULL
+"Martine Hansine",Madsen,2,3,12,1907,NULL,NULL
+Carl,Valberg,1,27,12,1907,NULL,NULL
+"Carl Emil",Gullacksen,1,10,12,1907,55.689662700000,12.571545500000
+Tolluf,Tollefsen,3,11,12,1907,NULL,NULL
+"Alfred Johannes",Pedersen,1,4,12,1907,NULL,NULL
+"Ely Charlotte Rasmine",Larsen,2,2,12,1907,55.680381800000,12.574631400000
+Vilhelm,Larsen,1,13,12,1907,55.676886800000,12.571804500000
+"Karen Kirstine",Hansen,2,18,12,1907,55.679228800000,12.577839100000
+"Ella Dorthea",Svendsen,2,2,12,1907,55.689851300000,12.571833600000
+"Thordur Olafur",Jønsson,1,18,12,1907,55.678628300000,12.566960700000
+"Anders Vilhelm",Petersson,1,18,12,1907,55.680998200000,12.571337000000
+"Hans Christian",Larsen,1,27,12,1907,55.686645000000,12.588461800000
+"Hans Christian",Olsen,1,7,12,1907,55.669359600000,12.549767200000
+"Carl Edvard",Christensen,1,20,12,1907,55.687314900000,12.583748300000
+"Petrea Margrethe",Johansen,2,4,12,1907,NULL,NULL
+"Adolf August",Rønnov,1,5,12,1907,NULL,NULL
+"Carl Rasmus Peter Jannes",Rasmussen,1,16,12,1907,NULL,NULL
+"Carl Vilhelm",Mikkelsen,1,8,12,1907,NULL,NULL
+Caroline,Rasmussen,2,16,12,1907,NULL,NULL
+"Christian Holm Herløv",Rasmussen,1,3,12,1907,NULL,NULL
+"Amalie Marie",Jørgensen,2,2,12,1907,NULL,NULL
+"Amalie Marie",Jørgensen,2,5,12,1907,55.671957300000,12.573968100000
+"Carl Anders",Madsen,1,4,12,1907,NULL,NULL
+"Malthe Edvard Alex",Møller,1,11,12,1907,NULL,NULL
+"Herman Gandens",Lassen,1,14,12,1907,NULL,NULL
+"Joseph Bidulse",Petersen,1,11,12,1907,NULL,NULL
+"Jensine Othlie Thomine Petra",Jensen,2,7,12,1907,55.686993800000,12.589318000000
+Ingeborg,Jensen,2,5,12,1907,NULL,NULL
+"Hjalmar Vilhelm",Truelsen,1,9,12,1907,NULL,NULL
+"Erik Anders Hjalmar Nilsson",Thrysen,1,27,12,1907,NULL,NULL
+"Mary Johanne Kathrine",Thoudahl,2,6,12,1907,NULL,NULL
+"Carl Hans Peter Petersen",Nør,1,5,12,1907,NULL,NULL
+Nils,Hansson,1,11,12,1907,NULL,NULL
+"Thora Carla Marie Christine",Tvenstrup,2,18,12,1907,55.677268900000,12.575577700000
+"Johan August Fred.",Schultz,1,14,12,1907,55.684663400000,12.564081500000
+"Marie Sofie Christine",Jensen,2,3,12,1907,55.686645200000,12.561148300000
+"Niels Oscar",Christensen,1,31,12,1907,55.686955500000,12.588171800000
+Otto,Christensen,1,5,12,1907,55.678241100000,12.568733200000
+"Julie Jacobine",Thøgersen,2,6,12,1907,NULL,NULL
+"Mikkel Christian",Mikkelsen,1,4,12,1907,NULL,NULL
+Christian,Christensen,1,15,12,1907,55.672220200000,12.563547300000
+"Ane Kirstine",Sørensen,2,3,12,1907,55.677174400000,12.571108600000
+"Anna Marie",Sørensen,2,1,12,1907,55.706680200000,12.581591100000
+"Jeremine Anna Christine",Svensson,2,3,12,1907,55.677235500000,12.587903000000
+"Jensine Inger Marie",Jensen,2,7,12,1907,NULL,NULL
+"Thekla Sofia",Svensdotter,2,17,12,1907,NULL,NULL
+Kirstine,Larsen,2,1,12,1907,NULL,NULL
+Ella,Hansen,2,13,12,1907,55.681489600000,12.563815900000
+"Ingeborg Monrad",Jensen,2,20,12,1907,55.672527800000,12.554956100000
+"Karen Kirstine",Nielsen,2,2,12,1907,55.658300700000,12.607368200000
+"Lars Kaasgaard",Larsen,1,24,12,1907,NULL,NULL
+Manda,Svensson,2,16,12,1907,NULL,NULL
+"Laura Cathrine Josefine",Larsen,2,12,12,1907,NULL,NULL
+"Axel Maale Brødegaard",Christiansen,1,3,12,1907,NULL,NULL
+"Sofus Marius",Petersen,1,27,12,1907,55.681811600000,12.563338500000
+"Marie Cathinka",Levensky,2,6,12,1907,NULL,NULL
+Johanne,Mårtensson,2,11,12,1907,55.683073200000,12.572740200000
+"Lauritz Christian Skands",Larsen,1,24,12,1907,NULL,NULL
+"Elna Christine",Christensen,2,3,12,1907,55.677945900000,12.575615500000
+"Edvard August",Nielsen,1,21,12,1907,55.676224000000,12.571714200000
+"Leonhard Ole",Larsen,1,31,12,1907,55.706195300000,12.587993100000
+Lydia,Larsen,2,2,12,1907,NULL,NULL
+"Lars Peter Alfred",Nielsen,1,18,12,1907,55.678276000000,12.568841100000
+"Meta Alfrida Boline",Mortensen,2,1,12,1907,NULL,NULL
+Moses,Peretz,1,27,12,1907,NULL,NULL
+"Laura Marie",Nielsen,2,2,12,1907,55.668706000000,12.538814800000
+"Anton Johannes",Jensen,1,14,12,1907,55.688424600000,12.585905100000
+"Ernst Hermann",Piclenz,1,9,12,1907,55.678730100000,12.574982500000
+"Arne Carl",Jensen,1,13,12,1907,55.681811600000,12.563338500000
+"Helene Wilhelmine",Sørensen,2,11,12,1907,NULL,NULL
+Valborg,Pedersen,2,3,12,1907,55.678687900000,12.568973500000
+"Astrid Marie Petrea",Jensen,2,7,12,1907,55.690751600000,12.558623700000
+"Theodor August",Petersen,1,30,12,1907,55.684989800000,12.567749300000
+"Hans Christian",Christensen,1,10,12,1907,NULL,NULL
+"Knud Jensen",Haugmark,1,13,12,1907,55.685247200000,12.570128200000
+"Ane Ingeborg",Jensen,2,11,12,1907,55.683158100000,12.572571100000
+"Mathilde Kirstine",Jørgensen,2,4,12,1907,55.686573100000,12.589835600000
+"Carla Margrethe Johanne Antonette",Christiansen,2,18,12,1907,55.697292600000,12.579555200000
+"Anna Louise",Jensen,2,12,12,1907,NULL,NULL
+"Otto Jakob",Havsteen,1,28,12,1907,NULL,NULL
+"Jens Martin D.",Christensen,1,27,12,1907,55.671390200000,12.589852700000
+"Metta Kristine",Larsen,2,3,12,1907,NULL,NULL
+"Bertha Elfrida",Jensen,2,7,12,1907,NULL,NULL
+"Vilhelmine Marie",Nielsen,2,9,12,1907,NULL,NULL
+"Peter Christian",Sørensen,1,11,12,1907,NULL,NULL
+"Peter Christian",Sørensen,1,31,12,1907,NULL,NULL
+"Petra Christine",Sørensen,2,7,12,1907,55.682277900000,12.571107800000
+"Bertha Vilhelmine",Jensen,2,4,12,1907,55.693749400000,12.586242300000
+"Albert Georg Vesly",Poulsen,1,18,12,1907,55.682019900000,12.564427100000
+"Victor Marius",Hansen,1,3,12,1907,55.690551500000,12.573507500000
+"Oscar Johan",Hansen,1,11,12,1907,55.682128200000,12.563708800000
+"Martin Michael",Jensen,1,28,12,1907,55.682685800000,12.565583300000
+Karen,Jensen,2,3,12,1907,55.684355900000,12.569037500000
+"Carl Christian Vilhelm",Jensen,1,10,12,1907,NULL,NULL
+"Peter Valdemar Christian",Sørensen,1,7,12,1907,NULL,NULL
+"Peter August",Hansen,1,3,12,1907,55.690505400000,12.573053200000
+"Søren Julius",Sørensen,1,31,12,1907,NULL,NULL
+"Valdemar Harry",Sørensen,1,11,12,1907,NULL,NULL
+"Inger Chirstine Marie",Søqvist,2,19,12,1907,55.673770100000,12.574855000000
+"Anna Aurora",Johansen,2,1,12,1907,NULL,NULL
+"Andrea Marie",Poulsen,2,3,12,1907,55.678035400000,12.576782800000
+Richard,Hansen,1,7,12,1907,55.673864500000,12.576921100000
+"Marie Jensine",Nielsen,2,3,12,1907,55.671668500000,12.574536900000
+"Hermantine Rosalie Marie",Hermansen,3,21,12,1907,55.671530800000,12.544943400000
+"Thorvald Julius",Hansen,1,2,12,1907,55.681797900000,12.561889100000
+"Marie Sofie Regine",Nielsen,2,13,12,1907,55.681728600000,12.561303100000
+"Peter Andreas Wilhelm",Noack,1,13,12,1907,NULL,NULL
+"Oscar Magnus",Levorsen,1,12,12,1907,55.677668500000,12.577078900000
+"Thorvald Severin",Laursen,1,12,12,1907,NULL,NULL
+"Elise Margrethe",Nielsen,2,18,12,1907,NULL,NULL
+Jøn,Christjansson,1,6,12,1907,55.685428200000,12.566633900000
+"Ellen Elisabeth",Nielsen,2,6,12,1907,55.674828400000,12.584724900000
+"Elna Nikoline Christine",Nielsen,2,6,12,1907,NULL,NULL
+"Betty Eugense Agnes Constance",Lincke,2,5,12,1907,NULL,NULL
+"Julie Margrethe",Sommer,2,4,12,1907,55.673646300000,12.574311400000
+"Anna Cathrine",Jørgensen,2,18,12,1907,55.699483600000,12.581831800000
+"Mathilde Andrea",Nielsen,2,24,12,1907,55.678835900000,12.588551400000
+"Esther Kirstine",Nielsen,2,1,12,1907,NULL,NULL
+"Nanna Thomasine",Nielsen,2,3,12,1907,55.700184800000,12.577711300000
+Nicolaj,Nielsen,1,18,12,1907,55.684038500000,12.571086200000
+"Gerda Marie",Månsson,2,10,12,1907,55.672358300000,12.549236600000
+"Charles William",Henriksen,1,7,12,1907,55.681443800000,12.573960400000
+"Martha Minna",Handberg,2,10,12,1907,NULL,NULL
+"Hans Charles",Henriksen,1,20,12,1907,55.678846000000,12.567324700000
+"Henry Ejner",Henriksen,1,1,12,1907,55.706240900000,12.588467300000
+"Ellen Elisabeth",Magnusson,2,11,12,1907,55.679309500000,12.574451800000
+Kristin,Johansson,2,6,12,1907,55.685504600000,12.592004200000
+"Elna Augusta",Nielsen,2,16,12,1907,NULL,NULL
+"Carl Valdemar",Jørgensen,1,4,12,1907,NULL,NULL
+"Poul Willy Rasmus",Christiansen,1,22,12,1907,NULL,NULL
+"Frantz Oscar",Svanberg,1,10,12,1907,55.676813000000,12.574981800000
+"Gertrud Hansine",Nielsen,2,4,12,1907,55.676295000000,12.575980900000
+"Gerda Marie Sophie Cathrine",Nielsen,2,5,12,1907,NULL,NULL
+"Elisabeth Cathrine",Johansen,2,3,12,1907,55.682817300000,12.570311900000
+"Nielsine Caroline Mathilde",Pedersen,2,5,12,1907,55.671927700000,12.573403700000
+Vilhelm,Christiansen,1,13,12,1907,NULL,NULL
+"Kirstine Marie Nielsine",Jensen,2,6,12,1907,NULL,NULL
+Ole,Nielsen,1,3,12,1907,55.672766600000,12.554846700000
+"Hans Theodor",Nielsen,1,13,12,1907,55.678872100000,12.573218200000
+"Johan Frederik Leth",Steensen,1,6,12,1907,55.689351200000,12.563075300000
+"Rasmine Methea",Christoffersen,2,2,12,1907,NULL,NULL
+"Hjalmar Niels Hartvig",Nielsen,1,17,12,1907,NULL,NULL
+"Frederik Hyller",Nørregaard,1,4,12,1907,NULL,NULL
+"Emmy Augusta",Jensen,2,2,12,1907,55.681127100000,12.584095500000
+Knud,Knudsen,1,10,12,1907,NULL,NULL
+"Harris Ryd Marthal",Krogh,1,13,12,1907,55.684253600000,12.563684100000
+"Frantz Engelhardt",Nørring,1,8,12,1907,55.681728600000,12.561303100000
+"Hedvig Johanne Kirstine",Haugen-Johansen,2,19,12,1907,NULL,NULL
+"Marie Helene Kirstine",Marlow,2,6,12,1907,NULL,NULL
+Peter,Lorentzen,1,13,12,1907,55.685342800000,12.565618100000
+"Jens Axel Petersen",Kræmer,1,28,12,1907,NULL,NULL
+"Robert Theobald",Marik,1,11,12,1907,55.682224000000,12.582011100000
+"Gerda Margrethe Vilhelmine",Soltau,2,3,12,1907,NULL,NULL
+"Dorthea Magdalene",Olsen,2,3,12,1907,55.679242100000,12.587258200000
+"Thora Margrethe",Knudsen,2,3,12,1907,NULL,NULL
+"Viggo Andreas",Reingaard,1,20,12,1907,55.692131600000,12.559089100000
+"Amanda Cecilie",Krydsfeldt,2,3,12,1907,55.677010500000,12.565629100000
+"Ida Carolina",Andersson,2,2,12,1907,55.678072100000,12.569919800000
+"Salomon Schirs",Meter,1,27,12,1907,NULL,NULL
+"Axel Robert",Biener,1,18,12,1907,55.681870400000,12.561569000000
+"Augusta Persdotter",Åberg,2,13,12,1907,55.678219000000,12.576623300000
+"Hans Peter",Albrechtsen,1,17,12,1907,NULL,NULL
+"Martin Anders Kronborg",Nørgaard,1,2,12,1907,55.690300900000,12.571418400000
+"Sofie Octavia",Bigum,2,4,12,1907,55.689607800000,12.560540400000
+"Frederik Arnold",Andreasen,1,3,12,1907,55.685827700000,12.546656500000
+"Frederik Viggo",Andreasen,1,30,12,1907,55.691233800000,12.556375400000
+"Hans Møller",Andreasen,1,18,12,1907,NULL,NULL
+"Johanne Marie",Johansen,2,13,12,1907,NULL,NULL
+"Ludvig Peter",Albrechtsen,1,31,12,1907,55.688766700000,12.572234600000
+"Johanne Petrine",Aaberg,2,6,12,1907,NULL,NULL
+Juliane,Johannesen,2,13,12,1907,NULL,NULL
+Kersti,Andersdotter,2,5,12,1907,55.677557700000,12.577642000000
+"Max Holger",Dinsen,1,12,12,1907,55.682895700000,12.588877100000
+"Petra Nicoline",Andersen,2,3,12,1907,55.697769200000,12.581820400000
+"Johanna Gustafva",Andersson,2,5,12,1907,55.681386700000,12.578594500000
+Ingvar,Damm,1,4,12,1907,NULL,NULL
+"Marie Sofie",Mathiesen,2,14,12,1907,55.694967500000,12.572512700000
+"Mary Henriette",Birkmand,2,17,12,1907,55.667149600000,12.549374900000
+"Olga Botilda",Andersson,2,3,12,1907,55.684662900000,12.568214800000
+"Elise Marie",Allengren,2,2,12,1907,55.686610000000,12.595110600000
+"Hans Georg Carl Christfred",Blankensteiner,1,5,12,1907,NULL,NULL
+"Johan Oskar Servatus",Ahlqvist,1,14,12,1907,55.680914100000,12.583180100000
+"Carl Johann Heinrich",Mohrmann,1,24,12,1907,NULL,NULL
+"Anna Margrethe",Aabjørnsen,2,1,12,1907,NULL,NULL
+"Carl Emil",Dam,1,11,12,1907,55.690094800000,12.571861900000
+Sofie,Kannegaard,2,23,12,1907,NULL,NULL
+"Dagmar Turine",Davidsen,2,3,12,1907,55.680986300000,12.576192300000
+"Carl Christian Bernhard",Aackersberg,1,30,12,1907,55.682351800000,12.576725400000
+"Christen Nielsen Hobolth",Alstrup,1,13,12,1907,55.686645000000,12.588461800000
+"Carla Elvira",Altmann,2,12,12,1907,55.674848300000,12.597623700000
+"Marie Kirstine",Dam,2,5,12,1907,55.676932300000,12.588537800000
+"Marie Lucine Elisabeth",Dam,2,3,12,1907,NULL,NULL
+"Mettine Jensine",Damm,2,2,12,1907,NULL,NULL
+"Alma Elisabeth",Blomqvist,2,3,12,1907,55.681210900000,12.590218600000
+"Albertine Birthe",Schlibke,2,31,12,1907,NULL,NULL
+"Vally Thora Christine",Dam,2,1,12,1907,NULL,NULL
+"Marie Sofie",Boesen,2,9,12,1907,55.674248300000,12.550584200000
+Alfred,Ammondsen,1,5,12,1907,55.670574500000,12.559976300000
+"Francisca Stephanie",Kirsch-Petersen,2,3,12,1907,NULL,NULL
+"Valborg Margrethe",Andersen,2,14,12,1907,NULL,NULL
+"Valdemar Knud Aksel Vilhelm",Andersen,1,10,12,1907,55.676270400000,12.574264200000
+"Jensine Kirstine Marie",Jensen,2,3,12,1907,55.677540000000,12.570095100000
+Lous,Andreasen,3,20,12,1907,55.690944100000,12.576234600000
+"Harald Alexander",Dørge,1,7,12,1907,55.680935700000,12.573919700000
+"Harald Alexander",Dørge,1,4,12,1907,55.687907500000,12.560261800000
+"Paula Camilla",Bechmann,2,3,12,1907,NULL,NULL
+"Pieter Cornelius",Pieters,1,31,12,1907,55.686276400000,12.591690100000
+Selma,Dørge,2,6,12,1907,55.677958400000,12.586487000000
+Clara,Damgaard,2,6,12,1907,55.677958400000,12.586487000000
+"Hans Peter Mathias",Bauer,1,31,12,1907,NULL,NULL
+"Anna Käthe",Damqvist,2,3,12,1907,55.680596600000,12.584671000000
+"Georg Emil",Aabøje,1,2,12,1907,55.668344900000,12.545983600000
+Antonia,Berghold,2,13,12,1907,NULL,NULL
+Christen,Dahl,1,31,12,1907,NULL,NULL
+Aage,Jørgensen,1,18,12,1907,55.682117200000,12.564139700000
+"Josefine Margrethe",Berg,2,28,12,1907,55.670714200000,12.558673000000
+"Niels Andersen",Andreasen,1,6,12,1907,55.696054300000,12.546456600000
+"Carla Frederikke",Aarup,2,7,12,1907,NULL,NULL
+"Thomas Johannes",Dandanell,1,2,12,1907,55.690202400000,12.571644600000
+"Jean Valdemar",Aumont,1,5,12,1907,55.680143100000,12.590558700000
+"Andreas Hansen",Andreasen,1,5,12,1907,55.690915100000,12.554999800000
+"Andreas Kristein",Andreasen,1,15,12,1907,NULL,NULL
+"Elisabeth Petrine",Dencker,2,2,12,1907,NULL,NULL
+"Andreas Marinus",Andreasen,1,16,12,1907,55.673114800000,12.558880900000
+"Søren Jensen",Dahl,1,7,12,1907,NULL,NULL
+Povel,Abrahamsen,1,7,12,1907,NULL,NULL
+"Christian Hugo Johannes",Nellemose,1,31,12,1907,NULL,NULL
+"Ingeborg Antonie Johanne",Andreasen,2,18,12,1907,NULL,NULL
+"Amanda Elisabet",Adolfson,2,1,12,1907,55.678219000000,12.576623300000
+"Sophus Johannes",Aagaard,1,4,12,1907,55.669961200000,12.550037300000
+"Hertha Marie Johanne",Adsersen,2,12,12,1907,NULL,NULL
+"Alexandra Dagmar",Arnholtz,2,4,12,1907,55.705329600000,12.577696700000
+Gudrun,Arenholt,2,18,12,1907,55.684267100000,12.570478400000
+"Laust Jensen",Agerholm,1,13,12,1907,55.684699300000,12.582862900000
+"Jens Peter",Absalonsen,1,12,12,1907,55.672646000000,12.557887400000
+"Henrik Christian Frederik",Danielsen,1,10,12,1907,55.695867500000,12.572963500000
+"Fanny Maren Jensine",Aistrup,2,3,12,1907,NULL,NULL
+Jens,Danielsen,1,13,12,1907,55.672338400000,12.554216500000
+"Gudrun Johanne Marie",Ahrents,2,15,12,1907,55.696201100000,12.546288300000
+"Lauritz Gotfred",Andreasen,1,6,12,1907,55.682502400000,12.580250400000
+"Juliane Anna Dagmar",Fischer,2,28,12,1907,NULL,NULL
+"Niels Christian Axel",Andreasen,1,2,12,1907,NULL,NULL
+"Meier Fischel",Dichman,1,18,12,1907,55.681902200000,12.573905400000
+Anton,Jensen,1,6,12,1907,55.682502400000,12.580250400000
+"Jens Christian",Christensen,1,19,12,1907,55.680477800000,12.581028000000
+"Ingeborg Hansine Vilhelmine Petersen",Dillonaier,2,10,12,1907,55.664391800000,12.502899700000
+"Ingeborg Hansine Vilhelmine Petersen",Dillonaier,2,20,12,1907,NULL,NULL
+"Alma Alvilda",Bergqvist,2,10,12,1907,55.680809700000,12.564136100000
+"Edvin Seymour",Donovan,1,11,12,1907,55.698664400000,12.587153500000
+"Carlo Emanuel Thorvald",Albech,1,11,12,1907,55.672546100000,12.593671700000
+"Villiam Holger",Albeck,1,17,12,1907,NULL,NULL
+"Bodil Sofie Christine",Jensen,2,4,12,1907,55.677911900000,12.567275700000
+"Axel Conrad",Holtz,1,13,12,1907,NULL,NULL
+"Carl Sofus",Jensen,1,12,12,1907,NULL,NULL
+Emma,Arvidsson,2,15,12,1907,NULL,NULL
+Caroline,Jensen,2,7,12,1907,55.679827100000,12.584794200000
+"Cathrine Marie",Andersen,2,10,12,1907,55.695371700000,12.543511500000
+"James Albert",Dovley,1,4,12,1907,NULL,NULL
+"Inger Marie",Christensen,2,5,12,1907,55.678083600000,12.534860200000
+"Julius Niels Peter",Christensen,1,20,12,1907,NULL,NULL
+"Marie Antonette",Christensen,2,3,12,1907,NULL,NULL
+"Jørgen Johannes",Didriksen,1,16,12,1907,55.702233300000,12.581861100000
+"Ester Malkina",Andersson,2,2,12,1907,NULL,NULL
+"Thora Martine",Christensen,2,20,12,1907,NULL,NULL
+"Charles Valdemar",Jensen,1,27,12,1907,NULL,NULL
+"Marie Adolfine Wilhelmine Theodorine",Bargatz,2,9,12,1907,NULL,NULL
+"Mette Marie",Andersen,2,18,12,1907,55.698067400000,12.543764900000
+Rasmus,Due,1,3,12,1907,55.690636200000,12.558288700000
+"Rasmine Berthine",Andersen,2,3,12,1907,55.680434100000,12.573248800000
+"Thorvald Emil",Due,1,15,12,1907,55.676984200000,12.570280900000
+"Jens Madsen",Dueholm,1,17,12,1907,55.671303700000,12.593152800000
+Sofus,Andersen,1,6,12,1907,NULL,NULL
+"Georg Emil",Hullstrøm,1,3,12,1907,NULL,NULL
+"Viggo Christian Nicolaj",Andreasen,1,12,12,1907,55.666941900000,12.547723600000
+"Jenny Petrea Mikkelsen",Hvid,2,2,12,1907,NULL,NULL
+Harald,Jensen,1,11,12,1907,NULL,NULL
+"Gustaf Lorentz",Björklund,1,3,12,1907,NULL,NULL
+"Signe Martha",Bærentsen,2,9,12,1907,NULL,NULL
+"Johanne Hansine Oline",Berg,2,28,12,1907,NULL,NULL
+"Clara Nielsen",Dybbro,2,12,12,1907,55.670639900000,12.562888300000
+Oluf,Dahlgreen,1,15,12,1907,55.677961500000,12.567108100000
+"Ingeborg Nikoline Mathilde Nilsine Vilhelmine",Arndt,2,5,12,1907,55.673114800000,12.558880900000
+"Ebba Ulrikka",Albin,2,3,12,1907,NULL,NULL
+"Inger Marie",Anesen,2,4,12,1907,55.685264900000,12.567927600000
+Magnus,Bløndahl,1,24,12,1907,55.682973100000,12.572972800000
+"Hermann Christian",Anker,1,23,12,1907,55.676290100000,12.573560400000
+"Hermann Christian",Anker,1,20,12,1907,55.672803200000,12.551909700000
+"Carl Gottfried Hellmuth",Jahn,1,13,12,1907,55.695027500000,12.548031500000
+"Ove Hans Jørgen Hansen",Dyrborg,1,3,12,1907,55.668851800000,12.552599400000
+Mero,Jerrueci,1,14,12,1907,55.678321400000,12.568489300000
+"Hjalmer Christian Axel",Brun,1,14,12,1907,NULL,NULL
+"Johannes Wiedewelt",Dahlstrøm,1,16,12,1907,55.698188700000,12.543268500000
+"Maren Margrethe",Jensen,2,4,12,1907,NULL,NULL
+"Ellen Kirstine",Dyring,2,2,12,1907,55.665918600000,12.544798000000
+"Ernst Edvard Josef Jørgensen",Düring,1,10,12,1907,NULL,NULL
+"Otto Carl August",Düsing,1,6,12,1907,NULL,NULL
+"Morten Linius Mortensen",Dyrgaard,1,27,12,1907,55.689828000000,12.563774000000
+"Ejner Vilhelm",Børglum,1,16,12,1907,NULL,NULL
+"Ejner Vilhelm",Børglum,1,5,12,1907,NULL,NULL
+"Axel Viggo Villiam",Christoffersen,1,18,12,1907,NULL,NULL
+"Marie Nielsine",Jensen,2,4,12,1907,NULL,NULL
+Marius,Jensen,1,27,12,1907,55.704184400000,12.590024900000
+"Martha Kirstine",Jensen,2,3,12,1907,NULL,NULL
+"Ejler Henrik Juel",Anthon,1,3,12,1907,55.668549300000,12.544504000000
+"Frederik Ferdinand",Clausen,1,2,12,1907,NULL,NULL
+"Ivar Valdemar",Clausen,1,6,12,1907,55.678838300000,12.588155600000
+"Olga Sophie Christine",Jensen,2,1,12,1907,NULL,NULL
+"Olga Barnkop",Jensen,2,6,12,1907,NULL,NULL
+"Ove Immanuel",Jensen,1,17,12,1907,NULL,NULL
+"Ove Immanuel",Jensen,1,23,12,1907,NULL,NULL
+Ingvald,Engelbrethsen,1,2,12,1907,55.680524100000,12.580415000000
+"Emma Sunneva Jakobine",Carlsen,2,1,12,1907,NULL,NULL
+"Petra Rosaura",Frei,2,13,12,1907,NULL,NULL
+"Ketty Cathrine",Fritze,2,26,12,1907,NULL,NULL
+"Hans Jacob",Larsen,1,7,12,1907,NULL,NULL
+"Hans Vilhelm",Larsen,1,18,12,1907,NULL,NULL
+"Clara Emilie Jensine",Christensen,2,13,12,1907,NULL,NULL
+Dorthea,Christensen,2,3,12,1907,NULL,NULL
+Lars,Madsen,1,13,12,1907,NULL,NULL
+"Karen Marie Juliane",Larsen,2,13,12,1907,NULL,NULL
+"Margrethe Emilie Thora",Madsen,2,3,12,1907,NULL,NULL
+"Heribert Francois",Kriegel,3,30,12,1907,NULL,NULL
+"Heribert Francois",Kriegel,3,10,12,1907,NULL,NULL
+"Ella Hansine",Krogh,2,1,12,1907,NULL,NULL
+"Kaia Alvilda Eleonora",Engkebøll,2,23,12,1907,NULL,NULL
+"Jens Peter",Carlsen,1,2,12,1907,NULL,NULL
+"Ingrid Vilhelmine Marie",Carlsen,2,11,12,1907,NULL,NULL
+"Hildur Marie",Holmer,2,5,12,1907,NULL,NULL
+"Maren Kristine",Larsen,2,6,12,1907,NULL,NULL
+"Kaim Borochow",Gordon,1,21,12,1907,NULL,NULL
+"Kristian Friedrich",Kröger,1,28,12,1907,NULL,NULL
+"Anna Marie",Kyster,2,3,12,1907,55.684807800000,12.571806600000
+"Flora Marie",Eriksen,2,5,12,1907,NULL,NULL
+"Ida Carolina",Hovila,2,2,12,1907,NULL,NULL
+"Hedevig Alexandra",Ingvorsen,2,1,12,1907,NULL,NULL
+"Ely Astrid",Jochumsen,2,4,12,1907,NULL,NULL
+"Anna Cecilie",Høg,2,5,12,1907,55.685125800000,12.586029400000
+"Christian Frederik",Hansen,1,31,12,1907,NULL,NULL
+Christine,Hansen,2,23,12,1907,NULL,NULL
+"Ellen Marie",Hansen,2,1,12,1907,NULL,NULL
+Thora,Høy,2,9,12,1907,NULL,NULL
+"Harald Emil",Christiansen,1,5,12,1907,NULL,NULL
+"Henry Volf",Levin,1,5,12,1907,NULL,NULL
+"Agnes Ida Frederikke",Fogh,2,20,12,1907,NULL,NULL
+"Rasmine Caroline",Laustrup,2,2,12,1907,55.678200800000,12.588417400000
+"Willi Albert Lebrecht",Günther,1,11,12,1907,NULL,NULL
+"Kai Guldbrandsen",Gøtzsche,1,5,12,1907,NULL,NULL
+Anders,Larsson,1,16,12,1907,NULL,NULL
+"Ellen Edith",Evers,2,2,12,1907,NULL,NULL
+"Alfred Bernhard",Hartmann,1,13,12,1907,NULL,NULL
+"Carl Christian",Larsen,1,17,12,1907,NULL,NULL
+"Peter Nicolaj",Madsen,1,5,12,1907,NULL,NULL
+"Caroline Jensine Vilhelmine",Larsen,2,1,12,1907,NULL,NULL
+"Herman Carl Holger",Hansen,1,19,12,1907,NULL,NULL
+Jalmar,Laaksonen,1,19,12,1907,NULL,NULL
+"Ejnar Schack Jørgensen",Lysberg,1,10,12,1907,NULL,NULL
+"Ingeborg Hansine",Lynggaard,2,20,12,1907,NULL,NULL
+"Ingeborg Hansine",Lynggaard,2,7,12,1907,NULL,NULL
+Bernt,Løfman,1,18,12,1907,NULL,NULL
+"Rosa Alexandra Eugenia",Lövgreen,2,5,12,1907,NULL,NULL
+"Adolf Ludvig",Henriksen,1,4,12,1907,NULL,NULL
+"Adolf Ludvig",Henriksen,1,13,12,1907,NULL,NULL
+"Martin Nielsen",Foged,1,20,12,1907,NULL,NULL
+"Anna Kristine Ingejerdia",Hansen,2,12,12,1907,NULL,NULL
+"Marie Christine",Petersen,2,3,12,1907,NULL,NULL
+"Yelva Dagmar Marie",Olsen,2,2,12,1907,NULL,NULL
+"Hilda Georgine Kjerulf",Hansen,2,31,12,1907,NULL,NULL
+"Anna Marie Oktavia",Olsen,2,27,12,1907,NULL,NULL
+Niels,Walberg,1,18,12,1907,NULL,NULL
+"Hans Peter",Nielsen,1,11,12,1907,NULL,NULL
+"Marius Sørensen",Mølgaard,1,2,12,1907,NULL,NULL
+"Johanne Sofie",Hansen,2,3,12,1907,55.683214500000,12.572418600000
+"Axel Theodor",Møller,1,13,12,1907,55.681486100000,12.562509100000
+"Alfrida Carolina Betty",Månsson,2,6,12,1907,55.678539900000,12.587499400000
+"Emil Albert Emanuel",Lüttjohann,1,19,12,1907,55.680914100000,12.583180100000
+"Jens Aage Richardt Lindorff",Larsen,1,6,12,1907,NULL,NULL
+"Hans Emil",Møller,1,6,12,1907,55.697712900000,12.582680100000
+"Sophus Hermann",Hansen,1,19,12,1907,NULL,NULL
+"Anna Mathilde Jacobine",Jacobsen,2,9,12,1907,NULL,NULL
+"Laura Hertha Christine",Larsen,2,4,12,1907,NULL,NULL
+"Karen Alma Amanda",Petersen,2,3,12,1907,55.679172300000,12.591809200000
+"Karen Lovise",Petersen,2,3,12,1907,NULL,NULL
+"Niels Peter",Larsen,1,5,12,1907,NULL,NULL
+"Karen Rasmine",Petersen,2,7,12,1907,55.680742500000,12.583466200000
+"Magdalene Ingeborg Mary Thonning",Madsen,2,6,12,1907,NULL,NULL
+"Petra Sophie",Madsen,2,5,12,1907,NULL,NULL
+"Lauritz Christian",Petersen,1,5,12,1907,NULL,NULL
+"Jens Aage Richard",Mikkelsen,1,31,12,1907,NULL,NULL
+"Nelly Marie",Markussen,2,10,12,1907,NULL,NULL
+"Legine Kirstine",Martin,3,1,12,1907,NULL,NULL
+"Selma Melanie",Matthes,2,1,12,1907,NULL,NULL
+"Jensine Jørgine",Iversen,2,4,12,1907,NULL,NULL
+Louis,Svendsen,1,18,12,1907,NULL,NULL
+"Ingeborg Methea Henriette",Sørensen,2,6,12,1907,NULL,NULL
+"Niels Peter Jens",Sørensen,1,9,12,1907,NULL,NULL
+"Henry Vilhelm",Sørensen,1,10,12,1907,NULL,NULL
+"Voldborg Jensine",Sørensen,3,30,12,1907,NULL,NULL
+"Astrid Margrethe",Eisen,2,16,12,1907,NULL,NULL
+"Kama Nielsine Severine",Sørensen,2,4,12,1907,NULL,NULL
+Theodora,Ekdahl,2,3,12,1907,NULL,NULL
+"Marie Antoinette Faccou",Sørensen,2,4,12,1907,NULL,NULL
+"Anna Jacobine",Nielsen,2,12,12,1907,NULL,NULL
+"Nicoline Kristine",Christensen,2,2,12,1907,NULL,NULL
+"Bodil Margrethe",Nielsen,2,9,12,1907,NULL,NULL
+"Elna Marie",Nielsen,2,16,12,1907,NULL,NULL
+"Peter Jepsen",Møller,1,16,12,1907,NULL,NULL
+"Rigmor Caroline Christine",Markussen,2,18,12,1907,NULL,NULL
+"Christian Viktor Emanuel",Hein,1,13,12,1907,NULL,NULL
+"Frederikke Caroline",Christiansen,2,11,12,1907,NULL,NULL
+"Jensine Albrechtine Frederikke",Nielsen,2,5,12,1907,NULL,NULL
+"Ingeborg Sofie",Nielsen,2,2,12,1907,NULL,NULL
+Anni,Pålsson,2,20,12,1907,55.685016600000,12.570298500000
+"Inger Augusta Marie",Wulff,2,6,12,1907,NULL,NULL
+"Maren Kirstine Dorthea Emilie",Nielsen,2,7,12,1907,NULL,NULL
+"Peter Christian Magnus",Rasmussen,1,20,12,1907,NULL,NULL
+"Niels Peter",Christiansen,1,3,12,1907,NULL,NULL
+"Peter Frederik",Villumsen,1,15,12,1907,NULL,NULL
+"Caroline Nikoline Jensine",Hansen,2,4,12,1907,NULL,NULL
+"Christian Anton",Andersen,1,24,12,1907,NULL,NULL
+"Lydia Margrethe",Andersen,2,4,12,1907,NULL,NULL
+"Vilhelmine Christine",Wittenkamp,2,2,12,1907,NULL,NULL
+Agnes,Poulsen,2,13,12,1907,NULL,NULL
+"Christopher Marinus",Hansen,1,5,12,1907,NULL,NULL
+"Georg Boertmann Mohr",Voss,1,6,12,1907,NULL,NULL
+"Ane Cecilie Petersen",Gylling,2,2,12,1907,NULL,NULL
+"Martin Christian Vilhelm Serslev",Nielsen,1,31,12,1907,NULL,NULL
+"Julie Nielsine Georgine",Johnsen,2,1,12,1907,NULL,NULL
+"Niels Johannes",Nielsen,1,6,12,1907,NULL,NULL
+"Carl Alexander",Bahnsen,1,4,12,1907,NULL,NULL
+"Theodor Martin Julius",Petersen,1,20,12,1907,NULL,NULL
+"Ellen Christine Hulda",Pedersen,2,2,12,1907,NULL,NULL
+"Anna Beata",Bergqvist,2,5,12,1907,55.684791900000,12.585178600000
+Abram,Epstein,1,16,12,1907,NULL,NULL
+Abram,Epstein,1,16,12,1907,NULL,NULL
+Boruch,Epstein,3,16,12,1907,NULL,NULL
+Ester,Epstein,2,16,12,1907,NULL,NULL
+Samuel,Epstein,1,16,12,1907,NULL,NULL
+"Peter Halvor",Olsen,1,20,12,1907,NULL,NULL
+Moritz,Feinberg,1,7,12,1907,NULL,NULL
+"Georg Alexander",Felber,1,31,12,1907,NULL,NULL
+"Anders Peter",Johansen,1,NULL,12,1907,NULL,NULL
+"Agnes Margrethe",Pedersen,2,4,12,1907,NULL,NULL
+Svend,Nielsen,1,23,12,1907,NULL,NULL
+"Harry Christian",Jensen,1,10,12,1907,NULL,NULL
+"Christian Peter",Petersen,1,7,12,1907,NULL,NULL
+"Greta Lisa",Orre,2,1,12,1907,NULL,NULL
+"Alfrede Christine",Pedersen,2,14,12,1907,NULL,NULL
+"Ole Jacob",Ottesen,1,17,12,1907,55.676932300000,12.588537800000
+"Olga Karoline",Pedersen,2,7,12,1907,NULL,NULL
+"Mette Katrine Larsine Karoline",Toft,2,6,12,1907,NULL,NULL
+Oline,Petersen,2,16,12,1907,NULL,NULL
+"Oline Christine",Petersen,2,7,12,1907,NULL,NULL
+"Johanne Margrethe Petrea",Overgaard,2,16,12,1907,NULL,NULL
+"Knut August Hjalmar",Carlsson,1,15,12,1907,NULL,NULL
+"Hartvig Johannes",Hoffmann,1,13,12,1907,NULL,NULL
+"Helena Sofie",Stenfoss,2,14,12,1907,55.677085800000,12.588442400000
+"Anna Caroline",Vahlgren,2,2,12,1907,55.675085400000,12.596926500000
+"Hulda Marie",Vilhelmsen,2,7,12,1907,NULL,NULL
+Immanuel,Paulsen,1,4,12,1907,NULL,NULL
+"Alma Sophia",Petersen,2,2,12,1907,55.681652600000,12.585637900000
+"Oline Rasmine Amalie",Poulsen,2,5,12,1907,NULL,NULL
+Kirstine,Sandström,2,1,12,1907,55.681237200000,12.578617700000
+"Jens Anders Sørensen",Jensen,1,3,12,1907,NULL,NULL
+"Ellen Anne Marie",Nyboe,2,6,12,1907,NULL,NULL
+"Olga Anine",Jensen,2,20,12,1907,NULL,NULL
+"Rudolf Joakim Vilhelm",Jensen,1,18,12,1907,NULL,NULL
+"Valdemar Edvard August",Jensen,1,19,12,1907,NULL,NULL
+Wladislaw,Kaminski,1,7,12,1907,NULL,NULL
+Israel,Katz,1,12,12,1907,NULL,NULL
+Otto,Kettmann,1,5,12,1907,NULL,NULL
+"Ane Kirstine",Petersen,2,2,12,1907,NULL,NULL
+"Oscar Ingemann",Rasmussen,1,28,12,1907,NULL,NULL
+"Ludvig Meier",Messengisser,1,6,12,1907,NULL,NULL
+"Mads Peter Marius",Salling,1,4,12,1907,NULL,NULL
+"Karen Camilla",Østerlud,2,8,12,1907,NULL,NULL
+"Frederik Ferdinand",Petersen,1,9,12,1907,NULL,NULL
+"Mary Theodora",Delang,2,5,12,1907,55.684350700000,12.590086000000
+"Christian Lassøe",Suhr,1,19,12,1907,NULL,NULL
+Aage,Beck,1,17,12,1907,NULL,NULL
+Markus,Beck,1,30,12,1907,NULL,NULL
+Markus,Beck,1,28,12,1907,NULL,NULL
+"Astrid Hanne Cathinga",Brandrup,2,6,12,1907,55.692998300000,12.543219000000
+"Carl August",Brandt,1,10,12,1907,NULL,NULL
+"Elisabeth Rasmine",Brandt,2,4,12,1907,NULL,NULL
+"Anna Sofie",Håkansson,2,12,12,1907,55.688606900000,12.557658500000
+"Johannes Frederik",Eilersen,1,1,12,1907,NULL,NULL
+"Niels Henning Sabro",Bruhn,1,3,12,1907,55.671901100000,12.552392000000
+"Anton Peter Frederik",Hansen,1,3,12,1907,55.689974700000,12.563998100000
+"Julius Harald",Andersen,1,17,12,1907,NULL,NULL
+"Alma Johanne Marie",Bruun,2,6,12,1907,55.699237300000,12.541176900000
+"Anine Frederikke",Andersen,2,31,12,1907,NULL,NULL
+"Alma Emilie",Michaelsen,2,1,12,1907,NULL,NULL
+Andriette,Carlsson,2,1,12,1907,NULL,NULL
+"Bror Emil Mogenssen",Träff,1,13,12,1907,55.666114100000,12.548663400000
+"Augusta Josephine",Hansen,2,19,12,1907,55.691830800000,12.556381800000
+"Arvida Christine Jernild",Brodahl,2,6,12,1907,55.682551800000,12.588602200000
+Hans,Brodersen,1,1,12,1907,NULL,NULL
+"Jørgen Magnus",Tykén,1,5,12,1907,NULL,NULL
+"Carl Adolf",Christensen,1,2,12,1907,NULL,NULL
+"Laura Marie",Andersen,2,31,12,1907,NULL,NULL
+"Ludvig Valdemar",Andersson,1,21,12,1907,NULL,NULL
+"Magnus Lauritz",Andersen,1,15,12,1907,NULL,NULL
+"Harry Evald Heinrich",Bruun,1,22,12,1907,55.684941500000,12.569777600000
+"Erik Clausen",Hansen,1,12,12,1907,NULL,NULL
+"Heinrich Fernando",Frisenette,1,19,12,1907,NULL,NULL
+"Heinrich Fernando",Frisenette,1,11,12,1907,NULL,NULL
+"Bertha Louise Sofie Emilie",Hansen,2,2,12,1907,55.686247500000,12.554470400000
+"Bertha Marie",Hansen,2,1,12,1907,55.697368900000,12.584026300000
+Søren,Mikkelsen,1,5,12,1907,NULL,NULL
+"Johan Ernst",Hess,1,6,12,1907,NULL,NULL
+Christian,Bysted,1,4,12,1907,NULL,NULL
+"Anders Peter",Andersen,1,3,12,1907,55.698503200000,12.552975500000
+"Anders Søren",Andersen,1,3,12,1907,55.684328600000,12.558661900000
+"Johannes Gustav",Haas,1,11,12,1907,NULL,NULL
+"Alfred Johan",Christiansen,1,19,12,1907,NULL,NULL
+"Hans Peter Carl Marius",Mogensen,1,2,12,1907,NULL,NULL
+"Anders Alfred",Frøhlich,1,18,12,1907,NULL,NULL
+Emil,Burckhardt,1,19,12,1907,55.690277300000,12.559866800000
+"Niels Møller",Andersen,1,2,12,1907,NULL,NULL
+"Fritz Christian",Hansen,1,18,12,1907,NULL,NULL
+Kirstine,Hansen,2,7,12,1907,55.690993400000,12.563832100000
+"Carl Christian Johannes",Hansen,1,4,12,1907,NULL,NULL
+Arnuss,Bernath,1,16,12,1907,NULL,NULL
+Karl,Nielsen,1,23,12,1907,NULL,NULL
+"Emilie Kirstine Frederikke",Crawack,2,2,12,1907,55.673146300000,12.575293300000
+"Carl Christian",Nielsen,1,18,12,1907,NULL,NULL
+"Frida Sofie",Frederiksen,2,4,12,1907,NULL,NULL
+"Niels Schiern",Frederiksen,1,30,12,1907,NULL,NULL
+"Carl Valdemar",Christiansen,1,2,12,1907,NULL,NULL
+Vilhelm,Gade,1,21,12,1907,55.697162400000,12.544817000000
+"Jørgen Alexander Jørgensen",Fastrup,1,10,12,1907,NULL,NULL
+"Sigfred Christian",Edelby,1,2,12,1907,NULL,NULL
+"Aage Charles Vilhelm",Benzin,1,4,12,1907,55.659796400000,12.608053500000
+"Alma Lorenze",Christensen,2,3,12,1907,NULL,NULL
+"Ellen Marie",Christiansen,2,6,12,1907,NULL,NULL
+"Ellen Marie",Christiansen,2,5,12,1907,NULL,NULL
+"Carl  Frederik",Nielsen,1,6,12,1907,NULL,NULL
+"Carl Skovby",Nielsen,1,28,12,1907,NULL,NULL
+"Ane Marie",Christensen,2,20,12,1907,NULL,NULL
+Caroline,Andersen,2,1,12,1907,NULL,NULL
+"Ingrid Christine",Christiansen,2,5,12,1907,NULL,NULL
+"Christian Albert",Andersen,1,13,12,1907,NULL,NULL
+"Meniche Augusta",Christiansen,2,5,12,1907,NULL,NULL
+"Anna Margrethe",Hansen,2,2,12,1907,55.697408700000,12.575644600000
+"Clausine Cathrine",Andersen,2,2,12,1907,55.691415000000,12.555758500000
+"Ejner Henrik Vilhelm",Andersen,1,18,12,1907,NULL,NULL
+"Emma alfrida",Christensen,2,1,12,1907,NULL,NULL
+"Holger Johannes Peter",Bjerringfeldt,1,24,12,1907,NULL,NULL
+"Holger Johannes Peter",Bjerringfeldt,1,2,12,1907,NULL,NULL
+"Peter Jensen",Christiansen,1,5,12,1907,NULL,NULL
+"Knud Aage",Gleerup,1,9,12,1907,55.673114800000,12.558880900000
+"Ella Oda",Andersen,2,16,12,1907,55.701659200000,12.581650800000
+"Ida Mariane",Christensen,2,10,12,1907,NULL,NULL
+"Carla Lisa",Holmgren,2,24,12,1907,NULL,NULL
+"Hansine Cecilie",Christensen,2,2,12,1907,NULL,NULL
+"Elvira Maria",Andersson,2,6,12,1907,NULL,NULL
+"Emil Frederik Julius",Andersen,1,31,12,1907,55.674050500000,12.558301000000
+"Emil Theodor Lassen",Andersen,1,6,12,1907,NULL,NULL
+"Emma Sofie Johanne",Andersen,2,17,12,1907,NULL,NULL
+"Frands Oskar",Andersen,1,21,12,1907,NULL,NULL
+"Henrik Manfred",Christensen,1,3,12,1907,NULL,NULL
+"Adolf Otto v",Elling,1,2,12,1907,NULL,NULL
+"Jens Frederik Christoffer",Christensen,1,18,12,1907,NULL,NULL
+"Jens Frederik Christoffer",Christensen,1,31,12,1907,NULL,NULL
+"Holger Martin",Gottliebsen,1,1,12,1907,NULL,NULL
+"Viktor Albert Carl",Clausen,1,7,12,1907,NULL,NULL
+"Viktor Albert Carl",Clausen,1,6,12,1907,NULL,NULL
+"Vilhelmine Caroline",Clausen,2,1,12,1907,NULL,NULL
+"Anna Blondine",Elmgren,2,2,12,1907,NULL,NULL
+"Oskar ell. Othar Anton",Hegner,1,4,12,1907,55.690636200000,12.558288700000
+"Carl Christian",Emilius,1,4,12,1907,NULL,NULL
+"Carl Christian",Emilius,1,23,12,1907,NULL,NULL
+"Johan Daniel",Christensen,1,28,12,1907,NULL,NULL
+"Carl Emil Heinrick",Hein,1,13,12,1907,NULL,NULL
+Jørgen,Christensen,1,20,12,1907,55.690359800000,12.559989000000
+"Karen Andrea",Ebbesen,2,4,12,1907,NULL,NULL
+"Albert Marius",Berthelsen,1,2,12,1907,NULL,NULL
+"Niels Michael",Clausen,1,7,12,1907,NULL,NULL
+Cathrine,Berthelsen,2,2,12,1907,NULL,NULL
+"Karen Christine",Christensen,2,12,12,1907,55.692076500000,12.566757600000
+Thorhallur,Helgason,1,3,12,1907,NULL,NULL
+Rasmus,Andersen,1,11,12,1907,NULL,NULL
+"Amalie Marie",Eriksen,2,4,12,1907,NULL,NULL
+"Anna Laura Theodora Marie",Bilsted,2,4,12,1907,NULL,NULL
+"Sara Josefine",Andersen,2,17,12,1907,NULL,NULL
+Hjalmar,Andersen,1,15,12,1907,NULL,NULL
+"Karl Hjalmar",Grek,1,21,12,1907,55.682383600000,12.576773900000
+Thorvald,Andersen,1,18,12,1907,NULL,NULL
+"Veronica Johanne",Andersen,2,5,12,1907,NULL,NULL
+"Viggo Emanuel",Andersen,1,13,12,1907,NULL,NULL
+"Dorthea Caroline",Nielsen,2,21,12,1907,NULL,NULL
+"Martin Emil",Erlandsen,1,24,12,1907,NULL,NULL
+"Einar Bernhard Vilhelm",Nielsen,1,4,12,1907,NULL,NULL
+"Niels Katrinius Christian",Baadsgaard,1,23,12,1907,55.671401500000,12.558060500000
+"Eleonora Emilie",Nielsen,2,12,12,1907,NULL,NULL
+"Alfred Sophus",Bagge,1,3,12,1907,55.689367600000,12.564487900000
+"Ludvig Holger Richard",Bjerregaard,1,3,12,1907,NULL,NULL
+"Frits Peter Christian",Hesselberg,1,12,12,1907,NULL,NULL
+"Johan Harald",Hesselberg,1,9,12,1907,NULL,NULL
+"Sofus Anton",Eriksen,1,27,12,1907,NULL,NULL
+"Jens Adolf",Gudmandson,1,12,12,1907,55.688501700000,12.561708500000
+Arni,Gudmundsson,1,13,12,1907,NULL,NULL
+"Franz Wenzel",Bartosch,1,2,12,1907,NULL,NULL
+"Clara Rosa",Bauerfeind,2,2,12,1907,55.690363800000,12.558049500000
+"Clara Rosa",Bauerfeind,2,24,12,1907,NULL,NULL
+"Thyra Caroline Amalie",Clemmensen,2,3,12,1907,55.681334600000,12.569555000000
+"Niels Johannes",Henriksen,1,11,12,1907,NULL,NULL
+"Jens Peter",Henriksen,1,4,12,1907,55.687710100000,12.557446900000
+"Jensine Marie",Henriksen,2,4,12,1907,NULL,NULL
+"Hermand Bernhard Crone",Fagerlund,1,5,12,1907,NULL,NULL
+"Gustafva Adolfina Mathilde",Collin,2,2,12,1907,NULL,NULL
+Sten,Gustafsson,1,4,12,1907,NULL,NULL
+"Camilla Christiane",Fich,2,11,12,1907,NULL,NULL
+Anna,Gwisdalla,2,7,12,1907,NULL,NULL
+Michael,Gwisdalla,1,9,12,1907,NULL,NULL
+"Hans Axel Back",Nielsen,1,11,12,1907,NULL,NULL
+Christiane,Johansen,2,20,12,1907,55.698614700000,12.576127500000
+"Holger Alfred Valdemar",Hansen,1,21,12,1907,NULL,NULL
+"Dagmar Johanne",Johansen,2,17,12,1907,55.691008500000,12.555531600000
+"Hans Christian",Hansen,1,3,12,1907,NULL,NULL
+"Hans Christian",Hansen,1,23,12,1907,NULL,NULL
+"Hans Christian",Hansen,1,12,12,1907,NULL,NULL
+"Karl Oskar",Forsgren,1,1,12,1907,55.691448500000,12.573564700000
+"Martha Marie Mathilde",Hansen,2,4,12,1907,55.691707700000,12.563169800000
+"Christiane Marie",Olsen,2,23,12,1907,NULL,NULL
+"Marie Christine",Jensen,2,12,12,1907,NULL,NULL
+"Lupko Willem",Schortinghuis,3,14,12,1907,55.677945900000,12.575615500000
+Viggo,Jensen,1,3,12,1907,55.713502000000,12.573637100000
+"Marie Dorthe",Jensen,2,26,12,1907,NULL,NULL
+"Hans Alberg",Borg,1,12,12,1907,NULL,NULL
+Svend,Hansen,1,22,12,1907,NULL,NULL
+"Jacob Oskar",Hansen,1,21,12,1907,NULL,NULL
+"Heinrich Gottfried",Juch,1,2,12,1907,NULL,NULL
+"Ida Sylvia Amalie",Hansen,2,4,12,1907,NULL,NULL
+"Hulda Johanne Jensine Helena",Jensen,2,14,12,1907,NULL,NULL
+"Karen Christine Laurine",Borgstrøm,2,7,12,1907,NULL,NULL
+Viggo,Jensen,1,3,12,1907,NULL,NULL
+Villiam,Jensen,1,3,12,1907,55.690430400000,12.558033000000
+Martin,Jensen,1,8,12,1907,NULL,NULL
+"Anna Margrethe Dorothea",Born,2,5,12,1907,NULL,NULL
+"Jens Peter",Hansen,1,6,12,1907,55.698260000000,12.577472700000
+"Mathilde Frederikke",Jensen,2,3,12,1907,55.679908600000,12.567692900000
+"Niels Peter",Hansen,1,22,12,1907,NULL,NULL
+"Anna Bine",Johansen,2,3,12,1907,55.687721000000,12.557956900000
+"Anna Kirstine",Johansen,2,4,12,1907,55.690085000000,12.558123500000
+"Ingeborg Kirstine",Hansen,2,2,12,1907,NULL,NULL
+Christian,Jensen,1,30,12,1907,NULL,NULL
+"Sofus Christian",Jensen,1,31,12,1907,NULL,NULL
+"Sofus Gotfred",Jensen,1,5,12,1907,55.699536500000,12.541242300000
+"Anders Spor Jensen",Isaksen,1,2,12,1907,NULL,NULL
+Oline,Jensen,2,20,12,1907,55.684496100000,12.589608100000
+"Othilie Caroline Sofia",Jensen,2,2,12,1907,55.689759900000,12.558575700000
+"Axel Carl Christian",Clemmensen,1,27,12,1907,55.691106300000,12.555289800000
+"Jens Peter",Jensen,1,3,12,1907,NULL,NULL
+"Jens Peter",Jensen,1,3,12,1907,NULL,NULL
+"Jens Peter",Jensen,1,24,12,1907,NULL,NULL
+"Jon Olaj",Iversen,1,21,12,1907,NULL,NULL
+"Clara Augusta Ingeborg",Jessen,2,17,12,1907,NULL,NULL
+"Anna Kirstine Sophie",Jensen,2,4,12,1907,NULL,NULL
+"Hansine Marie",Jensen,2,16,12,1907,NULL,NULL
+"Harald Anders",Jensen,1,1,12,1907,NULL,NULL
+"Thyra Cordelia",Jensen,2,16,12,1907,NULL,NULL
+"Anna Margrethe",Jensen,2,19,12,1907,55.689563100000,12.556615700000
+"Karne el. Karen Marie Hansine",Hansen,2,9,12,1907,NULL,NULL
+"Johanne Amalie",Jensen,2,5,12,1907,NULL,NULL
+"Johanne Amalie",Jensen,2,31,12,1907,NULL,NULL
+"Oline Jensine",Hansen,2,4,12,1907,NULL,NULL
+Helga,Jensen,2,7,12,1907,NULL,NULL
+"Engeline Laurine Cathrine",Johnsen,2,4,12,1907,NULL,NULL
+"Christian Magdalus",Jespersen,1,3,12,1907,NULL,NULL
+"Hjalmar Julius",Jensen,1,12,12,1907,55.690875700000,12.559524800000
+"Laura Caroline",Hansen,2,3,12,1907,NULL,NULL
+"Lauritz Christian",Hansen,1,12,12,1907,NULL,NULL
+Axel,Jacobsen,1,30,12,1907,NULL,NULL
+"Rasmus Bernhard Ejnar",Hansen,1,30,12,1907,NULL,NULL
+"Carl Frederik",Jensen,1,17,12,1907,NULL,NULL
+"Rasmus Peter Ole",Hansen,1,18,12,1907,NULL,NULL
+"Marie Andrea",Hansen,2,2,12,1907,NULL,NULL
+"Esben Peter",Jensen,1,30,12,1907,NULL,NULL
+"Ester Salome Andrea",Jensen,2,1,12,1907,NULL,NULL
+"Frederik Carl",Jensen,1,31,12,1907,NULL,NULL
+"Frederik Møller",Jensen,1,7,12,1907,NULL,NULL
+"Dagmar Karen Marie Jeanette",Jensen,2,5,12,1907,NULL,NULL
+Hulda,Jarvinen,2,2,12,1907,NULL,NULL
+"Karen Elisabeth Ingeborg",Jensen,2,3,12,1907,55.686138800000,12.555190100000
+"Aage Sejer Viggo Munsfeldt",Jensen,1,27,12,1907,NULL,NULL
+"Ludvig Peter Adolf",Jensen,1,10,12,1907,NULL,NULL
+"Mads Laurids",Jensen,1,3,12,1907,NULL,NULL
+"Alma Louise",Jensen,2,6,12,1907,NULL,NULL
+"Vilhelmine Dusine",Hansen,2,20,12,1907,NULL,NULL
+"Agnes Victoria",Jepsen,2,21,12,1907,NULL,NULL
+Anders,Jensen,1,31,12,1907,55.691008500000,12.555531600000
+"Carl Vilhelm",Jønsson,1,19,12,1907,NULL,NULL
+"Christian Alfred",Jensen,1,18,12,1907,NULL,NULL
+"Astrid Rasmine Margrethe",Jensen,2,4,12,1907,NULL,NULL
+"Christian Marius",Jensen,1,4,12,1907,NULL,NULL
+"Leo Gottlieb",Pfeiffer,1,31,12,1907,NULL,NULL
+"Hedvig Rosalie",Rydberg,2,2,12,1907,55.679156300000,12.582381100000
+"Ernst Olaf Rye",Larsen,1,21,12,1907,55.687170000000,12.546543500000
+"Amanda Christine Marie",Larsen,2,2,12,1907,55.688617600000,12.563278000000
+"Niels Kjær",Jørgensen,1,10,12,1907,NULL,NULL
+"Harald Dines",Johansen,1,19,12,1907,NULL,NULL
+Arthur,Martinsen,1,3,12,1907,55.691850000000,12.557854900000
+"Gertrud Petrine",Larsen,2,3,12,1907,55.688971000000,12.557421400000
+"Anna Hildegard Charlotte",Käll,2,6,12,1907,55.689017600000,12.558056300000
+"Adelheid Catinka Mary Vilhelmine",Larsen,2,2,12,1907,55.688167200000,12.557520200000
+"Agnes Nielsine Marie",Mathiesen,2,17,12,1907,NULL,NULL
+"Hanne Kirstine Marie",Larsen,2,3,12,1907,NULL,NULL
+"Anna Christine",Larsen,2,2,12,1907,55.700868000000,12.577692500000
+"August Frederik",Larsen,1,26,12,1907,55.686184600000,12.551097200000
+"Anna Oline Amanda",Larsen,2,4,12,1907,55.677599100000,12.567469600000
+"Juliane Frederikke",Køhnke,2,8,12,1907,NULL,NULL
+"Juliane Frederikke",Køhnke,2,15,12,1907,NULL,NULL
+"Johannes Christian","Johansen (Kl. Store Russer)",1,2,12,1907,NULL,NULL
+"Anna Marie",Larsen,2,3,12,1907,NULL,NULL
+"Carl Oscar",Larsen,1,6,12,1907,55.680923700000,12.582461700000
+"Paula Hansine",Jørgensen,2,15,12,1907,NULL,NULL
+"Lydia Kirstine Marie",Madsen,2,24,12,1907,NULL,NULL
+"Peder Christian Møller",Johansen,1,3,12,1907,55.690202400000,12.571644600000
+"Stella Augusta Karen Marie",Jørgensen,2,4,12,1907,NULL,NULL
+"Hertha Thora",Larsen,2,6,12,1907,NULL,NULL
+"Hjalmar Arrild Viktor",Larsen,1,21,12,1907,NULL,NULL
+Anton,Jørgensen,1,3,12,1907,NULL,NULL
+"Ellen Christine Hansine",Larsen,2,2,12,1907,55.691233800000,12.556375400000
+"Christian Jacob",Knudsen,1,4,12,1907,55.690454200000,12.558329400000
+"Christine Jørgine",Knudsen,2,3,12,1907,55.687797300000,12.553190700000
+"Emma Christine",Larsen,2,5,12,1907,55.699496900000,12.576772800000
+"Evardine Hansine Mathilde",Lund,2,1,12,1907,55.691213700000,12.578774200000
+"Emmy Elisabeth",Larsen,2,2,12,1907,55.703667400000,12.578969300000
+"Ingeborg Caroline",Stangerup,2,6,12,1907,NULL,NULL
+"Jørgen Peder",Larsen,1,31,12,1907,55.688306300000,12.561484800000
+"Christian Jørgen",Jørgensen,1,19,12,1907,NULL,NULL
+"Emilie Christina",Persson,2,6,12,1907,NULL,NULL
+"Ludvig Alfred",Larsen,1,10,12,1907,55.688501700000,12.561708500000
+"Ingeborg Mathilde",Lundberg,2,16,12,1907,NULL,NULL
+"Johanne Laura",Kjerrumgaard,2,5,12,1907,55.683781000000,12.563438100000
+"Johanne Laura",Kjerrumgaard,2,9,12,1907,NULL,NULL
+Jacob,Keiser,1,21,12,1907,NULL,NULL
+"Peter Jørgensen",Larsen,1,4,12,1907,NULL,NULL
+"Martine Eleonora",Larsen,2,2,12,1907,55.692680700000,12.555987900000
+"Ella Alfrida Amalie",Madsen,2,1,12,1907,NULL,NULL
+"Svend Aage",Lundgreen,1,21,12,1907,NULL,NULL
+Kretzenz,Kaiser,2,21,12,1907,NULL,NULL
+"Anna Christina",Lundqvist,2,6,12,1907,55.700351000000,12.540932000000
+Harald,Nielsen,1,18,12,1907,55.693481900000,12.547627200000
+Anna,Nielsen,2,1,12,1907,NULL,NULL
+"Olga Johanne",Michaelsen,2,5,12,1907,55.690915100000,12.554999800000
+"Oliver Christoffer Johan",Mikkelsen,1,2,12,1907,NULL,NULL
+"Sigrid Elisabeth",Larsson,2,6,12,1907,55.693048800000,12.551079000000
+"Anthon Jensinius",Nielsen,1,4,12,1907,55.702220100000,12.583007600000
+Anna,Nilsson,2,3,12,1907,55.685265200000,12.594007700000
+"Fanny Christiane Antonie",Jørgensen,2,7,12,1907,55.694499500000,12.549362900000
+Birthine,Olsen,2,4,12,1907,NULL,NULL
+Laurids,Knudsen,1,9,12,1907,55.689807800000,12.554798000000
+Carl,Olsen,1,8,12,1907,NULL,NULL
+"Thorvald Christian",Larsen,1,30,12,1907,NULL,NULL
+"Carl Georg Theodor",Olsen,1,16,12,1907,NULL,NULL
+"Johan Heinrich",Nielsen,1,11,12,1907,NULL,NULL
+"Jens Julius",Kalum,1,3,12,1907,55.689844200000,12.558191200000
+"Hilda Emilie",Jørgensen,2,12,12,1907,55.681797900000,12.561889100000
+"Antoinette Elisabeth Rosenørn de Lassen",Lund,2,3,12,1907,55.686369200000,12.582910800000
+"Victor Sigfred Vilhelm",Larsen,1,5,12,1907,NULL,NULL
+"Julie Marie",Jørgensen,2,3,12,1907,55.677039600000,12.538393200000
+"Maren Dagmar Charlotte Louise",Lyster,2,3,12,1907,55.686040200000,12.555452200000
+"Johanne Cecilie",Jørgensen,2,11,12,1907,NULL,NULL
+"Johanne Cecilie",Jørgensen,2,5,12,1907,NULL,NULL
+"Hans Christian",Jørgensen,1,24,12,1907,55.686996100000,12.566993500000
+"Henrik Gerner Ludvig",Lützhøft,1,14,12,1907,NULL,NULL
+"Poul Sigfred Christian",Lützhøft,1,31,12,1907,55.695479900000,12.545981000000
+"Ernst Gustav",Opitz,1,16,12,1907,NULL,NULL
+"Gudrun Martha Pouline",Olsen,2,5,12,1907,NULL,NULL
+"Christian Carl",Ludvigsen,1,3,12,1907,55.698890100000,12.541253100000
+"Ludvig Andreas",Nielsen,1,24,12,1907,NULL,NULL
+Jacob,Olsen,1,5,12,1907,NULL,NULL
+"Athalia Emma Camilla",Mortensen,2,2,12,1907,55.689708700000,12.575371300000
+"Birgitte Kirstine",Nielsen,2,20,12,1907,55.691130100000,12.563993300000
+Nielsine,Nielsen,2,10,12,1907,NULL,NULL
+"Carl Christian",Nielsen,1,19,12,1907,NULL,NULL
+"Carl Christian",Nielsen,1,11,12,1907,NULL,NULL
+"Ingeborg Anna Elisabeth Mary",Olsen,2,3,12,1907,NULL,NULL
+"Thora Johanne",Knudsen,2,13,12,1907,NULL,NULL
+"Johanne Elvira Anna Marie",Olsen,2,1,12,1907,NULL,NULL
+"Olga Camilla Ansine",Nielsen,2,12,12,1907,NULL,NULL
+"Christian Fred. Vilh. Vald. Gustav",Nielsen,1,12,12,1907,55.687139300000,12.548252300000
+"Otto Frederik",Nielsen,1,7,12,1907,NULL,NULL
+"Jørgen Carl",Mortensen,1,4,12,1907,NULL,NULL
+"Karen Christine",Olsen,2,4,12,1907,NULL,NULL
+"Anna Susanne Dorthea",Olsen,2,4,12,1907,NULL,NULL
+"Peter Andreas",Nielsen,1,27,12,1907,NULL,NULL
+Oleg,Lenz,1,11,12,1907,NULL,NULL
+Cathrine,Nielsen,2,15,12,1907,NULL,NULL
+"Marie Vilhelmine",Nielsen,2,6,12,1907,NULL,NULL
+"Kristine Sofie",Nielsen,2,4,12,1907,NULL,NULL
+"William August",Otto,1,17,12,1907,55.687797300000,12.553190700000
+"Anna Larsine",Olsen,2,4,12,1907,NULL,NULL
+"Wilhelm Rudolf Albert",Lehmann,1,31,12,1907,NULL,NULL
+"Dagmar Petrea",Nielsen,2,1,12,1907,NULL,NULL
+Rasmus,Nielsen,1,30,12,1907,NULL,NULL
+"Johan Henrik Ludvig",Nimb,1,5,12,1907,NULL,NULL
+"Valborg Clara",Olsen,2,2,12,1907,NULL,NULL
+"Magnus Peter",Mortensen,1,24,12,1907,NULL,NULL
+"Rosa Helene Elisabeth",Nielsen,2,4,12,1907,NULL,NULL
+"Ruth Andrea",Nielsen,2,5,12,1907,NULL,NULL
+"Vilhelm Christian Doiton",Møller,1,7,12,1907,NULL,NULL
+"Sofus Severin",Nielsen,1,31,12,1907,NULL,NULL
+"Julius Casper",Nielsen,1,29,12,1907,NULL,NULL
+"Jutta Amalie Camilla",Nielsen,2,2,12,1907,NULL,NULL
+"Niels Peter",Jensen,1,10,12,1907,NULL,NULL
+"Anna Christine",Larsen,2,13,12,1907,NULL,NULL
+"William Møller",Laursen,1,14,12,1907,NULL,NULL
+"Helga Dorthea",Kruse,2,21,12,1907,NULL,NULL
+"Walther Axel",Nielsen,1,5,12,1907,NULL,NULL
+"Gudrun Emilie Dorthea",Nielsen,2,28,12,1907,NULL,NULL
+"Magnus Lund",Molin,1,20,12,1907,NULL,NULL
+"Aron Julius",Malmberg,1,17,12,1907,NULL,NULL
+"Ane Margrethe",Lorentzen,2,4,12,1907,NULL,NULL
+"Carl Emil Casmus Ludvig Stephan",Lorentzen,1,14,12,1907,NULL,NULL
+"Hans Peter Martin",Nielsen,1,16,12,1907,NULL,NULL
+Johann,Knize,1,18,12,1907,55.692428900000,12.567723600000
+"Victor Emil George",Morange,1,12,12,1907,55.688222600000,12.554171700000
+Anna,Christensen,2,5,12,1907,55.697970600000,12.579092900000
+"Bertha Jensine Frederikke",Marturinsen,2,5,12,1907,NULL,NULL
+"Amanda Charlotte",Andersson,2,10,12,1907,55.697745600000,12.576326200000
+"Peter Back",Christensen,1,6,12,1907,55.702233300000,12.581861100000
+Carl,Janson,1,7,12,1907,55.687972700000,12.586466200000
+"Henriette Christine",Bengtsen,2,5,12,1907,55.697556700000,12.546517800000
+"Hansine Caroline Karen Hansen",Ott,2,1,12,1907,NULL,NULL
+"Anna Margrethe",Andersen,2,4,12,1907,NULL,NULL
+"Christian August",Glistrup,1,12,12,1907,NULL,NULL
+Cathrine,Mosgaard,2,12,12,1907,55.690875700000,12.559524800000
+"Carl Frederik",Hansen,1,14,12,1907,55.683756700000,12.586214700000
+"Melville Sigurd Normann W.",Meldahl,1,31,12,1907,NULL,NULL
+"Thora Oline Vilhelmine",Liebst,2,1,12,1907,NULL,NULL
+Alfred,Lilja,1,4,12,1907,55.670826800000,12.554402500000
+"Petra Eline Juliane",Andersen,2,7,12,1907,55.672963900000,12.558193900000
+Christen,Christensen,1,23,12,1907,55.685662600000,12.585715900000
+"Heiman Hartog",Hartogsohn,3,7,12,1907,55.678321800000,12.587632100000
+"Anna Margrethe Frederikke",Hansen,2,10,12,1907,NULL,NULL
+"Adolf Severin",Linck,1,1,12,1907,NULL,NULL
+"Lydia Ester Walborg",Hannemann,2,2,12,1907,NULL,NULL
+"Martha Margrethe",Lindhardt,2,3,12,1907,NULL,NULL
+"Ane Marie Hansine",Hansen,2,4,12,1907,NULL,NULL
+"Søren Christian",Christensen,1,10,12,1907,NULL,NULL
+"Valborg Antoinette",Christensen,2,1,12,1907,55.698478700000,12.585045800000
+"Victor Johannes Valdemar",Christensen,1,4,12,1907,55.675085400000,12.596926500000
+"Johannes Kirstein de",Krak,1,15,12,1907,NULL,NULL
+"Marie Frandsine",Frandsen,2,13,12,1907,55.690078700000,12.574670600000
+"Karen Kirstine",Larsen,2,17,12,1907,NULL,NULL
+"Johanne Hansine Louise Caroline",Møhlenfeldt,2,11,12,1907,NULL,NULL
+"Ejnar Otto",Hansen,1,28,12,1907,NULL,NULL
+"August Mathisen",Hansen,1,13,12,1907,NULL,NULL
+"Lauritz Christian",Andersen,1,6,12,1907,NULL,NULL
+"Lauritz Christian",Andersen,1,30,12,1907,NULL,NULL
+"Lauritz Oluf Vilhelm Anders",Andersen,1,10,12,1907,NULL,NULL
+Carl,Jonsson,1,17,12,1907,55.680523600000,12.589099100000
+Henriette,Christensen,2,13,12,1907,NULL,NULL
+Ludvig,Andersen,1,19,12,1907,NULL,NULL
+"Sofie Emilie Elisabeth",Hansen,2,6,12,1907,NULL,NULL
+"Oscar Harald Peter Villiam",Jonsen,1,6,12,1907,55.684857500000,12.584944700000
+"Emil Michael",Caspersen,1,10,12,1907,NULL,NULL
+"Hilda Charlotte Vilhelmine",Olsson,2,14,12,1907,NULL,NULL
+"Sidsel Marie",Andersen,2,7,12,1907,55.689139700000,12.562447900000
+"Charles Ferdinand Barroe",Høyer,1,16,12,1907,NULL,NULL
+"Julius Martin",Christensen,1,30,12,1907,NULL,NULL
+Jørgine,Christensen,2,19,12,1907,55.683756700000,12.586214700000
+"Karen Marie",Christensen,2,2,12,1907,NULL,NULL
+"Maren Kirstine",Frederiksen,2,7,12,1907,NULL,NULL
+"Nicoline Mariane",Hansen,2,3,12,1907,NULL,NULL
+Just,Justesen,1,31,12,1907,55.687137200000,12.589927900000
+"Johanne Caroline",Frederiksen,2,1,12,1907,NULL,NULL
+Valborg,Andersson,2,9,12,1907,NULL,NULL
+Ingeborg,Grässon,2,5,12,1907,NULL,NULL
+Valdemar,Christiansen,1,4,12,1907,NULL,NULL
+"Marie Kristine",Andersen,2,6,12,1907,NULL,NULL
+"Peter Hjorth",Freiesleben,1,27,12,1907,NULL,NULL
+"Niels Christian",Andersen,1,21,12,1907,NULL,NULL
+"Johanne Charlotte",Ekström,2,10,12,1907,55.690875700000,12.559524800000
+"Adolf Lauritz",Hansen,1,3,12,1907,NULL,NULL
+"Emil Anders Jochumsen",Gundorf,1,2,12,1907,NULL,NULL
+"Johan Carl Christian",Gunst,1,31,12,1907,NULL,NULL
+"Kirstine Marie Margrethe",Hansen,2,17,12,1907,55.699496900000,12.576772800000
+"Christian Peter",Hansen,1,5,12,1907,NULL,NULL
+"Maren Christine",Hansen,2,19,12,1907,55.675356600000,12.596810900000
+"Maren Christine",Hansen,2,24,12,1907,55.671266600000,12.589396700000
+Christen,Jacobsen,1,17,12,1907,55.695867500000,12.572963500000
+"Ellen Marie",Andersen,2,16,12,1907,NULL,NULL
+"Oluf Guldbrandsen",Gøtsche,1,5,12,1907,NULL,NULL
+"Ester Margrethe Christina",Andersen,2,11,12,1907,55.698800600000,12.578696300000
+"Max Arnold",Hansen,1,31,12,1907,NULL,NULL
+"Johanne Marie",Andersen,2,4,12,1907,55.672646000000,12.557887400000
+"Heinrich Christian",Holmgrün,1,18,12,1907,NULL,NULL
+"Niels Peter Emil",Jacobsen,1,26,12,1907,55.686955500000,12.588171800000
+"Hans Christian",Jensen,1,31,12,1907,55.680523600000,12.589099100000
+"Oda Albertine Ernestinea",Holst,2,16,12,1907,NULL,NULL
+"Peter Johannes",Hansen,1,11,12,1907,NULL,NULL
+"Hans Henry",Jensen,1,2,12,1907,55.690345900000,12.558998900000
+"Hans Oluf",Jensen,1,13,12,1907,55.670788300000,12.542975100000
+"Vilhelm Emil",Bojesen,1,15,12,1907,55.660653700000,12.604052500000
+"Helga Alvilda Rikarda",Jensen,2,2,12,1907,NULL,NULL
+"Henny Elfrida",Jensen,2,3,12,1907,NULL,NULL
+"Henry Vilhelm Tellkvist",Jensen,1,4,12,1907,55.671401500000,12.558060500000
+"Vilhelm August",Hardenberg,1,24,12,1907,NULL,NULL
+"Asta Alma Caroline",Jensen,2,3,12,1907,55.684519300000,12.568944800000
+Elna,Johansen,2,10,12,1907,NULL,NULL
+"Hilda Marie",Kragelund,2,5,12,1907,NULL,NULL
+"Poul Werner",Geppel,1,3,12,1907,NULL,NULL
+"Agnes Christine",Laursen,2,1,12,1907,NULL,NULL
+Ane,Jensen,2,2,12,1907,NULL,NULL
+"Anna Caroline Christiane",Jensen,2,31,12,1907,NULL,NULL
+"Jenny Lisette",Børgesen,2,4,12,1907,55.689588400000,12.571142900000
+"Peter Marius",Beck,1,13,12,1907,NULL,NULL
+"Johan Figat",Breum,1,4,12,1907,55.655434000000,12.518918700000
+"Ingeborg Nielsine",Andersen,2,2,12,1907,NULL,NULL
+"Louise Magdalene",Jørgensen,2,1,12,1907,NULL,NULL
+"Marie Christiane",Birch,2,1,12,1907,NULL,NULL
+"Ida Victoria",Lenander,2,10,12,1907,NULL,NULL
+"Johanne Marie",Jensen,2,3,12,1907,NULL,NULL
+"Ane Kirstine",Jensen,2,9,12,1907,55.699666200000,12.577082400000
+"Thorvald Jens Louis",Hansen,1,5,12,1907,NULL,NULL
+Mariane,Christensen,2,4,12,1907,NULL,NULL
+"Jens Frederik",Jensen,1,31,12,1907,55.684594800000,12.569790100000
+Marie,Christensen,2,20,12,1907,NULL,NULL
+"Martha Christine",Jørgensen,2,4,12,1907,NULL,NULL
+Emma,Bengtsson,2,13,12,1907,55.690616300000,12.559971200000
+"Sofie Margrethe",Bentzen,2,3,12,1907,NULL,NULL
+"Peter Thorvald Sophus",Lorentzen,1,28,12,1907,NULL,NULL
+"Andrea Hansine Christiane",Broberg,2,3,12,1907,55.686457300000,12.592231300000
+"Olava Gabrielle",Bjelland,2,27,12,1907,NULL,NULL
+"Victor Henrik",Hansen,1,31,12,1907,NULL,NULL
+"Christian Kærgaard",Jensen,1,14,12,1907,55.678838300000,12.588155600000
+"Peder Juhl",Kaare,1,2,12,1907,NULL,NULL
+"Karen Charlotte Therecia",Jensen,2,4,12,1907,NULL,NULL
+"Niels Christian",Jørgensen,1,4,12,1907,NULL,NULL
+"Dagmar Nielsine Margrethe",Albinussen,2,31,12,1907,NULL,NULL
+Hjalmar,Heerup,1,2,12,1907,55.694616400000,12.577190900000
+"Anna Cathrine",Christensen,2,2,12,1907,NULL,NULL
+"Thora Amalie",Lindbaum,2,1,12,1907,55.684868900000,12.588371100000
+"Anton Marinus",Christensen,1,14,12,1907,55.683756700000,12.586214700000
+"Valborg Rigmor",Jensen,2,6,12,1907,NULL,NULL
+"Augusta Theodora Anna",Christensen,2,14,12,1907,55.681122400000,12.562896200000
+"Charles Hans Ferdinand",Buch,1,4,12,1907,55.683885200000,12.573778200000
+"Anne Catrine",Hansen,3,4,12,1907,NULL,NULL
+"Christen Laurits",Christensen,1,10,12,1907,55.672016800000,12.550461100000
+Anna,Lindqvist,2,24,12,1907,55.693095200000,12.577220200000
+"Else Margrethe Ane Cathrine",Jensen,2,18,12,1907,55.689399100000,12.573372100000
+"Augusta Ingeborg",Bygballe,2,16,12,1907,55.674475400000,12.576664100000
+Anette,Lund,2,10,12,1907,NULL,NULL
+"Anton Jensen",Lund,1,5,12,1907,NULL,NULL
+"Anna Mathilde",Clausen,2,1,12,1907,NULL,NULL
+"Marie Sofie Frederikke",Jensen,2,13,12,1907,55.693114100000,12.586893900000
+"Eleonora Christian",Lund,2,11,12,1907,NULL,NULL
+"Hans Mikkelsen",Lundberg,1,7,12,1907,55.689767100000,12.572015300000
+"Vedel Viggo Viljam",Christoffersen,1,14,12,1907,NULL,NULL
+"Theodor Nikolai",Lund,1,13,12,1907,NULL,NULL
+"Otto Carl Valdemar",Kjerulff,1,28,12,1907,NULL,NULL
+"Alma Josefine",Johansen,2,2,12,1907,NULL,NULL
+"Ane Marie",Knudsen,2,2,12,1907,NULL,NULL
+Natalia,Jacobsen,2,5,12,1907,55.681210900000,12.590218600000
+"Hans Christian",Jørgensen,1,17,12,1907,NULL,NULL
+"Niels Peter Christian",Jensen,1,4,12,1907,55.666826500000,12.548608000000
+"Carl Robert Garibaldi",Johansen,1,17,12,1907,NULL,NULL
+"Dorthea Cathrine",Johansen,2,7,12,1907,NULL,NULL
+"Hansine Marie",Johansen,2,1,12,1907,55.695378100000,12.547510300000
+"Jens Peter Larsen",Johnsen,1,27,12,1907,NULL,NULL
+"Jens Peter Larsen",Johnsen,1,13,12,1907,NULL,NULL
+"Rasmine Cathrine",Johansen,2,2,12,1907,NULL,NULL
+"Alfred Theodor",Rasmussen,1,7,12,1907,55.673463700000,12.590342000000
+"Laust Martinus Laursen",Hilming,1,2,12,1907,NULL,NULL
+"Aage Arnholdt",Petersen,1,14,12,1907,NULL,NULL
+"Peter Henrik",Petersen,1,4,12,1907,55.683312800000,12.577933200000
+"Hulda Josefine",Hallin,2,6,12,1907,NULL,NULL
+"Knud Martin",Jacobsen,1,5,12,1907,NULL,NULL
+"Juliane Petrea Mathilde",Pedersen,2,14,12,1907,NULL,NULL
+Jens,Pedersen,1,30,12,1907,NULL,NULL
+Jens,Petersen,1,3,12,1907,NULL,NULL
+"Carl Joseph",Hoffmann,1,14,12,1907,NULL,NULL
+"Julius Einert",Petersen,1,2,12,1907,NULL,NULL
+"Julius Elund",Petersen,1,11,12,1907,NULL,NULL
+Jørgen,Petersen,1,23,12,1907,NULL,NULL
+"Pouline Elis",Jacobsen,2,7,12,1907,55.680641000000,12.570999300000
+"Sophus Albert Vogelius",Jacobsen,1,17,12,1907,55.690344300000,12.565107300000
+"Agnes Marie Margrethe",Petersen,2,4,12,1907,NULL,NULL
+"Carl Wenzel",Rizek,1,2,12,1907,NULL,NULL
+"Petrine Thomine",Petersen,2,1,12,1907,NULL,NULL
+"Hans Christian",Pedersen,1,20,12,1907,NULL,NULL
+Alexander,Petersen,1,27,12,1907,NULL,NULL
+"Peter Louis Christian",Paludan,1,6,12,1907,NULL,NULL
+"Anna Marie Dorthea",Rasmussen,2,16,12,1907,NULL,NULL
+"Anna Marie Sofie",Rasmussen,2,7,12,1907,NULL,NULL
+"Rosa Dorthea Laurette",Petersen,2,3,12,1907,NULL,NULL
+"Victor Johan Christian",Petersen,1,9,12,1907,NULL,NULL
+Christian,Rolandsen,1,28,12,1907,55.689686200000,12.563093500000
+"Claus Lauritz Christian",Reimer,1,31,12,1907,55.681896100000,12.583235200000
+"Henriette Johanne",Petersen,2,2,12,1907,NULL,NULL
+"Carl Johannes",Pedersen,1,23,12,1907,NULL,NULL
+"Carl Valdemar",Petersen,1,6,12,1907,55.689829800000,12.554469900000
+Carl,Rasmussen,1,17,12,1907,NULL,NULL
+"Astrid Pauline",Pedersen,2,4,12,1907,NULL,NULL
+Jakob,Rosenfeld,1,20,12,1907,NULL,NULL
+"Caroline Christine",Rasmussen,2,18,12,1907,NULL,NULL
+"Anna Cathrine Kirstine",Petersen,2,1,12,1907,NULL,NULL
+Ejnar,Paulsen,1,14,12,1907,NULL,NULL
+"Emil Charles",Poulsen,1,6,12,1907,NULL,NULL
+"Aage Halvor",Petersen,1,19,12,1907,NULL,NULL
+"Erik Julius",Petersen,1,11,12,1907,NULL,NULL
+"Antonette Frederikke Mathilde",Petersen,2,27,12,1907,NULL,NULL
+"August Vilhelm",Petersson,1,16,12,1907,55.688408400000,12.557811400000
+"Karen Kirstine",Petersen,2,2,12,1907,NULL,NULL
+"Frederik Vilhelm Emil",Rasmussen,1,NULL,12,1907,55.698262500000,12.552981900000
+Christian,Pedersen,1,7,12,1907,NULL,NULL
+"Karen Marie Petrea Frederikke Christine",Pedersen,2,3,12,1907,NULL,NULL
+"Julius Christian",Poulsen,1,5,12,1907,NULL,NULL
+"Carl Martin",Poulsen,1,5,12,1907,NULL,NULL
+"Kjeld Kjeldsen",Petersen,1,15,12,1907,NULL,NULL
+"Hans Lauritz",Rasmussen,1,3,12,1907,55.690791700000,12.564790900000
+"Christine Marie",Petersen,2,14,12,1907,NULL,NULL
+Peder,Pedersen,1,6,12,1907,NULL,NULL
+"Mathilde Elise",Pedersen,2,2,12,1907,NULL,NULL
+"Peter Aage Johannes",Poulsen,1,30,12,1907,NULL,NULL
+"Sofie Kristine Petrine",Poulsen,2,6,12,1907,NULL,NULL
+"Emilie Louise Cecilie",Madsen,2,10,12,1907,NULL,NULL
+"Louise Frederikke",Petersen,2,1,12,1907,NULL,NULL
+Theresia,Paulsen,2,5,12,1907,NULL,NULL
+"Valdemar Christian",Paulsen,1,16,12,1907,NULL,NULL
+"Anna Kirstine",Nielsen,2,27,12,1907,55.690032900000,12.558823100000
+"Karna Marie Sofie",Rath,2,12,12,1907,NULL,NULL
+"Clara Dorthea Julie Lassen",Madsen,2,2,12,1907,NULL,NULL
+Oluf,Petersen,1,27,12,1907,NULL,NULL
+"Otto Thure Theodor",Oldenburg,1,13,12,1907,55.680566800000,12.592242200000
+"Peter Andreas",Petersen,1,14,12,1907,NULL,NULL
+"Anna Marie Kristine",Madsen,2,16,12,1907,55.677506700000,12.577477100000
+"Emilie Conradine",Ratzau,2,7,12,1907,NULL,NULL
+"Beata Victoria",Oldén,2,10,12,1907,55.681521400000,12.588134400000
+"Charles Vilhelm",Møller,1,14,12,1907,NULL,NULL
+"Theodor Robert",Løvgren,1,19,12,1907,NULL,NULL
+"Jens Jørgen Peter",Röiy,1,31,12,1907,55.695479900000,12.545981000000
+"Theodor Marius",Reimers,1,6,12,1907,NULL,NULL
+"Charles Aage",Reinhardt,1,23,12,1907,NULL,NULL
+"Britta Christiane",Petersen,2,31,12,1907,NULL,NULL
+"Bjørgulfur Adalsteinn",Olafsson,3,10,12,1907,NULL,NULL
+"Carl Gottlieb",Møller,1,19,12,1907,55.673517300000,12.575976700000
+"Martinus Johan Marius",Pedersen,1,3,12,1907,55.688673800000,12.553126500000
+"Agnes Laurine",Nielsen,2,2,12,1907,NULL,NULL
+"Anna Petrea",Larsen,2,4,12,1907,NULL,NULL
+"Alda Julie Amalie",Nielsen,2,1,12,1907,NULL,NULL
+"Ane Petrea Lousdahl",Petersen,2,3,12,1907,NULL,NULL
+"Robert Reinhard Albert",Michelsen,1,3,12,1907,NULL,NULL
+"Camilla Cecilie",Larsen,2,18,12,1907,NULL,NULL
+"Bertha Margrethe",Nielsen,2,13,12,1907,NULL,NULL
+Betty,Nielsen,2,18,12,1907,NULL,NULL
+"Martha Karoline Sophie",May,2,15,12,1907,55.677460500000,12.589067000000
+"Peter Andreas",Petersen,1,14,12,1907,55.686650700000,12.549576400000
+"Peter Karl Kristian",Petersen,1,4,12,1907,NULL,NULL
+"Peter Christian",Petersen,1,5,12,1907,NULL,NULL
+"Dagmar Ulrikke",Larsen,2,11,12,1907,NULL,NULL
+Alf,Petersen,1,31,12,1907,55.686645000000,12.588461800000
+Jens,Larsen,1,11,12,1907,55.689367000000,12.584185300000
+"Olaf Carl",Malmgreen,1,14,12,1907,55.689800300000,12.573209600000
+Inger,Larsen,2,12,12,1907,NULL,NULL
+Fritz,Pihl,1,27,12,1907,NULL,NULL
+"Nicoline Caroline",Nielsen,2,13,12,1907,NULL,NULL
+"Laura Margrethe Sofie",Nielsen,2,3,12,1907,55.691984200000,12.579031000000
+"Cathrine Marie",Nielsen,2,4,12,1907,55.670914600000,12.563595800000
+"Ingeborg Vilhelmine",Møller,2,5,12,1907,55.681210900000,12.590218600000
+"Sofie Augusta",Nielsen,2,14,12,1907,55.681541500000,12.590687800000
+"Henriette Helene",Møller,2,2,12,1907,55.680566800000,12.592242200000
+"Sørine Jørgine",Nielsen,2,5,12,1907,55.673040600000,12.558538800000
+"Marie Cathrine",Møller,2,2,12,1907,55.697368900000,12.584026300000
+"Ole Lauritz",Larsen,1,31,12,1907,NULL,NULL
+Christian,Nielsen,1,3,12,1907,NULL,NULL
+"Ludvig Richard",Nielsen,1,2,12,1907,55.690202400000,12.571644600000
+"Maren Hansine",Nielsen,2,5,12,1907,55.682910400000,12.567026300000
+"Maren Kirstine Nielsine",Nielsen,2,4,12,1907,NULL,NULL
+"Amanda Victoria",Olsson,2,10,12,1907,55.687884000000,12.586004800000
+"Charles Christian",Olsen,1,11,12,1907,NULL,NULL
+"Daniele Petrine Petrea Madsine",Nielsen,2,6,12,1907,NULL,NULL
+"Marie Dorthea",Nielsen,2,2,12,1907,NULL,NULL
+"Elna Julie",Nielsen,2,30,12,1907,NULL,NULL
+"Georgine Christine",Nielsen,2,10,12,1907,NULL,NULL
+"Helga Josefine",Nielsen,2,2,12,1907,NULL,NULL
+"Helga Julie Margrethe",Nielsen,2,3,12,1907,55.681994500000,12.562646000000
+"Gunda Elise",Olsen,2,20,12,1907,55.685419000000,12.592324800000
+"Anna Marie Elisabeth",Olsen,2,31,12,1907,55.684737700000,12.588689900000
+"Anna Barbara Cathrine",Nielsen,2,28,12,1907,NULL,NULL
+August,Olsen,1,14,12,1907,55.683756700000,12.586214700000
+"Johanne Sofie",Olsen,2,17,12,1907,NULL,NULL
+"Birthe Kirstine",Olsen,2,11,12,1907,NULL,NULL
+"Thyra Alexandra",Persson,2,18,12,1907,NULL,NULL
+"Ida Frederikke Jacobine",Nielsen,2,14,12,1907,NULL,NULL
+Agnes,Mortensen,2,9,12,1907,55.694966100000,12.590024800000
+"Axel Frederik",Pedersen,1,11,12,1907,NULL,NULL
+"Jens Oluf",Petersen,1,2,12,1907,55.689998400000,12.572776600000
+"Carl Fritz",Poulsen,1,11,12,1907,NULL,NULL
+"Niels Peter",Nielsen,1,13,12,1907,NULL,NULL
+"Ane Caroline",Petersen,2,2,12,1907,NULL,NULL
+"Anna Marie",Petersen,2,27,12,1907,NULL,NULL
+"Johanne Christine","Pehrson eller Petersen",2,6,12,1907,NULL,NULL
+"Julius Johannes",Petersen,1,4,12,1907,NULL,NULL
+"Mads Axel Viggo",Madsen,1,19,12,1907,NULL,NULL
+"Søren Peter",Olsen,1,31,12,1907,NULL,NULL
+"Henry Estrup",Schmidt,1,6,12,1907,55.694164100000,12.549418300000
+"Ricard Felix",Vetter,1,6,12,1907,55.665641600000,12.554332100000
+"Marie Cathrine",Rasmussen,2,16,12,1907,NULL,NULL
+"Ingeborg Louise Marie",Nielsen,2,10,12,1907,NULL,NULL
+"Valdemar Johan Emil",Sieling,1,23,12,1907,NULL,NULL
+"Marie Kirstine",Rasmusmussen,2,20,12,1907,55.687995900000,12.555768700000
+"Laura Hansine",Petersen,2,7,12,1907,NULL,NULL
+"Laura Lovise",Petersen,2,3,12,1907,NULL,NULL
+"Rudolf Josef Vilhelm",Verner,1,6,12,1907,NULL,NULL
+Carla,Mortensen,2,2,12,1907,NULL,NULL
+"Emma Mathilda",Petersdotter,2,21,12,1907,55.682248900000,12.569577900000
+"Jens Peter",Mortensen,1,3,12,1907,NULL,NULL
+Lilly,Persson,2,28,12,1907,55.680670500000,12.589676400000
+"Louis Somenigo Frederik",Menghini,1,7,12,1907,NULL,NULL
+"Oscar Theodor",Nielsen,1,NULL,12,1907,NULL,NULL
+Peter,Raabjerg,1,10,12,1907,55.693417600000,12.545509900000
+"Martha Marie",Mortensen,2,14,12,1907,55.685419000000,12.592324800000
+Rasmus,Rasmussen,1,17,12,1907,55.690876000000,12.564918200000
+"Rasmus Nielsen",Rasmussen,1,17,12,1907,NULL,NULL
+"Paul Martin",Naumann,1,10,12,1907,NULL,NULL
+"Rudolf Pio",Rasmussen,1,1,12,1907,55.690791700000,12.564790900000
+"Helene Johanne Laurine",Nedder,2,1,12,1907,55.671397900000,12.575096800000
+"Alma Alfrida Mathilde",Sørensen,2,6,12,1907,NULL,NULL
+"Anders Hermann",Sørensen,1,11,12,1907,NULL,NULL
+Paul,Würker,1,2,12,1907,NULL,NULL
+"Martina Regina",Petersson,2,10,12,1907,NULL,NULL
+"Ellen Andrea Amanda",Petersen,2,3,12,1907,NULL,NULL
+Vilhelm,Rasmussen,1,3,12,1907,55.690066200000,12.562921000000
+"Johan Christian Lauritz",Thruelsen,1,7,12,1907,NULL,NULL
+August,Sørensen,1,24,12,1907,NULL,NULL
+"Agnete Mathilde",Nyhuus,2,13,12,1907,NULL,NULL
+Carl,Sørensen,1,13,12,1907,NULL,NULL
+Nils,Persson,1,16,12,1907,NULL,NULL
+"Anna Pouline",Olsen,2,5,12,1907,55.697820900000,12.585112700000
+"Niels Martin",Petersen,1,2,12,1907,NULL,NULL
+"Hans Peter",Vollertsen,1,4,12,1907,55.686267300000,12.566622600000
+"Otto Christian",Petersen,1,11,12,1907,NULL,NULL
+"Carl Ejner",Rasmussen,1,16,12,1907,NULL,NULL
+"Caroline Amalie Margrethe",Rasmussen,2,3,12,1907,55.688699100000,12.562539800000
+Thea,Zachrau,2,1,12,1907,NULL,NULL
+"Carl Peter",Petersen,1,11,12,1907,NULL,NULL
+Otto,Zeller,1,1,12,1907,NULL,NULL
+"Martha Oline",Rasmussen,2,2,12,1907,NULL,NULL
+"Caroline Cathrine Magdalene",Petersen,2,4,12,1907,NULL,NULL
+"Mathilde Nielsine Johanne",Rasmussen,2,2,12,1907,NULL,NULL
+"Hans Alfred",Rasmussen,1,7,12,1907,55.690586900000,12.572855500000
+"Clara Elvira",Sjølin,2,6,12,1907,NULL,NULL
+"Robert Erik",Skånstrøm,1,27,12,1907,55.690146700000,12.560418200000
+"Jens Peter Johannes",Rasmussen,1,7,12,1907,NULL,NULL
+Paul,Töpfer,1,1,12,1907,NULL,NULL
+"Carl Gustav",Sandberg,1,7,12,1907,55.671431600000,12.550234000000
+"Rudolf Jens Carl",Petersen,1,19,12,1907,NULL,NULL
+"Margrethe Christine",Rasmussen,2,1,12,1907,NULL,NULL
+"Wilhelmine Frederikke",Trustrup,2,6,12,1907,NULL,NULL
+Abraham,Sandel,1,21,12,1907,NULL,NULL
+Niels,Svanberg,1,4,12,1907,55.671955600000,12.563500500000
+Carl,Sveinsson,1,3,12,1907,NULL,NULL
+"Peder Christian",Sørensen,1,7,12,1907,NULL,NULL
+"Anders Jensen",Thunø,1,3,12,1907,NULL,NULL
+"Mariane Eleonora Nicoline",Thuren,2,3,12,1907,NULL,NULL
+"Eleonora Christiane Sofie",Vestrup,2,31,12,1907,NULL,NULL
+"Ellen Marie Kirstine",Sau,2,12,12,1907,NULL,NULL
+"Thomas Frøhlund",Thomsen,1,4,12,1907,NULL,NULL
+"Julius Felix E.",Sørensen,1,3,12,1907,NULL,NULL
+"Knud Madsen",Toft,1,27,12,1907,NULL,NULL
+"Marie Elisabeth",Semmelhack,2,1,12,1907,55.692344000000,12.554503900000
+Ole,Sevaldsen,1,10,12,1907,NULL,NULL
+Anna,Sørensen,2,28,12,1907,NULL,NULL
+"Carl Frederik Viggo",Sørensen,1,25,12,1907,NULL,NULL
+Karl,Steidel,1,2,12,1907,NULL,NULL
+"Ejnar Andreas",Sørensen,1,20,12,1907,NULL,NULL
+"Ellen Sofie",Sørensen,2,1,12,1907,NULL,NULL
+"Frida Fernanda Margrethe",Sørensen,2,4,12,1907,NULL,NULL
+"Gunnar Sigurd Frithjof",Sørensen,1,16,12,1907,NULL,NULL
+"Charles Fritz Vilhelm",Schesbalein,1,17,12,1907,NULL,NULL
+"Hans Peter",Sørensen,1,5,12,1907,NULL,NULL
+"Mads Peter",Sørensen,1,12,12,1907,NULL,NULL
+"Maren Sophie",Sørensen,2,3,12,1907,NULL,NULL
+"Fridolf Gewasius",Øqvist,1,7,12,1907,55.692950400000,12.565468800000
+"Søren Jean",Sørensen,1,3,12,1907,NULL,NULL
+"Kirsten Marie",Schmidt,2,5,12,1907,NULL,NULL
+"Elna Henriette",Schmidt,2,24,12,1907,NULL,NULL
+Georg,Schmidt,1,8,12,1907,NULL,NULL
+"Marie Margrethe Vilhelmine",Stange,2,23,12,1907,NULL,NULL
+"Petra Henriette",Schrøder,2,1,12,1907,NULL,NULL
+"Anna Marie Sofie",Weinell,2,7,12,1907,NULL,NULL
+"Olivia Charlotte Johanne Jensen",Villadsen,2,4,12,1907,55.688980600000,12.553946900000
+"Ferdinand Gustav",Schultz,1,1,12,1907,NULL,NULL
+"Fanny Sofie Magdalene",Schmidt,2,19,12,1907,55.685831800000,12.584875300000
+"Marie Amalie",Schmidt,2,3,12,1907,NULL,NULL
+"Niels Christian",Smith,1,21,12,1907,NULL,NULL
+"Valdemar Secher",Rasmussen,1,3,12,1907,55.689662700000,12.571545500000
+"Hans Peter",Steffensen,1,4,12,1907,NULL,NULL
+Harriet,Røe,2,13,12,1907,NULL,NULL
+"Birthe Marie",Schou,2,15,12,1907,55.686823600000,12.592544800000
+Viggo,Rølling,1,11,12,1907,NULL,NULL
+"Einar Oluf",Schløtel,1,16,12,1907,NULL,NULL
+"Elna Louise",Simonsen,2,17,12,1907,NULL,NULL
+"Jacob Edmond",Simonsen,1,23,12,1907,NULL,NULL
+"Henry Carl Marinus",Svendsen,1,6,12,1907,NULL,NULL
+"Henry Carl Marinus",Svendsen,1,10,12,1907,NULL,NULL
+"Herman Emil",Svendsen,1,30,12,1907,NULL,NULL
+"Johan Svend Ferdinand",Svendsen,1,20,12,1907,NULL,NULL
+"Anders Edvard",Svensson,1,24,12,1907,55.689442500000,12.562801100000
+Amalie,Simonsen,2,18,12,1907,NULL,NULL
+"Manny Edvardine Fritzine",Simonsen,2,2,12,1907,NULL,NULL
+"Nancy Alberta Theodora",Svendsen,2,7,12,1907,NULL,NULL
+"Carl Vilhelm",Sørensen,1,12,12,1907,NULL,NULL
+"Ellen Therese",Sørensen,2,4,12,1907,NULL,NULL
+Hans,Sørensen,1,11,12,1907,NULL,NULL
+"Henrik Christian Rosendahl",Sørensen,1,4,12,1907,NULL,NULL
+"Holger Christian",Sørensen,1,13,12,1907,NULL,NULL
+"Jens Peter",Sørensen,1,28,12,1907,NULL,NULL
+"Jens Peter",Sørensen,1,10,12,1907,NULL,NULL
+"Harald Christian",Walther,1,19,12,1907,NULL,NULL
+"Johanne Kirstine",Sørensen,2,1,12,1907,NULL,NULL
+"Marie Amalie",Sørensen,2,2,12,1907,NULL,NULL
+Poul,Sørensen,1,13,12,1907,NULL,NULL
+"Anna Rosa Dagmar",Stevnsborg,2,2,12,1907,NULL,NULL
+"Martin Gordinius",Strandhof,1,11,12,1907,NULL,NULL
+Kaim,Borukhow,3,21,12,1907,NULL,NULL
+Kaim,Borukhow,3,30,12,1907,NULL,NULL
+"Christian Peter",Theisen,1,10,12,1907,NULL,NULL
+Mariane,Clemmensen,2,2,12,1907,NULL,NULL
+Inger,Tietz,2,16,12,1907,NULL,NULL
+"Ole Tollefsen",Thjøte,1,13,12,1907,NULL,NULL
+Knud,Troest,1,7,12,1907,NULL,NULL
+"Christen Herman",Christensen,1,16,12,1907,NULL,NULL
+"Ferdinand Emil",Thøgersen,1,21,12,1907,NULL,NULL
+"Gerda Caroline",Andersdotter,2,1,12,1907,55.682374300000,12.585880600000
+"Hansine Emilie",Andersen,2,2,12,1907,NULL,NULL
+Alfred,Förster,1,21,12,1907,NULL,NULL
+"Hans Marinus",Christensen,1,9,12,1907,NULL,NULL
+"Alvilda Hansine",Hansen,2,2,12,1907,NULL,NULL
+"Andrea Jensine",Hansen,2,17,12,1907,NULL,NULL
+"Anna Kristine",Hansen,2,7,12,1907,NULL,NULL
+"Ane Christine",Voetmann,2,5,12,1907,NULL,NULL
+"Ane Marie",Hansen,2,10,12,1907,NULL,NULL
+"Caroline Marie",Hansen,2,2,12,1907,NULL,NULL
+"Carl Frederik",Zeidler,1,3,12,1907,NULL,NULL
+"Johannes Sørensen",Rich,1,5,12,1907,NULL,NULL
+Louis,Fuchs,1,14,12,1907,NULL,NULL
+"Rosalie Amanda",Jørgensen,2,6,12,1907,NULL,NULL
+"Ane Christine",Nielsen,2,3,12,1907,NULL,NULL
+"Jenny Julie",Hansen,2,3,12,1907,NULL,NULL
+"Camilla Dorthea Christine",Christiansen,2,5,12,1907,NULL,NULL
+"Jens Christian",Rasmussen,1,31,12,1907,NULL,NULL
+"Laura Vilhelmine",Hansen,2,4,12,1907,NULL,NULL
+Sigvardur,Gudmundsen,3,4,12,1907,NULL,NULL
+"Olga Marie",Hansen,2,9,12,1907,NULL,NULL
+"Elina Axelina",Holmgren,2,24,12,1907,NULL,NULL
+"Friedrich Wilhelm August",Huth,1,16,12,1907,NULL,NULL
+"Anna Johanne",Jensen,2,4,12,1907,NULL,NULL
+"Ellen Lovise Hansine",Pedersen,2,2,12,1907,NULL,NULL
+Martin,Kangur,1,3,12,1907,NULL,NULL
+Selma,Haakansson,2,9,12,1907,55.687342200000,12.592583000000
+"Anton Thomas Jensen",Nørgaard,1,2,12,1907,NULL,NULL
+"Maren Cathrine",Tamosehuus,2,1,12,1907,NULL,NULL
+"Ellen Frederikke",Jensen,2,4,12,1907,NULL,NULL
+Jensine,Pedersen,2,5,12,1907,NULL,NULL
+"Hans Christian Henriksen",Juhl,1,24,12,1907,NULL,NULL
+"Karen Christiane",Petersen,2,3,12,1907,NULL,NULL
+"Heinrick Ignaz",Kues,1,18,12,1907,NULL,NULL
+"Laura Petrine",Petersen,2,2,12,1907,NULL,NULL
+"Emma Rosalie Theodora",Jørgensen,2,3,12,1907,NULL,NULL
+"Hansine Michaeline Hansen",Bøgeskov,2,16,12,1907,NULL,NULL
+"Thora Marie",Nielsen,2,5,12,1907,NULL,NULL
+Agata,Schernaita,2,11,12,1907,NULL,NULL
+"Ingeborg Andersine",Jensen,2,4,12,1907,NULL,NULL
+"Antonette Marie",Larsen,2,4,12,1907,NULL,NULL
+Valborg,Pedersen,2,3,12,1907,55.682114300000,12.588245800000
+"Mary Cathinca",Larsen,2,18,12,1907,NULL,NULL
+"Rasmine Amalie",Larsen,2,6,12,1907,NULL,NULL
+"Jens Peter",Bjørnstad,1,27,12,1907,NULL,NULL
+"Jens Peter",Bjørnstad,1,10,12,1907,NULL,NULL
+"Henrikke Sofie Kristine",Eggertsen,2,16,12,1907,NULL,NULL
+"Johanne Augusta Eveline",Madsen,2,14,12,1907,NULL,NULL
+"Dagmar Elise Marie",Lind,2,3,12,1907,NULL,NULL
+"Elida Mathilda",Lindberg,2,5,12,1907,55.689345300000,12.560402300000
+"Anna Johanne Kirstine",Pedersen,2,6,12,1907,NULL,NULL
+"Jenny Mathea Alvilda",Nielsen,2,1,12,1907,NULL,NULL
+"Ida Amalie",Mortensen,2,2,12,1907,NULL,NULL
+"Johanne Christine",Nielsen,2,13,12,1907,NULL,NULL
+"Mogens Kai",Mogensen,1,4,12,1907,NULL,NULL
+Johannes,Schlütter,1,19,12,1907,NULL,NULL
+"Anine Jørgine",Vikkelsø,2,20,12,1907,NULL,NULL
+"Anine Jørgine",Vikkelsø,2,3,12,1907,NULL,NULL
+"Agnes Hansine",Andersen,2,10,12,1907,55.669222700000,12.550093800000
+"Anna Amalie Hedvig",Justesen,2,11,12,1907,NULL,NULL
+Alberta,Andersen,2,25,12,1907,NULL,NULL
+"Carl Vilhelm",Reimers,1,11,12,1907,NULL,NULL
+"Gerda Agnes Eleonora",Andersen,2,1,12,1907,NULL,NULL
+"Clemens Jacob Christian",Petersen,1,27,12,1907,NULL,NULL
+Anders,Andersen,1,19,12,1907,55.668772000000,12.551310300000
+"Carl Alexis",Enqvist,1,11,12,1907,55.681183600000,12.591967400000
+Waldemar,Schteinfeld,1,29,12,1907,55.687972700000,12.586466200000
+"Anders Peter Vilhelm",Andersen,1,4,12,1907,NULL,NULL
+"Carl Paul Heinrich",Riedel,1,17,12,1907,NULL,NULL
+"Eva Lovisa",Ronkainen,2,13,12,1907,NULL,NULL
+"Anna Margrethe",Andersen,2,3,12,1907,NULL,NULL
+Peter,Hansen,1,18,12,1907,NULL,NULL
+"Hansine Marie Cathrine",Andersen,2,2,12,1907,NULL,NULL
+Theodora,Hansen,2,30,12,1907,NULL,NULL
+"Carl Christian",Andersen,1,1,12,1907,NULL,NULL
+"Carla Metha",Andersen,2,3,12,1907,NULL,NULL
+"Poul Alfred Bredon",Hansen,1,22,12,1907,NULL,NULL
+"Sigrid Bernhardine",Svensson,2,4,12,1907,NULL,NULL
+"Carl Bertinues",Rolander,1,17,12,1907,55.682626700000,12.586500200000
+"Theodora Francisca",Baasch,2,24,12,1907,NULL,NULL
+"Poul Martin",Hansen,1,12,12,1907,NULL,NULL
+"Anna Amanda",Bagerskov,2,10,12,1907,NULL,NULL
+"Anna Margrethe",Rasmussen,2,2,12,1907,NULL,NULL
+"Knud Adolf Kongslev",Brandtsen,1,7,12,1907,NULL,NULL
+"Bernhardt Emil",Jarm,1,3,12,1907,NULL,NULL
+"Walter John",Blokley,1,2,12,1907,NULL,NULL
+"Lars Christian",Balle,1,2,12,1907,NULL,NULL
+"Eline Eleonora Christine",Andersson,2,3,12,1907,NULL,NULL
+"Alvine Henriette Caroline",Ihde,2,6,12,1907,55.669828300000,12.545397400000
+"Johanne Marie",Andersen,2,11,12,1907,NULL,NULL
+"Niels Thorkild Froberg",Christiansen,1,3,12,1907,NULL,NULL
+"Ingeborg Marie",Hansen,2,2,12,1907,NULL,NULL
+"Ingeborg Pouline Emilie Sofie",Hansen,2,7,12,1907,NULL,NULL
+"Evald Christian Julius",Andersen,1,24,12,1907,NULL,NULL
+"Lauritz Emil",Christensen,1,27,12,1907,55.685774900000,12.549023700000
+"Peter Emil",Christiansen,1,31,12,1907,55.688306300000,12.561484800000
+Julius,Hansen,1,28,12,1907,NULL,NULL
+"Hans Axel",Christensen,1,5,12,1907,NULL,NULL
+"Theodor Villiam Mathias",Christiansen,1,12,12,1907,NULL,NULL
+"Margrethe Alfrida",Andersen,2,2,12,1907,NULL,NULL
+"Vilhelm Rudolf Stinius",Christiansen,1,5,12,1907,NULL,NULL
+Alfride,Frederiksen,2,3,12,1907,NULL,NULL
+"Peter Christian",Espersen,1,20,12,1907,NULL,NULL
+"William Oscar",Christoffersen,1,17,12,1907,NULL,NULL
+"Adam Hans",Isaksen,1,3,12,1907,NULL,NULL
+"Oscar Fritz Hans",Hansen,1,2,12,1907,NULL,NULL
+"Antonius Frederik Johan",Christensen,1,4,12,1907,NULL,NULL
+"Marie Elisabeth",Hansen,2,4,12,1907,NULL,NULL
+"Laura Henriette",Clausen,2,3,12,1907,NULL,NULL
+"Marie Caroline",Bekker,2,3,12,1907,NULL,NULL
+"Anna Christine Emilie",Christoffersen,2,23,12,1907,NULL,NULL
+"Jens Peter Petersen",Friis,1,12,12,1907,NULL,NULL
+"Dagmar Hansine",Jacobsen,2,1,12,1907,NULL,NULL
+"Mary Hansine",Hansen,2,2,12,1907,NULL,NULL
+"Carl Henrik",Bendtsen,1,16,12,1907,NULL,NULL
+"Mette Cathrine",Hansen,2,6,12,1907,NULL,NULL
+"Mine Kristine",Hansen,2,9,12,1907,NULL,NULL
+"Karen Helene Christine",Hansen,2,11,12,1907,55.688980600000,12.553946900000
+"Christen Marius",Christensen,1,13,12,1907,55.678812000000,12.570307500000
+"Einer Villiam",Jacobsen,1,19,12,1907,NULL,NULL
+Christian,Christensen,1,21,12,1907,NULL,NULL
+"Franz Christian",Jacobsen,1,20,12,1907,NULL,NULL
+"Kristine Dorthea",Bentzen,2,2,12,1907,NULL,NULL
+"Sigrid Inger Margrethe",Bukmann,2,14,12,1907,NULL,NULL
+"Nikolaj Einar Alfred Svend Emanuel",Hansen,1,16,12,1907,NULL,NULL
+"Laurits Marius",Hansen,1,16,12,1907,NULL,NULL
+"Lise Andrea",Hansen,2,11,12,1907,55.699511100000,12.546184900000
+"Oline Frederikke Marie",Andersen,2,14,12,1907,NULL,NULL
+"Olivia Angelika Elisabeth Cathrine",Andersen,2,7,12,1907,NULL,NULL
+"Johanne Marie",Bentsen,2,7,12,1907,55.668758500000,12.555677000000
+"Ludvig Christian",Hansen,1,18,12,1907,NULL,NULL
+Jøns,Hansson,1,28,12,1907,NULL,NULL
+"Per August Emanuel",Andersson,1,5,12,1907,55.671869300000,12.554101100000
+"Peter Christian",Andersen,1,27,12,1907,NULL,NULL
+"Niels Anker",Christensen,1,9,12,1907,NULL,NULL
+"Mette Kirstine",Christensen,2,3,12,1907,55.687623900000,12.588745100000
+"Inger Frederikke",Fischer,2,31,12,1907,NULL,NULL
+"Jenny Caroline Møgelgaard",Christensen,2,9,12,1907,NULL,NULL
+"Marie Louise",Fjerdingstad,2,1,12,1907,NULL,NULL
+Valdemar,Berthelsen,1,19,12,1907,NULL,NULL
+"Carl Edmund",Funch,1,28,12,1907,55.671187500000,12.550024900000
+"Carl Edmund",Funch,1,9,12,1907,55.669084500000,12.549779200000
+"Søren Thomsen",Frøsig,1,18,12,1907,NULL,NULL
+Rasmus,Christensen,1,8,12,1907,NULL,NULL
+"Anna Sofia Bernhardina",Fristedt,2,2,12,1907,55.678119600000,12.589170500000
+"Rasmus Mathias",Frigaard,1,1,12,1907,NULL,NULL
+Anna,Friberg,2,3,12,1907,NULL,NULL
+Knud,Freuchen,1,3,12,1907,NULL,NULL
+"Carl Gustav",Carlsen,1,18,12,1907,NULL,NULL
+"Katy Dorthea",Feldmann,2,20,12,1907,NULL,NULL
+"Kissy Jensine Jensen",Flarup,2,20,12,1907,NULL,NULL
+"George Carl",Borgen,1,7,12,1907,NULL,NULL
+"Alma Kristina",Borgström,2,6,12,1907,55.669929500000,12.544704900000
+"Constance Evelyn",Böhn,2,6,12,1907,NULL,NULL
+"Eskild Nyborg",Hansen,1,11,12,1907,NULL,NULL
+"Anna Cathrine Magdalene",Bonné,2,5,12,1907,NULL,NULL
+"Hansine Marie",Frederiksen,2,2,12,1907,NULL,NULL
+"Friedrich Johan Carl",Fehling,1,10,12,1907,NULL,NULL
+"Johan Georg",Hermann,1,28,12,1907,NULL,NULL
+"Agnes Laura Marie",Brasch,2,28,12,1907,NULL,NULL
+"Viggo Frederik",Christensen,1,14,12,1907,NULL,NULL
+"Ida Augusta",Karlsted,2,7,12,1907,NULL,NULL
+"Frantz Mathias",Bencard,1,2,12,1907,NULL,NULL
+"Carl Christian Joachim",Hansen,1,4,12,1907,NULL,NULL
+"Johan Christian",Geert,1,14,12,1907,NULL,NULL
+"Gerda Carla",Hansen,2,6,12,1907,55.665405600000,12.519686800000
+"Anna Margrethe",Hansen,2,12,12,1907,NULL,NULL
+"Ane Margrethe Elise Vilhelmine",Hansen,2,3,12,1907,NULL,NULL
+"Gustav Frederik",Hansen,1,12,12,1907,NULL,NULL
+"Karen Marie",Bredesen,2,4,12,1907,NULL,NULL
+"Karen Marie",Bredesen,2,4,12,1907,NULL,NULL
+"Anne Henriette",Broe,2,9,12,1907,NULL,NULL
+"Anna Marie Amalie",Christiansen,2,10,12,1907,NULL,NULL
+Hansine,Hansen,2,4,12,1907,NULL,NULL
+"Carl Martin",Hansen,1,8,12,1907,NULL,NULL
+"Axel Morten",Christiansen,1,31,12,1907,NULL,NULL
+"Harald Peter",Hansen,1,18,12,1907,NULL,NULL
+"Harald Rufinus",Hansen,1,4,12,1907,NULL,NULL
+"Einar Christoffer",Hansen,1,25,12,1907,55.666192000000,12.519027200000
+"Carl Peter Christian",Christensen,1,4,12,1907,55.666093400000,12.549994100000
+"Henriette Boline",Bremer,2,4,12,1907,NULL,NULL
+"Dagmar Fernanda Antonette",Christensen,2,18,12,1907,NULL,NULL
+"Jens Christian",Holm,1,13,12,1907,55.669021400000,12.550958700000
+"Jensine Abrahamine",Holm,2,3,12,1907,NULL,NULL
+"Jensine Nicoline",Christensen,2,2,12,1907,NULL,NULL
+"Jensine Nicoline",Christensen,2,1,12,1907,NULL,NULL
+"Ellen Christine",Hansen,2,8,12,1907,NULL,NULL
+"Einer Peter",Hansen,1,4,12,1907,NULL,NULL
+"Ellen Marie",Hansen,2,3,12,1907,55.702968700000,12.583947600000
+"Emma Bendine",Hansen,2,21,12,1907,55.686120500000,12.547198000000
+"Niels Lauritz",Frederiksen,1,28,12,1907,NULL,NULL
+"Carlo Hans Alfred Theodor",Hansen,1,25,12,1907,NULL,NULL
+Eduard,Hansen,1,1,12,1907,55.670826800000,12.554402500000
+Ingeborg,Jensen,2,5,12,1907,NULL,NULL
+"Niels Peter",Jensen,1,4,12,1907,55.687473300000,12.589490500000
+"Niels Christian Nielsen",Godsk,1,16,12,1907,NULL,NULL
+Anton,Godtfredsen,1,3,12,1907,NULL,NULL
+"Thora Emilie",Geschwindtner,2,3,12,1907,NULL,NULL
+Otto,Jensen,1,9,12,1907,NULL,NULL
+"Ane Lene",Jensen,2,16,12,1907,NULL,NULL
+"Peder Kristian",Karlsen,1,20,12,1907,NULL,NULL
+"Hans Aage",Greisen,1,2,12,1907,NULL,NULL
+"Poula Marie",Greisen,2,14,12,1907,NULL,NULL
+"Jens Peter",Jensen,1,12,12,1907,NULL,NULL
+"Jens Peter",Jensen,1,19,12,1907,NULL,NULL
+"Carl Vilhelm",Grønbeck,1,29,12,1907,NULL,NULL
+"Petra Therese Constance",Jensen,2,23,12,1907,NULL,NULL
+Albin,Jensen,1,3,12,1907,NULL,NULL
+"Alfa Minerva Ellen Kirstine",Jensen,2,20,12,1907,NULL,NULL
+"Alfred Elias",Jensen,1,5,12,1907,NULL,NULL
+"Alfrida Alfamine Jacobine",Jensen,2,17,12,1907,NULL,NULL
+"Anna Marie Christiane",Jensen,2,7,12,1907,NULL,NULL
+August,Hasenclever,1,24,12,1907,NULL,NULL
+"Leo Christian Herløv",Hauptmann,1,23,12,1907,NULL,NULL
+"Arla Charlotte Eleonora",Jensen,2,1,12,1907,NULL,NULL
+"Jens Peter",Jensen,1,6,12,1907,NULL,NULL
+"Jens Peter",Jensen,1,19,12,1907,NULL,NULL
+"Giovanni Francesco",Chiarotto,1,16,12,1907,NULL,NULL
+"Arnold Ejnar Haldur",Jensen,1,4,12,1907,NULL,NULL
+"Arthur Emil",Jensen,1,6,12,1907,NULL,NULL
+"Peter Frederik Lauritz",Jensen,1,1,12,1907,NULL,NULL
+"Henry Peter Poul",Jensen,1,10,12,1907,NULL,NULL
+"Ellen Sofie Amalie",Jensen,2,31,12,1907,NULL,NULL
+Søren,Jensen,1,5,12,1907,NULL,NULL
+Harald,Hinge,1,14,12,1907,55.671901100000,12.552392000000
+"Hans Otto",Jensen,1,10,12,1907,NULL,NULL
+"Anna Elfrida Gunhilda Augusta",Clark,2,9,12,1907,NULL,NULL
+"Ida Maria",Gustafsson,2,12,12,1907,55.678119600000,12.589170500000
+Hansine,Hermansen,2,7,12,1907,NULL,NULL
+"Valdemar Peter Andreas",Jensen,1,27,12,1907,NULL,NULL
+"Carl Christian",Jensen,1,31,12,1907,NULL,NULL
+"Christian Peter",Christiansen,1,28,12,1907,NULL,NULL
+"Christian Sirius",Christiansen,1,27,12,1907,NULL,NULL
+"Holger Viggo Mørke",Jensen,1,3,12,1907,NULL,NULL
+"Jenny Sofie",Jensen,2,6,12,1907,NULL,NULL
+"Johanne Petrine",Jensen,2,12,12,1907,NULL,NULL
+"Knud Georg Vilhelm",Jensen,1,3,12,1907,NULL,NULL
+"Carl Christian",Jeppesen,1,5,12,1907,NULL,NULL
+Frandsine,Jensen,2,17,12,1907,NULL,NULL
+"Albert Carl Christen",Christensen,1,3,12,1907,NULL,NULL
+"Lydia Fransiska",Jensen,2,6,12,1907,NULL,NULL
+"Maren Christine Andrea",Jensen,2,2,12,1907,NULL,NULL
+Andreas,Hansen,1,1,12,1907,NULL,NULL
+"Beate Marie",Jønsson,2,5,12,1907,NULL,NULL
+"Emilie Laura",Jensen,2,16,12,1907,NULL,NULL
+"Karen Marie",Christensen,2,3,12,1907,NULL,NULL
+"Elisabeth Barenkob",Jensen,2,2,12,1907,NULL,NULL
+"Elise Cecilie Caroline",Jensen,2,7,12,1907,NULL,NULL
+"Elise Cecilie Caroline",Jensen,2,2,12,1907,NULL,NULL
+Jensine,Eliasen,2,12,12,1907,NULL,NULL
+Niels,Hald,1,6,12,1907,NULL,NULL
+"Bertha Elvira",Henriksen,2,19,12,1907,NULL,NULL
+"Marie Christine",Jensen,2,10,12,1907,NULL,NULL
+"Niels Christian",Henriksen,1,2,12,1907,55.681416800000,12.564007400000
+"Louise Emilie",Husmer,2,11,12,1907,NULL,NULL
+"Martin Christian",Jensen,1,13,12,1907,NULL,NULL
+"Tibert Werner",Elmlund,1,10,12,1907,55.671947200000,12.557924700000
+"Nanny Johanne Augusta",Elvin,2,6,12,1907,55.687476100000,12.558595400000
+"Mine Kirstine",Jensen,2,6,12,1907,NULL,NULL
+"Niels Christian",Jensen,1,6,12,1907,NULL,NULL
+"Martin Andersen",Halskov,1,5,12,1907,NULL,NULL
+"Gerda Marie Harriet",Høyer,2,10,12,1907,NULL,NULL
+Anders,Hansen,1,1,12,1907,NULL,NULL
+"Christian Austed",Halse,1,13,12,1907,NULL,NULL
+"Hulda Erika",Ekholm,2,2,12,1907,NULL,NULL
+"Fritz Viggo",Lundqvist,1,13,12,1907,NULL,NULL
+"Laura Christine Marie",Christiansen,2,5,12,1907,NULL,NULL
+"Adda Christine",Hansen,2,4,12,1907,NULL,NULL
+"Caroline Sophie",Eskildsen,2,7,12,1907,NULL,NULL
+Carl,Nilsson,1,16,12,1907,55.668945700000,12.549800300000
+Karolina,Eriksson,2,21,12,1907,NULL,NULL
+"Elisa Petrea Adamine Hansine Marie",Eriksen,2,7,12,1907,NULL,NULL
+"Olga Teodora",Larsen,2,1,12,1907,55.673146900000,12.560447300000
+"Emma Sofia",Eriksson,2,9,12,1907,NULL,NULL
+Peter,Mortensen,1,28,12,1907,NULL,NULL
+Marie,Larsen,2,1,12,1907,NULL,NULL
+"Carl Jürgen",Nielsen,1,14,12,1907,NULL,NULL
+"Anna Marie",Lauritzen,2,11,12,1907,NULL,NULL
+Margrethe,Madsen,2,16,12,1907,NULL,NULL
+"Edvard Martin",Nielsen,1,28,12,1907,NULL,NULL
+Axel,Nielsen,1,24,12,1907,NULL,NULL
+"Astrid Juliane Hansine",Hansen,2,10,12,1907,NULL,NULL
+"Astrid Juliane Hansine",Hansen,2,21,12,1907,NULL,NULL
+"Axel Peter Viggo",Nielsen,1,2,12,1907,NULL,NULL
+Ane,Nielsen,2,3,12,1907,NULL,NULL
+"Ellen Agnes Eleonora",Nielsen,2,5,12,1907,NULL,NULL
+"Ellen Agnes Eleonora",Nielsen,2,19,12,1907,NULL,NULL
+"Ellen Kirstine Sofie",Nielsen,2,9,12,1907,NULL,NULL
+"Fanny Emilie",Nielsen,2,4,12,1907,NULL,NULL
+"Axel Vermund August",Hansen,1,31,12,1907,NULL,NULL
+"Frederik Sixtus",Nielsen,1,10,12,1907,NULL,NULL
+"Dagmar Amalie",Jørgensen,2,10,12,1907,NULL,NULL
+"Carl Albert Victor",Larsen,1,6,12,1907,NULL,NULL
+"Henry George Charles",Maltzohn,1,23,12,1907,NULL,NULL
+"Jens Peter",Larsen,1,30,12,1907,NULL,NULL
+"Hans Peter",Nielsen,1,3,12,1907,NULL,NULL
+"Valdemar Andreas Ferdinand Johan",Manley,1,16,12,1907,NULL,NULL
+"Gustav Frederik",Hass,1,12,12,1907,NULL,NULL
+"Dagmar Julie Frederikke",Jørgensen,2,6,12,1907,NULL,NULL
+"Harald Valdemar",Nielsen,1,13,12,1907,NULL,NULL
+"Hedvig Sara Merino",Nielsen,2,19,12,1907,NULL,NULL
+"Berthine Marie",Larsen,2,3,12,1907,NULL,NULL
+"Carl August",Larsen,1,2,12,1907,NULL,NULL
+"Hans Peter",Madsen,1,17,12,1907,NULL,NULL
+"Rasmine Caroline",Marquertsen,2,6,12,1907,NULL,NULL
+"Ane Marie",Knudsen,2,22,12,1907,NULL,NULL
+"Caroline Amalie",Knudsen,2,7,12,1907,NULL,NULL
+"Jens Christian",Nielsen,1,3,12,1907,NULL,NULL
+"Jens Jørgen Christian",Nielsen,1,3,12,1907,NULL,NULL
+"Hans Jørgen Peter",Knudsen,1,13,12,1907,NULL,NULL
+"Hilda Anette Marie",Olsen,2,6,12,1907,55.673481800000,12.551184600000
+"Jens Peter",Nielsen,1,9,12,1907,NULL,NULL
+"Carl Christian",Mortensen,1,4,12,1907,NULL,NULL
+"Dagmar Johanne",Nielsen,2,12,12,1907,NULL,NULL
+"Johan Cornielius Daniel",Olsen,1,13,12,1907,NULL,NULL
+"Ida Christina",Olsson,2,3,12,1907,55.677599100000,12.567469600000
+"Ida Emilie",Olsen,2,31,12,1907,NULL,NULL
+"Edith Cathrine",Larsen,2,5,12,1907,NULL,NULL
+"Jenny Sofia",Olsson,2,6,12,1907,NULL,NULL
+"Josefine Bernadine",Olsen,2,3,12,1907,55.676783500000,12.540476800000
+"Hjalmar Marius Sofus",Johansen,1,22,12,1907,NULL,NULL
+Abraham,Heideman,1,11,12,1907,NULL,NULL
+"Ane Elise",Jørgensen,2,4,12,1907,NULL,NULL
+"Emil Ferdinand",Larsen,1,2,12,1907,NULL,NULL
+"Lars Martinus",Larsen,1,14,12,1907,NULL,NULL
+"Lauritz Peter",Larsen,1,30,12,1907,NULL,NULL
+"Louis Martin",Larsen,1,27,12,1907,NULL,NULL
+"Lydia Methea",Larsen,2,13,12,1907,NULL,NULL
+"Madsine Christiane",Larsen,2,2,12,1907,NULL,NULL
+"Lars Peter",Jørgensen,1,9,12,1907,55.687721000000,12.557956900000
+"Lars Peter",Jørgensen,1,24,12,1907,55.691233800000,12.556375400000
+"Marie Jacobine",Larsen,2,10,12,1907,NULL,NULL
+"Marie Sofie",Larsen,2,5,12,1907,NULL,NULL
+"Hanne Sofie",Larsen,2,6,12,1907,NULL,NULL
+"Gerda Constantia",Legran,2,10,12,1907,NULL,NULL
+Christian,Riis,1,18,12,1907,NULL,NULL
+"Oda Vittania Eleonora Lükretia",Olsen,2,2,12,1907,NULL,NULL
+"Ole Christian",Olsen,1,19,12,1907,NULL,NULL
+"Ole Frederik",Olsen,1,20,12,1907,NULL,NULL
+"Mathilde Dagmar",Larsen,2,6,12,1907,NULL,NULL
+"Albert Robert Walther",Larsen,1,3,12,1907,NULL,NULL
+"Alma Marie Sofie Jensine",Nielsen,2,17,12,1907,NULL,NULL
+"Anders Anton Vad",Nielsen,1,10,12,1907,NULL,NULL
+"Oluf Helmer Folmer",Larsen,1,27,12,1907,NULL,NULL
+Osvald,Larsen,1,2,12,1907,NULL,NULL
+"Petrine Sofie",Olsen,2,1,12,1907,NULL,NULL
+"Georg Emil",Mortensen,1,6,12,1907,NULL,NULL
+"Povline Rasmine",Olsen,2,5,12,1907,NULL,NULL
+"Julius Georg Hjalmar",Christiansen,1,3,12,1907,NULL,NULL
+Hilda,Mårtensen,2,21,12,1907,NULL,NULL
+"Aage Vigilius",Andersen,1,5,12,1907,55.697803600000,12.584186000000
+"Leander Abel Henning",Nielsen,1,14,12,1907,NULL,NULL
+Florian,Mejer,1,6,12,1907,NULL,NULL
+"Christian Detleff Andreas",Lembke,1,30,12,1907,NULL,NULL
+"Valdemar Peter",Larsen,1,18,12,1907,NULL,NULL
+"Dagmar Cathrine",Petersen,2,7,12,1907,NULL,NULL
+"Jenny Kristine",Freese,2,13,12,1907,55.700361700000,12.579259200000
+"Ida Caroline",Andersen,2,3,12,1907,NULL,NULL
+"Ida Marie",Andersen,2,10,12,1907,55.649740900000,12.613041700000
+"Elvertine Marie",Christensen,2,9,12,1907,NULL,NULL
+Karl,Petersen,1,5,12,1907,NULL,NULL
+"Carl Hansen Gram",Petersen,1,10,12,1907,NULL,NULL
+"Caroline Sofie",Petersen,2,5,12,1907,NULL,NULL
+"Carl Svend",Petersen,1,19,12,1907,NULL,NULL
+"Agnes Margrethe",Petersen,2,12,12,1907,NULL,NULL
+"Harald Christian",Andersen,1,10,12,1907,NULL,NULL
+"Edvard Peter Vilhelm Ludvig",Løve,1,21,12,1907,NULL,NULL
+"Sigfred Johannes",Andersen,1,6,12,1907,NULL,NULL
+"Sofie Marie Kirstine",Andersen,2,4,12,1907,NULL,NULL
+Otto,Andersen,1,10,12,1907,NULL,NULL
+Eduard,Bauer,1,6,12,1907,NULL,NULL
+"Elna Boline",Pedersen,2,1,12,1907,NULL,NULL
+"Niels Johannes Svendsen",Jørgensen,1,19,12,1907,NULL,NULL
+Christine,Petersen,2,30,12,1907,NULL,NULL
+"Christine Marie",Petersen,2,2,12,1907,NULL,NULL
+Christen,Madsen,1,30,12,1907,NULL,NULL
+Christen,Madsen,1,6,12,1907,NULL,NULL
+Viggo,Andersen,1,3,12,1907,NULL,NULL
+"Elisabeth Sophie Frederikke",Andersen,2,1,12,1907,NULL,NULL
+"Christian Frederik",Madsen,1,27,12,1907,NULL,NULL
+"Morten Laurits",Andersen,1,7,12,1907,NULL,NULL
+Maria,Karlström,2,17,12,1907,NULL,NULL
+Mary,Meisel,2,4,12,1907,NULL,NULL
+"Alfrida Antoinette",Lindballe,2,1,12,1907,NULL,NULL
+"Mathilde Gotfredine",Kongstad,2,2,12,1907,NULL,NULL
+"Meta Eleonora",Nielsen,2,31,12,1907,NULL,NULL
+"Rigmor Doris Mary",Jørgensen,2,1,12,1907,NULL,NULL
+Petrea,Andersen,2,5,12,1907,NULL,NULL
+"Rasmine Josefine",Etzerodt,2,4,12,1907,NULL,NULL
+"Karen Marie Oline",Olsen,2,4,12,1907,NULL,NULL
+Hans,Andersen,1,5,12,1907,NULL,NULL
+"Anna Marie Sofie",Petersen,2,3,12,1907,NULL,NULL
+"Georg Johan",Andersen,1,10,12,1907,NULL,NULL
+"Lily Helene Anne Kirstine",Nielsen,2,4,12,1907,55.684495000000,12.567393000000
+Anders,Petersen,1,14,12,1907,NULL,NULL
+Isidora,Pandura,2,4,12,1907,NULL,NULL
+"Anders Ferdinand",Petersen,1,4,12,1907,NULL,NULL
+"Hans Peter",Andersen,1,4,12,1907,NULL,NULL
+"Ludvig Alexander",Nielsen,1,16,12,1907,NULL,NULL
+"Peter Emil Theodor",Nielsen,1,2,12,1907,NULL,NULL
+"Niels Christian",Nielsen,1,9,12,1907,NULL,NULL
+"Holger Peter",Andersen,1,4,12,1907,NULL,NULL
+"Christine Jørgine",Andersen,2,1,12,1907,NULL,NULL
+"Jenny Frederikka",Andersson,2,2,12,1907,NULL,NULL
+Alfred,Christensen,1,14,12,1907,NULL,NULL
+"August Jacob",Larsen,1,30,12,1907,NULL,NULL
+"Ingeborg Vilhelmine Petrea",Clausen,2,3,12,1907,NULL,NULL
+"Hans Christen",Madsen,1,22,12,1907,NULL,NULL
+"Benda Rosenkrantz de Lasson",Lund,2,3,12,1907,NULL,NULL
+"Johanne Christine",Andersen,2,3,12,1907,NULL,NULL
+Thorvald,Christiansen,1,16,12,1907,NULL,NULL
+"Sidse Hansine",Nielsen,2,3,12,1907,NULL,NULL
+"Martha Betty Julie",Nielsen,2,16,12,1907,NULL,NULL
+"Clara Oda Ebba Emmy",Baes,2,12,12,1907,NULL,NULL
+"Boline Christine",Christiansen,2,28,12,1907,NULL,NULL
+"Sofus Otto",Nielsen,1,31,12,1907,55.664217100000,12.519215900000
+"Frederikke Christine",Christensen,2,9,12,1907,NULL,NULL
+"Carl Christian Frederik",Petersen,1,18,12,1907,NULL,NULL
+"Maren Sofie Kirstine",Eriksen,2,9,12,1907,NULL,NULL
+"Carla Hermana Gerda",Petersen,2,1,12,1907,NULL,NULL
+"Anna Marie",Otevald,2,18,12,1907,NULL,NULL
+"Constance Marta Elise",Christiansen,2,1,12,1907,NULL,NULL
+"Ester Elvira",Osiier,2,4,12,1907,NULL,NULL
+"Carl Johannes",Lund,1,11,12,1907,NULL,NULL
+"Alfred Hugo",Kjellin,1,7,12,1907,NULL,NULL
+"Jørgen Frederik Christian",Christensen,1,18,12,1907,NULL,NULL
+"Gudrun Marie",Christiansen,2,3,12,1907,NULL,NULL
+"Ingeborg Christiane Marie",Christiansen,2,4,12,1907,NULL,NULL
+"Edmund Christian",Kofoed,1,10,12,1907,NULL,NULL
+"Anine Kirstine",Andersen,2,9,12,1907,NULL,NULL
+Vilhelm,Nielsen,1,9,12,1907,NULL,NULL
+Marie,Christiansen,2,9,12,1907,NULL,NULL
+"Henriette Christiane Augusta",Famme,2,6,12,1907,NULL,NULL
+"Marie Dagmar",Christiansen,2,7,12,1907,NULL,NULL
+"Karen Christine",Christensen,2,1,12,1907,NULL,NULL
+"Alma Hansine",Andreasen,2,13,12,1907,NULL,NULL
+"Niels Jacob Christian",Christiansen,1,18,12,1907,NULL,NULL
+"Theodor Bernhard",Nielsen,1,10,12,1907,NULL,NULL
+Bine,Kringelhede,2,1,12,1907,NULL,NULL
+"Anna Lorenze",Boye,2,12,12,1907,55.697211200000,12.585396200000
+"Thora Marie",Nielsen,2,6,12,1907,NULL,NULL
+"Thorvald Albert",Nielsen,1,23,12,1907,NULL,NULL
+"Valborg Marie",Nielsen,2,4,12,1907,NULL,NULL
+"Richardt Hilding",Feilberg,1,31,12,1907,NULL,NULL
+"Jørgen Carl",Feldtmann,1,10,12,1907,NULL,NULL
+"Jenny Julie Constance",Eckmann,2,16,12,1907,NULL,NULL
+"Frederik Hans Peter Stephen",Frederiksen,1,5,12,1907,NULL,NULL
+"Karen Marie",Christensen,2,2,12,1907,NULL,NULL
+"Agnes Josefa Godthardine",Kromann,2,2,12,1907,NULL,NULL
+"Søren Jensen Bech",Lundbech,1,20,12,1907,NULL,NULL
+Rigmor,Lindner,2,24,12,1907,NULL,NULL
+"Anna Kirstine",Christensen,2,2,12,1907,NULL,NULL
+"Maren Kirstine",Hansen,2,6,12,1907,NULL,NULL
+"Anthon Frederik Christian",Flensborg,1,16,12,1907,NULL,NULL
+"Anna Marie",Christensen,2,3,12,1907,NULL,NULL
+"Hildur Catarina",Bomann,2,16,12,1907,NULL,NULL
+"Anna Marie Johanne",Christensen,2,6,12,1907,NULL,NULL
+"Richard Magnus",Lindström,1,3,12,1907,55.673199600000,12.559254500000
+"Anna Camilla",Olsen,2,18,12,1907,NULL,NULL
+"Johanne Vilhelmine Marie",Lund,2,5,12,1907,NULL,NULL
+"Henry Viggo Vilhelm",Frederiksen,1,22,12,1907,NULL,NULL
+"Ottilie Marie",Christensen,2,13,12,1907,NULL,NULL
+"Håkon Frederik Emil",Brædstrup,1,27,12,1907,NULL,NULL
+August,Baumann,1,23,12,1907,NULL,NULL
+"Birtha Antonette",Olsen,2,10,12,1907,NULL,NULL
+"Johanne Sophie",Hansen,2,5,12,1907,NULL,NULL
+Jensine,Hansen,2,5,12,1907,NULL,NULL
+"Julie Kamilla",Hansen,2,4,12,1907,55.696656700000,12.580877300000
+"Julie Mathilde",Hansen,2,7,12,1907,NULL,NULL
+"Maren Sofie",Hansen,2,1,12,1907,55.678639300000,12.587016600000
+"Henrikke Abelone Regine",Knudsen,2,14,12,1907,NULL,NULL
+"Henrikke Abelone Regine",Knudsen,2,22,12,1907,NULL,NULL
+"Agnes Valborg",Hansen,2,3,12,1907,55.696836300000,12.583998600000
+"Edvard Wilhelm",Pfeil,1,31,12,1907,55.671981500000,12.545464800000
+"Hans Emil",Hansen,1,4,12,1907,55.680596600000,12.584671000000
+"Charlotte Sofie",Carlsen,2,5,12,1907,55.699496900000,12.576772800000
+"Enok Sigurd Allan",Fritz,1,12,12,1907,55.713546800000,12.572957100000
+"Enok Sigurd Allan",Fritz,1,21,12,1907,55.715004600000,12.573884100000
+"Helga Antonie",Fritz,2,7,12,1907,55.714944000000,12.572584300000
+"Carl William Petersen",Pindal,1,28,12,1907,NULL,NULL
+"Carl William Petersen",Pindal,1,13,12,1907,NULL,NULL
+"Niels Peter",Hansen,1,18,12,1907,NULL,NULL
+Karoline,Olsen,2,14,12,1907,NULL,NULL
+"Julius Theodor",Pless,1,12,12,1907,NULL,NULL
+Cathrine,Olsen,2,2,12,1907,NULL,NULL
+"Nora Jenny",Hansen,2,2,12,1907,NULL,NULL
+"Olaf Trygve",Hansen,1,2,12,1907,55.713679700000,12.573271500000
+"Hans Sofus Emil",Hansen,1,11,12,1907,NULL,NULL
+"Hans Martinus",Hansen,1,7,12,1907,NULL,NULL
+Christian,Olsen,1,24,12,1907,NULL,NULL
+"Anders Peter",Miland,1,31,12,1907,NULL,NULL
+"Helga Camilla",Hansen,2,6,12,1907,NULL,NULL
+"Ellen Cathrine",Hansen,2,4,12,1907,NULL,NULL
+"Hans Jacob",Hansen,1,4,12,1907,55.705241400000,12.579084700000
+"Ingeborg Elisabeth Christiane",Hansen,2,18,12,1907,NULL,NULL
+"Ingeborg Kirstine",Hansen,2,1,12,1907,NULL,NULL
+"Inger Laurine",Hansen,2,7,12,1907,NULL,NULL
+"Elna Johanne Sofie",Hansen,2,3,12,1907,55.703481800000,12.577698000000
+"Henrik Peter Julius",Hansen,1,11,12,1907,NULL,NULL
+"Elna Sofie Valborg",Hansen,2,5,12,1907,55.694589000000,12.578692700000
+"Fanny Ingeborg Georgia",Hansen,2,6,12,1907,55.694169300000,12.587545500000
+"Ferdinandine Henriette Nicoline",Hansen,2,5,12,1907,55.697664400000,12.574348000000
+Christian,Beck,1,5,12,1907,NULL,NULL
+"Emilie Rudolfine Hjalmardine",Markussen,2,2,12,1907,NULL,NULL
+Otto,Berg,1,18,12,1907,NULL,NULL
+"Florentine Otilie Lyngberg",Christensen,2,5,12,1907,NULL,NULL
+"Christiane Marie",Christensen,2,7,12,1907,NULL,NULL
+"Astrid Emilie",Halvorsen,2,2,12,1907,55.688865000000,12.558467000000
+"Carl Georg Mickael Hesselberg",Møller,1,20,12,1907,NULL,NULL
+"Gunnar Smith-",Møller,1,19,12,1907,NULL,NULL
+"Ejner Sigurd",Olsen,1,1,12,1907,NULL,NULL
+"Ella Vilhelmine",Olsen,2,2,12,1907,NULL,NULL
+"Fanny Margrethe",Busk,2,3,12,1907,NULL,NULL
+"Marie Christine",Neuendam,2,7,12,1907,NULL,NULL
+"Hans Jørgen Hansen",Nerup,1,20,12,1907,NULL,NULL
+"Valdemar Christian",Gotfredsen,1,28,12,1907,55.712337400000,12.559601600000
+"Ellen Lillian Signe",Norén,2,4,12,1907,55.687342200000,12.592583000000
+"Ellen Lillian Signe",Norén,2,29,12,1907,NULL,NULL
+"Fritz Vilhelm",Mathisen,1,8,12,1907,NULL,NULL
+"Ellen Andrea",Bergqvist,2,30,12,1907,NULL,NULL
+"Vilhelmine Margrethe",Bergmann,2,5,12,1907,NULL,NULL
+"Jens Christian Peter",Henriksen,1,5,12,1907,55.714355600000,12.575414700000
+"Jens Peter",Henriksen,1,17,12,1907,NULL,NULL
+"Thomas Vilhelm Albert",Christensen,1,19,12,1907,NULL,NULL
+"Inger Hansine",Mathiesen,2,2,12,1907,NULL,NULL
+"Caroline Theodora Marie Sofie",Hartig,2,3,12,1907,55.714400100000,12.569815500000
+"Ane Johanne Christiansen",Greis,2,1,12,1907,NULL,NULL
+"Petra Frederikke Christine",Hansen,2,4,12,1907,NULL,NULL
+"Agnes Emilie",Mouritzen,2,19,12,1907,NULL,NULL
+"Villiam Hjalmar",Hansen,1,7,12,1907,55.683876900000,12.567891800000
+"Anna Henriette",Henriksen,2,12,12,1907,55.669714800000,12.555536400000
+"August Frithiof",Buxbom,1,3,12,1907,55.693782000000,12.569330600000
+"Axel Christian",Hay,1,3,12,1907,55.673481800000,12.551184600000
+"Helga Christine",Nielsen,2,5,12,1907,NULL,NULL
+"Ester Marie",Hedengren,2,5,12,1907,55.675926500000,12.565867600000
+"Nora Henriette Caroline",Mauritzen,2,16,12,1907,NULL,NULL
+"Dagny Marie Vilhelmine",Nielsen,2,7,12,1907,NULL,NULL
+"Hans Valdemar Oluf",Nielsen,1,6,12,1907,NULL,NULL
+"Jens Julius (Kl. Skov)",Nielsen,1,12,12,1907,NULL,NULL
+"Robert Lauritz",Hegenfeldt,1,6,12,1907,55.687528200000,12.590415200000
+Marinus,Berthelsen,1,13,12,1907,NULL,NULL
+"Harald Emil Oskar",Nielsen,1,12,12,1907,NULL,NULL
+"Axel Ingvar Theodor",Holst,1,9,12,1907,55.706689500000,12.581372100000
+"Axel Ingvar Theodor",Holst,1,17,12,1907,55.715050200000,12.575570900000
+"Helga Jensine Henriette",Nielsen,2,3,12,1907,NULL,NULL
+"Ingeborg Christine Frederikke",Iversen,2,11,12,1907,55.663749300000,12.600091700000
+Sofie,Byberg,2,2,12,1907,NULL,NULL
+"Niels Jensen",Iversen,1,31,12,1907,55.689367000000,12.584185300000
+"Hertha Mathilde",Holst,2,7,12,1907,55.681569200000,12.590554700000
+"Anna Cathrine",Huss,2,6,12,1907,55.672145400000,12.561956500000
+"Henry Dahm",Nielsen,1,16,12,1907,NULL,NULL
+"Magna Sofie",Jappe,2,6,12,1907,55.694169300000,12.587545500000
+"Margrethe Kristine",Nielsen,2,3,12,1907,NULL,NULL
+Christen,Jensen,1,16,12,1907,55.699838500000,12.578261900000
+"Olga Johanne",Nielsen,2,1,12,1907,NULL,NULL
+"Edvard Peter Eskild",Nielsen,1,27,12,1907,NULL,NULL
+"Astrid Elvira Ingeborg",Handest,2,14,12,1907,55.684747900000,12.588286500000
+"Mary Catarine",Bystrøm,2,31,12,1907,NULL,NULL
+Cathrine,Jensen,2,24,12,1907,NULL,NULL
+"Julie Mathilde Cathrine",Bønnelykke,2,2,12,1907,NULL,NULL
+"Ingeborg Marie Vilhelmine",Nielsen,2,24,12,1907,NULL,NULL
+"Niels Jørgen",Nielsen,1,16,12,1907,NULL,NULL
+"Oline Rasmine",Nielsen,2,4,12,1907,NULL,NULL
+"Hans Dines",Jensen,1,30,12,1907,NULL,NULL
+"Johanne Sofie",Nielsen,2,2,12,1907,55.703907700000,12.586994300000
+"Holga Christiane Martense",Ingvorsen,2,4,12,1907,NULL,NULL
+"Olaf Valdemar",Nielson,1,30,12,1907,NULL,NULL
+"Holger Carl Henry",Hiltoft,1,13,12,1907,NULL,NULL
+"Josef Natanael",Jacobsen,1,19,12,1907,NULL,NULL
+"Ingeborg Magdalen",Birck,2,5,12,1907,NULL,NULL
+"Martha Margrethe",Jacobsen,2,12,12,1907,55.701155500000,12.580745500000
+"Petra Louise",Jacobsen,2,10,12,1907,NULL,NULL
+Maren,Nielsen,2,6,12,1907,NULL,NULL
+"Jørgen Peter",Nielsen,1,2,12,1907,NULL,NULL
+"Hansine Caroline",Nielsen,2,3,12,1907,NULL,NULL
+"Johanne Augusta",Nielsen,2,2,12,1907,NULL,NULL
+"Ane Margrethe",Blæsbjerg,2,5,12,1907,NULL,NULL
+"Inda Arito Peter",Podemsky,2,16,12,1907,55.692956000000,12.555699600000
+"Steffen Frederik Ludvig",Nielsen,1,31,12,1907,55.683612700000,12.581713800000
+"Kai Jørgen Staffeldt",Nielsen,1,31,12,1907,NULL,NULL
+"Laura Caroline Olafine",Nielsen,2,2,12,1907,NULL,NULL
+"August Richard Heinrich",Klose,1,4,12,1907,55.684336500000,12.565873200000
+"Jørgen Martin Georg",Jensen,1,11,12,1907,NULL,NULL
+Michael,Kihke,1,27,12,1907,55.707684300000,12.586540700000
+"Marie Frederikke",Jensen,2,3,12,1907,55.671668500000,12.574536900000
+"Vigil Alfons",Nielsen,1,24,12,1907,NULL,NULL
+"Mary Oda Charlotte Frederikke",Jensen,2,7,12,1907,NULL,NULL
+"Karen Marie",Jensen,2,16,12,1907,NULL,NULL
+"Martha Olivia",Olsen,2,1,12,1907,NULL,NULL
+"Laura Cecilie",Kjeldsen,2,5,12,1907,55.677971100000,12.591606100000
+"Olga Caroline Christine",Olsen,2,7,12,1907,NULL,NULL
+"Marie Rasmussen",Kjeldsen,2,12,12,1907,55.675074800000,12.591762900000
+"Jakob Sundby",Jakobsen,1,31,12,1907,55.684770300000,12.569566200000
+"Agnes Laura Georgina",Jensen,2,2,12,1907,55.698988300000,12.578399900000
+"Olga Hansine",Olsen,2,2,12,1907,NULL,NULL
+Oluf,Olsen,1,13,12,1907,NULL,NULL
+"Jens Christian",Kjær,1,14,12,1907,NULL,NULL
+"Jean Aage Christian",Jensen,3,22,12,1907,NULL,NULL
+"Anna Flora Johanne",Heltner,2,9,12,1907,NULL,NULL
+"Christian Harald Nielsen",Lund,1,17,12,1907,NULL,NULL
+"Jenny Marie Thora",Jensen,2,30,12,1907,55.699641200000,12.578427400000
+"Vilhelmine Cathinka",Ottosen,2,2,12,1907,NULL,NULL
+"Johanne Marie",Larsen,2,7,12,1907,55.671975300000,12.546761000000
+"Johannes Peter",Larsen,1,2,12,1907,55.697828200000,12.544424500000
+"Jørgen Frederik",Larsen,1,28,12,1907,NULL,NULL
+"Anna Mariane",Hermann,2,10,12,1907,55.684141200000,12.587379600000
+"Martha Marie",Lynard,2,18,12,1907,NULL,NULL
+"Christian Andreas",Lyngbye,1,31,12,1907,NULL,NULL
+"Emilie Elisabet",Hermansen,2,2,12,1907,NULL,NULL
+"Frantz Johannes",Larsen,1,5,12,1907,NULL,NULL
+Axel,Kjølhede,1,17,12,1907,55.697745800000,12.586613000000
+"Gudrun Hulda Florida",Klammz,2,2,12,1907,NULL,NULL
+Ingrid,Klanderud,2,30,12,1907,55.697128200000,12.580155000000
+"Lars Peter",Larsen,1,2,12,1907,NULL,NULL
+"Laura Margrethe",Larsen,2,7,12,1907,55.687620900000,12.561871300000
+Harald,Jensen,1,3,12,1907,55.664296700000,12.583531900000
+"Anna Caroline",Larsen,2,3,12,1907,55.695049300000,12.578114400000
+"Anna Johanne",Larsen,2,5,12,1907,NULL,NULL
+"Fritz Theodor",Larsen,1,5,12,1907,NULL,NULL
+"Georg Peter",Larsen,1,27,12,1907,55.709062500000,12.585804800000
+"Henriette Sofie",Jensen,2,5,12,1907,NULL,NULL
+"Antonius Marinus",Jensen,1,16,12,1907,NULL,NULL
+"Agnes Margrethe",Henningsen,2,12,12,1907,NULL,NULL
+"Agnes Marie Charlotte",Olsen,2,5,12,1907,55.701710100000,12.548900000000
+"Gustav Frederik",Larsen,1,28,12,1907,55.704041000000,12.588537400000
+"Peter Johannes",Larsen,1,5,12,1907,55.691746600000,12.566254000000
+"Søren Peter",Madsen,1,23,12,1907,NULL,NULL
+"Carla Johanne Catrine",Larsen,2,11,12,1907,NULL,NULL
+"Amanda Marie Sofie",Crawack,2,3,12,1907,NULL,NULL
+"Petra Andrea Sofie",Jensen,2,2,12,1907,55.698124700000,12.582139300000
+"Jens Peter",Jensen,1,10,12,1907,NULL,NULL
+"Carl Gustav",Jensen,1,24,12,1907,55.665332600000,12.609254400000
+"Regina Kirstine Sofie",Larsen,2,1,12,1907,55.700465100000,12.585217700000
+"Ane Cathrine",Nielsen,2,1,12,1907,NULL,NULL
+"Anna Christine",Christensen,2,1,12,1907,NULL,NULL
+"Anna Christine",Christensen,2,2,12,1907,NULL,NULL
+"Amalie Christine",Mogensen,2,19,12,1907,NULL,NULL
+"Anders Martinus",Madsen,1,19,12,1907,NULL,NULL
+"Florentinus Emil",Olsen,1,14,12,1907,NULL,NULL
+"Jens Severin",Jensen,1,2,12,1907,55.703092800000,12.583910700000
+"Harriet Anna Gredsted",Larsen,2,6,12,1907,NULL,NULL
+"Svend August",Petersen,1,2,12,1907,55.696151500000,12.545833800000
+"Hans Isaak",Honoré,1,1,12,1907,NULL,NULL
+"Camilla Marie",Sørensen,2,3,12,1907,NULL,NULL
+"Ingeborg Elisabeth Dorthea",Larsen,2,14,12,1907,55.669850900000,12.548154000000
+"Hans Rasmus",Petersen,1,13,12,1907,NULL,NULL
+Ragnar,Nøhr,1,3,12,1907,NULL,NULL
+"Anna Margrethe Oliva",Munch,2,4,12,1907,55.690705000000,12.574763900000
+"Martin August",Petersen,1,18,12,1907,55.678691300000,12.575533300000
+"Anna Jørgine Elisabet",Markussen,2,1,12,1907,NULL,NULL
+"Agnes Laurine",Sørensen,2,19,12,1907,NULL,NULL
+"Hans Alfred",Marcussen,1,11,12,1907,NULL,NULL
+"Carla Caroline",Sørensen,2,10,12,1907,55.671435100000,12.550860100000
+"Caroline Mathilde Johanne",Sørensen,2,13,12,1907,55.696687200000,12.585903600000
+"Theodor Julius Leopold",Jensen,1,20,12,1907,55.690024800000,12.559385600000
+"Friedrik Emil",Martin,1,10,12,1907,NULL,NULL
+"Friedrik Emil",Martin,1,11,12,1907,NULL,NULL
+"Jørgen Hansen",Petersen,1,6,12,1907,NULL,NULL
+"Herman Holger",Qvist,1,10,12,1907,55.672383400000,12.556612700000
+"Julie Nielsine Christine",Pedersen,2,3,12,1907,NULL,NULL
+"Knud Christian Hansen",Løve,1,9,12,1907,NULL,NULL
+"Anna Emilie",Jørgensen,2,3,12,1907,55.702216700000,12.580969900000
+Augusta,Olsson,2,4,12,1907,55.676206300000,12.541966000000
+"Marie Malene",Schou,2,24,12,1907,55.709062500000,12.585804800000
+Frederikke,Mortensen,2,4,12,1907,NULL,NULL
+"Charlotte Amalie",Rasmussen,2,4,12,1907,NULL,NULL
+Ludvig,Johansen,1,3,12,1907,55.715131200000,12.575868400000
+"Ludvig Martin",Johansen,1,6,12,1907,55.690505400000,12.573053200000
+"Anna Marie",Jeppesen,2,2,12,1907,55.695264100000,12.578556900000
+Vilhelm,Petersen,1,15,12,1907,NULL,NULL
+Olivia,Mattisdotter,2,12,12,1907,55.685041200000,12.582924300000
+"Ellen Christine",Rasmussen,2,5,12,1907,NULL,NULL
+Camilla,Jørgensen,2,2,12,1907,55.694916800000,12.546363900000
+"Munck Hermann",Johansen,1,31,12,1907,NULL,NULL
+"Oscar Thorvald",Jeppesen,1,2,12,1907,NULL,NULL
+"Carl Gustaf Adolf",Johansson,1,3,12,1907,55.701743000000,12.550056500000
+"Christine Laurine",Jørgensen,2,5,12,1907,NULL,NULL
+"Dagmar Margrethe",Jørgensen,2,4,12,1907,55.697745800000,12.586613000000
+"Dagmar Charlotte",Johannessen,2,30,12,1907,55.688140900000,12.557106400000
+Ellen,Petersen,2,5,12,1907,NULL,NULL
+Peter,Rasmussen,1,4,12,1907,NULL,NULL
+Christian,Sønnesen,1,12,12,1907,NULL,NULL
+Gotfred,Petersen,1,19,12,1907,55.688501700000,12.561708500000
+Karoline,Mortensen,2,2,12,1907,NULL,NULL
+"Frits Jonas",Johansen,1,27,12,1907,55.698366700000,12.575665400000
+Sofie,Sørensen,2,6,12,1907,NULL,NULL
+"Emilie Augusta",Petersen,2,2,12,1907,NULL,NULL
+"Gustaf Daniel",Johansson,1,4,12,1907,55.678798400000,12.569129300000
+"Emma Elisabeth",Jørgensen,2,5,12,1907,55.677973800000,12.590555300000
+Hanne,Jørgensen,2,2,12,1907,55.700809100000,12.580101200000
+"Peter Christian",Petersen,1,11,12,1907,NULL,NULL
+"Peter Christian",Petersen,1,28,12,1907,NULL,NULL
+"Peter Corfitz",Pedersen,1,13,12,1907,NULL,NULL
+"Peter Mullitsgaard",Petersen,1,9,12,1907,NULL,NULL
+"Peter Niels",Petersen,1,12,12,1907,NULL,NULL
+"Peter Niels",Petersen,1,28,12,1907,NULL,NULL
+"Amalie Kirstine",Nielsen,2,3,12,1907,NULL,NULL
+"Amalie Sofie",Nielsen,2,4,12,1907,NULL,NULL
+"Charles Marius",Søeberg,1,5,12,1907,55.698296700000,12.585474000000
+"Karen Christine Sophie",Pedersen,2,2,12,1907,55.686772200000,12.586489100000
+"Hansine Henriette",Schultz,2,2,12,1907,NULL,NULL
+"Petra Constance Antonnette Kirstine",Rasmussen,2,2,12,1907,NULL,NULL
+"Oluf Vilhelm",Petersen,1,13,12,1907,NULL,NULL
+"Oluf Vilhelm",Petersen,1,21,12,1907,NULL,NULL
+"Hans Christian",Sørensen,1,31,12,1907,55.705271000000,12.579364100000
+Rigmor,Petersen,2,13,12,1907,NULL,NULL
+"Hulda Agathe",Thomsen,2,29,12,1907,NULL,NULL
+"Johanne Henriette Georgia",Thomsen,2,2,12,1907,55.695033200000,12.569381100000
+"Agnes Catinka Johanne",Petersen,2,5,12,1907,NULL,NULL
+"Ejnar Julius Jehring",Petersen,1,10,12,1907,NULL,NULL
+"Agnes Sofie",Petersen,2,4,12,1907,NULL,NULL
+"Hans Meinert",Meinertsen,1,9,12,1907,NULL,NULL
+"Anders Peter",Petersen,1,27,12,1907,NULL,NULL
+"Carl Johan Christensen",Vejnaa,1,13,12,1907,55.714895700000,12.572598600000
+"Villiam Julius Fjord",Petersen,1,5,12,1907,NULL,NULL
+Gisli,Sveinsson,1,10,12,1907,NULL,NULL
+"Thora Missussa",Petersen,2,13,12,1907,NULL,NULL
+Marie,Skriver,2,7,12,1907,NULL,NULL
+"Ingjerd Hedvig Amalie",Petersen,2,11,12,1907,NULL,NULL
+"Georg Henrik",Petersen,1,17,12,1907,NULL,NULL
+"Gerda Johanne",Petersen,2,12,12,1907,NULL,NULL
+"Otto Lauritz",Pedersen,1,17,12,1907,NULL,NULL
+"Christine Johanne",Lauritsen,2,2,12,1907,NULL,NULL
+"Alfred Albert",Kofoed,1,3,12,1907,NULL,NULL
+"Anna Hansine Kirstine",Sørensen,2,9,12,1907,NULL,NULL
+"Sexta Sofie Octavia",Weinrich,2,3,12,1907,55.681658800000,12.562589200000
+"Carl Peder",Pedersen,1,18,12,1907,NULL,NULL
+"Helga Amalie Georgine",Petersen,2,23,12,1907,55.671077900000,12.543072500000
+"Carl Theodor",Pedersen,1,28,12,1907,NULL,NULL
+"Hans Christian Frederik",Petersen,1,1,12,1907,55.664793200000,12.548755300000
+"Jens Peter",Pedersen,1,13,12,1907,NULL,NULL
+"Else Amalie",Møller,2,19,12,1907,55.681550600000,12.592729400000
+"Ane Marie Karoline",Sørensen,2,1,12,1907,NULL,NULL
+"Johanne Christine Amalie",Petersen,2,5,12,1907,NULL,NULL
+"Julie Constance",Petersen,2,1,12,1907,NULL,NULL
+Peter,Sørensen,1,11,12,1907,NULL,NULL
+"Anna Nielsine",Sørensen,2,3,12,1907,NULL,NULL
+"Laura Anine Johanne",Lippert,2,14,12,1907,NULL,NULL
+"Anna Marie Elisabeth",Vest,2,2,12,1907,55.679792900000,12.591855600000
+"Peter Valdemar Georg",Sørensen,1,17,12,1907,NULL,NULL
+"Rise Dorthea Marie",Krogh,2,12,12,1907,NULL,NULL
+Conrad,Petersen,1,3,12,1907,NULL,NULL
+"Inger Karen Andrea Nicoline",Krapper,2,14,12,1907,55.694967500000,12.572512700000
+"Søren Albert Needhart",Sørensen,1,3,12,1907,NULL,NULL
+"Ivan Rudolf",Kronqvist,1,6,12,1907,55.708010100000,12.563116200000
+"Karen Sofie",Sørensen,2,3,12,1907,NULL,NULL
+"Sørine Marie",Sørensen,2,5,12,1907,55.672679800000,12.553734500000
+Valborg,Rasmussen,2,4,12,1907,NULL,NULL
+Hajmann,Kriwoschew,1,18,12,1907,55.690344300000,12.565107300000
+"Frederik Rudolf",Poulsen,1,12,12,1907,NULL,NULL
+"Jens Christian",Petersen,1,2,12,1907,55.677117100000,12.587997900000
+"Theodora Elisa Petrea",Sørensen,2,2,12,1907,NULL,NULL
+Christian,Nielsen,1,4,12,1907,NULL,NULL
+"Anders Peter",Nielsen,1,4,12,1907,NULL,NULL
+"Rasmus Rasmussen",Kværndrup,1,10,12,1907,NULL,NULL
+"Kaj Christian Ludvig",Thrane,1,6,12,1907,55.678780400000,12.587322200000
+"Maria Helene Petrea",Sørensen,2,11,12,1907,NULL,NULL
+"Marie Petrea",Sørensen,2,12,12,1907,NULL,NULL
+"Gunnar Victor Esaias",Thagesen,1,20,12,1907,55.699939200000,12.579596500000
+"Mads Christensen",Thalund,1,20,12,1907,NULL,NULL
+"Johannes Albert",Petersen,1,5,12,1907,NULL,NULL
+"Hulda Amalie Sofie",Tarp,2,1,12,1907,NULL,NULL
+Karen,Petersen,2,13,12,1907,NULL,NULL
+"Karen Helga Marie",Petersen,2,3,12,1907,NULL,NULL
+"Karen Kirstine",Pedersen,2,3,12,1907,55.676400000000,12.576139600000
+Niels,Sørensen,1,6,12,1907,NULL,NULL
+"Ellen Sofie Franciska",Lademann,2,5,12,1907,NULL,NULL
+"Hansine Ane Kirstine",Rasmussen,2,28,12,1907,NULL,NULL
+"Jacob Christian",Raagaard,1,10,12,1907,NULL,NULL
+"Martin Thomsen",Reinholdt,1,14,12,1907,55.684941500000,12.569777600000
+Felix,Lang,1,18,12,1907,NULL,NULL
+"Maren Kirstine",Poulsen,2,16,12,1907,55.670843800000,12.543204200000
+"Baldur Carl",Rasmussen,1,4,12,1907,NULL,NULL
+"Svend Oscar Julius",Svendsen,1,30,12,1907,55.672356500000,12.549830900000
+"Andrea Sofie",Molander,2,2,12,1907,NULL,NULL
+"Alfred Rasmus",Nielsen,1,10,12,1907,NULL,NULL
+"Ove Holger Thorvald",Willadsen,1,9,12,1907,NULL,NULL
+"Lilly Alma Margarite Badstrup",Petersen,2,6,12,1907,55.656623300000,12.609348000000
+"Henriette Albertine",Rasmussen,2,14,12,1907,55.697292600000,12.579555200000
+"Jenny Johanne",Winther,2,2,12,1907,55.702194400000,12.582262000000
+"Jensine Margrethe",Rasmussen,2,2,12,1907,NULL,NULL
+Ingeborg,Rasmussen,2,14,12,1907,55.668945700000,12.549800300000
+"Alvilde Louise",Nielsen,2,5,12,1907,NULL,NULL
+Knud,Rasmussen,1,31,12,1907,NULL,NULL
+"Martin Jørgensen",Udsen,1,13,12,1907,NULL,NULL
+"Carl Viggo Christian",Paulsen,1,23,12,1907,55.671009300000,12.546357900000
+"Thorvald Frederik",Schjøtt,1,8,12,1907,NULL,NULL
+"Johan August",Svensson,1,8,12,1907,NULL,NULL
+"Niels Ferdinand",Petersen,1,21,12,1907,55.689465900000,12.564273100000
+Axel,Rescke,1,2,12,1907,NULL,NULL
+"Hans Christian",Rugaard,1,14,12,1907,NULL,NULL
+Richard,Sandmann,1,28,12,1907,NULL,NULL
+"Niels Peder",Pedersen,1,1,12,1907,55.668945700000,12.549800300000
+"Hans Ludvig",Langhoff,1,20,12,1907,NULL,NULL
+Leslav,Piasecki,1,24,12,1907,NULL,NULL
+"Peter Hjalmar",Petersen,1,1,12,1907,NULL,NULL
+"Alfred Christian",Svendsen,1,14,12,1907,NULL,NULL
+"Pouline Frederikke",Petersen,2,1,12,1907,55.680926300000,12.573141300000
+"Carla Marie Therese Nielsine",Hansen,2,13,12,1907,NULL,NULL
+"Marie Emilie",Sørensen,2,20,12,1907,55.668382600000,12.553213100000
+Christine,Nielsen,2,4,12,1907,NULL,NULL
+Christine,Nielsen,2,4,12,1907,NULL,NULL
+"Anna Christine Johanne",Nielsen,2,6,12,1907,NULL,NULL
+"Anna Elisabeth",Nilsson,2,23,12,1907,NULL,NULL
+"Anna Elisabeth Cecilie",Nielsen,2,3,12,1907,NULL,NULL
+"Jens Peter",Poulsen,1,19,12,1907,NULL,NULL
+"Ingeborg Helga",Poulsen,2,7,12,1907,NULL,NULL
+"Villiam Hjalmar Thorvald",Petersen,1,4,12,1907,55.668357600000,12.550956200000
+"Hilda Charlotte",Svensson,2,2,12,1907,NULL,NULL
+"Emmy Hertha",Skjødt,2,7,12,1907,NULL,NULL
+"Carl Otto",Schaff,1,3,12,1907,NULL,NULL
+"Yrsa Minka Harriet Anna",Petersen,2,28,12,1907,NULL,NULL
+"Niels Peter",Sørensen,1,2,12,1907,55.665702600000,12.554750100000
+"Louise Marie",Møller,2,4,12,1907,NULL,NULL
+"Margrethe Kirstine",Møller,2,12,12,1907,55.706178100000,12.578555300000
+"Gudrun Holmfrida",Narfason,2,13,12,1907,55.702064600000,12.582582500000
+"Anna Marie Charlotte",Spendrup,2,6,12,1907,55.698984200000,12.586571400000
+"Hansine Juliane",Nielsen,2,6,12,1907,NULL,NULL
+"Niels Anker",Sørensen,1,18,12,1907,55.678946700000,12.567870000000
+"Ane Margrethe",Nielsen,2,4,12,1907,NULL,NULL
+"Poul Eduard Victor",Sørensen,1,3,12,1907,NULL,NULL
+Ida,Sandberg,2,31,12,1907,NULL,NULL
+"Søren Nielsen",Sørensen,1,17,12,1907,NULL,NULL
+"Rudolf Ricard Emil",Seiler,1,13,12,1907,NULL,NULL
+"Niels Martin",Thorsen,1,31,12,1907,NULL,NULL
+"Otto Niels",Svendsen,1,11,12,1907,NULL,NULL
+"Hilda Lovise Ingeborg",Riisberg,2,5,12,1907,55.668150000000,12.550241100000
+"Jens Peter",Willumsen,1,2,12,1907,NULL,NULL
+"Pouline Christiane Margrethe",Stick,2,2,12,1907,NULL,NULL
+"Søren Christian",Rohden,1,4,12,1907,55.671330300000,12.564396300000
+Rasmus,Ærenlund,1,31,12,1907,NULL,NULL
+"Edgar Carl Anton",Thustrup,1,12,12,1907,NULL,NULL
+"Georg Johannes",Øskov,1,3,12,1907,55.680812800000,12.573370900000
+"Carl Emil Hjalmar Johannes",Taube,1,27,12,1907,NULL,NULL
+"Ingvardt Viisholm",Thomsen,1,16,12,1907,NULL,NULL
+"Niels Christian",Vigh,1,12,12,1907,55.666539300000,12.550666000000
+"Martine Elisabeth Julie K?",Rintza,2,3,12,1907,55.671927400000,12.552702100000
+"Niels Henry Olsen",Østvang,1,1,12,1907,NULL,NULL
+"Olga Caroline",Valbom,2,19,12,1907,NULL,NULL
+"Henriette Marie",Tietcke,2,28,12,1907,NULL,NULL
+"Otto Martinus",Strand,1,3,12,1907,NULL,NULL
+"Victor Johannes",Seibæk,1,3,12,1907,NULL,NULL
+"Mette Marie",Rosenberg,2,28,12,1907,55.691800300000,12.556732000000
+"Laurits Christian Thomas Laursen",Stubtoft,1,4,12,1907,NULL,NULL
+"Annine Laurine",Hansen,2,3,12,1907,NULL,NULL
+Ole,Hansen,1,11,12,1907,55.687884000000,12.586004800000
+"Jens Peter",Jensen,1,17,12,1907,NULL,NULL
+"Per Fridolf",Rosenqvist,1,5,12,1907,NULL,NULL
+Christian,Sønnesen,1,12,12,1907,NULL,NULL
+"Adolf Dyrendal",Rosenlund,1,4,12,1907,55.682485600000,12.578850200000
+"Juris Ans",Rosenwald,1,4,12,1907,55.666394000000,12.547179500000
+"Claudine Lamberta",Untidt,2,16,12,1907,55.698323600000,12.578839300000
+"Eline Mathilde",Jacobsen,2,31,12,1907,NULL,NULL
+"Carla Thora Emilie",Sundby,2,13,12,1907,NULL,NULL
+"Jens Christian",Skibsted,1,5,12,1907,55.689468800000,12.573226000000
+"Hans Emanuel",Hansen,1,6,12,1907,NULL,NULL
+"Hans Jørgen",Willer,1,20,12,1907,NULL,NULL
+George,Willumsen,1,12,12,1907,NULL,NULL
+"Mads Andreas Laursen",Vedersøe,1,6,12,1907,55.703459500000,12.584512400000
+"Anna Elisabeth",Schmidt,2,10,12,1907,NULL,NULL
+"Herman Andreas",Wilsen,1,14,12,1907,NULL,NULL
+"Marie Caroline Johanne",Tvede,2,20,12,1907,NULL,NULL
+"Niels Peter Marius",Tønning,1,2,12,1907,NULL,NULL
+"Hans Frederik",Jensen,1,11,12,1907,NULL,NULL
+"Antonette Oluffa Sofie",Wingaard,2,4,12,1907,55.677085800000,12.588442400000
+"Harald Viggo",Hansen,1,2,12,1907,NULL,NULL
+"Anna Jensine Eline",Løfkvist,2,30,12,1907,NULL,NULL
+Samuel,Ragoitsky,1,9,12,1907,NULL,NULL
+August,Uldall,1,18,12,1907,NULL,NULL
+"Hjalmar Edvard Emil",Ullner,1,20,12,1907,NULL,NULL
+"Erik Torkild",Ulrichsen,1,8,12,1907,NULL,NULL
+"Terese Frederikke",Bertelsen,2,13,12,1907,55.694629700000,12.546446600000
+"Helmuth Valdemar",Hansson,1,21,12,1907,55.664746200000,12.606509600000
+"Gerhard Edvard Ukil",Streton,1,22,12,1907,55.671946400000,12.550783900000
+Poul,Struve,1,4,12,1907,NULL,NULL
+Jens,Hansen,1,31,12,1907,NULL,NULL
+"Johan Henrik Henriksson",Raty,1,4,12,1907,NULL,NULL
+"Jens Peter",Hansen,1,14,12,1907,NULL,NULL
+"Søren Martin",Leth,1,8,12,1907,NULL,NULL
+"Axel Klingenberg",Andersen,1,31,12,1907,55.690407600000,12.562203900000
+"Rasmus Jørgen Rasmussen",Vadstrup,1,14,12,1907,NULL,NULL
+"Peter Emil Frederik",Hansen,1,17,12,1907,55.698623100000,12.542668100000
+"Hans Wilhelm",Sandrup,1,20,12,1907,NULL,NULL
+"Mathilde Victoria",Boeck,2,10,12,1907,NULL,NULL
+"Anders Peter",Andersen,1,14,12,1907,55.668760400000,12.553928600000
+"Anna Christine",Andersen,2,1,12,1907,55.680683800000,12.588481400000
+"Jørgen Lauritz Julius","Hansen kaldet Jørgen Vognmand",1,30,12,1907,NULL,NULL
+"Oda Martha",Røper,2,3,12,1907,NULL,NULL
+"Anna Maria Sofie",Hansen,2,10,12,1907,NULL,NULL
+"Carla Christine",Jensen,2,5,12,1907,NULL,NULL
+"Christian Peter",Wulff,1,13,12,1907,55.690446000000,12.558808800000
+"Niels Christian",Andersen,1,3,12,1907,55.696334000000,12.544911100000
+Peter,Andersen,1,6,12,1907,NULL,NULL
+"Carl Herman",Hansen,1,6,12,1907,55.695414300000,12.545849200000
+"Maren Hansine",Hansen,2,9,12,1907,NULL,NULL
+"Victor Christian",Siegmann,1,24,12,1907,NULL,NULL
+Botilda,Hansson,2,2,12,1907,55.675973200000,12.543003900000
+"Emmy Henriette Marie Kirstine",Reinwald,2,4,12,1907,NULL,NULL
+"Anna Eleonora Frederikke",Hansen,2,3,12,1907,55.688777700000,12.560082300000
+"Carl Christian Osvald",Andersen,1,1,12,1907,NULL,NULL
+"Emilie Sofie Marie",Andersen,2,4,12,1907,NULL,NULL
+"Helga Johanne",Rindom,2,13,12,1907,NULL,NULL
+"Marie Christensen",Søberg,2,7,12,1907,NULL,NULL
+"Ingrid Christine Cordula",Jensen,2,12,12,1907,NULL,NULL
+"Christian Vilhelm",Bigler,1,28,12,1907,NULL,NULL
+Emil,Hansen,1,16,12,1907,NULL,NULL
+"Aage Vilhelm",Christiansen,1,2,12,1907,NULL,NULL
+"Frands Peder",Andersen,1,16,12,1907,NULL,NULL
+"Frederik Marius Emanuel",Andersen,1,24,12,1907,NULL,NULL
+"Sven Carl Rudolf",Andersen,1,11,12,1907,NULL,NULL
+"Petrea Sofie Mathilde",Jacobsen,2,3,12,1907,55.691435600000,12.553505600000
+Juul,Christensen,1,23,12,1907,NULL,NULL
+"Herselia Ingeborg Louise",Andersen,2,3,12,1907,55.689780100000,12.573885900000
+"Søren Christian",Hansen,1,24,12,1907,55.684908100000,12.566541900000
+"Fredy Sofie Braband",Hansen,1,31,12,1907,NULL,NULL
+"Dagmar Amalie",Hein,2,2,12,1907,NULL,NULL
+"Viggo Hjalmar Georg",Hansen,1,10,12,1907,NULL,NULL
+Vilhelm,Hansen,1,4,12,1907,55.679765600000,12.589585500000
+"Johan Arnold Edvard Michael",Heinrich,1,5,12,1907,NULL,NULL
+"Victor Alexander",Clausen,1,15,12,1907,NULL,NULL
+"Jørgen Peter",Ipsen,1,5,12,1907,NULL,NULL
+Christine,Carlsen,2,5,12,1907,NULL,NULL
+"Johannes Richard",Andersen,1,5,12,1907,NULL,NULL
+"Aage William Christian",Jensen,1,21,12,1907,NULL,NULL
+"Mathilde Olofsdotter",Robert,2,20,12,1907,NULL,NULL
+"Alfred Sophus",Hansen,1,7,12,1907,NULL,NULL
+"Johanne Marie",Jeppsson,2,7,12,1907,55.672306400000,12.548098700000
+"Marie Thomine Kirstine",Isager,2,13,12,1907,NULL,NULL
+"Adolf Poul Albert Constantin",Horn,1,21,12,1907,NULL,NULL
+"Angla Nielsine",Koch,2,1,12,1907,55.656021500000,12.612147000000
+"Harald Thorvald",Holst,1,11,12,1907,NULL,NULL
+Marie,Olsen,2,30,12,1907,55.706929700000,12.518196400000
+"Christa Berthea",Clemmensen,2,2,12,1907,NULL,NULL
+"Julie Theresia",Nielsen,2,2,12,1907,NULL,NULL
+"Bodil Cathrine",Helsing,2,31,12,1907,NULL,NULL
+"Ane Kirstine",Jensen,2,9,12,1907,NULL,NULL
+Martin,Olsen,1,13,12,1907,55.698238700000,12.545281700000
+Mathilda,Olsson,2,9,12,1907,55.697148700000,12.558559700000
+"Jens Einer",Nielsen,1,9,12,1907,NULL,NULL
+"Jens Peter",Nielsen,1,4,12,1907,NULL,NULL
+"Karen Jensine",Jensen,2,5,12,1907,NULL,NULL
+"Jens Peter",Nielsen,1,7,12,1907,NULL,NULL
+"Karen Marie Jensine",Nielsen,2,31,12,1907,NULL,NULL
+"Anna Laurine Marie",Hansen,2,3,12,1907,NULL,NULL
+"Anna Margrethe",Hansen,2,14,12,1907,NULL,NULL
+"Johanne Marie",Madsen,2,10,12,1907,NULL,NULL
+"Andrea Østergaard",Petersen,2,18,12,1907,NULL,NULL
+"Leonard von",Eysden,1,28,12,1907,NULL,NULL
+"Anders Oluf",Eriksen,1,5,12,1907,NULL,NULL
+"Astrid Signe",Eriksen,2,7,12,1907,NULL,NULL
+"Valdemar Kritel",Nielsen,1,11,12,1907,55.694655400000,12.543720400000
+"Valdemar Eduard Simon",Lorentzen,1,13,12,1907,NULL,NULL
+"Anna Bothilde",Jørgensen,2,11,12,1907,NULL,NULL
+"Valdemar  Thorvald Linder",Nielsen,1,8,12,1907,55.668849200000,12.554555700000
+"Betty Margrethe Sofie",Hansen,2,6,12,1907,NULL,NULL
+"Carl Peter",Jørgensen,1,4,12,1907,NULL,NULL
+"Carl Axel Valdemar v. Fromber Gerdes",Hansen,1,8,12,1907,NULL,NULL
+"Carl Andreas Martin Jensen",Øskov,1,9,12,1907,NULL,NULL
+"Carl Rasmus Marius",Hansen,1,14,12,1907,NULL,NULL
+"Karla Sørentine Rudolphine",Hansen,2,5,12,1907,NULL,NULL
+"Helga Nathalia Eleonora",Lundahl,2,19,12,1907,NULL,NULL
+Christian,Hansen,1,19,12,1907,NULL,NULL
+Richard,Eriksson,1,29,12,1907,55.699612100000,12.541182400000
+"Max Herman",Phillipp,1,16,12,1907,NULL,NULL
+"Christian Frederik",Hansen,1,2,12,1907,NULL,NULL
+"Christen Nielsen",Hansen,1,13,12,1907,NULL,NULL
+"Laura Sofie",Henriksen,2,5,12,1907,NULL,NULL
+Jens,Oster,1,7,12,1907,NULL,NULL
+"Clara Magdalene Kirstine",Hansen,2,2,12,1907,55.683073200000,12.572740200000
+"Ellen Margrethe Henriette",Olsen,2,3,12,1907,NULL,NULL
+"Lars Marius",Larsen,1,5,12,1907,NULL,NULL
+"Julius Frederik",Ohlmann,1,7,12,1907,NULL,NULL
+"Anna Margrethe Jensine Christine",Pedersen,2,2,12,1907,55.704950600000,12.578027400000
+"Mette Marie",Nielsen,2,5,12,1907,NULL,NULL
+"Nathalie Feodorovna",Lundqvist,2,6,12,1907,55.700351000000,12.540932000000
+"Marie Dorthea",Jensen,2,2,12,1907,NULL,NULL
+Olga,Larsen,2,9,12,1907,NULL,NULL
+"Edith Ingeborg",Hansson,2,10,12,1907,NULL,NULL
+"Christian Johannes",Nielsen,1,21,12,1907,NULL,NULL
+"Christian Marius",Nielsen,1,1,12,1907,NULL,NULL
+"Oluf Valdemar",Larsen,1,6,12,1907,NULL,NULL
+"Anna Dorthea Jensine",Christensen,2,9,12,1907,NULL,NULL
+Marius,Jensen,1,3,12,1907,NULL,NULL
+"Ole Michael",Olsen,1,6,12,1907,NULL,NULL
+"Knud Peter Holm",Jørgensen,1,6,12,1907,NULL,NULL
+"Anna Marie",Olsen,2,6,12,1907,NULL,NULL
+"Hansine Johanne",Post,2,27,12,1907,NULL,NULL
+"Charles August Hjort",Petersen,1,6,12,1907,55.677716900000,12.574473500000
+Mary,Jørgensen,2,1,12,1907,NULL,NULL
+"Metha Jacobine",Jørgensen,2,2,12,1907,NULL,NULL
+"Nathalie Marie Julie",Jørgensen,2,4,12,1907,NULL,NULL
+"Alfred Mauritz",Lundström,1,21,12,1907,55.680649400000,12.591982600000
+"Dagmar Vilhelmine Eleonora",Rasmussen,2,28,12,1907,NULL,NULL
+"Nielsine Marie",Jørgensen,2,3,12,1907,NULL,NULL
+"Lydia Marie Kirstine",Marding,2,4,12,1907,NULL,NULL
+"Christian Alfred",Mathiesen,1,17,12,1907,NULL,NULL
+"Christen Theodor Christensen",Bjerg,1,12,12,1907,55.701456800000,12.547915600000
+Paul,Jacob,1,23,12,1907,55.664634200000,12.515348900000
+"Helga Marie",Christoffersen,2,7,12,1907,NULL,NULL
+Anna,Tandrup,2,16,12,1907,NULL,NULL
+"Aage Hans Weiben",Theill,1,18,12,1907,55.685200000000,12.566882100000
+"Harald Emil",Rasmussen,1,10,12,1907,55.698342900000,12.545397400000
+"Ella Christine",Lundsted,2,3,12,1907,55.665003500000,12.513365200000
+"Georg Christian",Møller,1,9,12,1907,NULL,NULL
+"Clara Oline Elisabeth",Petersen,2,11,12,1907,NULL,NULL
+"Ferdinand Christian",Olsen,1,15,12,1907,NULL,NULL
+"Carl Christian",Petersen,1,10,12,1907,NULL,NULL
+"Thora Andrea",Kyhn,2,23,12,1907,55.657374000000,12.519778300000
+"Emil Vilhelm",Hansen,1,28,12,1907,55.659750600000,12.607173900000
+"Emmy Fransiska",Hansen,2,20,12,1907,55.671675300000,12.592437700000
+"Clara Birgitte Emilie",Formann,2,3,12,1907,NULL,NULL
+"Dorthea Kirstine",Sørensen,2,4,12,1907,NULL,NULL
+Hans,Olsen,1,30,12,1907,NULL,NULL
+"Hans Christian",Olsen,1,23,12,1907,55.688408400000,12.557811400000
+Johan,Ekdahl,1,18,12,1907,55.730308300000,12.564234500000
+Julius,Petersen,1,18,12,1907,NULL,NULL
+"Jørgen Vilhelm",Petersen,1,22,12,1907,NULL,NULL
+"Hans Peter Christian",Nielsen,1,4,12,1907,NULL,NULL
+"Louis Frederik Johan",Poulsen,1,20,12,1907,NULL,NULL
+"Jørgen Nielsen",Paulsen,1,2,12,1907,NULL,NULL
+"Waldemar Carl Frederik",Jørgensen,1,30,12,1907,NULL,NULL
+"Jes Jørgen",Nielsen,1,21,12,1907,NULL,NULL
+"Thorvald Hultmann",Poulsen,1,5,12,1907,55.699612100000,12.541182400000
+"Herman Otto",Lang,1,2,12,1907,55.665492700000,12.549150000000
+"Harald Knud",Toft,1,27,12,1907,NULL,NULL
+"Ingeborg Elisabeth",Nielsen,2,18,12,1907,NULL,NULL
+Anna,Olsen,2,1,12,1907,55.674245600000,12.564271800000
+"Carl Joachim Georg",Behlendorff,1,27,12,1907,NULL,NULL
+Christine,Andersson,2,4,12,1907,55.701245200000,12.577723000000
+"Thora Alexandra Frederikke",Schønbeck,2,4,12,1907,55.700264400000,12.546358200000
+"Elvira Amalie",Richter,2,6,12,1907,NULL,NULL
+Ellen,Andersen,2,9,12,1907,NULL,NULL
+"Carl Josef",Rizek,1,31,12,1907,NULL,NULL
+"Carl Josef",Rizek,1,2,12,1907,NULL,NULL
+"Hans Valdemar",Blanch,1,14,12,1907,55.672003400000,12.545890800000
+"Anna Christine Bendix",Larsen,2,3,12,1907,55.681416800000,12.564007400000
+Oluf,Jensen,1,9,12,1907,55.691898200000,12.545272700000
+"Johanne Marie",Nielsen,2,7,12,1907,55.699370300000,12.546029400000
+"Ida Johanne",Andersen,2,2,12,1907,NULL,NULL
+"Carl Vilhelm",Larsen,1,21,12,1907,NULL,NULL
+"Carl Vilhelm",Larsen,1,9,12,1907,55.667370300000,12.549917400000
+"Thekla Amalie",Frenning,2,11,12,1907,55.687473300000,12.589490500000
+"Jens Peter",Petersen,1,3,12,1907,55.687503300000,12.557994700000
+"Anton Christian Marinus",Larsen,1,3,12,1907,NULL,NULL
+"Peter Heinrich",Friberg,1,1,12,1907,NULL,NULL
+"Alfred Martin",Thomsen,1,4,12,1907,NULL,NULL
+"Victor Johannes",Jacobsen,1,11,12,1907,55.689399100000,12.557048600000
+"Carla Alexandra",Selzer,2,4,12,1907,NULL,NULL
+"Theodora Christiane",Christensen,2,18,12,1907,NULL,NULL
+"Olga Vilhelmine",Trasborg,2,2,12,1907,NULL,NULL
+"Johannes Vilhelm",Olsen,1,23,12,1907,55.700812600000,12.548394000000
+"Ludvig Vilhelm",Jensen,1,9,12,1907,55.669732200000,12.550189200000
+"Jenny Margrethe Caja",Beck,2,4,12,1907,NULL,NULL
+Faivel,Fridman,1,5,12,1907,55.679724400000,12.571150700000
+"Agnes Helga",Simonsen,2,1,12,1907,NULL,NULL
+"Olaf Frederik",Larsen,1,17,12,1907,55.677453900000,12.581889800000
+"Elvine Mary Caroline",Førsterling,2,4,12,1907,55.669214800000,12.549778100000
+"Ingeborg Oline",Holm,2,13,12,1907,55.696917400000,12.586695900000
+"Maren Jensine",Sørensen,2,2,12,1907,NULL,NULL
+"Peter Marius",Larsen,1,12,12,1907,55.674285000000,12.590507000000
+"Harald Valdemar",Gade,1,16,12,1907,55.668740300000,12.553737800000
+Jørgen,Petersen,1,2,12,1907,55.691813800000,12.544465600000
+"Niels Peder",Holmsø,1,13,12,1907,55.693654900000,12.542404800000
+"Christian Henrik",Hansen,1,11,12,1907,NULL,NULL
+"Lauritz Ferdinand Christian",Holm,1,1,12,1907,NULL,NULL
+"Lucie Cathrine Jochumsen",Holm,2,7,12,1907,55.697898000000,12.543712400000
+"Lars Andreas",Thuesen,1,14,12,1907,NULL,NULL
+"Marie Theresia Josefa Emilie",Breum,2,4,12,1907,55.655434000000,12.518918700000
+"Frantz Johann",Egger,1,9,12,1907,NULL,NULL
+"Agnes Bertine",Rasmussen,2,6,12,1907,NULL,NULL
+"Martha Dagmar",Tvenstrup,2,18,12,1907,NULL,NULL
+"Anna Maria",Brorstrøm,2,19,12,1907,NULL,NULL
+"Sofus Peter",Elling,1,7,12,1907,55.686983800000,12.582852300000
+Georg,Gleaves,1,3,12,1907,NULL,NULL
+Karen,Fugl,2,1,12,1907,NULL,NULL
+"Poul Christian",Østergaard,1,10,12,1907,55.698010800000,12.542609800000
+"Liser Litmann",Petanikov,1,23,12,1907,NULL,NULL
+"Henrik Søren",Nielsen,1,24,12,1907,NULL,NULL
+"Henrik Søren",Nielsen,1,21,12,1907,NULL,NULL
+"Nielsine llaurine",Nielsen,2,4,12,1907,NULL,NULL
+"Holger Charles Emanuel",Nielsen,1,24,12,1907,55.698632400000,12.553196500000
+"Rasmusen Peter Marius",Madsen,1,19,12,1907,55.663749300000,12.600091700000
+Valborg,Goldschmieding,2,16,12,1907,NULL,NULL
+"Jens Peter",Nielsen,1,16,12,1907,55.668707600000,12.553163900000
+"Anders Peter",Pedersen,1,2,12,1907,55.664567100000,12.515503700000
+"Inge Kirstine Johanne",Nielsen,2,31,12,1907,55.662453400000,12.601949800000
+Poul,Wetterholtz,1,9,12,1907,55.678726200000,12.574796400000
+"Svend Christian Laursen",Graversen,1,27,12,1907,NULL,NULL
+"Anna Marie",Petersen,2,5,12,1907,NULL,NULL
+"Ane Marie Henriette",Petersen,2,9,12,1907,NULL,NULL
+Lauritz,Rasmussen,1,4,12,1907,NULL,NULL
+"Anna Marie Pouline",Sørensen,2,2,12,1907,NULL,NULL
+"Aage Elvar Ludvig Hugo",Sølving,1,3,12,1907,NULL,NULL
+"Alma Mariane Nielsine",Sørensen,2,7,12,1907,NULL,NULL
+"Niels Andreas From",Petersen,1,5,12,1907,NULL,NULL
+"Niels Peter Alexander",Petersen,1,1,12,1907,NULL,NULL
+"Niels Peter Georg",Petersen,1,11,12,1907,NULL,NULL
+"Johan Carl Christian Julius",Nielsen,1,11,12,1907,NULL,NULL
+"Nielsine Petrine",Pedersen,2,7,12,1907,NULL,NULL
+"Hans Peter",Haagensen,1,3,12,1907,55.681119100000,12.588303400000
+"Anna Margrethe Olivia",Olsen,2,1,12,1907,NULL,NULL
+"Marchen Petrine",Wass,2,18,12,1907,NULL,NULL
+"Carla Helena",Mikkelsen,2,2,12,1907,NULL,NULL
+"Karen Kirstine",Rasmussen,2,2,12,1907,NULL,NULL
+"Olga Elisa Bolette",Petersen,2,5,12,1907,NULL,NULL
+"Oluf Christian",Petersen,1,13,12,1907,NULL,NULL
+"Jens Christian",Rasmussen,1,13,12,1907,NULL,NULL
+"Lauritz Erhardt",Rasmussen,1,5,12,1907,NULL,NULL
+"Ella Johanne Hansine",Olsen,2,1,12,1907,NULL,NULL
+"Oskar Emanuel Frederik",Petersen,1,21,12,1907,NULL,NULL
+"Anna Karen Bertha",Hansen,2,6,12,1907,NULL,NULL
+Peder,Weigner,1,23,12,1907,55.670551500000,12.549989000000
+"Birtha Marie",Jørgensen,2,2,12,1907,NULL,NULL
+"Jens Frederik August",Jørgensen,1,9,12,1907,NULL,NULL
+"Jørgine Kirstine",Jørgensen,2,1,12,1907,55.693749400000,12.586242300000
+"Thora Carlfrida Dagmar",Jørgensen,2,3,12,1907,NULL,NULL
+Tidman,Pedersen,3,9,12,1907,NULL,NULL
+Tidman,Pedersen,3,6,12,1907,55.686755400000,12.554099400000
+"Peter Bach",Petersen,1,27,12,1907,NULL,NULL
+Erik,Vesterberg,1,29,12,1907,NULL,NULL
+"Doris Edy",Vogelsang,2,18,12,1907,NULL,NULL
+"Robert Olaf",Petersen,1,6,12,1907,55.688850900000,12.572738600000
+"Hans Christian",Møller,1,10,12,1907,NULL,NULL
+"Alma Kristine Kristiansen",Lohse,2,3,12,1907,NULL,NULL
+"Robert Andreas",Petersen,1,29,12,1907,NULL,NULL
+"Frits Emil",Pedersen,1,4,12,1907,NULL,NULL
+"Sigurd Dorph",Petersen,1,4,12,1907,NULL,NULL
+Christian,Hermansen,1,19,12,1907,55.692254500000,12.544776800000
+"Ernst Carl Vilhelm",Hertel,1,24,12,1907,NULL,NULL
+"Ingeborg Dagmar Augusta",Mouritzen,2,1,12,1907,NULL,NULL
+"Johanne Margrethe",Mouritsen,2,8,12,1907,NULL,NULL
+Martin,Nylander,1,8,12,1907,NULL,NULL
+"Clara Frederikke",Villendrup,2,31,12,1907,55.684912800000,12.584744100000
+"Emmy Johanne",Salling,2,3,12,1907,NULL,NULL
+"Sofus Alfred",Jensen,1,10,12,1907,55.692032900000,12.544166500000
+"Lydia Josefina",Larsdotter,2,4,12,1907,55.698816600000,12.552342600000
+"Helmer Alexander",Schrøder,1,12,12,1907,NULL,NULL
+"Julie Gundhilda",Johansen,2,1,12,1907,NULL,NULL
+"Lars Herman Emil",Hjertstedt,1,30,12,1907,NULL,NULL
+"Ane Margrethe",Plomberg,2,5,12,1907,NULL,NULL
+"Frederik Holger",Petersen,1,2,12,1907,NULL,NULL
+"Frederik Emil Arnold Lorentz",Spengler,1,23,12,1907,NULL,NULL
+"August Ernst",Spottog,1,7,12,1907,NULL,NULL
+"Ane Kathrine",Spottog,2,7,12,1907,NULL,NULL
+"Olivia Angelica",Spottog,2,7,12,1907,NULL,NULL
+"Holger Carl",Sprogøe,1,21,12,1907,55.691727600000,12.544176500000
+"Alma Larsine",Nielsen,2,9,12,1907,NULL,NULL
+"Mary Gudrun",Steckhahn,2,2,12,1907,NULL,NULL
+Alvilda,Laursen,2,4,12,1907,NULL,NULL
+"Valdemar Martinus Theodor",Madsen,1,10,12,1907,NULL,NULL
+"Christine Marie Farcinca",Leth,2,1,12,1907,NULL,NULL
+"Carl Christian",Rasmussen,1,30,12,1907,NULL,NULL
+"Alfa Erica",Rasmussen,2,1,12,1907,NULL,NULL
+"Villads August",Kjær,1,30,12,1907,NULL,NULL
+"Christian Mikael",Nielsen,1,11,12,1907,NULL,NULL
+"Emma Emilie",Klein,2,13,12,1907,55.698724900000,12.554669900000
+Søren,Sørensen,1,20,12,1907,NULL,NULL
+"Christian Emanuel",Petersen,1,18,12,1907,55.681580500000,12.562625700000
+Daniel,Søndergaard,1,31,12,1907,NULL,NULL
+"Thorvald Axel Einar",Larsen,1,6,12,1907,NULL,NULL
+Carl,Skaarup,1,6,12,1907,NULL,NULL
+"Otto Carl",Bjørnebo,1,29,12,1907,NULL,NULL
+"Frans Emil Sigfred",Gyllenborg,1,4,12,1907,NULL,NULL
+"Einar Viggo Niels",Isberg,1,2,12,1907,NULL,NULL
+"Claudine Kirstine",Pedersen,2,21,12,1907,NULL,NULL
+"Waldemar Peter",Jensen,1,15,12,1907,NULL,NULL
+"Niels Oluf",Frederiksen,1,5,12,1907,NULL,NULL
+"Nancy Rigmor Alvilda",Rasmussen,2,4,12,1907,NULL,NULL
+"Erik Rasmus",Gunlaugson,1,6,12,1907,NULL,NULL
+"Rosa Charlotte Sigfrede",Graabæk,2,1,12,1907,NULL,NULL
+"Frederik Nathanael",Gall,1,2,12,1907,NULL,NULL
+Aage,Nielsen,1,17,12,1907,55.695867500000,12.572963500000
+Jakob,Pedersen,1,4,12,1907,NULL,NULL
+"Niels Lauritz Valdemar",Larsen,1,15,12,1907,NULL,NULL
+"Svend Adolf Holm",Jørgensen,1,19,12,1907,NULL,NULL
+"Alma Johanne",Ambrosiusen,2,2,12,1907,NULL,NULL
+"Carla Petra",Andersen,2,14,12,1907,55.703462600000,12.581563500000
+"Emil Kristian",Andersen,1,10,12,1907,NULL,NULL
+Hans,Andersen,1,2,12,1907,55.667501500000,12.549907900000
+Søren,Andersen,1,18,12,1907,NULL,NULL
+"Vilhelmine Ottosine",Andersen,2,6,12,1907,55.684729800000,12.569313800000
+"Johan Vilhelm",Andersson,1,5,12,1907,NULL,NULL
+Lars,Arvidsson,1,15,12,1907,NULL,NULL
+"Augusta Sofie Frederikke",Beck,2,1,12,1907,55.693109100000,12.576650900000
+"Aage Karl Otto",Becker,1,3,12,1907,55.681644500000,12.572494400000
+Heinrich,Beich,1,18,12,1907,NULL,NULL
+"Petra Alexandra",Blichfeldt,2,10,12,1907,NULL,NULL
+"Nathalie Nicoline",Boch,2,5,12,1907,NULL,NULL
+"Harriet Vilhelmine Frederikke Johanne Olga",Bohse,2,10,12,1907,NULL,NULL
+"Frederikke Mathilde",Bovedt,2,9,12,1907,NULL,NULL
+"Julie Emilie Auguste",Braasch,2,24,12,1907,NULL,NULL
+Aamund,Bredesen,1,4,12,1907,NULL,NULL
+"Johannes Valdemar",Bregnager,1,3,12,1907,NULL,NULL
+Alvilda,Bressendorff,2,24,12,1907,55.689254100000,12.571867900000
+"Amalie Frederikke Caroline",Bretzuer,2,4,12,1907,55.704720200000,12.578693400000
+"Emma Marie Cathrine",Breuning,2,19,12,1907,NULL,NULL
+Sven,Brobeck,1,12,12,1907,NULL,NULL
+"Carl Frederik",Christensen,1,27,12,1907,55.685774900000,12.549023700000
+Christen,Christensen,1,12,12,1907,NULL,NULL
+Christine,Christensen,2,28,12,1907,55.701514300000,12.581379900000
+"Thomas Christian Marinus",Christensen,1,20,12,1907,NULL,NULL
+"Johannes Emil",Christiansen,1,19,12,1907,55.677932800000,12.588326900000
+"Thorvald Marius",Christiansen,1,30,12,1907,NULL,NULL
+"Olivia Hansine",Claudevitz,2,4,12,1907,55.695378500000,12.578783700000
+"Claus Langhaar",Clausen,1,13,12,1907,55.678730100000,12.574982500000
+"Frode Bernhard Emanuel",Clemmensen,1,31,12,1907,55.689247800000,12.559947500000
+"Dagmar Marie",Eriksen,2,3,12,1907,55.687036800000,12.559280800000
+Axel,Eskildsen,1,4,12,1907,55.698144600000,12.579876300000
+Kirsten,Espensen,2,1,12,1907,NULL,NULL
+"Christian Thomas Henrik",Fensmark,1,14,12,1907,NULL,NULL
+"Jens Josephsen",Filtenborg,1,16,12,1907,NULL,NULL
+"Hans Alfred",Fjeldsted,1,7,12,1907,55.704135800000,12.589555800000
+"Johan Andersson (Andreas)",Forsberg,1,24,12,1907,NULL,NULL
+"Lars Peter Viggo",Fredelund,1,4,12,1907,NULL,NULL
+"Carl Peter Marius",Frederiksen,1,24,12,1907,55.697345800000,12.575511300000
+"Ole Peter",Frederiksen,1,13,12,1907,NULL,NULL
+"Ole Peter",Frederiksen,1,23,12,1907,55.669214900000,12.555393800000
+"Carl Christian Emil",Funck,1,12,12,1907,55.677932800000,12.588326900000
+"Valdemar Jørgen Roger",Funcke,1,29,12,1907,NULL,NULL
+Ingeborg,Grevsen,2,6,12,1907,NULL,NULL
+"Axel Christian Marinus",Hald,1,17,12,1907,NULL,NULL
+"Arnold Sigfred Niels",Hansen,1,21,12,1907,55.688306300000,12.561484800000
+"Boline Dorthea",Hansen,2,2,12,1907,NULL,NULL
+"Carl Christian",Hansen,1,10,12,1907,NULL,NULL
+Emilie,Hansen,2,3,12,1907,55.715146900000,12.574873200000
+"Hjalmar Morten",Hansen,1,12,12,1907,NULL,NULL
+"Maren Oline",Hansen,2,3,12,1907,55.683242000000,12.586645100000
+Martinus,Hansen,1,18,12,1907,55.673134400000,12.589620200000
+"Otto Rav",Hansen,1,16,12,1907,NULL,NULL
+Søren,Hansen,1,20,12,1907,55.681656300000,12.580249400000
+Amanda,Hein,2,1,12,1907,55.666396200000,12.549997100000
+"August Peter",Heller,1,12,12,1907,55.700325900000,12.579805700000
+"Hans Peter",Herløw,1,6,12,1907,NULL,NULL
+"Alexander Rudolf Peter",Hilden,1,18,12,1907,NULL,NULL
+"Asmus Jørgen",Hinrichsen,1,14,12,1907,NULL,NULL
+"Hans Peter Hansen",Holm,1,18,12,1907,55.680917400000,12.588283700000
+"Johanne Margrethe",Holm,2,28,12,1907,NULL,NULL
+"Therese Karoline",Hyller,2,1,12,1907,NULL,NULL
+"Carl Christian",Jensen,1,24,12,1907,NULL,NULL
+"Caroline Henriette",Jensen,2,6,12,1907,55.674993000000,12.548294800000
+Christine,Jensen,2,3,12,1907,55.670720500000,12.590077500000
+"Emil Christian",Jensen,1,7,12,1907,55.670836400000,12.591784800000
+"Frederik Carl Christian",Jensen,1,24,12,1907,55.686983400000,12.559454500000
+"Hans Vilhelm",Jensen,1,3,12,1907,NULL,NULL
+"Inger Helene Christine",Jensen,2,30,12,1907,NULL,NULL
+"Inger Marie",Jensen,2,1,12,1907,55.706398800000,12.487835700000
+"Julius Ferdinand Andreas",Jensen,1,16,12,1907,55.713868300000,12.570874200000
+Karen,Jensen,2,11,12,1907,55.655305400000,12.520388500000
+"Maren Kirstine",Jensen,2,7,12,1907,55.668735200000,12.554053300000
+"Niels Bertel",Jensen,1,15,12,1907,NULL,NULL
+"Olga Noomi Oluffa",Jensen,2,9,12,1907,NULL,NULL
+Peder,Jensen,1,4,12,1907,55.670477700000,12.562407000000
+Peder,Jensen,1,5,12,1907,55.671330300000,12.564396300000
+"Peter Marius",Jensen,1,5,12,1907,NULL,NULL
+"Samson Andreas Olaf",Johannessen,1,30,12,1907,55.688140900000,12.557106400000
+"Andreas Peter",Johansen,1,6,12,1907,55.687551800000,12.562074000000
+"Axel Christian",Johansen,1,1,12,1907,NULL,NULL
+"Marie Nielsine",Johnsen,2,2,12,1907,55.693985000000,12.569643900000
+"Dorthea Margrethe",Jørgensen,2,5,12,1907,NULL,NULL
+"Jens Peter",Jørgensen,1,17,12,1907,55.686881800000,12.581056400000
+Lars,Jørgensen,1,11,12,1907,55.681607100000,12.583336300000
+"Magnus Andreas Carl",Jørgensen,1,5,12,1907,NULL,NULL
+"Hans Peter Nielsen",Kjærgaard,1,1,12,1907,55.700463400000,12.579440300000
+"Peter Vilhelm August",Kjærulf,1,10,12,1907,NULL,NULL
+Ove,Knudsen,1,9,12,1907,55.668805800000,12.549811600000
+"Knudithe Marie",Larsen,3,30,12,1907,NULL,NULL
+"Laurits Peter",Larsen,1,27,12,1907,NULL,NULL
+"Marie Elisabeth","Larsen (g. Christensen)",2,16,12,1907,55.685251800000,12.585874800000
+"Marius Jensen Einar",Larsen,1,14,12,1907,55.682483800000,12.577427200000
+Søren,Larsen,1,16,12,1907,55.665599100000,12.557311700000
+"Ulrikke Sofie",Larsen,2,1,12,1907,55.677235500000,12.587903000000
+"Hansine Vilhelmine Marie",Leth,2,28,12,1907,NULL,NULL
+"Henrik Christian",Lundager,1,14,12,1907,NULL,NULL
+"Anders Svendsen",Lundby,1,7,12,1907,55.661139900000,12.606940800000
+"Carl Wilhelm",Lundgreen,1,14,12,1907,NULL,NULL
+Inger,Månsson,2,17,12,1907,NULL,NULL
+"Christian Godtfred",Madsen,1,30,12,1907,NULL,NULL
+"Mads Peter",Madsen,1,9,12,1907,NULL,NULL
+"Magnus Vilhelm Edvard",Mathisen,1,27,12,1907,55.686645000000,12.588461800000
+"Juliette Marie Eleonora",Munkvig-Petersen,2,13,12,1907,55.669327200000,12.557858000000
+"Wilhelm Otto",Märker,1,12,12,1907,55.689647000000,12.572837800000
+"Johan Lauritz",Møller,1,18,12,1907,NULL,NULL
+"Peter Andersen",Møller,1,10,12,1907,55.683662800000,12.574140500000
+"Anna Margretha",Nielsen,2,31,12,1907,55.664217100000,12.519215900000
+"Christiane Harpøth",Nielsen,2,17,12,1907,55.671839100000,12.592114500000
+"Emma Lydia",Nielsen,2,7,12,1907,55.680259500000,12.584290400000
+Frederikke,Nielsen,2,5,12,1907,55.697614100000,12.550758300000
+"Frederikke Jensine",Nielsen,2,19,12,1907,NULL,NULL
+Hans,Nielsen,1,1,12,1907,NULL,NULL
+"Hans Henrich",Nielsen,1,16,12,1907,NULL,NULL
+Niels,Nielsen,1,8,12,1907,55.670864800000,12.552824500000
+"Niels Christian Jacob Andreas",Nielsen,1,31,12,1907,55.689399100000,12.557048600000
+"Niels Janus Bjerre",Nielsen,1,24,12,1907,55.694277000000,12.543793600000
+"Niels Valdemar",Nielsen,1,29,12,1907,NULL,NULL
+"Rasmus Blicher",Nielsen,1,2,12,1907,55.701743000000,12.550056500000
+"Søren Christian",Nielsen,1,2,12,1907,55.679840900000,12.589322200000
+"Carl Ludvig Ingemann",Nonnegaard,1,31,12,1907,55.688406300000,12.557437800000
+"Carl Oscar",Nørring,1,5,12,1907,NULL,NULL
+"Christian Andreas Peter",Obel,1,19,12,1907,55.669760500000,12.544880400000
+Harald,Olrik,1,16,12,1907,55.694933300000,12.578987900000
+Caroline,Olsen,2,4,12,1907,55.679603800000,12.584735600000
+"Christian Gotfred Marius",Olsen,1,1,12,1907,55.668533800000,12.550684100000
+Oscar,Olsen,1,12,12,1907,55.670639800000,12.558860700000
+"Rosa Berteline",Olsen,2,30,12,1907,55.713859000000,12.572868700000
+"Peder Christian",Pedersen,1,24,12,1907,55.682502400000,12.580250400000
+Nils,Persson,1,29,12,1907,NULL,NULL
+"Anna Sofie",Petersen,2,10,12,1907,55.696791800000,12.586398400000
+"Frida Thora",Petersen,2,11,12,1907,NULL,NULL
+"Hans Jacob Christian",Petersen,1,14,12,1907,55.670690400000,12.549682700000
+"Harald Lauritz",Petersen,1,23,12,1907,55.671077900000,12.543072500000
+"Oscar Charles Villiam",Petersen,1,20,12,1907,NULL,NULL
+Peter,Petersen,1,30,12,1907,NULL,NULL
+Petra,Petersen,2,3,12,1907,55.685264900000,12.567927600000
+"Ane Marie",Poulsen,2,23,12,1907,NULL,NULL
+"Heinrich Friedrich",Puls,1,31,12,1907,55.684936200000,12.588430200000
+"Hans Christian Johannes Theodor Erhardt",Pøhler,1,24,12,1907,55.659718900000,12.607858100000
+Cecilia,Persson,2,17,12,1907,55.680416500000,12.589519300000
+"Agnes Louise",Rasmussen,2,2,12,1907,NULL,NULL
+"Charles Egidius Mario Lauritz",Rasmussen,1,10,12,1907,55.687641100000,12.558167100000
+Lars,Rasmussen,1,31,12,1907,NULL,NULL
+"Nicoline Marie",Rasmussen,2,16,12,1907,NULL,NULL
+"Vithania Mathilde",Rasmussen,2,1,12,1907,NULL,NULL
+"Thora Alvilda",Sander,2,7,12,1907,NULL,NULL
+"Hans Kristian",Schultz,1,4,12,1907,NULL,NULL
+"Clara Anna Marie",Sennenwardt,2,25,12,1907,55.664329600000,12.507187800000
+"Anton Vilhelm",Serup,1,29,12,1907,NULL,NULL
+"Anton Vilhelm",Serup,1,23,12,1907,NULL,NULL
+"Kristen Peder",Sigsted,1,6,12,1907,55.697105300000,12.586321500000
+"Anton Christian",Svendsen,1,16,12,1907,NULL,NULL
+"Adolf Robert",Svensson,1,23,12,1907,NULL,NULL
+"Anna Johanne",Sørensen,2,30,12,1907,NULL,NULL
+"Niels Marius",Sørensen,1,18,12,1907,NULL,NULL
+"Otto Johannes",Thers,1,12,12,1907,NULL,NULL
+"Roland Henrik Edvard",Tiedemann,1,15,12,1907,55.706350700000,12.588047800000
+"Jes Peter Hansen",Toft,1,2,12,1907,55.670552000000,12.591833500000
+"Katy Arla Johanne",Trelde,2,21,12,1907,NULL,NULL
+Oskar,Høgstrøm,1,4,12,1907,55.686310000000,12.587249000000
+"Charlotte Christina",Holmberg,2,7,12,1907,55.679827100000,12.584794200000
+Helga,Larsen,2,4,12,1907,55.695066200000,12.571940900000
+"Peter Christian",Petersen,1,28,12,1907,NULL,NULL
+"Carl Oluf",Petersen,1,19,12,1907,55.706228700000,12.588074500000
+"Christian Andersen",Larsen,1,16,12,1907,55.697584100000,12.576535300000
+Christine,Larsen,2,12,12,1907,55.694967500000,12.572512700000
+"Marie Christine Vilhelmine",Olsen,2,1,12,1907,NULL,NULL
+Dorthea,Larsen,2,22,12,1907,NULL,NULL
+"Theodor Alexander",Christoffersen,1,20,12,1907,NULL,NULL
+"Wilhelmine Frederikke Marie",Grande,2,10,12,1907,NULL,NULL
+"Elvira Dorthea",Larsen,2,2,12,1907,55.655397300000,12.610985600000
+"Karen Emilie Jacobine",Grinnerod,2,2,12,1907,NULL,NULL
+"Karen Emilie Jacobine",Grinnerod,2,7,12,1907,NULL,NULL
+"Emma Sofie",Larsen,2,24,12,1907,55.694978000000,12.571131000000
+"Christian Peter Valdemar Theodor",Grønsund,1,2,12,1907,NULL,NULL
+"Hilda Victoria",Gummesen,2,2,12,1907,55.672459700000,12.550387000000
+Carl,Güldner,1,11,12,1907,NULL,NULL
+"Jutta Frederikke",Jantzen,2,10,12,1907,NULL,NULL
+"Alfred Emil",Thomsen,1,3,12,1907,NULL,NULL
+"Marie Petrea",Sørensen,2,13,12,1907,NULL,NULL
+"Henri Antoni Daniel",Tendyck,1,21,12,1907,55.702574500000,12.584072500000
+"Cathrine Hansine Christine",Terp,2,2,12,1907,NULL,NULL
+"Heinrich Friedrich",Senn,1,17,12,1907,55.691580500000,12.556886500000
+"Anton Julius",Thiesen,1,14,12,1907,NULL,NULL
+Bodil,Knudsen,2,2,12,1907,55.703688500000,12.580156600000
+"Erhard Gotfred",Liljeqvist,1,9,12,1907,NULL,NULL
+"Thora Elisabeth",Madsen,2,2,12,1907,55.703250600000,12.578391700000
+Betty,Lundberg,2,11,12,1907,NULL,NULL
+Betty,Lundberg,2,30,12,1907,NULL,NULL
+"Adolf Christian",Madsen,1,12,12,1907,55.706178100000,12.578555300000
+"Marie Antonie",Meiling,2,2,12,1907,NULL,NULL
+"Jakob Nielsen",Møller,1,21,12,1907,NULL,NULL
+"Hans Peter",Nielsen,1,28,12,1907,55.673888800000,12.593767200000
+"Bolette Kirstine",Nielsen,2,1,12,1907,55.700329500000,12.574911500000
+"Christian Hugo",Olsen,1,9,12,1907,55.714347400000,12.571366400000
+"Jens Andreas Søndergaard",Thomsen,1,9,12,1907,NULL,NULL
+"Johanne Margrethe",Nielsen,2,6,12,1907,55.697319500000,12.573659200000
+Marius,Nielsen,1,5,12,1907,55.706614000000,12.579378200000
+"Peter Christian Richard",Nielsen,1,3,12,1907,NULL,NULL
+"Anna Marie",Olsen,2,5,12,1907,NULL,NULL
+"Jens Jensen",Breum,1,5,12,1907,NULL,NULL
+"Anna Johanne Margrethe",Eriksen,2,31,12,1907,NULL,NULL
+Katrine,Rasmussen,2,3,12,1907,NULL,NULL
+"Aage Rudolf Johannes",Børgesen,1,21,12,1907,NULL,NULL
+"Holger Vilhelm",Mæhl,1,9,12,1907,NULL,NULL
+"Flora Mathilde Othilia",Nielsen,2,30,12,1907,55.703813000000,12.577703300000
+"Carl Dithmar",Jensen,1,5,12,1907,NULL,NULL
+"Karen Marie",Petersen,2,1,12,1907,NULL,NULL
+"Karen Christine",Hansen,2,30,12,1907,NULL,NULL
+"Knud Niels Peter",Hansen,1,24,12,1907,NULL,NULL
+"Karen Sopie",Hansen,2,18,12,1907,NULL,NULL
+"Anna Johanne Andrea",Clausen,2,1,12,1907,NULL,NULL
+"Nina Angelica",Hansen,2,18,12,1907,NULL,NULL
+"Marinus Benedikt Alfred",Hansen,1,5,12,1907,NULL,NULL
+"Sidse Kirstine Bertine",Hansen,2,2,12,1907,NULL,NULL
+"Vilhelmine Frederikke Kristine Betty",Hansen,2,6,12,1907,55.665188600000,12.547535700000
+"Carla Jensine",Jacobsen,2,2,12,1907,NULL,NULL
+"Jeanette Bendtine",Jakobsen,2,4,12,1907,55.676542100000,12.588282500000
+"Jens Peter",Jacobsen,1,12,12,1907,55.676840800000,12.588170500000
+Vilhelm,Hartmeyer,1,23,12,1907,55.691094100000,12.558321000000
+"Olga Petrea",Jeppesen,2,16,12,1907,NULL,NULL
+"Anna Margrethe Elise Marie",Johansen,2,5,12,1907,NULL,NULL
+"Clara Emilie Magdalene",Johansen,2,2,12,1907,NULL,NULL
+"Anna Kirstine",Jensen,2,2,12,1907,NULL,NULL
+"Johan Jacobleff",Birnbaum,1,23,12,1907,NULL,NULL
+"Martha Jensine",Jensen,2,14,12,1907,55.686881800000,12.581056400000
+"Hjalmar Theofilius",Streton,1,22,12,1907,55.671946400000,12.550783900000
+"Ane Marie",Petersen,2,31,12,1907,NULL,NULL
+"Hulda Marie Elisabeth",Jensen,2,10,12,1907,NULL,NULL
+"Valdemar Mikal",Jensen,1,12,12,1907,NULL,NULL
+Rigmor,Tanggaard,2,2,12,1907,NULL,NULL
+"Marie Kirstine",Johansen,2,4,12,1907,55.682298600000,12.588398200000
+"Nora Severine Marie",Frederiksen,2,2,12,1907,NULL,NULL
+"Hedevig Annine Camilla",Haag,2,1,12,1907,NULL,NULL
+"Nielsine Martine",Jensen,2,8,12,1907,NULL,NULL
+"Frederik Otto",Petersen,1,19,12,1907,55.688306300000,12.561484800000
+"Harald Anton",Jochimsen,1,13,12,1907,55.683108300000,12.569847700000
+"Franck Odin",Larsen,1,18,12,1907,NULL,NULL
+"Marie Amalie",Heindorff,2,17,12,1907,55.696634200000,12.583753600000
+"Peter Julius Napolein",Jørgensen,1,20,12,1907,NULL,NULL
+"Johanne Louise",Matthisen,2,18,12,1907,NULL,NULL
+"Tage Schack",Lauersen,1,18,12,1907,55.684068000000,12.587319800000
+Rasmus,Olsen,1,17,12,1907,55.681551200000,12.580443200000
+"Jørgen Vilhelm",Due,1,19,12,1907,NULL,NULL
+"Frederik Emil",Asmussen,1,13,12,1907,55.671320100000,12.549931500000
+"Inger Marie",Christensen,2,3,12,1907,55.681072900000,12.588949100000
+"Sara Kamilla",Christiansen,2,5,12,1907,NULL,NULL
+"Ane Caroline",Frandsen,2,18,12,1907,55.682910400000,12.567026300000
+Theodor,Faaborg,1,5,12,1907,55.683091200000,12.564845900000
+Emil,Falkenberg,1,19,12,1907,NULL,NULL
+Esben,Leth-Esbensen,1,5,12,1907,55.684267100000,12.570478400000
+"Jakob Josek",Feldstein,1,11,12,1907,55.686484400000,12.566766100000
+"Johannes Jeppesen",Evald,1,20,12,1907,NULL,NULL
+"Poul Andreas",Eriksen,1,5,12,1907,55.694419100000,12.577435600000
+"Mary Christine Sofie Magdalene",Fensmark,2,14,12,1907,NULL,NULL
+"Ernst Theodor",Eckeberg,1,6,12,1907,55.672161800000,12.557375100000
+"Gustav Ragner",Ekeroth,1,2,12,1907,55.682848500000,12.564937600000
+"Niels Carl",Caspersen,1,1,12,1907,NULL,NULL
+"Mette Sophie Madsen",Egeland,2,3,12,1907,55.672646000000,12.557887400000
+"Niels Peter",Ellow,1,14,12,1907,55.672870000000,12.561929800000
+Edvard,Engler,1,31,12,1907,NULL,NULL
+"Sofie Vilhelmine Constance",Joost,2,9,12,1907,NULL,NULL
+"Thomas Jørgensen",Juncker,1,10,12,1907,NULL,NULL
+"Magdalene Johanne",Hansen,2,17,12,1907,NULL,NULL
+Maren,Hansen,2,3,12,1907,NULL,NULL
+"Margrethe Caroline Jensine",Hansen,2,1,12,1907,NULL,NULL
+"Margrethe Caroline Jensine",Hansen,2,1,12,1907,NULL,NULL
+"Albert Johannes Lars",Jørgensen,1,31,12,1907,NULL,NULL
+"Albert Hense",Jørgensen,1,7,12,1907,NULL,NULL
+"Augusta Theodora Marie",Jørgensen,2,13,12,1907,NULL,NULL
+Anna,Persson,2,10,12,1907,NULL,NULL
+"Ane Kirstine knudsine",Pedersen,2,4,12,1907,NULL,NULL
+"Anna Margrethe",Petersen,2,17,12,1907,NULL,NULL
+"Anna Larsine",Pedersen,2,2,12,1907,NULL,NULL
+"Peter Christian",Jørgensen,1,28,12,1907,NULL,NULL
+"Jensinius Carl Henrik Bartholni",Jørgensen,1,21,12,1907,NULL,NULL
+"Jensinius Carl Henrik Bartholni",Jørgensen,1,12,12,1907,NULL,NULL
+Marie,Jørgensen,2,2,12,1907,NULL,NULL
+"Nicolai Andreas",Kragh,1,3,12,1907,NULL,NULL
+"Niels Valdemar Alexander",Rasmussen,1,4,12,1907,NULL,NULL
+"Carl Villiam Kjerulff",Kruse,1,7,12,1907,NULL,NULL
+"Mathias Wilhelm",Pomp,1,6,12,1907,NULL,NULL
+"Ellen Sabine Olsen",Rostgaard,2,24,12,1907,NULL,NULL
+"Else Luice",Olsen,2,6,12,1907,NULL,NULL
+"Karen Ingeborg",Olsen,2,1,12,1907,NULL,NULL
+"Rasmus Gotholdt Einar Malling",Kiær,1,24,12,1907,NULL,NULL
+Karoline,Knudsen,2,5,12,1907,NULL,NULL
+"Carl Christian",Christoffersen,1,10,12,1907,NULL,NULL
+Anna,Holst,2,11,12,1907,NULL,NULL
+Nancy,Christensen,2,2,12,1907,NULL,NULL
+Niels,Christensen,1,13,12,1907,NULL,NULL
+"Niels Oluf",Christensen,1,21,12,1907,NULL,NULL
+"Nordal Villiam Herman",Christensen,1,2,12,1907,NULL,NULL
+"Nordal Villiam Herman",Christensen,1,2,12,1907,NULL,NULL
+"Oline Marie",Christensen,2,20,12,1907,NULL,NULL
+"Otto Edvard",Christensen,1,19,12,1907,NULL,NULL
+"Thora Emilie",Christensen,2,2,12,1907,NULL,NULL
+"Valdemar Theodor",Knigge,1,18,12,1907,NULL,NULL
+Axel,Jensen,1,15,12,1907,NULL,NULL
+Axel,Jensen,1,30,12,1907,NULL,NULL
+"Frederik Bruun",Nygaard,1,6,12,1907,NULL,NULL
+"Johanne Elise",Pihl,2,9,12,1907,NULL,NULL
+Dorthea,Jensen,2,18,12,1907,NULL,NULL
+"Johanne Marie Petrea",Ludvigsen,2,3,12,1907,NULL,NULL
+Vilhelm,Rasmussen,1,3,12,1907,NULL,NULL
+Moritz,Jarkowitz,1,11,12,1907,NULL,NULL
+"Ellen Fernanda Marie",Blandford,2,5,12,1907,NULL,NULL
+"Oluf Henrik Thorvald",Henriksen,1,17,12,1907,NULL,NULL
+"Harriet Vilhelmine Anna",Wiinblad,2,4,12,1907,NULL,NULL
+"Bolette Kirstine",Nielsen,2,1,12,1907,NULL,NULL
+"Einer Friedthioff Marinus",Jensen,1,9,12,1907,NULL,NULL
+"Dagmar Heltborg",Jensen,2,9,12,1907,NULL,NULL
+"Henri Edvard William Jensen",Skjøt,1,6,12,1907,NULL,NULL
+"Caroline Kristine",Nielsen,2,4,12,1907,NULL,NULL
+"Ingeborg Elise Camilla",Larsen,2,27,12,1907,NULL,NULL
+"Karen Bolette Elisabeth",Krambæck,2,3,12,1907,NULL,NULL
+Magnus,Olsson,1,3,12,1907,NULL,NULL
+"Ingeborg Vilhelmine",Hansen,2,3,12,1907,NULL,NULL
+"Marie Sofie",Sørensen,2,18,12,1907,NULL,NULL
+"Jørgen Andreas",Hansen,1,29,12,1907,NULL,NULL
+"Johannes Henrik",Hansen,1,9,12,1907,NULL,NULL
+"Herman Anker",Hansen,1,14,12,1907,NULL,NULL
+"Hans Thorvald",Hansen,1,13,12,1907,NULL,NULL
+"Elna Johanne Marie",Petersen,2,3,12,1907,NULL,NULL
+"Jensine Marie",Pettersen,2,14,12,1907,NULL,NULL
+"Axel Albert",Jørgensen,1,18,12,1907,NULL,NULL
+"Bernt Libert",Svensson,1,16,12,1907,NULL,NULL
+Peter,Larsen,1,27,12,1907,NULL,NULL
+Herman,Berg,1,27,12,1907,NULL,NULL
+"Martha Marie",Olschewski,2,30,12,1907,NULL,NULL
+"Magna Margrethe",Jakobsen,2,9,12,1907,NULL,NULL
+Ingrid,Olsson,3,14,12,1907,NULL,NULL
+"Johan Valdemar",Karklin,3,24,12,1907,NULL,NULL
+"Carl Valdemar",Petersen,3,30,12,1907,NULL,NULL
+"Valdemar Vilfred Jens Michael",Hansen,3,30,12,1907,NULL,NULL
+"Sofus Carl",Sievertz,3,4,12,1907,NULL,NULL
+"Anders Peter",Sørensen,3,3,12,1907,NULL,NULL

@@ -1,0 +1,14 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Otto Emil",Känel,1,0,0,1907,NULL,NULL
+"Ella Mary",Clausen,2,1,0,1907,55.675750200000,12.573730200000
+"Anna Johanne",Andreasen,2,0,0,1907,NULL,NULL
+"Ludvig August",Rohde,1,21,0,1907,NULL,NULL
+"Carl Julius",Sommer,1,0,0,1907,NULL,NULL
+"Mary Constance Margrethe",Frederiksen,2,19,0,1907,NULL,NULL
+"Marie Christine",Christiansen,2,0,0,1907,NULL,NULL
+"Alvilda Christine",Svane,2,0,0,1907,NULL,NULL
+"Evan Reginald",Foss,1,0,0,1907,NULL,NULL
+Lars,Rasmussen,1,0,0,1907,55.693495000000,12.545400900000
+Peter,Andersen,1,0,0,1907,NULL,NULL
+"Peter Mathias",Spangenberg,1,1,0,1907,NULL,NULL
+"Lybdolf Emil Ferdinand",Boie,1,1,0,1907,NULL,NULL

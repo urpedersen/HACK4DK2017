@@ -1,0 +1,12 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Albert Camilius",Jensen,1,1,12,1928,55.655730300000,12.610761300000
+Anna,Möllerström,2,1,12,1928,NULL,NULL
+"Henrik Lauritz Christian",Larsen,1,4,12,1928,55.689247800000,12.559947500000
+"Elvira Sofia",Olsdotter,2,4,12,1928,55.674738200000,12.549975800000
+"Elvira Sofia",Olsdotter,2,13,12,1928,55.680195500000,12.591934100000
+"Adolf Emanuel Cornelius",Nielsen,1,12,12,1928,55.698949300000,12.535740600000
+"Einer Emil",Thomsen,1,2,12,1928,NULL,NULL
+"Carl Christian",Andersen,1,15,12,1928,NULL,NULL
+"Emil Orla",Hansen,1,28,12,1928,NULL,NULL
+"Carl Henrik Peter",Hansen,1,10,12,1928,NULL,NULL
+"Peter Martin August",Hansen,1,27,12,1928,55.650135100000,12.631287200000

@@ -1,0 +1,41 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Hans Peter",Larsen,1,14,9,1926,NULL,NULL
+"Kai Hakon Salomon",Madsen,1,3,9,1926,NULL,NULL
+"Christian Valdemar",Larsen,1,14,9,1926,NULL,NULL
+"Jens Christian",Christiansen,1,30,9,1926,NULL,NULL
+"Hans Peder",Pedersen,1,7,9,1926,55.688829300000,12.554279100000
+"Agnes Sofie",Johansen,2,19,9,1926,55.678812000000,12.570307500000
+"Peter Christian Martinus",Larsen,1,2,9,1926,NULL,NULL
+Sofie,Andersen,2,11,9,1926,NULL,NULL
+Wilhelm,Fischer,1,1,9,1926,55.681800700000,12.572367400000
+"Meta Johanne",Axelsen,2,1,9,1926,NULL,NULL
+"Jensine Christine",Hansen,2,12,9,1926,NULL,NULL
+"Jensine Christine",Hansen,2,15,9,1926,NULL,NULL
+Bertel,Glistrup,1,7,9,1926,NULL,NULL
+Jens,Jensen,1,16,9,1926,NULL,NULL
+"Rigmor Lilly",Petersen,2,18,9,1926,NULL,NULL
+"Maren Oline",Therkelsen,2,1,9,1926,NULL,NULL
+"Ebba Laura Mathilde",Bruhn,2,1,9,1926,NULL,NULL
+Cyril,Grabmüller,1,15,9,1926,NULL,NULL
+"Ove Michael",Corell,1,27,9,1926,NULL,NULL
+"Ove Michael",Corell,1,2,9,1926,NULL,NULL
+"Hans Harald",Johansen,1,17,9,1926,NULL,NULL
+"Christian Frederik Vilhelm",Bau,1,8,9,1926,NULL,NULL
+"Ida Johanne Marie",Frederiksen,2,9,9,1926,NULL,NULL
+"Einer Rudolf Nicolaj",Gjetting,1,24,9,1926,NULL,NULL
+George,Mathieu,1,1,9,1926,NULL,NULL
+"Johanne Cathrine",Petersen,2,24,9,1926,NULL,NULL
+"Oda Harriet",Nielsen,2,1,9,1926,NULL,NULL
+"Kaj Arne Lauritz Christian",Nielsen,1,1,9,1926,55.700651500000,12.541719000000
+"Marinus Kai",Christensen,1,2,9,1926,NULL,NULL
+"Marinus Kai",Christensen,1,24,9,1926,NULL,NULL
+Christian,Hansen,1,5,9,1926,NULL,NULL
+"Mathilde Emilie Marie",Jørgensen,2,23,9,1926,NULL,NULL
+"Julius Johannes",Christensen,1,5,9,1926,NULL,NULL
+"Maren Cathrine Christine",Rasmussen,2,2,9,1926,NULL,NULL
+Valdemar,Rasmussen,1,19,9,1926,55.698311100000,12.544912100000
+Ester,Larsson,2,5,9,1926,NULL,NULL
+"Emanuel Marius",Nielsen,1,1,9,1926,55.704403500000,12.585251100000
+"Niels Henry",Jørgensen,1,17,9,1926,55.665308400000,12.512653800000
+"Valdemar Carl Frederik August",Leth,1,7,9,1926,NULL,NULL
+Johannes,Jacobsen,1,11,9,1926,NULL,NULL

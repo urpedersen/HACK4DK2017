@@ -1,0 +1,22 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Hans Alfred",Petersen,1,20,8,1927,NULL,NULL
+"Albert Niels",Johansen,1,5,8,1927,NULL,NULL
+"Ernst Guldbech",Hansen,1,26,8,1927,55.664641300000,12.614655300000
+"Cathrine Jubeline Christine Sofie",Rasmussen,2,15,8,1927,NULL,NULL
+"Ane Marie",Douglas,2,3,8,1927,NULL,NULL
+"Caroline Amalie",Christensen,2,26,8,1927,NULL,NULL
+"Jens Peter",Vagland,1,14,8,1927,NULL,NULL
+"Sofie Lovise Petrine Klarskov",Jørgensen,2,30,8,1927,NULL,NULL
+"Axel Christian",Bendixen,1,15,8,1927,NULL,NULL
+Julius,Justesen,1,11,8,1927,NULL,NULL
+"Sigfred Aspmann",Larsen,1,15,8,1927,NULL,NULL
+"Christoffer Edvard",Petersen,1,8,8,1927,NULL,NULL
+"Ernst Richardt",Hansen,1,11,8,1927,NULL,NULL
+"Villy Robert Charles",Jensen,1,14,8,1927,55.665930100000,12.577624300000
+"Anna Margrethe",Nielsen,2,27,8,1927,NULL,NULL
+"Marie Christine",Andersen,2,14,8,1927,NULL,NULL
+"Anna Caroline Amalie Frederikke",Jensen,2,3,8,1927,55.653123600000,12.610455500000
+"Charles Villiam Alfred",Hansen,1,16,8,1927,NULL,NULL
+"Jens Christian Martin",Hetoft,1,25,8,1927,NULL,NULL
+"Aage Halvor Georg Valdemar",Lauritzen,1,1,8,1927,NULL,NULL
+Elvinius,Jørgensen,1,10,8,1927,NULL,NULL

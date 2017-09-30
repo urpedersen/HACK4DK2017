@@ -1,0 +1,25 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Niels Peter",Johansen,1,1,5,1929,NULL,NULL
+Marie,Lieder,2,23,5,1929,55.671038500000,12.550628600000
+Anton,Hemmingsen,1,15,5,1929,NULL,NULL
+"Carl Vilhelm",Damberg,1,1,5,1929,55.692330400000,12.567573500000
+"Anna Cathrine",Jensen,2,1,5,1929,55.689283100000,12.582546000000
+"Laurits Christian",Jensen,1,5,5,1929,NULL,NULL
+"Christian Albert",Hansen,1,15,5,1929,NULL,NULL
+"Peter Vilhelm Christian Petersen",Molin,1,6,5,1929,NULL,NULL
+"Margrethe Elise Viktoria",Andersen,2,1,5,1929,NULL,NULL
+"Lars Kurth Westmann",Larsen,1,1,5,1929,NULL,NULL
+"Lars Peter",Christensen,1,1,5,1929,NULL,NULL
+"Christine Louise",Lund,2,19,5,1929,NULL,NULL
+"Julius Frederik Alfred",Hein,1,3,5,1929,55.703676000000,12.589491900000
+"Valdemar Andreas",Jensen,1,1,5,1929,NULL,NULL
+"Johannes Friedrich Arnold",Jürgensen,1,1,5,1929,55.707859900000,12.583352600000
+"Villy Thorvald",Sørensen,1,1,5,1929,NULL,NULL
+"Edvin Jens",Weberg,1,1,5,1929,NULL,NULL
+"Peter Julius Sørensen",Holdt,1,1,5,1929,55.672905200000,12.593007100000
+"Karen Dorthea",Hansen,2,1,5,1929,55.682537500000,12.569023700000
+"Ivar Eugen",Olsson,1,21,5,1929,55.692687900000,12.489341000000
+"Lars Haagen",Petersen,1,1,5,1929,NULL,NULL
+"Ole Bendix",Petersen,1,1,5,1929,55.660482300000,12.519217400000
+"Axel Edmund",Petersen,1,4,5,1929,NULL,NULL
+"Søren Peter",Frandsen,1,15,5,1929,55.659810100000,12.605995200000

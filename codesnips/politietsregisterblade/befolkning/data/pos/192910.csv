@@ -1,0 +1,12 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Carl Frederik",Christiansen,1,21,10,1929,NULL,NULL
+"Peter Christian Martinus",Larsen,1,16,10,1929,NULL,NULL
+"Hans Peter Lauritz",Arildsen,1,20,10,1929,NULL,NULL
+"Charlotte Caroline Gunhilda",Hultberg,2,1,10,1929,55.699381600000,12.582167300000
+"Niels Herman Otto",Jensen,1,2,10,1929,NULL,NULL
+Johanne,Christensen,2,1,10,1929,NULL,NULL
+"Ellen Kathrine",Rasmussen,2,21,10,1929,55.694036300000,12.552439900000
+"Einer Emil",Thomsen,1,19,10,1929,NULL,NULL
+"Svend Aage",Hansen,1,5,10,1929,NULL,NULL
+"Andrea Marie",Nielsen,2,25,10,1929,NULL,NULL
+"Christian Sofus",Sørensen,1,15,10,1929,NULL,NULL

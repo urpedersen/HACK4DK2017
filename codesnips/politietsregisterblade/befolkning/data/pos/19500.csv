@@ -1,0 +1,285 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Niels Peter",Lauritzen,1,0,0,1950,NULL,NULL
+Hedvig,Nielsen,2,0,0,1950,NULL,NULL
+"Hans Albert",Rasmussen,1,0,0,1950,NULL,NULL
+"Hans Herman Olsen",Johansen,1,0,0,1950,NULL,NULL
+"Marie Kirstine",Petersen,2,0,0,1950,NULL,NULL
+Hans,Honore,1,0,0,1950,NULL,NULL
+"Hans Jørgen Valdemar",Christensen,1,0,0,1950,NULL,NULL
+"Lars Peter",Larsen,1,0,0,1950,NULL,NULL
+"Julie Antoinette Theodora Victoria",Jensen,2,0,0,1950,NULL,NULL
+"Charles Ludvig",Corell,1,0,0,1950,NULL,NULL
+"Anna Petrine",Andersen,2,0,0,1950,NULL,NULL
+"Anna Petrine",Andersen,2,0,0,1950,NULL,NULL
+"Anna Petrine",Andersen,2,0,0,1950,NULL,NULL
+"Hans Christian",Petersen,1,0,0,1950,NULL,NULL
+"Sigurd Alfred Haldur",Jönson,1,0,0,1950,NULL,NULL
+"Oline Marie",Jensen,2,0,0,1950,NULL,NULL
+Juul,Buchmann,1,0,0,1950,55.678730100000,12.574982500000
+Thomas,Westenholtz,1,0,0,1950,55.684501200000,12.563928300000
+Hansine,Knudsen,2,0,0,1950,55.677767800000,12.578538100000
+"Hansine Martine",Knudsen,2,0,0,1950,NULL,NULL
+"Alfred Andreas",Hansen,1,0,0,1950,NULL,NULL
+"August Carl Gotfred",Muchardt,1,0,0,1950,NULL,NULL
+"Peter Christian",Nielsen,1,0,0,1950,NULL,NULL
+"Mathilde Sofie",Krumlund,2,0,0,1950,55.685007000000,12.566658800000
+Ludvig,Neff,1,0,0,1950,NULL,NULL
+"Ebba Amalie Margrethe",Hansen,2,0,0,1950,55.685193900000,12.564584600000
+"Carl Johan",Jensen,1,0,0,1950,55.683645500000,12.567048300000
+"Frederik Julius",Henriques,1,0,0,1950,NULL,NULL
+"Lars Peder Christian",Hansen,1,0,0,1950,55.676296700000,12.574405800000
+"Frederik Elenius",Halse,1,0,0,1950,NULL,NULL
+"Agda Marie",Lindor,2,0,0,1950,NULL,NULL
+"Nora Kirstine Marie",Nielsen,2,0,0,1950,55.677491700000,12.567614000000
+Elise,Lund,2,0,0,1950,55.681036200000,12.561682000000
+Olivia,Kigstad,2,0,0,1950,NULL,NULL
+"Emilie Edel",Fischer,2,0,0,1950,55.678519800000,12.574401500000
+Margrethe,Ficker,2,0,0,1950,55.681590400000,12.572265900000
+Margrethe,Ficker,2,0,0,1950,55.684729800000,12.569313800000
+Margrethe,Ficker,2,0,0,1950,NULL,NULL
+"Hans Peter",Høyrup,1,0,0,1950,NULL,NULL
+"Hilma Marie",Madsen,2,0,0,1950,NULL,NULL
+"Johanne Ane Dorothea Juliane",Hviid,2,0,0,1950,NULL,NULL
+"Julius Peter",Andersen,1,0,0,1950,NULL,NULL
+Hans,Jensen,1,0,0,1950,NULL,NULL
+"Albertine Augusta",Johansen,2,0,0,1950,NULL,NULL
+"Viggo Louis",Nielsen,1,0,0,1950,NULL,NULL
+"Marry Amanda",Kaufmann,2,0,0,1950,NULL,NULL
+"Osiali Ernst Christian",Drosthede,1,0,0,1950,55.658032700000,12.599840700000
+"Villiam Theodor",Møller,1,0,0,1950,NULL,NULL
+"Tolva Emilie",Nielsen,2,0,0,1950,NULL,NULL
+"Johanne Frederik",Griffenberg,2,0,0,1950,NULL,NULL
+"Aage Philip",Heymann,1,0,0,1950,NULL,NULL
+"Ane Kirstine",Jensen,2,0,0,1950,NULL,NULL
+"Vilhelm Sophus Martin",Jensen,1,0,0,1950,NULL,NULL
+"Carl Alfred Emil",Poulsen,1,0,0,1950,NULL,NULL
+"Elvira Johanne Marie",Ramstedt,2,0,0,1950,NULL,NULL
+"Olga Cathrine Louise",Petersen,2,0,0,1950,NULL,NULL
+Olaf,Høg-Petersen,1,0,0,1950,NULL,NULL
+"Hans Christian",Larsen,1,0,0,1950,NULL,NULL
+"Betty Henriette",Maimann,2,0,0,1950,NULL,NULL
+"Valdemar Lauritz",Maymann,1,0,0,1950,NULL,NULL
+Peder,Pedersen,1,0,0,1950,NULL,NULL
+"Viggo Oscar",Larsen,1,0,0,1950,NULL,NULL
+"Christian Michael Fogtmann",Nielsen,1,0,0,1950,55.682771400000,12.591541300000
+"Else Marie",Petersen,2,0,0,1950,NULL,NULL
+"Ane Marie",Lauritzen,2,0,0,1950,NULL,NULL
+"Dagmar Theodora",Jepsen,2,0,0,1950,NULL,NULL
+"Emmy Hansine",Poulsen,2,0,0,1950,NULL,NULL
+"Bendt Julius",Olsen,1,0,0,1950,NULL,NULL
+"Hans Peter",Johansen,1,0,0,1950,NULL,NULL
+"Niels Christian",Nielsen,1,0,0,1950,NULL,NULL
+"Axel Christian Valdemar",Jørgensen,1,0,0,1950,NULL,NULL
+"Johan Christian",Jørgensen,1,0,0,1950,NULL,NULL
+"Johan Hans Henrik",Ørtenblad,1,0,0,1950,NULL,NULL
+"Andreas Valdemar",Christensen,1,0,0,1950,NULL,NULL
+"Svend Louis Frohn",Simmermann,1,0,0,1950,NULL,NULL
+"Johanne Sofie Emilie",Steinmüller,2,0,0,1950,NULL,NULL
+"Alexander Emil Viggo",Weber,1,0,0,1950,NULL,NULL
+"Alexander Emil Viggo",Weber,1,0,0,1950,NULL,NULL
+"Thyra Johanne Nielsen",Vilson,2,0,0,1950,NULL,NULL
+"Rambusch Richardt",Larsen,3,0,0,1950,NULL,NULL
+"Martin Gustav",Hansen,1,0,0,1950,NULL,NULL
+"Anna Caroline Mathilde",Andersen,2,0,0,1950,NULL,NULL
+Valdemar,Andersen,1,0,0,1950,NULL,NULL
+"Jens Peter",Andersen,1,0,0,1950,NULL,NULL
+Hans,Christensen,1,0,0,1950,NULL,NULL
+"Ane Cathrine",Christensen,2,0,0,1950,NULL,NULL
+"Frederik Ludvig",Andersen,1,0,0,1950,NULL,NULL
+Poul,Christiansen,1,0,0,1950,NULL,NULL
+Marie,Irfeldt,2,0,0,1950,NULL,NULL
+"Lorentz Frederik",Hansen,1,0,0,1950,55.670788300000,12.542975100000
+"Louise Henriette Amalie",Hansen,2,0,0,1950,NULL,NULL
+"Selma Charlotte",Andersen,2,0,0,1950,NULL,NULL
+"Maria Erikke",Pedersen,2,0,0,1950,NULL,NULL
+"Ove Kai Torben",Folkenberg,1,0,0,1950,NULL,NULL
+"Hansine Frederikke",Christensen,2,0,0,1950,NULL,NULL
+"Frederik Anton Martin",Hansen,1,0,0,1950,NULL,NULL
+"Astrid Sofie",Christiansen,2,0,0,1950,NULL,NULL
+"Ellen Olivia Johanne",Hansen,2,0,0,1950,55.672746300000,12.552749300000
+"Adstri Christine Jakobine",Grunken,2,0,0,1950,NULL,NULL
+"Anna Karen Hansine",Gamst,2,0,0,1950,NULL,NULL
+Hans,Jensen,1,0,0,1950,NULL,NULL
+Hansine,Jensen,2,0,0,1950,NULL,NULL
+Holger,Jensen,1,0,0,1950,NULL,NULL
+Peter,Jacobsen,1,0,0,1950,NULL,NULL
+"Petra Margrethe",Goltermann,2,0,0,1950,NULL,NULL
+Johanne,Jensen,2,0,0,1950,55.670692600000,12.542773500000
+Marie,Jensen,2,0,0,1950,NULL,NULL
+"Hanne Olsen",Gepting,2,0,0,1950,NULL,NULL
+"Dody Fatfima",Grobou,2,0,0,1950,NULL,NULL
+"Hans Christian",Jensen,1,0,0,1950,NULL,NULL
+"Christian Sofus",Iversen,1,0,0,1950,NULL,NULL
+"Sigbritte Barth",Hvidberg,3,0,0,1950,NULL,NULL
+Olaus,Haglund,1,0,0,1950,NULL,NULL
+Carl,Christensen,1,0,0,1950,NULL,NULL
+Carl,Eliasen,1,0,0,1950,NULL,NULL
+"Hans Edvan",Jensen,1,0,0,1950,NULL,NULL
+"Hans Frederik",Jensen,1,0,0,1950,NULL,NULL
+"Vilhelm Christian Rasmus",Ejlerskov,1,0,0,1950,NULL,NULL
+"Mathilde Elisabeth",Jensen,2,0,0,1950,NULL,NULL
+"Minna Sigrid Henriette",Jensen,2,0,0,1950,NULL,NULL
+"Mula Holmfridur",Jónsdatter,3,0,0,1950,NULL,NULL
+"A. Dalgaard -",Hansen,3,0,0,1950,NULL,NULL
+"Aage Harald",Hansen,1,0,0,1950,NULL,NULL
+"Christian Lauritz Christensen",Høyberg,1,0,0,1950,NULL,NULL
+"Hermanda Ingeborg",Eckstrøm,2,0,0,1950,NULL,NULL
+Antonette,Jørgensen,2,0,0,1950,NULL,NULL
+"Adolphine Kirsten",Nielsen,2,0,0,1950,NULL,NULL
+Marie,Larsen,2,0,0,1950,NULL,NULL
+Anilev,Hansen,1,0,0,1950,NULL,NULL
+Niels,Larsen,1,0,0,1950,NULL,NULL
+"Arne Joachim",Hansen,1,0,0,1950,NULL,NULL
+"Ane Marie",Jørgensen,2,0,0,1950,NULL,NULL
+"Anna Sophie",Jørgensen,2,0,0,1950,NULL,NULL
+"Astrid Johanne",Jørgensen,2,0,0,1950,NULL,NULL
+"Astrid Johanne",Jørgensen,2,0,0,1950,NULL,NULL
+"Astrid Johanne",Jørgensen,2,0,0,1950,NULL,NULL
+"Astrid Johanne",Jørgensen,2,0,0,1950,NULL,NULL
+"August Vilhelm",Hansen,1,0,0,1950,NULL,NULL
+"Gerda Christine",Nielsen,2,0,0,1950,NULL,NULL
+"Otto Johan Leopold",Kessner,1,0,0,1950,NULL,NULL
+"William Harald Leth",Mammen,1,0,0,1950,NULL,NULL
+"Johannes Alfred",Nyegaard,1,0,0,1950,NULL,NULL
+"Carl Erik",Nygren,1,0,0,1950,NULL,NULL
+"Hans Vilhelm Einer",Hasfeldt,1,0,0,1950,NULL,NULL
+"Ester Johanne",Olsen,2,0,0,1950,NULL,NULL
+"Jensine Magdalene",Nielsen,2,0,0,1950,NULL,NULL
+"Jens Christian",Olsen,1,0,0,1950,NULL,NULL
+"Anna Caroline",Jørgensen,2,0,0,1950,NULL,NULL
+"Karensine Jørgine",Olsen,2,0,0,1950,NULL,NULL
+"Anna Johanne Elisabeth",Jørgensen,2,0,0,1950,NULL,NULL
+"Maren Christine",Larsen,2,0,0,1950,NULL,NULL
+Margrethe,Larsen,2,0,0,1950,NULL,NULL
+"Christine Catrine",Nielsen,2,0,0,1950,NULL,NULL
+"Knud Jørgensen",Nørrelund,1,0,0,1950,NULL,NULL
+"Anders Christian",Nielsen,1,0,0,1950,NULL,NULL
+"Anders Christian",Nielsen,1,0,0,1950,NULL,NULL
+"Vahs Christian Emanuel Vilhelm",Larsen,1,0,0,1950,NULL,NULL
+"Viggo Imanuel",Larsen,1,0,0,1950,NULL,NULL
+"Otto Ferdinand",Lubbers,1,0,0,1950,NULL,NULL
+Marie,Lystrup,2,0,0,1950,NULL,NULL
+"Birthe Marie",Olsen,2,0,0,1950,NULL,NULL
+"Carl Overbek",Lindbach,1,0,0,1950,NULL,NULL
+Martin,Nielsen,1,0,0,1950,NULL,NULL
+Martin,Nielsen,1,0,0,1950,NULL,NULL
+"Nielsine Margrethe",Nielsen,2,0,0,1950,NULL,NULL
+"Ester Johanne",Christiansen,2,0,0,1950,NULL,NULL
+"Mette Cathrine",Andreasen,2,0,0,1950,NULL,NULL
+"Carl Axel Vilhelm",Olsen,1,0,0,1950,NULL,NULL
+"Clara Agnete Eleonora",Olsen,2,0,0,1950,NULL,NULL
+"Heinrich Herman Andreas",Müller,1,0,0,1950,NULL,NULL
+"Niels Peter",Nielsen,1,0,0,1950,NULL,NULL
+"Niels Peter",Nielsen,1,0,0,1950,NULL,NULL
+"Niels Peter",Nielsen,1,0,0,1950,NULL,NULL
+"Niels Peter",Nielsen,1,0,0,1950,NULL,NULL
+"Oluf Jens Peter",Jensen,1,0,0,1950,NULL,NULL
+"Otto Vilhelm",Jensen,1,0,0,1950,NULL,NULL
+"Otto Vilhelm",Jensen,1,0,0,1950,NULL,NULL
+"Otto Vilhelm",Jensen,1,0,0,1950,NULL,NULL
+"Victor Christian Bach",Hansen,1,0,0,1950,NULL,NULL
+"Oda Cecilie",Olsen,2,0,0,1950,NULL,NULL
+"Oda Cecilie",Olsen,2,0,0,1950,NULL,NULL
+"Anette Christine",Olsen,2,0,0,1950,NULL,NULL
+"Sophus Peter",Jensen,1,0,0,1950,NULL,NULL
+"Sophus Peter",Jensen,1,0,0,1950,NULL,NULL
+"Sophus Peter",Jensen,1,0,0,1950,NULL,NULL
+"Emil Theodor Petersen",Olsen,1,0,0,1950,NULL,NULL
+"Emil Theodor Petersen",Olsen,1,0,0,1950,NULL,NULL
+"Emil Theodor Petersen",Olsen,1,0,0,1950,NULL,NULL
+"Jens Sigfried Julius Høislev",Jensen,1,0,0,1950,NULL,NULL
+"Sofie Frederikke",Jensen,2,0,0,1950,NULL,NULL
+Ida,Hartvig,2,0,0,1950,NULL,NULL
+"Peter Christian",Petersen,1,0,0,1950,NULL,NULL
+"Jens Peter",Petersen,1,0,0,1950,NULL,NULL
+"Jens Peter",Petersen,1,0,0,1950,NULL,NULL
+Jacob,Jørgensen,1,0,0,1950,NULL,NULL
+"Svend Berthel E.",Svendsen,1,0,0,1950,NULL,NULL
+"Svend Berthel E.",Svendsen,1,0,0,1950,NULL,NULL
+"Anna Melanie Franciska A. A.",Nielsen,2,0,0,1950,NULL,NULL
+"Anders Christian",Lassen,1,0,0,1950,NULL,NULL
+"Peter Valdemar",Pedersen,1,0,0,1950,NULL,NULL
+"Carl Lauritz",Schmidt,1,0,0,1950,NULL,NULL
+"Carl Lauritz",Schmidt,1,0,0,1950,NULL,NULL
+"Carl Lauritz",Schmidt,1,0,0,1950,NULL,NULL
+"Carl Lauritz",Schmidt,1,0,0,1950,NULL,NULL
+"Carl Lauritz",Schmidt,1,0,0,1950,NULL,NULL
+"Carl Lauritz",Schmidt,1,0,0,1950,NULL,NULL
+"Edith Martha Hekla Theodora",Clausen,2,0,0,1950,55.704203700000,12.489236900000
+"Axel Julius",Struer,1,0,0,1950,NULL,NULL
+"Emma Kristine Marie",Olsen,2,0,0,1950,NULL,NULL
+"Johanne Vilhelmine Valborg",Andersen,2,0,0,1950,NULL,NULL
+"Anna Ingeborg Christine",Larsen,2,0,0,1950,NULL,NULL
+"Henry Gerhardt",Johansen,1,0,0,1950,NULL,NULL
+"Oskar Christian Marius",Estrup,1,0,0,1950,55.706506000000,12.519381700000
+"Jens Oluf Carl",Henriksen,1,0,0,1950,NULL,NULL
+"Bertil Julius",Lundgreen,1,0,0,1950,NULL,NULL
+"Viggo Højland",Andersen,1,0,0,1950,NULL,NULL
+"Laura Bertha",Larsen,2,0,0,1950,NULL,NULL
+"Carl Viggo",Nielsen,1,0,0,1950,NULL,NULL
+"Hans Lauritz",Nielsen,1,0,0,1950,NULL,NULL
+"Niels Christian",Andersen,1,0,0,1950,NULL,NULL
+Knud,Gatzviller,1,0,0,1950,NULL,NULL
+"Ellen Petrea Johanne",Mortensen,2,0,0,1950,NULL,NULL
+"Ellen Petrea Johanne",Mortensen,2,0,0,1950,NULL,NULL
+"Ellen Petrea Johanne",Mortensen,2,0,0,1950,NULL,NULL
+"August Jacob Gregor",Hoffmann,1,0,0,1950,NULL,NULL
+"Johannes Julius Christian",Andersen,1,0,0,1950,NULL,NULL
+"Bastian Søren",Bastiansen,1,0,0,1950,NULL,NULL
+"Anna Marie",Beck,2,0,0,1950,NULL,NULL
+"Mikkaline Hansine Marie",Beck,2,0,0,1950,NULL,NULL
+"Jensine Theresia",Bentin,2,0,0,1950,NULL,NULL
+"Johan Emil",Berg,1,0,0,1950,NULL,NULL
+"Christian Petro Bianco Luna",Boeck,1,0,0,1950,NULL,NULL
+"Isedora Vilhelmine",Bolvig,2,0,0,1950,NULL,NULL
+"Carl Frederik Christian",Brenøe,1,0,0,1950,55.658420200000,12.607216800000
+"Jens Christian Carl",Christensen,1,0,0,1950,NULL,NULL
+"Ingeborg Rigmor",Arnfast,2,0,0,1950,NULL,NULL
+"Georg Johan Ditlev",Frise,1,0,0,1950,NULL,NULL
+"Sophie Marie Christiane",Funck,2,0,0,1950,NULL,NULL
+"Charles August",Green,1,0,0,1950,NULL,NULL
+"Christian Otto",Højberg,1,0,0,1950,NULL,NULL
+"Anna Cathrine",Jensen,2,0,0,1950,55.671975300000,12.546761000000
+Carl,Jensen,1,0,0,1950,NULL,NULL
+"Jens Marius",Jensen,1,0,0,1950,NULL,NULL
+"Johan Peter",Jensen,1,0,0,1950,NULL,NULL
+Johanne,Jensen,2,0,0,1950,NULL,NULL
+Lars,Jensen,1,0,0,1950,NULL,NULL
+"Carl Magnus Victor",Jørgensen,1,0,0,1950,NULL,NULL
+"Holger Sylvester Saxthorp",Jørgensen,1,0,0,1950,NULL,NULL
+"Lars Anders",Knudsen,1,0,0,1950,NULL,NULL
+"Eleonora Oligra",Krøger,2,0,0,1950,NULL,NULL
+"Emanuel Vilhelm (eller Victor)",Larsen,1,0,0,1950,NULL,NULL
+Johanne,Lauritzen,2,0,0,1950,NULL,NULL
+"Inger Marie",Lindblad,2,0,0,1950,NULL,NULL
+"Amalie Margrethe",Løve,2,0,0,1950,55.670937500000,12.542541000000
+Julius,Mathiesen,1,0,0,1950,55.673888800000,12.593767200000
+Johanne,Mikkelsen,2,0,0,1950,NULL,NULL
+"Lauritz Chr. Vilhelm",Mortensen,1,0,0,1950,55.683781000000,12.563438100000
+"Caroline Vilhelmine Bernhardine",Nielsen,2,0,0,1950,NULL,NULL
+Søren,Olsen,1,0,0,1950,NULL,NULL
+"Otte Christian",Petersen,1,0,0,1950,NULL,NULL
+"Agnes Dorthea Marie Ditlevsine",Svanekjær,2,0,0,1950,NULL,NULL
+Emilie,Glad,2,0,0,1950,NULL,NULL
+"Frantz Oscar",Dahlgren,1,0,0,1950,NULL,NULL
+"Eivind Svane",Lund,1,0,0,1950,NULL,NULL
+"Eivind Svane",Lund,1,0,0,1950,NULL,NULL
+"Eivind Svane",Lund,1,0,0,1950,NULL,NULL
+"Niels Johnsson",Strandberg,1,0,0,1950,NULL,NULL
+"Anna Cathrine",Lehmann,2,0,0,1950,NULL,NULL
+"Anna Cathrine",Lehmann,2,0,0,1950,NULL,NULL
+"Anna Cathrine",Lehmann,2,0,0,1950,NULL,NULL
+"Christian Carl Frederik",Olsen,1,0,0,1950,55.698095900000,12.585334100000
+"Ane Elisabeth",Sørensen,2,0,0,1950,55.668123800000,12.551410600000
+"Johanne Ki",Bærentsen,2,0,0,1950,NULL,NULL
+Christen,Breinholt,1,0,0,1950,NULL,NULL
+"Emil Sophus",Andersen,1,0,0,1950,NULL,NULL
+"Carl Andreas",Thomsen,1,0,0,1950,NULL,NULL
+Olaf,Selchau,1,0,0,1950,NULL,NULL
+Olaf,Selchau,1,0,0,1950,NULL,NULL
+"Agnes Christiane","Eliasen (Kl. Hartmann)",2,0,0,1950,55.681366700000,12.562808000000
+"Niels Marinus",Petersen,1,0,0,1950,NULL,NULL
+"Idof Reinholdt",Olsen,3,0,0,1950,NULL,NULL
+"Idof Reinholdt",Olsen,3,0,0,1950,NULL,NULL
+"Idof Reinholdt",Olsen,3,0,0,1950,NULL,NULL
+"Emma Kirstine Marie",Olsen,3,0,0,1950,NULL,NULL

@@ -1,0 +1,3221 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Martha Johanne",Strøbeck,2,31,1,1912,NULL,NULL
+"Maja Petersen",Sønnersgaard,2,19,1,1912,55.675235600000,12.599330900000
+"Carl Larsen",Thomsen,1,12,1,1912,NULL,NULL
+"Carl Larsen",Thomsen,1,26,1,1912,NULL,NULL
+"Carl Peter Jacob",Sørensen,1,27,1,1912,55.688222600000,12.554171700000
+"Anna Petrea",Wichmann,2,9,1,1912,NULL,NULL
+"Julius Alfred",Wahlross,1,8,1,1912,NULL,NULL
+"Viggo Alexander",Jensen,1,2,1,1912,NULL,NULL
+"Blenda Hansine",Johansen,2,18,1,1912,NULL,NULL
+"Jens Knudsen",Jensen,1,4,1,1912,NULL,NULL
+"Niels Martin Andreas",Jørgensen,1,10,1,1912,NULL,NULL
+"Ejnar Marinus Peter",Lyng,1,27,1,1912,NULL,NULL
+"Anna Kristine",Larsen,2,3,1,1912,NULL,NULL
+"Dagmar Jensine",Larsen,2,10,1,1912,NULL,NULL
+"Laura Christine Pouline Boline",Larsen,2,5,1,1912,NULL,NULL
+"Lauritz Poul",Larsen,1,30,1,1912,NULL,NULL
+"Axel Oluf",Mathiesen,1,15,1,1912,55.680514200000,12.581427500000
+"Dina Christiane L.",Mogensen,2,12,1,1912,NULL,NULL
+"Valdemar Poul Edmund",Nymann,1,20,1,1912,NULL,NULL
+"Hans Christian",Nielsen,1,30,1,1912,NULL,NULL
+"Svend Thorvald",Nielsen,1,5,1,1912,NULL,NULL
+"Sophie Petrea Christine",Nielsen,2,15,1,1912,NULL,NULL
+"Dorthea Marie",Rasmussen,2,3,1,1912,NULL,NULL
+Christian,Rasmussen,1,4,1,1912,NULL,NULL
+"Anton Nielsen",Steenberg,1,12,1,1912,NULL,NULL
+"Gustav Adolf",Pirkel,1,25,1,1912,NULL,NULL
+"Vaino Albin",Losmaranta,1,23,1,1912,NULL,NULL
+"Carl Felix",Petersen,1,27,1,1912,NULL,NULL
+"Jens Christiansø",Holm,1,25,1,1912,NULL,NULL
+"Thomas Christian",Lau,1,24,1,1912,NULL,NULL
+"Volmer Niels Marius",Jacobsen,1,6,1,1912,NULL,NULL
+"Augusta Gertrude",Jensen,2,4,1,1912,NULL,NULL
+"Anine Hansine Frederikke",Hansen,2,18,1,1912,NULL,NULL
+"Anna Emilie Henriette",Rasmussen,2,29,1,1912,NULL,NULL
+"Svend Sofus Jacob Juust",Henningsen,1,13,1,1912,NULL,NULL
+"Anna Christine",Håkansson,2,25,1,1912,55.659718400000,12.609228500000
+"Anna Christine",Håkansson,2,24,1,1912,NULL,NULL
+"Vilhelm Andreas",Andersen,1,1,1,1912,55.656699800000,12.605241900000
+"Elisabeth Marie",Nielsen,2,4,1,1912,NULL,NULL
+"Rafael Johannes Marinus",Rasmussen,1,5,1,1912,NULL,NULL
+Aage,Larsen,1,27,1,1912,NULL,NULL
+"Hans Lauritz",Larsen,1,26,1,1912,NULL,NULL
+"Fritz Sofus Frederik","Leksborg Hansen",1,12,1,1912,NULL,NULL
+"Fritz Sofus Frederik","Leksborg Hansen",1,25,1,1912,NULL,NULL
+"Jens Holger Jørgen",Jørgensen,1,1,1,1912,NULL,NULL
+"Peter Thorvald",Lundsgaard,1,23,1,1912,NULL,NULL
+Henriette,Hansen,2,1,1,1912,NULL,NULL
+"Gerda Hansine Magrethe",Madsen,2,31,1,1912,NULL,NULL
+"Hans Peter",Hansen,1,16,1,1912,NULL,NULL
+"Aage Valdemar",Andersen,1,1,1,1912,55.670771900000,12.545927500000
+"Harald Valdemar",Hansen,1,1,1,1912,NULL,NULL
+"Andrew Christian",Andersen,1,16,1,1912,55.656910600000,12.612080900000
+"Martha Mathilde",Ejbjerg,2,5,1,1912,55.665600000000,12.519844000000
+"Anna Marie",Andersen,2,16,1,1912,55.670400500000,12.591675400000
+"Carl Jacob Sofus",Andersen,1,3,1,1912,55.676244600000,12.599160300000
+"Anders Jacob",Andersen,1,10,1,1912,55.679372500000,12.569538800000
+Anton,Rasmussen,1,10,1,1912,55.669011600000,12.554495800000
+"Hans Laurits Peter",Hansen,1,16,1,1912,55.659133500000,12.610040800000
+"Anna Jensine Nicoline",Johansen,2,1,1,1912,55.700100800000,12.578748600000
+Christian,Andersen,1,23,1,1912,55.671483900000,12.561299000000
+Maren,Petersen,2,4,1,1912,NULL,NULL
+"Ingeborg Marie",Hansen,2,17,1,1912,55.653788400000,12.611950100000
+"Jens Madsen",Jensen,1,10,1,1912,NULL,NULL
+"Emil Valdemar",Andersen,1,8,1,1912,NULL,NULL
+Stanley,Hansen,1,27,1,1912,NULL,NULL
+"Anna Kristiane Margrethe",Hansen,2,13,1,1912,55.697789000000,12.549762100000
+"Helga Lautine",Kjær,2,3,1,1912,NULL,NULL
+"Helga Lautine",Kjær,2,18,1,1912,NULL,NULL
+"Oscar Victor",Petersen,1,11,1,1912,NULL,NULL
+"Peter Hans Jørgensen",Petersen,1,27,1,1912,NULL,NULL
+"Martha Inka Emilie",Andersen,2,31,1,1912,55.671484600000,12.552439500000
+"Gunnar Johan Rudolf",Bomhof,1,4,1,1912,55.680523600000,12.589099100000
+"Hans Lauritz",Andersen,1,4,1,1912,55.665491700000,12.609582100000
+"Charles Henry",Bauer,1,24,1,1912,NULL,NULL
+Edvard,Olsen,1,6,1,1912,NULL,NULL
+Juliane,Andersen,2,16,1,1912,NULL,NULL
+Johannes,Hansen,1,9,1,1912,55.684719900000,12.587884300000
+Jens,Rasmussen,1,30,1,1912,55.668805800000,12.549811600000
+"Lauritz Peter",Andersen,1,10,1,1912,NULL,NULL
+Laurits,Hansen,1,15,1,1912,NULL,NULL
+"Thora Johanne",Hansen,2,27,1,1912,NULL,NULL
+"Thora Johanne",Hansen,2,9,1,1912,NULL,NULL
+"Poul Christian","Ertløv (Kl. Buhl)",1,2,1,1912,55.673888800000,12.593767200000
+"Lauritz Carl",Hansen,1,2,1,1912,NULL,NULL
+"Jens Peter Julius",Jensen,1,28,1,1912,NULL,NULL
+Søren,Petersen,1,1,1,1912,NULL,NULL
+Søren,Petersen,1,23,1,1912,NULL,NULL
+"Knudine Jensine",Lund,2,4,1,1912,NULL,NULL
+"Harald Peter August",Madsen,1,15,1,1912,55.657553800000,12.608288600000
+Aslog,Lundsberg,3,3,1,1912,NULL,NULL
+"Valborg Caroline Emilie",Bringmann,2,14,1,1912,NULL,NULL
+"Frithjof Thor",Rasmussen,1,16,1,1912,NULL,NULL
+"Henriette Fransiska",Basso,2,16,1,1912,55.690018200000,12.571472000000
+"Julius Hjamar",Madsen,1,20,1,1912,NULL,NULL
+"Søren Axel Martin",Hansen,1,2,1,1912,55.670400500000,12.591675400000
+"John Harry Robert",Brovn,1,17,1,1912,55.677775100000,12.590656500000
+"Jens Hansen",Lydom,1,4,1,1912,NULL,NULL
+"Hugo Kaj Wensel",Lykke,1,4,1,1912,NULL,NULL
+Carl,Petersen,1,29,1,1912,NULL,NULL
+"Jens Peter Harald",Lystlund,1,30,1,1912,NULL,NULL
+"Arthur Johan Daniel Peter",Bruun,1,11,1,1912,NULL,NULL
+"Betty Vilhelmine",Nielsen,2,15,1,1912,NULL,NULL
+"Oluf Peter Norèn",Rasmussen,1,26,1,1912,NULL,NULL
+"Carl Peter Sofus",Nielsen,1,20,1,1912,NULL,NULL
+"Hansine Amalie",Christensen,2,19,1,1912,NULL,NULL
+"Hansine Amalie",Christensen,2,9,1,1912,55.682707700000,12.586153300000
+"Ricardt Oluf Valdemar",Bruhn,1,23,1,1912,55.700188200000,12.547223300000
+"Christian Brix Kronborg",Nielsen,1,6,1,1912,NULL,NULL
+Jens,Johansen,1,10,1,1912,NULL,NULL
+Johanna,Johansson,2,8,1,1912,NULL,NULL
+Vilhelm,Madsen,1,11,1,1912,NULL,NULL
+"Jensine Caroline",Jensen,2,1,1,1912,NULL,NULL
+"Vilhelm Holger Niels",Rasmussen,1,24,1,1912,NULL,NULL
+"Carl Anton",Henriksen,1,15,1,1912,NULL,NULL
+"Peter Emil",Bergmann,1,23,1,1912,NULL,NULL
+"Ellen Kirstine",Eine,2,5,1,1912,NULL,NULL
+"Johanne Nielsine",Bernhardt,2,15,1,1912,NULL,NULL
+"Elisabeth Vilhelmine Fransiska",Nielsen,2,13,1,1912,NULL,NULL
+"Andreas Jensen",Busk,1,10,1,1912,55.674081200000,12.591704000000
+"Ellen Eva Marie Christine",Nielsen,2,24,1,1912,NULL,NULL
+"Elna Margrethe",Nielsen,2,6,1,1912,NULL,NULL
+Valborg,Hansen,2,11,1,1912,NULL,NULL
+"Dorthea Christina",Larsen,2,1,1,1912,NULL,NULL
+"Elisa Eleonora Gudrun",Olsen,2,17,1,1912,NULL,NULL
+"Oluf Andreas Julius",Holtzweizzig,1,1,1,1912,55.708665100000,12.580181200000
+"Julius Lorentz",Behrendtsen,1,11,1,1912,55.662724300000,12.601346000000
+"Karen Victoria Elisabeth",Nielsen,2,13,1,1912,NULL,NULL
+Valdemar,Hansen,1,11,1,1912,NULL,NULL
+"Maren Sofie",Nielsen,2,1,1,1912,55.670412000000,12.590719700000
+"Martine Juliane",Erdmann,2,26,1,1912,55.666124700000,12.577176900000
+"Esther Louise",Ernst,2,23,1,1912,NULL,NULL
+"Ferdinand Thorvald Severin",Blyme,1,8,1,1912,NULL,NULL
+"Ferdinand Thorvald Severin",Blyme,1,15,1,1912,55.673329700000,12.590481300000
+"Johan Albin Nicolaus",Mårtensson,1,8,1,1912,NULL,NULL
+"Herman Frederik",Knudsen,1,22,1,1912,NULL,NULL
+"Hans Osvald Johannes",Nielsen,1,27,1,1912,NULL,NULL
+"Niels Andersen",Bolding,1,19,1,1912,55.694978000000,12.571131000000
+"Peter Frederik",Mortensen,1,2,1,1912,NULL,NULL
+"Hans Albin Oluf",Borgstrøm,1,23,1,1912,55.666991100000,12.577254000000
+"Vilhelm Christoffer",Højstrup,1,8,1,1912,55.666214400000,12.614574500000
+"Lorentz Iversen",Hørlyck,1,13,1,1912,55.659021900000,12.607780300000
+"Emma Charlotte",Larsson,2,10,1,1912,55.667423900000,12.577845800000
+"Frida Amalie Augusta",Larsen,2,8,1,1912,NULL,NULL
+Hans,Larsen,1,3,1,1912,NULL,NULL
+Lauritz,Carlsen,1,25,1,1912,NULL,NULL
+Lauritz,Carlsen,1,14,1,1912,NULL,NULL
+"Maren Christine Petra",Carlsen,2,31,1,1912,NULL,NULL
+"Anna Marie",Jørgensen,2,5,1,1912,NULL,NULL
+"Jens Jacob",Larsen,1,25,1,1912,NULL,NULL
+Jakob,Christiansen,1,18,1,1912,NULL,NULL
+"Anna Marie Cathrine",Falck,2,8,1,1912,55.689475600000,12.560053100000
+"Elna Johanne",Neumann,2,2,1,1912,NULL,NULL
+"Kirsten Marie",Larsen,2,8,1,1912,NULL,NULL
+"Holger Niels Juul",Nielsen,1,19,1,1912,NULL,NULL
+"Christian William",Eriksen,1,29,1,1912,55.673561400000,12.590506900000
+"Paul Eli",Carstensen,1,10,1,1912,55.666103200000,12.614662900000
+"Ingeborg Elise",Nielsen,2,17,1,1912,NULL,NULL
+"Lars Sofus",Larsen,1,18,1,1912,NULL,NULL
+"Johannes Ohmann",Christensen,1,13,1,1912,NULL,NULL
+Anna,Johansson,2,8,1,1912,NULL,NULL
+"Olga Eleonora",Eriksson,2,19,1,1912,55.689607800000,12.560540400000
+"Peter Anthon",Eriksen,1,10,1,1912,NULL,NULL
+"Peter Anthon",Eriksen,1,15,1,1912,NULL,NULL
+"Charles Edvard",Magnussen,1,31,1,1912,NULL,NULL
+"Marie Vilhelmine Elisabeth",Iversen,2,8,1,1912,55.674003600000,12.573598300000
+"Hans Krüger",Knudsen,1,20,1,1912,NULL,NULL
+"Ejner Erik Christoffer",Christoffersen,1,22,1,1912,NULL,NULL
+Torvald,Iversen,1,10,1,1912,NULL,NULL
+Holger,Christoffersen,1,8,1,1912,55.664447900000,12.608114900000
+"Anna Marie",Jensen,2,17,1,1912,NULL,NULL
+"Victor Vindelef",Knudsen,1,31,1,1912,NULL,NULL
+Jens,Nielsen,1,10,1,1912,NULL,NULL
+"Julius Christian",Jensen,1,25,1,1912,NULL,NULL
+"Julie Hansine Marie",Jensen,2,6,1,1912,NULL,NULL
+"Jens Christian",Nielsen,1,16,1,1912,NULL,NULL
+"Frits Johannes",Möller,1,5,1,1912,NULL,NULL
+Alexander,Belagurow,1,3,1,1912,NULL,NULL
+"Carl Emil Fraügott",Jensen,1,3,1,1912,NULL,NULL
+"Ludvig Christian",Ditlevsen,1,19,1,1912,55.671330300000,12.564396300000
+"Marie Elisabeth",Madsen,2,29,1,1912,55.678194300000,12.568612100000
+"Carl Ludvig",Jensen,1,12,1,1912,NULL,NULL
+"Christian Vilhelm",Jacobsen,1,12,1,1912,NULL,NULL
+"Jens Peter",Nielsen,1,2,1,1912,NULL,NULL
+Knud,Frantzen,1,8,1,1912,NULL,NULL
+"Olga Johanne",Rasmussen,2,9,1,1912,NULL,NULL
+"Clara Franciska",Jacobsen,2,4,1,1912,NULL,NULL
+"Robert Emil",Christensen,1,16,1,1912,NULL,NULL
+"Robert Emil",Christensen,1,29,1,1912,55.682379800000,12.576529400000
+"Eleonora Kirstine Emilie",Jørgensen,2,5,1,1912,NULL,NULL
+"Anna Johanne",Frederiksen,2,5,1,1912,55.673329700000,12.590481300000
+"Georg Valdemar",Fritze,1,5,1,1912,55.654786900000,12.610607800000
+"Henry Julius Albert",Hersties,1,24,1,1912,NULL,NULL
+"Hansine Marie",Pedersen,2,9,1,1912,55.671294100000,12.558530900000
+"Anna Antonie",Zagermann,2,5,1,1912,NULL,NULL
+Svend,Christensen,1,30,1,1912,55.672161800000,12.557375100000
+"Karen Marie Olivia",Christiansen,2,8,1,1912,NULL,NULL
+"Margrethe Christine",Christiansen,2,5,1,1912,55.673929900000,12.591120300000
+"Harriet Johanne (Juliane)",Petersen,2,3,1,1912,NULL,NULL
+"Emma Christine",Petersen,2,11,1,1912,55.677599100000,12.567469600000
+"Anders Peter",Christensen,1,27,1,1912,55.676012800000,12.597881400000
+"Anders Peter Rasmussen",Saltvig,1,23,1,1912,55.694711500000,12.550551000000
+"Anna Elsine",Christensen,2,2,1,1912,NULL,NULL
+"Martha Marie Elisabeth",Weise,2,1,1,1912,55.684590600000,12.582206500000
+Marie,Piotroowki,2,3,1,1912,NULL,NULL
+"Emmy Olivia Ragnhild",Petersen,2,31,1,1912,NULL,NULL
+"Elin Marie Dorthea",Borgstrøm,2,6,1,1912,55.678285700000,12.566258600000
+"Karen Frederikke Christine",Jensen,2,16,1,1912,NULL,NULL
+"Alfredag Utalia Poula",Petersen,2,20,1,1912,55.682880800000,12.589865700000
+Ludovica,Jensen,2,24,1,1912,NULL,NULL
+"Antonie Oluffa",Andersen,2,2,1,1912,NULL,NULL
+"Arnold Barnekow",Andersen,1,31,1,1912,NULL,NULL
+"Kamma Eugenie",Sass,2,25,1,1912,55.670388700000,12.541450500000
+Lavra,Jacobsen,2,18,1,1912,NULL,NULL
+"Ferdinand Cornelius",Petersen,1,2,1,1912,NULL,NULL
+"Jens Jensen",Østergaard,1,9,1,1912,55.680689900000,12.564061400000
+Anna,Andersen,2,4,1,1912,55.682198700000,12.563951000000
+"Thorvald Johan",Jacobsen,1,19,1,1912,NULL,NULL
+"Ferdinand Vilhelm",Petersen,1,31,1,1912,NULL,NULL
+"Ferdinand Vilhelm",Petersen,1,8,1,1912,NULL,NULL
+"Anne Elisabeth",Andersen,2,8,1,1912,55.671438600000,12.561695600000
+Thora,Christiansen,2,24,1,1912,55.664824900000,12.607506600000
+"Valdemar Christian",Nielsen,1,23,1,1912,NULL,NULL
+"Christian Peter Alfred",Hoff,1,1,1,1912,NULL,NULL
+Vilhelm,Nielsen,1,6,1,1912,55.676698800000,12.574663500000
+"Anna Marie Thyra Sine",Andersen,2,25,1,1912,55.679775600000,12.567536200000
+"Vilhelm Peter Høy",Frederiksen,1,8,1,1912,55.665977000000,12.548697200000
+"Sara Charlotte",Rasmussen,2,1,1,1912,55.686360100000,12.566263000000
+"Carl Otto",Lund,1,8,1,1912,NULL,NULL
+"Axel Jens",Jensen,1,4,1,1912,55.678313500000,12.578371500000
+Lauritz,Jensen,1,19,1,1912,NULL,NULL
+Rigmor,Ørskov,2,22,1,1912,NULL,NULL
+"Hans Frederik",Petersen,1,15,1,1912,55.680935700000,12.573919700000
+"Asta Sylvia",Petersen,2,5,1,1912,55.677012100000,12.570759400000
+"Astrid Alexandra Marie Feodorovna",Petersen,2,6,1,1912,55.684267100000,12.570478400000
+"Jacob Andreas",Olesen,1,15,1,1912,55.676244600000,12.599160300000
+"Carl Frederik Julius Theobald",Andersen,1,8,1,1912,55.678687900000,12.568973500000
+"Hans Nicolai",Petersen,1,22,1,1912,NULL,NULL
+"Hermann Vilhelm",Andersen,1,23,1,1912,55.677674300000,12.589317000000
+"Ane Sørine",Christensen,2,5,1,1912,55.674721800000,12.591254400000
+"Karl Hermann Robert",Richter,1,3,1,1912,55.681965700000,12.564553200000
+"Lauritz Emil",Olsen,1,5,1,1912,55.671604600000,12.545245000000
+Caroline,Olsen,2,8,1,1912,NULL,NULL
+"Betty Aurelia",Petersen,2,22,1,1912,55.678030700000,12.574129800000
+Ingeborg,Risløv,2,18,1,1912,NULL,NULL
+"Augusta Frederikke",Hansen,2,23,1,1912,NULL,NULL
+"Ellen Sigrid",Schou,2,15,1,1912,55.677492500000,12.566969400000
+"Mette Marie",Nielsen,2,10,1,1912,NULL,NULL
+"Dagmar Olga Astrid",Olsen,2,1,1,1912,NULL,NULL
+"Carl Victor",Petersen,1,18,1,1912,55.684827300000,12.569066400000
+"Elise Marie",Olsen,2,5,1,1912,NULL,NULL
+"Dorothea Sofie",Pasche,2,20,1,1912,NULL,NULL
+"Ernst Carl Christen",Boyesen,1,2,1,1912,55.677824200000,12.582731500000
+"Niels Oluf Simon Jacob",Nielsen,1,12,1,1912,NULL,NULL
+"Jens Kristian",Petersen,1,23,1,1912,NULL,NULL
+"Christen Hansen",Christensen,1,4,1,1912,55.667828300000,12.545664600000
+"Henrik Emanuel",Olsen,1,12,1,1912,NULL,NULL
+"Hans Christian",Petersen,1,12,1,1912,55.686983800000,12.582852300000
+"Peter Anton Fog",Jensen,1,30,1,1912,NULL,NULL
+"Sigvald Weis",Fogh,1,25,1,1912,55.690158000000,12.571177700000
+"Astrid Marie Christine",Knudsen,2,23,1,1912,55.685113500000,12.567436500000
+"Walther Alexander",Kieffer,1,17,1,1912,NULL,NULL
+"Christine Magdalene",Christensen,2,9,1,1912,NULL,NULL
+Israel,Crhalavin,1,1,1,1912,55.690505400000,12.573053200000
+"Aage Christensen",Byriel,1,12,1,1912,55.685428200000,12.566633900000
+"Svend Aage",Jensen,1,10,1,1912,NULL,NULL
+Edvard,Gottlieb,1,12,1,1912,55.672407900000,12.549437400000
+"Sara Caroline",Jensen,2,10,1,1912,NULL,NULL
+"Ani Ida Carolina",Gustafsson,2,16,1,1912,NULL,NULL
+"Valborg Christine",Jensen,2,5,1,1912,NULL,NULL
+"Alfhild Atentia",Johansson,2,23,1,1912,55.667423900000,12.577845800000
+Anna,Johansen,2,8,1,1912,55.665783100000,12.610549200000
+"Anna Karoline Andrea",Johansen,2,1,1,1912,NULL,NULL
+"Anna Karoline Andrea",Johansen,2,1,1,1912,NULL,NULL
+Christian,Hansen,1,24,1,1912,NULL,NULL
+"Frida Marta Helene",Wencien,2,31,1,1912,NULL,NULL
+Emil,Hansen,1,18,1,1912,NULL,NULL
+"Oline Marie",Jensen,2,2,1,1912,NULL,NULL
+"Olrik Andreas",Jensen,3,20,1,1912,55.689105300000,12.572743900000
+Charlotte,Petersen,2,22,1,1912,55.689607800000,12.560540400000
+Christian,Petersen,1,12,1,1912,55.676761400000,12.572058800000
+Mary,Olsen,2,18,1,1912,NULL,NULL
+"Oda Agnes Magrethe",Olsen,2,12,1,1912,55.678905300000,12.573802800000
+"Oluffa Helene",Olsen,2,15,1,1912,NULL,NULL
+"Knud Ludvig Martin Bernhard",Christensen,1,4,1,1912,55.685200000000,12.566882100000
+"Ebba Charlotte",Pettersson,2,15,1,1912,55.677492500000,12.566969400000
+"Christian Pedersen",Rønn,1,15,1,1912,55.690018200000,12.571472000000
+"Søren Christian Sørensen",Røn,1,16,1,1912,55.677492500000,12.566969400000
+"Clara Severine",Hansen,2,30,1,1912,55.655300500000,12.610265000000
+"Carl Christian",Rønnenholt,1,23,1,1912,55.685825300000,12.568058000000
+"Villiam Bernhard John",Funcke,1,2,1,1912,55.670081000000,12.539858500000
+"Andrea Else",Rasmussen,2,22,1,1912,NULL,NULL
+"Valdemar Herman",Førster,1,29,1,1912,55.671528000000,12.559395900000
+"Vilhelmine Dorthea",Krantz,2,NULL,1,1912,55.672393700000,12.563096800000
+"Ejner Ferdinand Kjærsgaard",Jensen,1,27,1,1912,NULL,NULL
+"Ejner Harald",Thorlaksen,1,2,1,1912,NULL,NULL
+"Ejner Harald",Thorlaksen,1,6,1,1912,NULL,NULL
+Niels,Johnsen,1,22,1,1912,55.685886100000,12.567702700000
+"Svend Rudolf",Fransing,1,1,1,1912,55.675926500000,12.565867600000
+"Carl Henrik Ejner",Hansen,1,15,1,1912,55.654138800000,12.611044200000
+"Theodor Johannes",Larsen,1,22,1,1912,NULL,NULL
+"Christian Rasmussen",Juul,1,22,1,1912,NULL,NULL
+"Ane Margrethe Petersen",Sønnersgaard,2,18,1,1912,55.675235600000,12.599330900000
+"Carl Marius",Rasmussen,1,5,1,1912,55.715073100000,12.575209900000
+"Martin Adam",Ullrich,1,17,1,1912,NULL,NULL
+"Anna Sofie",Hansen,2,6,1,1912,55.688306300000,12.561484800000
+"Bertha Alvilda Christine",Nielsen,2,18,1,1912,55.665783100000,12.610549200000
+"Michael Petersen",Friis,1,16,1,1912,NULL,NULL
+"Frederik Christoff",Clemmensen,1,19,1,1912,NULL,NULL
+"Anna Nathalie Kathrine",Møller,2,6,1,1912,55.678573100000,12.569083300000
+"Bodil Emilie",Nilsson,2,21,1,1912,55.672827000000,12.557556700000
+"Larsenius Peter Christian Petersen",Tønder,1,19,1,1912,NULL,NULL
+"Larsenius Peter Christian Petersen",Tønder,1,19,1,1912,NULL,NULL
+"Bettus Viggo Holger Molinus",Ulvskov,1,8,1,1912,NULL,NULL
+"Eline Antonie",Rasmussen,2,25,1,1912,55.680078600000,12.568281900000
+"Jensine Kirstine",Jørgensen,2,9,1,1912,55.679060900000,12.591112900000
+"Einer Henry",Lindberg,1,19,1,1912,NULL,NULL
+Louis,Chalet,1,7,1,1912,55.685662600000,12.585715900000
+Louis,Chalet,1,30,1,1912,NULL,NULL
+"Erhardt julius",Hansen,1,16,1,1912,NULL,NULL
+"Søren Sørensen",Fruelund,1,13,1,1912,55.684478900000,12.567997000000
+"Carl Frederik Balslev",Vied,1,29,1,1912,55.681751800000,12.570055600000
+"Dagmar Louise",Fryhstych,2,17,1,1912,NULL,NULL
+Frederik,Hansen,1,26,1,1912,55.670899200000,12.559995900000
+Frederik,Hansen,1,29,1,1912,55.671773700000,12.563651500000
+"Carl Eduard Martin Vilhelm",Nielsen,1,17,1,1912,NULL,NULL
+"Emanuel (Henning)",Petersen,1,29,1,1912,NULL,NULL
+"Emil Julius Carl",Petersen,1,9,1,1912,55.685203800000,12.565845500000
+"Carl Johannes",Nielsen,1,12,1,1912,55.680809700000,12.564136100000
+"Carl Johannes Marius",Nielsen,1,6,1,1912,NULL,NULL
+"Karl Adolf Osvald",Svensson,1,11,1,1912,55.667928200000,12.546862600000
+Lena,Carstensen,2,11,1,1912,NULL,NULL
+"Carlo Thorvald",Hansen,1,3,1,1912,55.669134900000,12.552700100000
+"Ejner Valdemar",Sørensen,1,6,1,1912,55.659133500000,12.610040800000
+"Anna Kirstine",Olsen,2,9,1,1912,55.677752600000,12.573361600000
+"Frithiof Thorkild",Sørensen,1,26,1,1912,NULL,NULL
+Erna,Pedersen,2,8,1,1912,55.696031200000,12.587665200000
+"Caroline Sophie",Nielsen,2,22,1,1912,NULL,NULL
+"Jørgen Aurelius",Jørgensen,1,8,1,1912,55.682448000000,12.563654800000
+"Nora Margrethe",Iversen,2,8,1,1912,55.674003600000,12.573598300000
+"Jens Christian Ditlev",Sørensen,1,6,1,1912,55.662724300000,12.601346000000
+"Johanne Elisabeth",Sørensen,2,15,1,1912,NULL,NULL
+"Ejner Frederik",Jensen,1,17,1,1912,55.680935700000,12.573919700000
+"Ejner Frederik",Jensen,1,6,1,1912,55.678872100000,12.573218200000
+Marius,Casanelli,1,5,1,1912,55.678812000000,12.570307500000
+"Edvard Christian",Møller,1,27,1,1912,55.683781000000,12.563438100000
+"Jens Christian Ulrik",Nielsen,1,22,1,1912,55.683781000000,12.563438100000
+"Anna Mathilde",Olsen,2,22,1,1912,55.682091500000,12.573493400000
+Christian,Nielsen,1,18,1,1912,NULL,NULL
+"Robert Aage Carl",Olsen,1,5,1,1912,NULL,NULL
+"Aage Alexander",Thomsen,1,10,1,1912,NULL,NULL
+"Julie Karen",Olsen,2,3,1,1912,NULL,NULL
+"Jens Frederik",Jørgensen,1,4,1,1912,NULL,NULL
+"Alfred Henrik",Hansen,1,18,1,1912,55.683791200000,12.565227300000
+"Georg Frederik",Petersen,1,5,1,1912,55.676886800000,12.571804500000
+"Axel Henry",Thomassen,1,9,1,1912,NULL,NULL
+"Victor Theodor",Sahlberg,1,10,1,1912,NULL,NULL
+"Hanne Kirstine",Pedersen,2,2,1,1912,NULL,NULL
+"Louise Elleonora Margrethe",Jørgensen,2,15,1,1912,NULL,NULL
+Anders,Petersen,1,6,1,1912,NULL,NULL
+Simon,Krusewitzki,1,8,1,1912,55.684476100000,12.569958100000
+"Elvira Mary",Møller,2,4,1,1912,55.661505900000,12.607725100000
+"Arthur Aage",Olsen,1,4,1,1912,NULL,NULL
+"Hanne Sofie Caroline",Jensen,2,12,1,1912,NULL,NULL
+"Iver Iversen",Vinde,1,6,1,1912,NULL,NULL
+"Emmy Constance Jacobine",Jacobsen,2,17,1,1912,55.684124400000,12.565571100000
+"Niels Christian",Jørgensen,1,21,1,1912,NULL,NULL
+"Jens Severin",Hansen,1,27,1,1912,NULL,NULL
+"Jacob Peter",Glud,1,30,1,1912,NULL,NULL
+Arnst,Hansen,3,20,1,1912,NULL,NULL
+"Marie Juliane",Sichlau,2,3,1,1912,NULL,NULL
+"Karen Amanda",Simonsen,2,5,1,1912,55.659929300000,12.607705800000
+"Christian Edvard",Nielsen,1,10,1,1912,55.670628900000,12.554857400000
+"Carl Adam",Müllertz,1,2,1,1912,55.681162400000,12.571033700000
+"Jens Jacob Christian",Jensen,1,9,1,1912,55.688222600000,12.554171700000
+"Carl Christian",Lauesen,1,20,1,1912,NULL,NULL
+"Carl Christian",Lauesen,1,12,1,1912,NULL,NULL
+"Karen Ingeborg",Jacobsen,2,13,1,1912,55.674475400000,12.576664100000
+"Mathilda Sofia",Petersson,2,13,1,1912,55.678883000000,12.592646400000
+"Hans Hartvig",Møller,1,8,1,1912,55.689871800000,12.572344100000
+"Oscar Vilhelm",Mundt,1,15,1,1912,55.669521800000,12.549755700000
+"Helga Caroline Vilhelmine Marie",Jensen,2,19,1,1912,55.677140100000,12.573536000000
+"Emil Vilhelm",Voltelen,1,21,1,1912,NULL,NULL
+Thorvald,Nielsen,1,19,1,1912,55.659862900000,12.614749600000
+Thorvald,Nielsen,1,13,1,1912,NULL,NULL
+"Marie Caroline",Gram,2,3,1,1912,55.680804200000,12.562362000000
+"Jenny Marie",Petersen,2,1,1,1912,55.665496500000,12.615575800000
+"Oscar Nielsen",Steenberg,1,25,1,1912,NULL,NULL
+"Niels Christian",Nielsen,1,23,1,1912,NULL,NULL
+"Cathinka Marie",Schou,2,2,1,1912,NULL,NULL
+"Hans Johannes",Hansen,1,17,1,1912,55.679020200000,12.570381800000
+"Jørgen Henry",Schrøder,1,11,1,1912,NULL,NULL
+"Peter Ferdinand (kl. Windahl)",Larsen,1,25,1,1912,NULL,NULL
+"Pouline Kirstine",Larsen,2,22,1,1912,NULL,NULL
+"Henry Alfred Christoffer",Springborg,1,6,1,1912,NULL,NULL
+Cathrine,Walsted,2,15,1,1912,55.677492500000,12.566969400000
+"Sigrid Emilie",Stenkildsson,2,8,1,1912,NULL,NULL
+"Carl Johan Nicolai Herman",Stenros,1,29,1,1912,NULL,NULL
+Jens,Stigsen,1,31,1,1912,NULL,NULL
+"Bror Marinus Christian",Lind,1,22,1,1912,NULL,NULL
+"Jens Peter Arvidsen",Petersen,1,5,1,1912,NULL,NULL
+"Anna Marie",Larsen,2,12,1,1912,NULL,NULL
+"Christian August",Ottesen,1,2,1,1912,NULL,NULL
+"Oda Bodil Camilla",Petersen,2,2,1,1912,NULL,NULL
+"Christian Laurits",Rinum,1,9,1,1912,NULL,NULL
+"Marry Larsine Christine",Hansen,2,6,1,1912,NULL,NULL
+"Viggo Carl Christian Hans",Petersen,1,22,1,1912,55.670788300000,12.542975100000
+"Christian Viktor Nicolaj",Thomsen,1,11,1,1912,55.682351800000,12.576725400000
+"Caroline Sofie",Madsen,2,16,1,1912,55.685363500000,12.567689300000
+"Agnes Emilie Marie",Ølting,2,1,1,1912,55.677815300000,12.578816700000
+"Christiane Dorthea",Madsen,2,5,1,1912,55.681476600000,12.572622300000
+"Ellen Johanne Henriette",Olsen,2,2,1,1912,NULL,NULL
+"Terkel Peter",Therkelsen,1,23,1,1912,55.685489700000,12.569248500000
+"Anders Johan",Østerling,1,8,1,1912,55.675966700000,12.566018500000
+"Dusine Christine",Madsen,2,NULL,1,1912,55.670116600000,12.550020500000
+"Ellen Marie",Madsen,2,3,1,1912,55.677582600000,12.590774700000
+"Fritz Emanuel",Madsen,1,25,1,1912,55.684267100000,12.570478400000
+"Carl Johan",Larsen,1,22,1,1912,NULL,NULL
+"Valborg Jenny",Larsen,2,5,1,1912,NULL,NULL
+"Else Kirstine Jensen",Terp,2,6,1,1912,NULL,NULL
+"Robert Emanuel Holberg",Poulsen,1,9,1,1912,NULL,NULL
+"Carl Frederik Villiam",Pløhn,1,18,1,1912,NULL,NULL
+"Carl Andreas",Hansen,1,3,1,1912,NULL,NULL
+Martha,Thomsen,2,26,1,1912,NULL,NULL
+"Anna Cathrine Henriette",Thjellesen,2,11,1,1912,NULL,NULL
+"Cathrine Johanne Margrethe Olesen",Præstbro,2,6,1,1912,NULL,NULL
+"Laura Marie Sørine",Madsen,2,23,1,1912,55.677010500000,12.565629100000
+"Edith Mathilde",Nielsson,2,10,1,1912,NULL,NULL
+Wera,Thomsen,2,8,1,1912,55.675966700000,12.566018500000
+"Elgine Augusta",Larsen,2,8,1,1912,NULL,NULL
+Marius,Madsen,1,22,1,1912,NULL,NULL
+"Elna Hansen",Tofte,2,3,1,1912,NULL,NULL
+"Viggo Anton Frederik",Larsen,1,4,1,1912,NULL,NULL
+Ingeborg,Thorlaksson,2,21,1,1912,55.678076500000,12.575404400000
+Peter,Petersen,1,27,1,1912,55.685722700000,12.566767500000
+"Arthur Vilhelm",Petersen,1,8,1,1912,NULL,NULL
+"Valborg Marie Bothilde",Jensen,2,5,1,1912,55.666011400000,12.550648000000
+"Anna Vilhelmine (Nyholm)",Petersen,2,9,1,1912,NULL,NULL
+"Anna Vilhelmine Helene",Petersen,2,11,1,1912,NULL,NULL
+"Johan Charles Marinus",Røpke,1,10,1,1912,NULL,NULL
+Anton,Christensen,1,15,1,1912,55.681346800000,12.572713700000
+"Hans Peter",Olsen,1,19,1,1912,55.681416800000,12.564007400000
+"Agnes Hansine",Rasmussen,2,31,1,1912,NULL,NULL
+"Anna Valborg",Rasmussen,2,10,1,1912,NULL,NULL
+"Anton Peter",Mikkelsen,1,20,1,1912,55.682575400000,12.563804500000
+Charles,Mikkelsen,1,15,1,1912,55.676984200000,12.570280900000
+"Anders Peter",Torp,1,8,1,1912,55.683724900000,12.565592700000
+"Jørgen Vilhelm",Mikkelsen,1,10,1,1912,55.684038500000,12.571086200000
+Christen,Christensen,1,6,1,1912,NULL,NULL
+"Hilda Thora",Larsen,2,9,1,1912,NULL,NULL
+"Gertrud Marie",Svensson,2,9,1,1912,55.650114700000,12.611685800000
+"Carl Sofus",Jørgensen,1,9,1,1912,55.678661800000,12.567141000000
+"Dagmar Dorthea",Hansen,2,4,1,1912,55.671140100000,12.562042700000
+"Hans Carl Christen",Poulsen,1,5,1,1912,NULL,NULL
+"Hans Carl Christian",Poulsen,1,5,1,1912,NULL,NULL
+"Selma Eleonora Christine",Petersen,2,10,1,1912,NULL,NULL
+"Jens Hansen",Ravn,1,9,1,1912,NULL,NULL
+"Vilhelm Jacobsen",Urwald,1,11,1,1912,NULL,NULL
+"Dagmar Mathilde",Hansen,2,20,1,1912,55.674003000000,12.572832900000
+Kaj,Tuchsen,1,12,1,1912,55.686000100000,12.567632600000
+Nils,Hansson,1,5,1,1912,NULL,NULL
+"Jarl Johan Harald",Hartvig,1,8,1,1912,55.682707700000,12.586153300000
+"Sidsel Marie",Petersen,2,2,1,1912,55.687561600000,12.558378100000
+Frederik,Tutein,1,25,1,1912,NULL,NULL
+"Harriet Gerda",Jensen,2,15,1,1912,55.676008300000,12.566148100000
+"Lars Peter Barnhold",Larsen,1,13,1,1912,55.684216700000,12.572555100000
+"Betzy Christine",Thyme,2,19,1,1912,NULL,NULL
+"Jens Peter",Nielsen,1,4,1,1912,NULL,NULL
+"Else Johanne",Thøgersen,2,12,1,1912,55.689139700000,12.562447900000
+"Anton Peter Carl Ferdinand Erik",Sørensen,1,18,1,1912,55.682277900000,12.571107800000
+"Ingeborg Elisabeth Gustava",Larsen,2,8,1,1912,55.685244600000,12.568321900000
+"Bertel Aage",Levin,1,9,1,1912,55.677106500000,12.569040600000
+"Anna Sofie",Sørensen,2,12,1,1912,NULL,NULL
+"Augusta Petrine",Sørensen,2,13,1,1912,55.704433300000,12.577893900000
+"Jens Rud",Nielsen,1,12,1,1912,55.672411100000,12.550698600000
+"Axel Marius",Sørensen,1,31,1,1912,55.671438600000,12.561695600000
+"Carl August",Straus,1,15,1,1912,55.684650000000,12.571620800000
+"Jørgen Valdemar",Larsen,1,6,1,1912,55.688942200000,12.572549100000
+"Theodor Emil",Christensen,1,24,1,1912,55.682091100000,12.570826000000
+"Clemmen Jeppe",Clemmensen,1,18,1,1912,55.664616100000,12.582174200000
+"Martin Arnold",Mogensen,1,12,1,1912,55.690140300000,12.564482100000
+"Sigrid Carla Emma",Rasmussen,3,13,1,1912,NULL,NULL
+Christian,Sørensen,1,22,1,1912,55.678201400000,12.573014700000
+"Kirsten Marie",Larsen,2,8,1,1912,NULL,NULL
+Eleonora,Hansen,2,21,1,1912,55.684253600000,12.563684100000
+"Karen Kirstine",Nielsen,2,8,1,1912,55.674654500000,12.565659700000
+"Elna Marie Thea",Hansen,2,1,1,1912,55.688166200000,12.561284300000
+"Edith Marie",Jensen,2,10,1,1912,NULL,NULL
+"Anna Marie",Mortensen,2,6,1,1912,NULL,NULL
+"Anna Sofie",Christiansen,2,31,1,1912,55.677012100000,12.570759400000
+Elin,Mortensen,2,3,1,1912,55.670283100000,12.540969700000
+"Ida Marie",Mortensen,2,4,1,1912,NULL,NULL
+"Ernestine Christiane",Sørensen,2,8,1,1912,NULL,NULL
+"Laurits Christian",Larsen,1,8,1,1912,NULL,NULL
+"Julie Johanne Marie",Simonsen,2,15,1,1912,55.677492500000,12.566969400000
+"Louise Margrethe",Larsen,2,17,1,1912,NULL,NULL
+Lydia,Larsen,2,8,1,1912,55.670714200000,12.558673000000
+"Jørgen Rasmus",Mortensen,1,9,1,1912,55.678573100000,12.569083300000
+"Agnes Hansine Christine",Jensen,2,18,1,1912,NULL,NULL
+Johannes,Jensen,1,1,1,1912,55.685556000000,12.567185500000
+"Anton Vilhelm Møller",Jensen,1,17,1,1912,55.697263000000,12.545907700000
+"Gerda Eleonora Vilhelmine",Pihl,2,5,1,1912,55.682099800000,12.571120400000
+"Laurine Kirstine Simonstine",Nielsen,2,18,1,1912,NULL,NULL
+Søren,Petersen,1,6,1,1912,NULL,NULL
+"Elof Henrik",Jensen,1,4,1,1912,55.705271000000,12.579364100000
+"Emma Dagny Laurentze",Hansen,2,2,1,1912,55.683018900000,12.570079000000
+"Schmit Wolff",Podrigal,1,27,1,1912,55.679095500000,12.568500600000
+"Sigurd Oscar",Haug,1,15,1,1912,55.684481600000,12.566543900000
+Benno,Politura,1,1,1,1912,55.681441500000,12.571007700000
+"Rolf Sverre Alexander",Larsen,1,24,1,1912,55.678072100000,12.569919800000
+"Jens Nielsen","Haun (kl. Boy)",1,5,1,1912,55.673085100000,12.574827400000
+"Hans Peter Olsen",Christensen,1,2,1,1912,55.669214900000,12.555393800000
+"Hans Peter",Christensen,1,26,1,1912,55.680523600000,12.589099100000
+"Lauritz Emil Nicolaj",Nielsen,1,7,1,1912,NULL,NULL
+"Leo August Claus",Nielsen,1,16,1,1912,55.674654500000,12.565659700000
+Julius,Sørensen,1,17,1,1912,NULL,NULL
+"Henriette Pouline Sophie",Christensen,2,4,1,1912,NULL,NULL
+"Christian Hjalmar",Christiansen,1,12,1,1912,55.676517800000,12.575638800000
+"Margrethe Wohlers",Jensen,2,5,1,1912,NULL,NULL
+Vilhelmine,Jørgensen,2,8,1,1912,NULL,NULL
+"Mariane Kirstine",Jensen,2,4,1,1912,55.684344800000,12.572753000000
+"Marinus Peter",Jensen,1,29,1,1912,NULL,NULL
+"Imogine Christiane",Christensen,2,9,1,1912,NULL,NULL
+"Mary Jensine",Larsen,2,13,1,1912,NULL,NULL
+"Niels Peter",Jørgensen,1,6,1,1912,NULL,NULL
+"Peter Christian",Sørensen,1,4,1,1912,NULL,NULL
+"Louise Johanne",Sørensen,2,8,1,1912,NULL,NULL
+"Olivia Constance",Hansen,2,1,1,1912,55.691508800000,12.559006400000
+"Lempi Josefine",Niemi,2,5,1,1912,NULL,NULL
+"Martin Alfred",Jensen,1,4,1,1912,55.668198400000,12.548855500000
+"Oscar Theobald",Hansen,1,17,1,1912,NULL,NULL
+Jørgen,Christensen,1,3,1,1912,55.685016600000,12.570298500000
+"Lauritz Esekiel",Lauritzen,1,10,1,1912,55.681751800000,12.570055600000
+"Ove Wortziger",Hansen,1,9,1,1912,55.686881800000,12.581056400000
+"Mathilde Frederikke",Jensen,2,9,1,1912,55.676206300000,12.541966000000
+"Marie Oline Cecilie",Hansen,2,16,1,1912,55.682874800000,12.573718700000
+"Marius Johan",Lauritzen,1,10,1,1912,55.681751800000,12.570055600000
+"Thyra Johanne Jørgine",Sørensen,2,3,1,1912,NULL,NULL
+"Marie Amalie",Nielsen,2,1,1,1912,NULL,NULL
+"Anders Aage Ejner",Poulsen,1,9,1,1912,55.685363500000,12.567689300000
+"Robert Holger",Hansen,1,16,1,1912,NULL,NULL
+"Rosa Christine",Hansen,2,18,1,1912,55.680742500000,12.583466200000
+"Alvilda Kirstine Louise",Nilsson,2,10,1,1912,55.703589100000,12.590707900000
+"Anna Marie",Poulsen,2,13,1,1912,55.681113400000,12.592220900000
+"Karen Kirstine Ladeby",Jensen,2,3,1,1912,55.687788500000,12.561401700000
+"Elsa Marie",Hertz,2,6,1,1912,55.675377900000,12.572800900000
+"Anna Pouline",Poulsen,2,3,1,1912,55.673323700000,12.574709100000
+"Carl Gustav Bernhard",Johansen,1,12,1,1912,NULL,NULL
+"Carl Gustav Bernhard",Johansen,1,23,1,1912,55.682198700000,12.563951000000
+"Vilhelm Richard",Hansen,1,12,1,1912,NULL,NULL
+"Bödvar Påhlmann",Pålsson,1,31,1,1912,55.685007000000,12.566658800000
+"Hanne Franciska",Lillie,2,3,1,1912,55.661139900000,12.606940800000
+"Archibald Holt",Hall,1,14,1,1912,NULL,NULL
+"Anna Henriette",Jørgensen,2,27,1,1912,55.681963700000,12.581737500000
+"Anna Kirstine",Jørgensen,2,31,1,1912,NULL,NULL
+"Anna Kirstine",Jørgensen,2,1,1,1912,55.679603800000,12.584735600000
+"Nanna Thomasine",Nielsen,2,6,1,1912,55.683288800000,12.566688200000
+"Hans Christoffer",Henriksen,1,2,1,1912,55.677599100000,12.567469600000
+"Frederik Valdemar",Svalgaard,1,16,1,1912,NULL,NULL
+"Cecilie Dorthea",Jørgensen,2,11,1,1912,55.682575400000,12.563804500000
+"Lorentz Wulff",Hinrichsen,1,11,1,1912,55.698664400000,12.587153500000
+Helene,Lindholm,2,1,1,1912,55.685376900000,12.569097600000
+"Thora Johanne",Henriksen,2,4,1,1912,55.670372300000,12.548878000000
+"Thorvald Andreas",Henriksen,1,18,1,1912,55.683654500000,12.566116600000
+Hans,Nielsen,1,18,1,1912,55.684267100000,12.570478400000
+Hans,Nielsen,1,22,1,1912,55.684481600000,12.566543900000
+"Carl Christian",Hjernø,1,20,1,1912,55.689090900000,12.573500400000
+"Oda Christiane",Nielsen,2,31,1,1912,55.685543700000,12.569379100000
+"Maria Vilhelmina",Lindvall,2,6,1,1912,55.680683800000,12.588481400000
+"Dagmar Eugenie",Linto,2,9,1,1912,NULL,NULL
+"Claudine Vilhelmine Sofie",Jørgensen,2,2,1,1912,55.655043500000,12.518534900000
+"Christian Joakum",Hilstad,1,19,1,1912,NULL,NULL
+"Hans Sofus",Nielsen,1,12,1,1912,55.681534600000,12.563041800000
+"Flora Emma Christiane",Schøn,2,9,1,1912,55.665827100000,12.545472100000
+"Jens Anton Carl",Schjødtz,1,18,1,1912,55.689936900000,12.559118700000
+Orlando,Michaeli,3,10,1,1912,55.684038500000,12.571086200000
+"Niels Christian",Christoffersen,1,10,1,1912,55.678730100000,12.574982500000
+"Carl Christian",Clausen,1,27,1,1912,NULL,NULL
+Hermann,Nilsson,1,26,1,1912,55.684553400000,12.570725700000
+"Knud Lorentzen",Jensen,1,29,1,1912,55.692004100000,12.559646600000
+Ludvig,Overdige,1,9,1,1912,55.683781000000,12.563438100000
+"Niels Jensen",Overgaard,1,12,1,1912,55.673721000000,12.559979000000
+"Hans Emil",Kruse,1,9,1,1912,55.685722200000,12.568697800000
+"Astrid Christine Christiane",Jensen,2,3,1,1912,55.670914600000,12.563595800000
+"Karen Marie",Lorentzen,2,10,1,1912,55.682575400000,12.563804500000
+"Marie Mathilde",Kryger,2,3,1,1912,55.668151800000,12.578807500000
+"Christian Lauritz",Steffensen,1,25,1,1912,55.678846000000,12.567324700000
+Peter,Reberholt,1,30,1,1912,55.685556000000,12.567185500000
+Asora,Mathiesen,3,13,1,1912,NULL,NULL
+"Rudolf Heinrich Oskar",Kreutzfeldt,1,24,1,1912,NULL,NULL
+"Ingeborg Caroline",Sohrbeck,2,23,1,1912,NULL,NULL
+"Anton Marius",Nielsen,1,15,1,1912,55.684941500000,12.569777600000
+"Anton Marius",Nielsen,1,4,1,1912,NULL,NULL
+"Paul Oscar",Kühnel,1,23,1,1912,55.681228600000,12.583710300000
+"Harriet Alfrida",Albrechtsen,2,3,1,1912,NULL,NULL
+"Edvin Robert Emanuel",Kønig,1,12,1,1912,NULL,NULL
+"Sørine Kirstine",Nørregaard,2,1,1,1912,55.680644300000,12.575078300000
+"Agnes Frederikke",Nielsen,2,5,1,1912,55.679484300000,12.569755500000
+"Fritz Christian",Lybech,1,20,1,1912,NULL,NULL
+"Ellemine Claudine",Bech,2,10,1,1912,NULL,NULL
+Richardt,Dissmann,1,9,1,1912,55.680524100000,12.580415000000
+"Valdemar Ludvig Ousen",Anthon,1,11,1,1912,55.697441000000,12.581469100000
+"Alfred Johannes",Nielsen,1,4,1,1912,55.690024800000,12.559385600000
+"Karen Margrethe",Mathiesen,2,5,1,1912,NULL,NULL
+"Edmund Frederik",Salicath,1,30,1,1912,55.684045700000,12.582089800000
+"Karen Eleonora Elise Marie",Andersen,2,4,1,1912,NULL,NULL
+Giuseppe,Mattenzzi,1,5,1,1912,55.678812000000,12.570307500000
+"Poul Harald Stig",Andersen,1,10,1,1912,55.672386100000,12.548419100000
+Troels,Bisgaard,1,9,1,1912,55.682117200000,12.564139700000
+"Anna Margrethe",Bjørnson,2,24,1,1912,55.684650000000,12.571620800000
+"Anders Christian",Dahl,1,24,1,1912,NULL,NULL
+"Niels Harald Ludvig",Aagesen,1,15,1,1912,55.670874100000,12.543798400000
+"Oscar Julius",Andersen,1,2,1,1912,55.678260600000,12.574907300000
+"Peter Christian",Andersen,1,4,1,1912,55.676886800000,12.571804500000
+"Johanne Vilhelmine",Block,2,2,1,1912,55.663556400000,12.600057100000
+"Hans Peter",Dam,1,13,1,1912,55.682220700000,12.580271400000
+"Arne Tørsleff",Kapel,1,15,1,1912,55.689679800000,12.570941400000
+"Arne Tørsleff",Kapel,1,22,1,1912,55.681693900000,12.574048100000
+"Lothar von","Bentheim (kl. Volschardt)",1,31,1,1912,NULL,NULL
+"Antonette Martine",Anthoniesen,2,22,1,1912,NULL,NULL
+"Marie J",Karjaleinen,2,3,1,1912,55.667197400000,12.549922600000
+"Astrid Marie",Davidsen,2,11,1,1912,55.700540900000,12.579054500000
+"Laurentzius Maximilianus",Aakjær,1,8,1,1912,NULL,NULL
+"Mikkel Nielsen",Kibsgaard,1,8,1,1912,55.683614300000,12.565462200000
+Egil,Benzon,1,24,1,1912,55.685853900000,12.568203400000
+"Akton Alfred Andersen",Bagge,1,31,1,1912,55.683091200000,12.564845900000
+"Arthur Carl Vilhelm",Althuon,1,31,1,1912,55.690844000000,12.557917200000
+"Aage Christian",Balling,1,2,1,1912,55.680935700000,12.573919700000
+"Hakon Constant",Kieler,1,11,1,1912,55.673517300000,12.575976700000
+"Niels Peter Anton",Kildevang,1,19,1,1912,55.699237900000,12.502244500000
+"Regine Marie",Andersen,2,4,1,1912,55.686484400000,12.566766100000
+"Søren Peter",Andersen,1,27,1,1912,55.686302600000,12.567446400000
+"Amor Theodor",Amorsen,1,23,1,1912,55.690380200000,12.564608600000
+"Johannes Peter Vilh. Rasmussen",Bom,1,23,1,1912,55.685722700000,12.566767500000
+"Herman Alfred",Andreasen,1,16,1,1912,55.691463200000,12.545354500000
+"Axel Johan",Dørge,1,8,1,1912,NULL,NULL
+"Georg Christian Adler",Davidsen,1,24,1,1912,NULL,NULL
+Emmy,Schoyen,2,9,1,1912,55.684481600000,12.566543900000
+Frederik,Jensen,1,10,1,1912,55.689139700000,12.562447900000
+"Rigmor Rosa",Johansen,2,1,1,1912,NULL,NULL
+"Emma Caroline",Bergsten,2,18,1,1912,55.682685800000,12.565583300000
+Emmy,Sivertsen,2,6,1,1912,55.651740500000,12.610901500000
+"Aage Carl Thorvald",Andreassen,1,27,1,1912,NULL,NULL
+Carl,Berg,1,11,1,1912,55.677815300000,12.578816700000
+"Ingeborg Rasmine",Davidsen,2,25,1,1912,55.698497700000,12.552305100000
+"Henrik Christian",Stampe,1,18,1,1912,55.681268200000,12.563063000000
+"Alma Theodora",Andresen,2,4,1,1912,NULL,NULL
+"Alma Theodora",Andresen,2,15,1,1912,NULL,NULL
+"Ane Margrethe",Danielsen,2,20,1,1912,55.684827300000,12.569066400000
+"Peter Marinus",Antonsen,1,13,1,1912,55.670274900000,12.554752100000
+"Frede Alfred",Davidsen,1,16,1,1912,NULL,NULL
+"Marie Elisabeth",Davidsen,2,8,1,1912,55.681416800000,12.564007400000
+"Carl Josef",Appeldahl,1,12,1,1912,55.687581200000,12.542767900000
+"Theodor Christian Valdemar",Dahl,1,5,1,1912,55.678433700000,12.587561300000
+"Anders Johannes",Nielsen,1,13,1,1912,NULL,NULL
+Valdemar,Desler,1,10,1,1912,NULL,NULL
+Kirstine,Aagaard,2,13,1,1912,55.682332500000,12.581613100000
+"Jenny Margrethe",Andreasen,2,12,1,1912,55.693226000000,12.543012800000
+"Johan Leopold",Andreasson,1,3,1,1912,NULL,NULL
+"Hans Peter Lauritz",Arildsen,1,24,1,1912,NULL,NULL
+Hirsch,Diamant,1,5,1,1912,55.673040600000,12.558538800000
+"Bernhard Aage Alfred",Dibern,1,26,1,1912,55.699081700000,12.544789100000
+"Knud Hjalmar",Aagerup,1,11,1,1912,55.672905200000,12.593007100000
+"Christian Carl Jørgen",Aaling,1,11,1,1912,55.699081700000,12.544789100000
+Filippo,Arcazzi,1,22,1,1912,NULL,NULL
+Laura,Arctander,2,5,1,1912,55.685778400000,12.590194900000
+"Camilla Louise Henriette",Andreasen,2,6,1,1912,NULL,NULL
+Emil,Didrichsen,1,3,1,1912,NULL,NULL
+Valdemar,Aggersgaard,1,14,1,1912,55.675243600000,12.572429200000
+"Carl Jens Frederik",Andreasen,1,30,1,1912,55.688140900000,12.557106400000
+"Ove Michael",Duvier,1,23,1,1912,55.698614700000,12.576127500000
+"Jenny Amanda Antonia",Danielsen,2,1,1,1912,55.676886800000,12.571804500000
+"Margrethe Hermandine",Dagsberg,2,3,1,1912,55.676584600000,12.541341200000
+Christian,Andreassen,1,12,1,1912,55.669084500000,12.549779200000
+Anna,Axelsen,2,30,1,1912,55.682596200000,12.582286300000
+"Maren Andrea",Danielsen,2,5,1,1912,55.696214000000,12.574777400000
+"Harald Ove",Hoffmann,1,19,1,1912,55.675243600000,12.572429200000
+"Christian Peter Jensen",Axelsen,1,15,1,1912,NULL,NULL
+"Michael Peter",Andreasen,1,10,1,1912,55.669623700000,12.552674600000
+"Niels Vilhelm Marius",Andreasen,1,23,1,1912,NULL,NULL
+"Oda Marie",Andreasen,2,2,1,1912,55.668198400000,12.548855500000
+"Anton Johannes",Jensen,1,2,1,1912,55.697881300000,12.581279000000
+"Peter Christian Emil Nielsen",Dansager,1,4,1,1912,NULL,NULL
+"Alfred Christian",Andersen,1,29,1,1912,55.686697500000,12.586717900000
+"Henriette Kirstine",Danty,2,27,1,1912,55.671530800000,12.544943400000
+"Frits Ejnar Balduin Olsen",Danty,1,15,1,1912,NULL,NULL
+"Niels Olaf Iwer",Donnér,1,6,1,1912,NULL,NULL
+"Marie Agnes",Dierker,2,15,1,1912,NULL,NULL
+"Ida Henriette Vilhelmine",Arvedlund,2,15,1,1912,55.669265100000,12.553127300000
+"Carl Frederik",Jensen,1,1,1,1912,NULL,NULL
+"Carl Frederik",Jensen,1,17,1,1912,55.670714200000,12.558673000000
+"Rudolf Victor Leonard",Hornberg,1,30,1,1912,55.685665000000,12.567879300000
+"Anna Marie Rasmine",Andersen,2,8,1,1912,55.677341400000,12.565572100000
+"Carl Conrad Lauritz",Andersen,1,14,1,1912,NULL,NULL
+"Christian Frederik Valdemar",Andersen,1,1,1,1912,55.684268200000,12.585863700000
+"Ingeborg Hansine Christine",Christensen,2,12,1,1912,NULL,NULL
+"Arla Charlotte Eleonora",Jensen,2,6,1,1912,55.672358300000,12.549236600000
+"Maren Nielsine",Christensen,2,6,1,1912,NULL,NULL
+Enevold,Andersen,1,16,1,1912,NULL,NULL
+"Valentin Eberhard",Ahlberg,1,29,1,1912,NULL,NULL
+Otto,Fleischer,1,8,1,1912,55.684701000000,12.572596000000
+"Carl Nicolaj",Dideriksen,1,10,1,1912,NULL,NULL
+"Carl Nicolaj",Dideriksen,1,25,1,1912,NULL,NULL
+Harald,Assens,1,10,1,1912,NULL,NULL
+"Mine Hansine Margrethe",Christensen,2,4,1,1912,NULL,NULL
+"Peter Vilhelm Schultz",Andreasen,1,30,1,1912,55.690380200000,12.564608600000
+"Alberta Jensine",Askbo,2,20,1,1912,NULL,NULL
+"Jacob August",Andersen,1,23,1,1912,NULL,NULL
+"Julie Louise",Andersen,2,3,1,1912,55.687315700000,12.558508200000
+Kirstin,Andersson,2,6,1,1912,55.683814000000,12.584119800000
+Johan,Drohomirecke,1,3,1,1912,55.683791200000,12.565227300000
+"Martha Mathilde",Andersen,2,6,1,1912,NULL,NULL
+"Regnar Læssøe Thæstensen",Holm,1,16,1,1912,55.679372500000,12.569538800000
+"Else Rigmor Frederikke",Jensen,2,18,1,1912,NULL,NULL
+"Jens Madsen",Dueholm,1,13,1,1912,55.665935700000,12.550445300000
+Askar,Bandsholm,1,9,1,1912,55.702251700000,12.531944900000
+"Eugine Claudius Kofoed-",Jensen,1,10,1,1912,NULL,NULL
+"Eugine Cladius",Koefod-Jensen,1,10,1,1912,55.679228800000,12.577839100000
+"Søren Otto Dideriksen",Andreasen,1,2,1,1912,55.689731000000,12.561556100000
+"Sigrid Nielsine Benedikte",Biering,2,15,1,1912,NULL,NULL
+"Christian Ludvig",Hansen,1,13,1,1912,NULL,NULL
+"Hans Christian",Jensen,1,15,1,1912,NULL,NULL
+"Hans Peter",Jensen,1,18,1,1912,NULL,NULL
+Herman,Jensen,1,3,1,1912,NULL,NULL
+"Herman August",Jensen,1,4,1,1912,NULL,NULL
+Gudrun,Bentzen,2,29,1,1912,55.686914700000,12.589736200000
+"Jens Peter Stenstrup",Jensen,1,11,1,1912,NULL,NULL
+"Heinrich Valdemar Vilhelm",Düker,1,9,1,1912,55.684934700000,12.585861500000
+"Hans Jørgen",Dylmer,1,31,1,1912,NULL,NULL
+"Hans Jørgen",Dylmer,1,2,1,1912,55.686415600000,12.587892100000
+"Knud Vilhelm Hansen",Bottelet,1,5,1,1912,55.684000900000,12.567564800000
+"Jess Paula",Jensen,1,15,1,1912,NULL,NULL
+Niels,Dynesen,1,11,1,1912,55.672338400000,12.554216500000
+"Ehlert Anders Gerhard",Boysen,1,20,1,1912,NULL,NULL
+"Knud Einar",Brehm,1,11,1,1912,55.677940100000,12.587227200000
+"Per Vilhelm",Dahlgren,1,8,1,1912,55.684594800000,12.569790100000
+"Hans Christian Vilhelm Garibaldi",Høybye,1,19,1,1912,55.682010800000,12.573820800000
+"Holger Edvin",Høybye,1,19,1,1912,55.682010800000,12.573820800000
+"Johanne Frederikke",Dyreborg,2,1,1,1912,55.680299700000,12.580551300000
+"Victor Peter",Ancher,1,31,1,1912,NULL,NULL
+"Carla Augustine Magdalene Jensen",Jarder,2,24,1,1912,55.681878300000,12.570214600000
+"Henriette Roepstorff",Arhnung,2,1,1,1912,55.697734400000,12.579240900000
+August,Dahlstrøm,1,5,1,1912,55.686645000000,12.588461800000
+Oscar,Dahlstrøm,1,8,1,1912,NULL,NULL
+"Alvilda Fischer",Dyrkjær,2,2,1,1912,55.687342200000,12.592583000000
+"Gerda Bothilde Julie",Anderberg,2,30,1,1912,55.682575400000,12.563804500000
+Hylef,Chadoss,1,20,1,1912,NULL,NULL
+"Maria Marthine",Jensen,2,7,1,1912,55.677491700000,12.567614000000
+"Olga Maria",Elmström,2,25,1,1912,55.680744100000,12.582941900000
+"Laurs Elmqvist Jensen",Ansø,1,30,1,1912,55.685123700000,12.569988600000
+"Carl Marius Robert",Frederiksen,1,13,1,1912,55.680514200000,12.581427500000
+"Alfred Aage",Clausen,1,16,1,1912,NULL,NULL
+"Christine Julie",Frederiksen,2,3,1,1912,55.666289500000,12.550291800000
+"Ellen Ovidia",Frederiksen,2,3,1,1912,NULL,NULL
+"Robert Bernhard",Clemmensen,1,25,1,1912,NULL,NULL
+Emilie,Engel,2,4,1,1912,NULL,NULL
+Christian,Christiansen,1,12,1,1912,NULL,NULL
+Poul,Jensen,1,15,1,1912,55.694978000000,12.571131000000
+"Mary Agnes",Friberg,2,22,1,1912,55.686629900000,12.549023100000
+"Anton Marinus",Christensen,1,31,1,1912,NULL,NULL
+"James Garfield",Larsen,1,23,1,1912,NULL,NULL
+Christen,Christensen,1,30,1,1912,NULL,NULL
+"Ellen Marie",Krause,2,16,1,1912,NULL,NULL
+Johannes,Ebbesen,1,13,1,1912,NULL,NULL
+"Lauritz Johannes",Madsen,1,13,1,1912,NULL,NULL
+"Henry Axel",Holm,1,13,1,1912,55.682483800000,12.577427200000
+Lars,Larsen,1,11,1,1912,NULL,NULL
+"Emil Laurentius",Krogh,1,23,1,1912,55.697201400000,12.580448900000
+Emilie,Cronhielm,2,31,1,1912,55.680812100000,12.583826500000
+"Victor Edvin",Holmberg,1,24,1,1912,NULL,NULL
+Arthur,Ekelund,1,9,1,1912,NULL,NULL
+"Christian Vilhelm",Eibye,1,21,1,1912,NULL,NULL
+"Lauritz Bendt",Larsen,1,4,1,1912,NULL,NULL
+"Maren Christine Petrea",Larsen,2,17,1,1912,NULL,NULL
+"Carl Ferdinand Vilhelm",Jessen,1,20,1,1912,NULL,NULL
+"Elna Julie Blyette",Kyhl,2,5,1,1912,NULL,NULL
+"Karl Anton",Hansen,1,17,1,1912,NULL,NULL
+"Ida Carolina",Hovila,2,8,1,1912,NULL,NULL
+"Esther Cathrine",Langhoff,2,19,1,1912,55.683073200000,12.572740200000
+"Carl Simon",Landin,1,31,1,1912,NULL,NULL
+"Carl Frederik",Hansen,1,10,1,1912,NULL,NULL
+"Karla Ferdinandine Frederikke",Hansen,2,10,1,1912,NULL,NULL
+Bjarney,Gudmundsdotter,2,27,1,1912,NULL,NULL
+"Caroline Sofie Christine",Hansen,2,4,1,1912,NULL,NULL
+"Meta Marie",Laursen,2,18,1,1912,NULL,NULL
+"Albina Carla",Hansen,2,4,1,1912,NULL,NULL
+"Erik Albrechtsen",Hansen,1,12,1,1912,NULL,NULL
+"Dagmar Anna Dorthea",Hahn,2,7,1,1912,NULL,NULL
+Tecla,Jensen,2,5,1,1912,55.681788800000,12.573982200000
+"Gustav Adolf",Hansen,1,22,1,1912,NULL,NULL
+Hans,Hansen,1,25,1,1912,NULL,NULL
+"Hans Frederik",Hansen,1,3,1,1912,NULL,NULL
+"Ejner Svend Frederik",Madsen,1,19,1,1912,NULL,NULL
+"Nathalie Christine",Eriksen,2,27,1,1912,NULL,NULL
+"Nathalie Christine",Eriksen,2,1,1,1912,NULL,NULL
+"Helene Amalie",Madsen,2,5,1,1912,NULL,NULL
+Louis,Louens,1,24,1,1912,NULL,NULL
+"Astrid Camilla Ulrich",Larsen,2,11,1,1912,NULL,NULL
+"Aage Rasmus",Liisberg,1,23,1,1912,NULL,NULL
+"Carl Georg Arthur",Lissebeck,1,23,1,1912,NULL,NULL
+"Hilda Carolina",Lundh,2,2,1,1912,NULL,NULL
+"Niels Georg",Madsen,1,23,1,1912,NULL,NULL
+Hjalmar,Lundgren,1,27,1,1912,55.677160500000,12.589258800000
+"Johannes Ingvard",Hansen,1,16,1,1912,NULL,NULL
+"Carl Ludvig",Madsen,1,6,1,1912,NULL,NULL
+"Carl Ludvig",Madsen,1,4,1,1912,NULL,NULL
+"Lauritz Jørgen Lauritzen",Langager,1,17,1,1912,55.698241300000,12.577987300000
+"Niels Christian",Nielsen,1,8,1,1912,55.669568200000,12.556956800000
+"Marie Hansine",Petersen,2,6,1,1912,NULL,NULL
+Niels,Mørck,1,31,1,1912,NULL,NULL
+"Jakob Vilhelm",Hansen,1,29,1,1912,NULL,NULL
+"Anna Marie Oktavia",Olsen,2,12,1,1912,NULL,NULL
+"Anna Sofie",Larsen,2,5,1,1912,NULL,NULL
+"Frederikke Vilhelmine Ane Larsine Caroline",Møller,2,2,1,1912,NULL,NULL
+"Jutta Marie Cathrine Petersen",Stilling,2,13,1,1912,NULL,NULL
+"Johanne Margrethe",Larsen,2,2,1,1912,NULL,NULL
+Julius,Petersen,1,23,1,1912,55.683206700000,12.572988700000
+"Knud Emil",Petersen,1,29,1,1912,NULL,NULL
+Holger,Nielsen,1,4,1,1912,NULL,NULL
+"Sigrid Maria",Malmerfelt,2,31,1,1912,55.680812100000,12.583826500000
+"Marie Jacobine Brikamina",Petersen,2,18,1,1912,NULL,NULL
+"Anna Vilhelmine",Hansen,2,12,1,1912,NULL,NULL
+"Ida Mathilde Elise",Madsen,2,11,1,1912,NULL,NULL
+"Astrid Ellen Wilhelmine",Madsen,2,1,1,1912,55.678000100000,12.589106400000
+Carla,Sørensen,2,8,1,1912,NULL,NULL
+"Otto Fjord",Hansson,1,3,1,1912,NULL,NULL
+"Mary Caroline",Thomsen,2,17,1,1912,NULL,NULL
+Jensine,Sørensen,2,8,1,1912,NULL,NULL
+"Laura Hansine",Jørgensen,2,1,1,1912,NULL,NULL
+"Jens Christian",Hansen,1,8,1,1912,NULL,NULL
+"Alma Marie",Sørensen,2,3,1,1912,NULL,NULL
+"Emmy Boline Marie",Sørensen,2,4,1,1912,NULL,NULL
+"Hans Kristoffer",Sørensen,1,28,1,1912,NULL,NULL
+"Hulda Vilhelmina",Ekman,2,31,1,1912,55.677117100000,12.587997900000
+Jakob,Warenbrun,1,10,1,1912,NULL,NULL
+"Mads Christian",Sørensen,1,30,1,1912,NULL,NULL
+Anna,Nielsen,2,5,1,1912,NULL,NULL
+"Ane Kirstina",Jensen,2,5,1,1912,NULL,NULL
+"Bodil Margrethe",Nielsen,2,3,1,1912,NULL,NULL
+"Ebbe Peter",Jensen,1,9,1,1912,NULL,NULL
+"Hans Christian",Jensen,1,15,1,1912,NULL,NULL
+"Johan Frederik Christian",Weiss,1,12,1,1912,55.681531900000,12.573897800000
+"Johanne Kristine Beate Aagren",Hansen,2,23,1,1912,NULL,NULL
+"Martha Marie",Rasmussen,2,10,1,1912,NULL,NULL
+"Julie Georga",Hansen,2,1,1,1912,NULL,NULL
+"Juliette Marie Juliane",Hansen,2,1,1,1912,NULL,NULL
+"Harry Eluf Vilhelm",Wulff,1,31,1,1912,NULL,NULL
+"Ejner Sigfried Albert",Wiberg,1,23,1,1912,55.682524700000,12.564189600000
+"Holger Magnus",Thomsen,1,20,1,1912,NULL,NULL
+"Ane Marie Petrea",Hansen,2,3,1,1912,NULL,NULL
+"Hans Carl Lauritz Bothardt",Clausen,1,13,1,1912,55.676813000000,12.574981800000
+Niels,Wittrup,1,4,1,1912,NULL,NULL
+"Christian Peter",Hansen,1,24,1,1912,NULL,NULL
+"Christian Møller Andreasen",Thorup,1,10,1,1912,NULL,NULL
+"Christian Møller Andreasen",Thorup,1,10,1,1912,NULL,NULL
+"Elna Christine Sofie",Hansen,2,5,1,1912,NULL,NULL
+Martin,Nielsen,1,20,1,1912,NULL,NULL
+"Adolf Frederik",Håkansson,1,23,1,1912,55.678337600000,12.589017400000
+"Peter Erhardt",Petersen,1,16,1,1912,NULL,NULL
+"Anna von",Zellén,2,31,1,1912,55.680812100000,12.583826500000
+"Robert Alexius Petersson",Zetterdahl,1,29,1,1912,NULL,NULL
+"Robert Villiam August Koblauch",Johnsen,1,16,1,1912,NULL,NULL
+"Hans Jacob",Hansen,1,16,1,1912,NULL,NULL
+Johan,Bakaitis,1,24,1,1912,NULL,NULL
+Valdemar,Petersen,1,23,1,1912,NULL,NULL
+"Erik Alex",Elsner,1,22,1,1912,55.682091500000,12.573493400000
+Olof,Nielsen,1,18,1,1912,55.670628900000,12.554857400000
+"Johan Jacob",Petersen,1,9,1,1912,NULL,NULL
+"Ane Kirstine",Jørgensen,2,10,1,1912,NULL,NULL
+Søren,Nielsen,1,2,1,1912,NULL,NULL
+"Emma Vilhelmina Jacobine",Jönsson,2,12,1,1912,55.694499500000,12.549362900000
+"Maria Margaretha",Schnoer,2,17,1,1912,NULL,NULL
+"Johannes Valdemar",Jensen,1,15,1,1912,NULL,NULL
+"Karen Marie",Jensen,2,6,1,1912,NULL,NULL
+"Laura Christine",Jensen,2,24,1,1912,NULL,NULL
+"Carl Julius",Petersen,1,23,1,1912,NULL,NULL
+"Erik Reinholdt",Holm,1,8,1,1912,NULL,NULL
+"Friedrich Vilhelm",Paulsen,1,23,1,1912,NULL,NULL
+"Friedrich Vilhelm",Paulsen,1,3,1,1912,NULL,NULL
+"Wilfred Polycarfus",Flindt,1,16,1,1912,55.679765600000,12.589585500000
+Josef,Nordström,1,29,1,1912,55.677811900000,12.582410300000
+"Laura Christine Marie Christensen",Melgaard,2,8,1,1912,NULL,NULL
+Niels,Poulsen,1,17,1,1912,NULL,NULL
+"Niels Paulli",Poulsen,1,27,1,1912,NULL,NULL
+"Jens Peter",Rasmussen,1,13,1,1912,NULL,NULL
+"Cecilia Hubertine",Kürten,2,12,1,1912,NULL,NULL
+"Aage Gyljun",Olsen,1,19,1,1912,NULL,NULL
+Ossier,Kagan,1,16,1,1912,NULL,NULL
+"Vilhelm Emanuel Valentin",Rechendorff,1,4,1,1912,NULL,NULL
+"Ane Kirstine Nielsen",Pedersen,2,31,1,1912,NULL,NULL
+Margrethe,Knudsen,2,9,1,1912,NULL,NULL
+"Aage Anton Vilhelm",Nielsen,1,5,1,1912,NULL,NULL
+Ansgarius,Olsen,3,12,1,1912,NULL,NULL
+Axel,Olsen,1,11,1,1912,NULL,NULL
+"Annina Christine",Strigler,2,20,1,1912,NULL,NULL
+"Annina Christine",Strigler,2,29,1,1912,NULL,NULL
+"Alfred Bruno Max",Schmidt,1,9,1,1912,NULL,NULL
+"Elise Amalie",Pedersen,2,27,1,1912,NULL,NULL
+"Emilie Christine Martine",Hansen,2,13,1,1912,NULL,NULL
+"Agnes Emilie",Andersen,2,12,1,1912,NULL,NULL
+"Albert Johs Emil",Andersen,1,22,1,1912,NULL,NULL
+"Albert Peter Emilius",Andersen,1,25,1,1912,NULL,NULL
+"Jens Christian",Andersen,1,22,1,1912,NULL,NULL
+Carsten,Christensen,1,4,1,1912,NULL,NULL
+Carsten,Christensen,1,15,1,1912,NULL,NULL
+"Jens Peter",Andersen,1,4,1,1912,55.689936900000,12.559118700000
+"Georg Vilhelm Peter",Hansen,1,6,1,1912,NULL,NULL
+"Herluf Andersen",Bech,1,20,1,1912,55.671673300000,12.564051400000
+"Rudolf Wictor Leonhard",Tornberg,1,30,1,1912,55.685665000000,12.567879300000
+"Edvard Peter",Christensen,1,28,1,1912,NULL,NULL
+"Mary Christine Helga",Bruselius,2,1,1,1912,NULL,NULL
+Amalia,Ekberg,2,4,1,1912,55.686544600000,12.549864900000
+"Georg Bro",Fabricius,1,3,1,1912,NULL,NULL
+"Karin Elida",Andersson,2,23,1,1912,55.690124800000,12.559642100000
+"Ellen Sofie Elisabeth Marie",Hansen,2,1,1,1912,NULL,NULL
+Augusta,Hansen,2,8,1,1912,55.663491800000,12.599862300000
+"Ejlert Andreas Frederik",Tscherning,1,4,1,1912,NULL,NULL
+"Albert Adolf",Broen,1,15,1,1912,55.699968400000,12.545368700000
+"Annette Inger",Nielsen,2,3,1,1912,NULL,NULL
+Wilhelm,Wadsted,1,24,1,1912,NULL,NULL
+Laura,Andersen,2,10,1,1912,NULL,NULL
+"Laura Andrea von Würden",Andersen,2,4,1,1912,NULL,NULL
+"Ludvig Emil Villiam",Andersen,1,19,1,1912,NULL,NULL
+"Astrie Marie Margrethe",Andersen,2,9,1,1912,55.699995800000,12.548235400000
+"Aage Henry",Hulstrøm,1,31,1,1912,55.690345900000,12.558998900000
+"Eva Hansine Thora Emilie",Hansen,2,13,1,1912,NULL,NULL
+"Fanny Olivia eller Oda",Hansen,2,22,1,1912,NULL,NULL
+"Bouri Valton",Hansen,3,4,1,1912,NULL,NULL
+"Meta Marie",Andersen,2,20,1,1912,NULL,NULL
+"Morten Troels",Andersen,1,30,1,1912,NULL,NULL
+"Anders Thorvald",Andersen,1,14,1,1912,NULL,NULL
+"Frits Paulus",Hansen,1,6,1,1912,NULL,NULL
+"Frits Paulus",Hansen,1,23,1,1912,NULL,NULL
+Christiane,Hansen,2,3,1,1912,NULL,NULL
+"Knud Svend Carl",Halvorsen,1,7,1,1912,NULL,NULL
+"Augusta Sofie",Frederiksen,2,4,1,1912,NULL,NULL
+"Christian Dilling",Funder,1,4,1,1912,NULL,NULL
+"Christine Vilhelmine",Hansen,2,15,1,1912,55.691929200000,12.557796800000
+"Anna Marie",Andersen,2,8,1,1912,NULL,NULL
+"Cæsar Niels Christian",Fælled,1,10,1,1912,55.689703700000,12.556241400000
+"Ejner Lauritz Ferdinand Emil",Halvorsen,1,22,1,1912,55.686322600000,12.551556200000
+"Laura Elvira",Frederiksen,2,10,1,1912,NULL,NULL
+Wiiliam,Carlsen,1,9,1,1912,55.688222600000,12.554171700000
+"Rasmus Marius",Frederiksen,1,15,1,1912,55.689607800000,12.560540400000
+Vilhelm,Frederiksen,1,19,1,1912,NULL,NULL
+"Emil Paul",Franke,1,25,1,1912,NULL,NULL
+"Carlo Hans Alfred Theodor",Hansen,1,25,1,1912,NULL,NULL
+"Christen Nielsen",Christensen,1,20,1,1912,NULL,NULL
+"Alma Alexandra",Christensen,2,1,1,1912,NULL,NULL
+"Nata Sigfred",Gambæk,2,6,1,1912,NULL,NULL
+"Carl Valdemar Frederik",Andersen,1,27,1,1912,NULL,NULL
+"Carla Dagmar",Andersen,2,26,1,1912,NULL,NULL
+Christian,Hansen,1,12,1,1912,NULL,NULL
+"Christian Henrik Johan",Hansen,1,10,1,1912,NULL,NULL
+"Valdemar Schou Sørensen",Egegaard,1,13,1,1912,55.689607800000,12.560540400000
+Inger,Harboe,2,1,1,1912,NULL,NULL
+Vilhelm,Hartmeier,1,25,1,1912,NULL,NULL
+Oskar,Hassel,1,10,1,1912,55.671773700000,12.563651500000
+Ejner,Hansen,1,3,1,1912,NULL,NULL
+"Richard Christian Albeck",Gasland,1,15,1,1912,55.693310800000,12.560040400000
+"Axel Johan",Christensen,1,30,1,1912,NULL,NULL
+"Alfred Viktor",Hansen,1,21,1,1912,NULL,NULL
+"Elisa Maria",Bentzen,2,4,1,1912,NULL,NULL
+"Georg Andreas",Gerlack,1,2,1,1912,55.689957300000,12.563150300000
+"Thora Emilie",Geschvendtner,2,15,1,1912,NULL,NULL
+"Hans Emil",Gickling,1,18,1,1912,55.686544600000,12.549864900000
+"Oda Jensine",Christiansen,2,11,1,1912,NULL,NULL
+"Ane Margrethe",Hansen,2,15,1,1912,55.692004100000,12.559646600000
+"Adolf Erland",Elander,1,21,1,1912,NULL,NULL
+"Anna Sofie Henriette",Hansen,2,2,1,1912,NULL,NULL
+Valdemar,Christiansen,1,26,1,1912,55.692579000000,12.564773900000
+Valdemar,Christiansen,1,13,1,1912,55.687874700000,12.553735700000
+"Hansine Dorthea",Christensen,2,9,1,1912,NULL,NULL
+"Christian Thorvald",Hypner,1,24,1,1912,55.687874700000,12.553735700000
+"Adolf Otto v",Elling,1,4,1,1912,NULL,NULL
+"Jensine Kirstine",Christensen,2,22,1,1912,NULL,NULL
+Hans,Andersson,1,25,1,1912,NULL,NULL
+"Kasimira Amellia",Berginskaja,2,25,1,1912,NULL,NULL
+"Anna Agathe Elise",Bergmann,2,1,1,1912,NULL,NULL
+"Hans Thorvald",Andersen,1,2,1,1912,NULL,NULL
+Vilhelm,Elvang,1,8,1,1912,NULL,NULL
+"Bertha Marie",Heiberg,2,1,1,1912,55.689247800000,12.559947500000
+"Ellen Marie Jensen",Bergstrøm,2,8,1,1912,NULL,NULL
+Arnold,Berthelsen,1,7,1,1912,NULL,NULL
+"Witta Sofie",Bielefeldt,2,19,1,1912,NULL,NULL
+"Alexius Rudolf",Eliasen,1,30,1,1912,NULL,NULL
+"Gravers Jens Blæsbjerg",Graversen,1,4,1,1912,NULL,NULL
+Agathe,Hornbeck,2,3,1,1912,NULL,NULL
+"Niels Andreas",Hornum,1,10,1,1912,NULL,NULL
+Astrid,Holm,2,9,1,1912,NULL,NULL
+"Ida Justine",Hovendal,2,3,1,1912,NULL,NULL
+"Sigrid Eleonore",Andersen,2,19,1,1912,NULL,NULL
+"Anna Elisabeth",Hellerie,2,29,1,1912,55.689134000000,12.554079600000
+"Betty Camilla Locinca",Helmig,2,3,1,1912,NULL,NULL
+"Robert Henrik",Holm,1,3,1,1912,NULL,NULL
+"Albert Christensen",Bie,1,25,1,1912,55.688306300000,12.561484800000
+"Marius Emanuel August Ludvig",Eriksen,1,6,1,1912,NULL,NULL
+"Valdemar Gundtofte",Andersen,1,15,1,1912,55.690430400000,12.558033000000
+Vilhelm,Andersen,1,3,1,1912,NULL,NULL
+"Christen Mortensen",Fogh,1,4,1,1912,55.688306300000,12.561484800000
+"Niels Jensen",Holst,1,13,1,1912,55.682938600000,12.564657500000
+"Marie Charlotte",Backmann,2,6,1,1912,NULL,NULL
+"Anna Christine",Baes,2,9,1,1912,55.690430400000,12.558033000000
+"Elisabeth Henriette",Bagge,2,2,1,1912,55.693047800000,12.565649400000
+"Hans Henrik",Bay,1,15,1,1912,NULL,NULL
+Herluf,Hessellund,1,8,1,1912,NULL,NULL
+"Carl Alexander",Bahnsen,1,15,1,1912,55.686138800000,12.555190100000
+"Cathrine Marie",Henriksen,2,6,1,1912,NULL,NULL
+Einar,Gutfeldt,1,2,1,1912,NULL,NULL
+"Martin Syvenius",Christensen,1,4,1,1912,NULL,NULL
+"Franz Wenzel",Bartosch,1,20,1,1912,55.685219800000,12.558057500000
+"Johanne Vilhelmine Sofie",Fischer,2,5,1,1912,55.680910300000,12.576092800000
+"Svend Aage",Friis,1,22,1,1912,55.685680700000,12.548910200000
+"Einer Emanuel",Conradsen,1,6,1,1912,NULL,NULL
+"Henry Aage Morten",Frost,1,16,1,1912,NULL,NULL
+Vilhelm,Gundorph,1,18,1,1912,NULL,NULL
+"Johan Albin",Gustafsson,1,30,1,1912,55.685535700000,12.548794300000
+Gustav,Hermansen,1,3,1,1912,NULL,NULL
+"Georg Ludvig Albert",Nielsen,1,18,1,1912,NULL,NULL
+Carl,Block,1,27,1,1912,NULL,NULL
+"Edvin Heinrich Marius",Gyldenholm,1,4,1,1912,NULL,NULL
+"Helga Marcilla",Hansen,2,2,1,1912,55.689017600000,12.558056300000
+"Caroline Nielsine",Johansen,2,6,1,1912,NULL,NULL
+"Peter Andreas",Hansen,1,17,1,1912,NULL,NULL
+"Anna Cathrine",Jensen,2,1,1,1912,NULL,NULL
+"Hans Carl",Hansen,1,8,1,1912,55.685570200000,12.550562100000
+"Hans Carl Christian",Hansen,1,17,1,1912,NULL,NULL
+Martin,Ingversen,1,14,1,1912,NULL,NULL
+"Hans Christian",Hansen,1,23,1,1912,NULL,NULL
+"Hans Christian",Hansen,1,30,1,1912,NULL,NULL
+"Albert Thorvald",Foght,1,2,1,1912,NULL,NULL
+"Gustaf Ivan",Forsmann,1,19,1,1912,NULL,NULL
+"Carl Christian",Jockumsen,1,18,1,1912,55.688140900000,12.557106400000
+"Hans Julius Ferdinand",Hansen,1,4,1,1912,55.684268200000,12.585863700000
+"Hans Oluf",Hansen,1,24,1,1912,NULL,NULL
+"Hans Peter",Hansen,1,10,1,1912,55.700160700000,12.541693200000
+"Axel Oscar",Jensen,1,9,1,1912,NULL,NULL
+Olga,Bohus,2,4,1,1912,NULL,NULL
+"Marie Caroline",Jensen,2,1,1,1912,NULL,NULL
+"Marie Christine",Jensen,2,5,1,1912,NULL,NULL
+"Lupko Willem",Schortinghuis,3,29,1,1912,NULL,NULL
+Albert,Jost,1,16,1,1912,55.689844200000,12.558191200000
+"Jensine Petra",Jensen,2,11,1,1912,NULL,NULL
+"Kaj Fausgaard",Jensen,1,27,1,1912,NULL,NULL
+"Marinus Adolf",Jensen,1,30,1,1912,NULL,NULL
+"Mathilde Thomine Margrethe",Jønsson,2,22,1,1912,55.691358800000,12.544675600000
+"Inger Marie",Hansen,2,1,1,1912,NULL,NULL
+"Ingeborg Thora",Hansen,2,14,1,1912,NULL,NULL
+Jon,Jonasson,1,9,1,1912,NULL,NULL
+"Niels Christian",Jensen,1,5,1,1912,NULL,NULL
+Carl,Jensen,1,6,1,1912,55.690446000000,12.558808800000
+"Oda Laura Mathilde",Hansen,2,21,1,1912,55.696334000000,12.544911100000
+"Elna Christine",Cranqvist,2,1,1,1912,NULL,NULL
+"Elna Christine",Cranqvist,2,14,1,1912,NULL,NULL
+Christian,Jensen,1,22,1,1912,NULL,NULL
+"Sofus Frederik Christian",Jensen,1,17,1,1912,55.692254500000,12.544776800000
+"Pauli Immanuel",Jensen,1,3,1,1912,NULL,NULL
+"Alfrida Mathilde",Jensen,2,11,1,1912,55.685683600000,12.556394900000
+"Søren Peter",Jensen,1,15,1,1912,NULL,NULL
+"Peter Emil Arup",Jensen,1,15,1,1912,55.680434100000,12.573248800000
+"Thora Valdine",Jensen,2,23,1,1912,NULL,NULL
+"Jens Peter",Jensen,1,23,1,1912,NULL,NULL
+"Jens Peter",Jensen,1,5,1,1912,NULL,NULL
+"Jens Smed",Jensen,1,19,1,1912,NULL,NULL
+"Alfred M.",Jessen,1,4,1,1912,NULL,NULL
+Ingeborg,Jensen,2,31,1,1912,NULL,NULL
+"Jørgen Oskar",Hansen,1,27,1,1912,NULL,NULL
+"Hans Martin",Junge,1,18,1,1912,55.690430400000,12.558033000000
+"Alfred Ejnar",Jacobsen,1,24,1,1912,NULL,NULL
+"Jacob Behrendt",Jacobsen,1,7,1,1912,NULL,NULL
+"Adelaide Ulrikka",Jacobsen,2,1,1,1912,NULL,NULL
+"Hansine Martine Elisabeth",Jensen,2,12,1,1912,55.687290600000,12.547809700000
+"Birtha Marie",Johnsen,2,29,1,1912,55.688971000000,12.557421400000
+Carl,Jakobsen,1,7,1,1912,NULL,NULL
+"Maren Sofie",Hansen,2,1,1,1912,NULL,NULL
+"Christine Marie",Jacobsen,2,1,1,1912,NULL,NULL
+"Erna Margrethe Lilli",Jensen,2,5,1,1912,NULL,NULL
+"Emilie Hansine",Jacobsen,2,8,1,1912,NULL,NULL
+Johan,Jacobsen,1,27,1,1912,55.687874700000,12.553735700000
+"Johan Thorvald Møller",Jacobsen,1,10,1,1912,NULL,NULL
+"Jørgen Peter",Jacobsen,1,18,1,1912,55.702332900000,12.531739800000
+Lars,Jacobsen,1,15,1,1912,NULL,NULL
+Frida,Jensen,2,8,1,1912,NULL,NULL
+"Frithjof Vilhelm August Jensen",Thuresen,1,10,1,1912,NULL,NULL
+Markus,Jamnik,1,8,1,1912,NULL,NULL
+Emma,Janniche,2,16,1,1912,NULL,NULL
+"Olga Christine",Jacobsen,2,15,1,1912,55.686544600000,12.549864900000
+"Robert Arent John",Jacobsen,1,15,1,1912,55.679060900000,12.591112900000
+"Valborg Thora Juliette",Jacobsen,2,18,1,1912,55.690915100000,12.554999800000
+"Anders Gerhard",Jensen,1,22,1,1912,55.678812000000,12.570307500000
+"Valdemar Barfod",Hansen,1,16,1,1912,NULL,NULL
+"Valborg Edle",Hansen,2,22,1,1912,NULL,NULL
+"Knud Valdemar",Jensen,1,19,1,1912,55.688607000000,12.559133100000
+"Lars Peter Georg",Jensen,1,9,1,1912,55.688408400000,12.557811400000
+Lauritz,Jensen,1,2,1,1912,55.691101300000,12.559026800000
+"Leo Elias",Jensen,1,1,1,1912,NULL,NULL
+"Ludvig Conrad Didrik",Jensen,1,8,1,1912,NULL,NULL
+"Mads Magnus",Jensen,1,6,1,1912,NULL,NULL
+"Cilius Rose",Jensen,1,29,1,1912,NULL,NULL
+Anders,Jensen,1,2,1,1912,55.687797300000,12.553190700000
+"Anton Julius",Jensen,1,16,1,1912,NULL,NULL
+"Astrid Johanne Thekla",Jønsson,2,4,1,1912,55.690432000000,12.559267400000
+"Christian Granlundt",Jensen,1,23,1,1912,NULL,NULL
+"Georg Frederik",Gredsted,1,15,1,1912,NULL,NULL
+Anders,Larsen,1,9,1,1912,NULL,NULL
+Alfrida,Jørgensen,2,18,1,1912,NULL,NULL
+"Georg Edmund",Larsen,1,30,1,1912,55.690032900000,12.558823100000
+"Georg Victor",Larsen,1,9,1,1912,NULL,NULL
+"Aage Edgar Ejnar Johannes",Larsen,1,15,1,1912,55.665103100000,12.551972800000
+"Martha Marie",Munk,2,10,1,1912,NULL,NULL
+"Jensine Kirstine Frederikke",Johansen,2,3,1,1912,NULL,NULL
+"Olavia Kristine",Jørgensen,2,2,1,1912,55.688792100000,12.559670600000
+"Jacob Emil Steinlein",Mathiesen,1,19,1,1912,55.690218900000,12.562203800000
+"Hansine Marie",Larsen,2,1,1,1912,NULL,NULL
+"Anna Johanne Dorthea",Larsen,2,1,1,1912,NULL,NULL
+"Anna Laurine Petrea",Larsen,2,3,1,1912,NULL,NULL
+Carl,Larsen,1,12,1,1912,55.670145700000,12.551067500000
+"Carl Christian Valdemar",Larsen,1,30,1,1912,NULL,NULL
+"Johanne Margrethe",Madsen,2,16,1,1912,NULL,NULL
+Karen,Madsen,2,17,1,1912,NULL,NULL
+Magnus,Madsen,1,22,1,1912,NULL,NULL
+Marie,Madsen,2,3,1,1912,NULL,NULL
+Marius,Madsen,1,13,1,1912,NULL,NULL
+"Edvard Julius",Larsen,1,16,1,1912,NULL,NULL
+Einar,Larsen,1,24,1,1912,NULL,NULL
+"Eline Birthe Eleonora",Larsen,2,2,1,1912,NULL,NULL
+"Robert Alexander",Madsen,1,30,1,1912,55.690085000000,12.558123500000
+"Arthur Ernst",Jørgensen,1,16,1,1912,NULL,NULL
+Axel,Jørgensen,1,3,1,1912,55.700047500000,12.548873400000
+"Jens Georg Lange",Mørup,1,8,1,1912,NULL,NULL
+Ernesto,Sparwath,1,6,1,1912,NULL,NULL
+"Edvin Emanuel",Knutson,1,18,1,1912,55.686544600000,12.549864900000
+"Karen Christine",Larsen,2,1,1,1912,55.687777700000,12.555227800000
+"Karen Marie Jacobine",Larsen,2,15,1,1912,55.688257100000,12.484030800000
+"Alexander Vilhelm",Michaelsen,1,22,1,1912,55.689367600000,12.564487900000
+Hjalmar,Lund,1,3,1,1912,55.682224000000,12.582011100000
+"Valdemar Søren August",Petersen,1,24,1,1912,NULL,NULL
+"Fritjof Valdemar",Lundberg,1,12,1,1912,55.689936900000,12.559118700000
+"Christian Edvard William",Madsen,1,24,1,1912,55.687907500000,12.560261800000
+"Oluf Johannes",Larsen,1,13,1,1912,55.684878000000,12.558344700000
+"Julius Nielsen",Mikkelsen,1,12,1,1912,NULL,NULL
+"Anna Ella Maria",Påhlsson,2,10,1,1912,NULL,NULL
+"Rene Ferdinant",Larsen,1,16,1,1912,NULL,NULL
+"Arnold Peter Christian",Nielsen,1,9,1,1912,55.690720600000,12.555078800000
+"Bertha Marie Christine",Olsen,2,27,1,1912,NULL,NULL
+"Thora Elisabeth",Larsen,2,2,1,1912,55.698168000000,12.587282800000
+"Carl Rudolf Magnus",Olsen,1,13,1,1912,NULL,NULL
+Carl,Nielsen,1,31,1,1912,NULL,NULL
+"Johannes Alfred",Nielsen,1,19,1,1912,NULL,NULL
+"Axel Petersen",Mogensen,1,3,1,1912,55.692159000000,12.558155600000
+Marinus,Knudsen,1,9,1,1912,55.684264300000,12.587482700000
+"Einar Vilhelm Peter",Mogensen,1,20,1,1912,NULL,NULL
+"Juliane Sofie",Jørgensen,2,6,1,1912,NULL,NULL
+"Kai Louis",Møller,1,13,1,1912,NULL,NULL
+"Niels Theilmann",Knudsen,1,15,1,1912,55.688306300000,12.561484800000
+Sophus,Lystrup,1,7,1,1912,55.689384400000,12.556322500000
+"Valdemar Christian",Mogensen,1,1,1,1912,55.689351200000,12.563075300000
+"Niels Marius",Nielsen,1,30,1,1912,NULL,NULL
+"Niels Peter",Nielsen,1,2,1,1912,NULL,NULL
+"Knud Emil Thorvald",Nielsen,1,27,1,1912,NULL,NULL
+"Knud Emil Thorvald",Nielsen,1,6,1,1912,NULL,NULL
+"Anna Josefine",Nielsen,2,10,1,1912,NULL,NULL
+"Emil Julius Johan",Olsen,1,21,1,1912,NULL,NULL
+"Emil Julius Johan",Olsen,1,8,1,1912,NULL,NULL
+"Laura Kirstine",Nielsen,2,23,1,1912,NULL,NULL
+"Jørgen Jensen",Jørgensen,1,5,1,1912,55.692134100000,12.568160800000
+Karen,Jørgensen,2,10,1,1912,55.691734700000,12.553533400000
+"Karen Dorthea",Jørgensen,2,5,1,1912,NULL,NULL
+"Flora Asta Elvira",Olsen,2,9,1,1912,NULL,NULL
+"Flora Asta Elvira",Olsen,2,19,1,1912,NULL,NULL
+"Alma Johanne Constance Emilie Marie",Ludvigsen,2,19,1,1912,55.689940200000,12.554597000000
+"Hans Christian Møller",Olsen,1,4,1,1912,NULL,NULL
+Henry,Olsen,1,7,1,1912,55.687686500000,12.561676000000
+"Athalia Emma Camilla",Mortensen,2,6,1,1912,55.679228800000,12.577839100000
+"Carl Emanuel",Nielsen,1,18,1,1912,NULL,NULL
+"Carl Emil",Nielsen,1,2,1,1912,NULL,NULL
+"Carl Emil",Nielsen,1,30,1,1912,NULL,NULL
+"Carl Emil",Nielsen,1,24,1,1912,NULL,NULL
+"Jensine Elisabeth",Olsen,2,13,1,1912,NULL,NULL
+"Ingeborg Elise Emilie Marie",Olsen,2,1,1,1912,NULL,NULL
+"Johan Christian Peter",Olsen,1,27,1,1912,NULL,NULL
+"Axel Oscar",Keller,1,20,1,1912,NULL,NULL
+"Olga Christence Julie",Nielsen,2,10,1,1912,NULL,NULL
+"Mette Marie",Lauridsen,2,14,1,1912,NULL,NULL
+"Carl Robert",Nielsen,1,12,1,1912,55.687641100000,12.558167100000
+"Marie Christine Hansine",Olsen,2,2,1,1912,NULL,NULL
+"Helga Emilie",Lakjer,2,15,1,1912,55.685570200000,12.550562100000
+"Knud Carl",Møller,1,3,1,1912,NULL,NULL
+"Christian Carl",Nielsen,1,8,1,1912,NULL,NULL
+"Julius Emil",Olsen,1,8,1,1912,NULL,NULL
+"Anna Marie",Nielsen,2,5,1,1912,NULL,NULL
+"Ane Marie",Nielsen,2,3,1,1912,NULL,NULL
+"Rasmus Peter Frederik",Olsen,1,19,1,1912,55.687907500000,12.560261800000
+Søren,Laubjerg,1,25,1,1912,NULL,NULL
+Søren,Laubjerg,1,30,1,1912,NULL,NULL
+"Peter Christian",Nicolajsen,1,25,1,1912,NULL,NULL
+"Albert Georg",Lenskjold,1,11,1,1912,NULL,NULL
+"Marie Kirstine",Nielsen,2,22,1,1912,NULL,NULL
+"Marie Kirstine",Nielsen,2,9,1,1912,NULL,NULL
+"Anna Camilla Augusta",Dræger,2,6,1,1912,55.714300800000,12.575431700000
+"Carl Robert Siegfred",Leopold,1,22,1,1912,55.688501700000,12.561708500000
+"Cathrine Petrea",Nielsen,2,22,1,1912,NULL,NULL
+Frederik,Nielsen,1,26,1,1912,55.692004100000,12.559646600000
+Frederik,Nielsen,1,31,1,1912,NULL,NULL
+"Carl Rudolf",Drumm,1,29,1,1912,55.690219000000,12.588015700000
+"Ludvig Magnus Johannes",Birck,1,27,1,1912,NULL,NULL
+"Frederich Thomas",Panck,1,24,1,1912,NULL,NULL
+"Hilda Grace",Dresing,2,19,1,1912,55.667466400000,12.578339800000
+"Poul Carsten",Nielsen,1,20,1,1912,NULL,NULL
+"Paula Marie",Nielsen,2,23,1,1912,NULL,NULL
+"Anna Margrethe",Olsen,2,1,1,1912,NULL,NULL
+Niels,Nielsen,1,1,1,1912,NULL,NULL
+Christian,Nissen,1,11,1,1912,NULL,NULL
+"Thora Jensine",Olsen,2,5,1,1912,NULL,NULL
+Valdemar,Olsen,1,12,1,1912,NULL,NULL
+"Emil Adolf",Kjærumgaard,1,26,1,1912,NULL,NULL
+"Niels Christian",Nielsen,1,9,1,1912,NULL,NULL
+"Johanne Margrethe",Nielsen,2,8,1,1912,NULL,NULL
+"Agda Frida",Nielsen,2,31,1,1912,NULL,NULL
+"Torben Valdemar",Nielsen,1,18,1,1912,NULL,NULL
+"Agnes Adele",Nielsen,2,1,1,1912,55.690875700000,12.559524800000
+"Hans Solius Alfred",Nissen,1,2,1,1912,NULL,NULL
+"Walther Axel",Nielsen,1,6,1,1912,NULL,NULL
+"Anna Victoria",Norrbom,2,4,1,1912,55.682537500000,12.569023700000
+Agnes,Kleinwächter,2,12,1,1912,NULL,NULL
+"Otto Ernst",Lienau,1,15,1,1912,NULL,NULL
+"Max Johann Arthur",Lippl,1,24,1,1912,NULL,NULL
+"Carl August",Lorentzen,1,15,1,1912,NULL,NULL
+"Hilmer Emil",Nielsen,1,16,1,1912,NULL,NULL
+"Hans Peter",Nielsen,1,12,1,1912,NULL,NULL
+"Arthur Carlo Johannes",Christensen,1,26,1,1912,NULL,NULL
+"Anders Christian",Andersen,1,6,1,1912,55.690908100000,12.576355500000
+Julius,Martens,1,6,1,1912,NULL,NULL
+"Amanda Charlotte",Andersson,2,1,1,1912,NULL,NULL
+"Camilla Vilhelmine Hansine",Jantzen,2,3,1,1912,55.686549400000,12.588048100000
+"Tekla Christine Caroline Hansine",Andersen,2,2,1,1912,55.687270700000,12.583905500000
+"Peter Petersen",Hansen,1,9,1,1912,55.688994100000,12.573556600000
+"Poul Oscar Harboe",Christensen,1,24,1,1912,55.689107500000,12.572177500000
+"Eva Sofia",Oterdahl,2,5,1,1912,55.680151800000,12.583830400000
+"Anna Augusta",Andersson,2,8,1,1912,55.678519800000,12.574401500000
+"Astrid Augusta Olivia",Hansen,2,16,1,1912,55.672358300000,12.549236600000
+"Hjalmar Francis",Hall,1,27,1,1912,NULL,NULL
+"Axel Georg",Andersen,1,12,1,1912,55.678274500000,12.578282000000
+"Jon Olafur",Jonsson,1,31,1,1912,55.682483800000,12.577427200000
+"Augusta Caroline",Petersen,2,10,1,1912,NULL,NULL
+Axel,Muchhardt,1,18,1,1912,NULL,NULL
+"Carl Emil",Hansen,1,30,1,1912,NULL,NULL
+"Carl Frederik Emil",Møller,1,25,1,1912,NULL,NULL
+Arnold,Jeppesen,1,6,1,1912,55.689107500000,12.572177500000
+"Paul Richard",Kunth,1,15,1,1912,NULL,NULL
+"Einer Thorvald",Blondt,1,23,1,1912,NULL,NULL
+Eleonora,Christensen,2,9,1,1912,55.671127200000,12.559941000000
+"Ellen Sofie Madsen",Christensen,2,12,1,1912,55.681072900000,12.588949100000
+"August Salomon",Hansen,1,8,1,1912,55.690693500000,12.575767600000
+"Niels Laurids",Hylsebæk,1,4,1,1912,55.690094800000,12.571861900000
+August,Carlsen,1,23,1,1912,55.686645000000,12.588461800000
+"Hans August",Christensen,1,24,1,1912,55.686955500000,12.588171800000
+"Axel Henry Viggo",Mühlhausen,1,7,1,1912,NULL,NULL
+"Julius Thorvald",Block,1,9,1,1912,NULL,NULL
+"Carl Vilhelm",Jessen,1,15,1,1912,55.680800300000,12.589819800000
+Laiser,Krakouski,3,15,1,1912,NULL,NULL
+"Anna Maren Oline",Krejpke,2,3,1,1912,NULL,NULL
+Johann,Krampau,1,18,1,1912,55.690370300000,12.559621900000
+"Carla Augusta Susanne Frederikke",Hansen,2,5,1,1912,NULL,NULL
+"Sophus Hans Berthel  Buerup",Andersen,1,1,1,1912,NULL,NULL
+"Frederik Vilhelm",Boese,1,22,1,1912,55.688306300000,12.561484800000
+"Victor Jens Martinus",Frandsen,1,9,1,1912,NULL,NULL
+"Gustav Charles",Johnsen,1,19,1,1912,55.685123700000,12.569988600000
+"Anna Vilhelmine Sofie",Frederiksen,2,3,1,1912,NULL,NULL
+"Alpha Fritsine",Gransøe,2,22,1,1912,NULL,NULL
+"Irma Estrid",Christensen,2,23,1,1912,55.698976000000,12.585632800000
+"Axel Frederik",Hansen,1,8,1,1912,55.683791200000,12.565227300000
+"Sven Lorentz",Johnsen,1,25,1,1912,55.686704600000,12.584562900000
+Christoffer,Caspersen,1,5,1,1912,NULL,NULL
+Christoffer,Caspersen,1,20,1,1912,NULL,NULL
+"Ansgar Elias Martin",Isaksen,1,6,1,1912,NULL,NULL
+"Hilda Charlotte Vilhelmine",Olsson,2,1,1,1912,NULL,NULL
+"Sixten Alfred Viktorius",Andersson,1,26,1,1912,55.687476100000,12.558595400000
+"Kai Gunme Meelin N.",Christensen,1,20,1,1912,55.694351500000,12.577599200000
+"Ellen Margrethe",Juliussen,2,2,1,1912,NULL,NULL
+"Frantzine Christine",Justesen,2,11,1,1912,NULL,NULL
+"Johan Harald",Forsmann,1,10,1,1912,55.690407600000,12.562203900000
+"Hans Frederik",Iversen,1,3,1,1912,55.689377400000,12.572853700000
+"Peter Heinrich",Christiansen,1,19,1,1912,NULL,NULL
+"Alfred Christian",Hansen,1,17,1,1912,NULL,NULL
+"Trine Marie Sørine",Christiansen,2,16,1,1912,NULL,NULL
+"Carl Martin",Gotfredsen,1,4,1,1912,NULL,NULL
+Bertha,Hansen,2,15,1,1912,NULL,NULL
+Emil,Hansen,1,10,1,1912,55.684477100000,12.570973400000
+"Andreas Mathias",Hansen,1,6,1,1912,NULL,NULL
+"Aage Henrik",Hansen,1,24,1,1912,NULL,NULL
+"Nelly Sofie",Andersen,2,15,1,1912,NULL,NULL
+"Margrethe Andrea",Gudmundsen,2,27,1,1912,NULL,NULL
+"Frederik Carl Ernst",Eckert,1,11,1,1912,55.666232900000,12.544379100000
+"Olaf Christian Henrik",Gundersen,1,10,1,1912,NULL,NULL
+"Niels Peter",Andersen,1,5,1,1912,55.665588000000,12.613557800000
+"Niels Peter",Andersen,1,11,1,1912,55.684374100000,12.585246800000
+"Agnes Frederikke",Hansen,2,9,1,1912,NULL,NULL
+"Lars Christian",Hansen,1,10,1,1912,55.684936200000,12.588430200000
+"Jenny Amalie",Burchardt,2,10,1,1912,NULL,NULL
+"Hans Peter Robert",Hansen,1,23,1,1912,NULL,NULL
+"Harald Andreas",Bach,1,6,1,1912,55.690482500000,12.573659600000
+"Carl Vilhelm",Jacobsen,1,1,1,1912,NULL,NULL
+"Carl Louis",Andersen,1,17,1,1912,55.679652400000,12.592399700000
+"Cathrine Bartholine Henriette",Andersen,2,15,1,1912,NULL,NULL
+"Hans Frederik",Hansen,1,24,1,1912,NULL,NULL
+Christen,Andersen,1,23,1,1912,55.684374100000,12.585246800000
+"Jensine Kristine",Henriksen,2,3,1,1912,NULL,NULL
+"Olga Ottoline",Hansen,2,15,1,1912,55.684009300000,12.586136100000
+"Karen Cathrine",Holst,2,30,1,1912,NULL,NULL
+"Anker Christian",Jensen,1,12,1,1912,55.667487800000,12.554011400000
+Anders,Jensen,1,31,1,1912,55.687451700000,12.588597300000
+"Carl Petersen",Kragh,1,18,1,1912,55.685123700000,12.569988600000
+"Johan Sigmund Mosting",Kragh,1,9,1,1912,55.691060100000,12.576078200000
+"Andrea Marie",Jensen,2,19,1,1912,55.689647000000,12.572837800000
+"Rasmus Larsen",Kromann,1,23,1,1912,NULL,NULL
+"Anna Marie",Hemmingsen,2,1,1,1912,55.680126600000,12.576553400000
+"Elly Fransiska Margareta",Kruse,2,3,1,1912,55.686640700000,12.591996900000
+Aage,Henckel,1,18,1,1912,55.698983700000,12.587313400000
+"Astrid Elise",Jensen,2,6,1,1912,55.697769200000,12.581820400000
+"Svend Trøst",Ganderup,1,25,1,1912,NULL,NULL
+"Jacobine Kirstine",Jensen,2,3,1,1912,55.700443800000,12.574712000000
+"Ane Marie Christine",Jensen,2,19,1,1912,NULL,NULL
+"Henriette Christine Marie Hansigne Elisabeth",Andersen,2,23,1,1912,NULL,NULL
+"Anna Astrid Elvira",Bauner,2,5,1,1912,NULL,NULL
+Henrik,Engelbrechtsson,1,25,1,1912,55.690842300000,12.576738900000
+Henrik,Engelbrechtsson,1,6,1,1912,55.690018200000,12.571472000000
+Lars,Laursen,1,23,1,1912,NULL,NULL
+"Inger Brink",Jensen,2,4,1,1912,55.690680400000,12.571974900000
+"Axel Oskar",Jensen,1,6,1,1912,55.690140800000,12.573912700000
+Anna,Jönsdotter,2,6,1,1912,NULL,NULL
+"Merry Alfrida Mathilde",Evers,2,8,1,1912,55.697999100000,12.543662800000
+"Christiane Adolfine Kristine Oluffa",Breitenbach,2,2,1,1912,NULL,NULL
+"Karen Bodil Wilhelmine",Jørgensen,2,10,1,1912,NULL,NULL
+"Søren Christian",Jensen,1,4,1,1912,NULL,NULL
+"Laurits Frederik Villiam",Jørgensen,1,20,1,1912,NULL,NULL
+"Emma Jensine",Jensen,2,25,1,1912,55.683242000000,12.586645100000
+"Emma Kirstine",Jensen,2,6,1,1912,55.686823600000,12.592544800000
+"Theodor Jens",Laursen,1,30,1,1912,NULL,NULL
+"Anna Emilie",Jensen,2,24,1,1912,55.671875700000,12.551927900000
+"Martin Christian",Henningsen,1,8,1,1912,55.704950600000,12.578027400000
+"Ragnar Sigurd",Bergsten,1,11,1,1912,55.687451700000,12.588597300000
+"Charles Oscar",Jørgensen,1,16,1,1912,NULL,NULL
+"Albine Theodora Elisabeth",Lohse,2,1,1,1912,NULL,NULL
+"Kristine Mathilde",Bentzen,2,30,1,1912,NULL,NULL
+"Carl Gustaf",Jønsson,1,14,1,1912,NULL,NULL
+"Carl Henry",Jensen,1,25,1,1912,NULL,NULL
+"Carl Henry",Jensen,1,19,1,1912,NULL,NULL
+Anna,Berg,2,2,1,1912,NULL,NULL
+"Carl Vilhelm",Jensen,1,27,1,1912,55.684936200000,12.588430200000
+"Martin Frederik",Jørgensen,1,27,1,1912,NULL,NULL
+"Care Gottfred",Björk,1,15,1,1912,NULL,NULL
+"Christian Hans Helmuth",Jensen,1,20,1,1912,55.685585800000,12.586310700000
+"Svend Vilhelm",Blicher,1,6,1,1912,NULL,NULL
+Valdemar,Liedecke,1,30,1,1912,NULL,NULL
+Anton,Langballe,1,24,1,1912,NULL,NULL
+"Christen Ingvard Petersen",Bro,1,8,1,1912,NULL,NULL
+"Hulda Vilhelmine",Hertz,2,23,1,1912,NULL,NULL
+"Algot Sabet",Carlsson,1,13,1,1912,55.699550100000,12.549556300000
+"Karen Mary",Jensen,2,8,1,1912,NULL,NULL
+"Anna Marie",Brorsen,2,12,1,1912,55.686747700000,12.589994400000
+"Olga Margrethe",Jørgensen,2,3,1,1912,NULL,NULL
+"Lauritz Andreas",Jensen,1,11,1,1912,55.686645000000,12.588461800000
+"Valborg Marie",Corfitsen,2,16,1,1912,55.677492500000,12.566969400000
+Ove,Christensen,1,26,1,1912,55.685156600000,12.586633200000
+"Poul Edvard",Klæbel,1,1,1,1912,NULL,NULL
+"Ejnar Gustav",Bruun,1,19,1,1912,55.678717200000,12.566652200000
+Therese,Jørgensen,2,17,1,1912,NULL,NULL
+"Lilian Hansine Marie",Jensen,2,5,1,1912,55.686573100000,12.589835600000
+"Carl Johan",Liisberg,1,30,1,1912,NULL,NULL
+"Petreus Juul Amandus",Buus,1,16,1,1912,55.690528800000,12.574086100000
+Martha,Jørgensen,2,1,1,1912,55.694419100000,12.577435600000
+"Emil Ferdinand",Jensen,1,21,1,1912,NULL,NULL
+"Marie Sofie Christine",Jensen,2,1,1,1912,NULL,NULL
+"Theodor Nikolai",Lund,1,8,1,1912,NULL,NULL
+Niels,Jensen,1,26,1,1912,55.684216700000,12.572555100000
+"Christian Ferdinand Alexander",Hansen,1,17,1,1912,NULL,NULL
+"Niels Jespersen",Kjølsberg,1,15,1,1912,NULL,NULL
+Mads,Christensen,1,17,1,1912,55.691181400000,12.576176500000
+"Maren Christine",Christensen,2,30,1,1912,NULL,NULL
+"Niels Jørgen",Jensen,1,12,1,1912,55.686645000000,12.588461800000
+"Niels Peter Illum",Jensen,1,12,1,1912,55.669021400000,12.550958700000
+"Carla Sofie Johanne Louise",Johansen,2,6,1,1912,NULL,NULL
+"Heinrik Ferdinand",Kønig,1,2,1,1912,NULL,NULL
+"Christen Jørgensen",Hermansen,1,24,1,1912,NULL,NULL
+"Henriette Louise Julie",Pedersen,2,1,1,1912,NULL,NULL
+"Henriette Louise Julie",Pedersen,2,30,1,1912,NULL,NULL
+Ragnhild,Paasche,2,30,1,1912,NULL,NULL
+"Jens Theodor",Johansen,1,31,1,1912,NULL,NULL
+Peter,Jensen,1,15,1,1912,55.688305100000,12.586352300000
+"Agnes Vilhelmine Elisabeth",Rasmussen,2,10,1,1912,55.689468800000,12.573226000000
+"Johan Andreas",Johansen,1,20,1,1912,NULL,NULL
+"Aage Hans Frederik",Petersen,1,15,1,1912,NULL,NULL
+Anders,Persson,1,3,1,1912,55.703676000000,12.589491900000
+"Peter Laurits",Petersen,1,4,1,1912,NULL,NULL
+"Peter Ludvig Richard Fick",Petersen,1,11,1,1912,55.680694100000,12.589380000000
+"Anna Christine",Rasmussen,2,30,1,1912,NULL,NULL
+"Martha Johanne",Jacobsen,2,4,1,1912,55.688645200000,12.562278100000
+"Johan Frederik",Pade,1,4,1,1912,55.690875700000,12.559524800000
+"Christen Mortensen",Pagh,1,22,1,1912,55.690032900000,12.558823100000
+Carlos,Petersen,1,7,1,1912,NULL,NULL
+"Dagmar Christiansen",Holk,2,1,1,1912,NULL,NULL
+"Oluf Valdemar",Jacobsen,1,1,1,1912,NULL,NULL
+"Valdemar Christian",Jacobsen,1,3,1,1912,55.666214400000,12.614574500000
+Albert,Jensen,1,15,1,1912,NULL,NULL
+"Jens Jørgen",Petersen,1,5,1,1912,NULL,NULL
+"Poul Christian",Petersen,1,9,1,1912,NULL,NULL
+Ursula,Petersen,2,28,1,1912,NULL,NULL
+"Alfred Thorvald",Petersen,1,7,1,1912,NULL,NULL
+"Jørgen Olai",Rasmussen,1,11,1,1912,NULL,NULL
+"Karen Hansine",Rasmussen,2,3,1,1912,55.698414000000,12.586058800000
+Niels,Petersen,1,24,1,1912,55.704950600000,12.578027400000
+Niels,Petersen,1,11,1,1912,NULL,NULL
+Leonhard,Perremans,1,12,1,1912,NULL,NULL
+"Clyde Axel Aage Johs.",Petersen,1,30,1,1912,NULL,NULL
+Jens,Rasmussen,1,30,1,1912,NULL,NULL
+"Rosa Elisabeth",Petersen,2,4,1,1912,NULL,NULL
+"Anton Georg Løvendal",Rasmussen,1,5,1,1912,55.700159200000,12.541247100000
+"Julius Holger",Pind,1,9,1,1912,NULL,NULL
+Harald,Petersen,1,2,1,1912,55.690915100000,12.554999800000
+Harald,Petersen,1,29,1,1912,55.690720600000,12.555078800000
+"Bertha Viktoria",Rasmussen,2,3,1,1912,NULL,NULL
+Helene,Petersen,2,23,1,1912,55.689726500000,12.558471200000
+"Helga Jensine Marie",Petersen,2,2,1,1912,NULL,NULL
+Sofie,Petersen,2,24,1,1912,NULL,NULL
+"Edvard Ludvig",Petersen,1,1,1,1912,NULL,NULL
+"Ejner Henry",Petersen,1,17,1,1912,55.690407600000,12.562203900000
+"Johan Christian Nicolaj",Petersen,1,18,1,1912,NULL,NULL
+"Johan Christian Nicolaj",Petersen,1,20,1,1912,NULL,NULL
+"Astrid Betty",Poulsen,2,11,1,1912,NULL,NULL
+"Carl Henrik Valdemar Peter",Petersen,1,4,1,1912,55.689937700000,12.555221100000
+"Astrid Sofie Kirstine",Petersen,2,3,1,1912,NULL,NULL
+"August Christian",Petersen,1,31,1,1912,NULL,NULL
+Herman,Friis-Petersen,1,20,1,1912,NULL,NULL
+"Agda Isadora",Poser,2,3,1,1912,NULL,NULL
+"Christian Bruun",Rasmussen,1,12,1,1912,55.690165300000,12.558105400000
+"Hilda Marie",Petersen,2,26,1,1912,NULL,NULL
+"Johan Christian Joseloff",Prusarow,1,8,1,1912,NULL,NULL
+Frederik,Poulsen,1,2,1,1912,NULL,NULL
+"Georg Emanuel Henrik",Poulsen,1,11,1,1912,NULL,NULL
+Ingeborg,Petersen,2,22,1,1912,NULL,NULL
+"Anna Kirstine Petra",Petersen,2,8,1,1912,NULL,NULL
+"Karen Kirstin",Petersen,2,6,1,1912,NULL,NULL
+"Anna Christine",Pedersen,2,16,1,1912,NULL,NULL
+Christen,Pedersen,1,15,1,1912,NULL,NULL
+Christen,Pedersen,1,23,1,1912,NULL,NULL
+"Karen Kirstine",Petersen,2,6,1,1912,NULL,NULL
+"Jens Christian",Poulsen,1,13,1,1912,NULL,NULL
+"Gudrun Julie Olga",Petersen,2,3,1,1912,NULL,NULL
+"Anna Christine",Petersen,2,31,1,1912,NULL,NULL
+Karin,Persson,2,16,1,1912,NULL,NULL
+"Margrethe Christine",Poulsen,2,2,1,1912,NULL,NULL
+"Vilhelm Edvard Valdemar",Pøchel,1,11,1,1912,NULL,NULL
+"Georg Villum",Rasmussen,1,29,1,1912,NULL,NULL
+"Margrethe Elise",Carlsen,2,2,1,1912,NULL,NULL
+"Dorthea Kirstine",Petersen,2,5,1,1912,NULL,NULL
+"Laurits Christian",Petersen,1,4,1,1912,NULL,NULL
+"Alma Elisabet",Rask,2,5,1,1912,55.672220200000,12.563547300000
+Thorvald,Rasch,1,10,1,1912,NULL,NULL
+"Ingeborg Hulda Marie",Madsen,2,2,1,1912,NULL,NULL
+"Dagmar Oline",Madsen,2,11,1,1912,55.680309800000,12.589901300000
+"Ingeborg Marie",Rasmussen,2,12,1,1912,NULL,NULL
+Marie,Nilsson,2,2,1,1912,NULL,NULL
+"Anna Marie",Ottosen,2,27,1,1912,55.702488300000,12.533200500000
+"Holger August Emil Auning Esmants",Petersen,1,3,1,1912,NULL,NULL
+"Marinus Richard Leopold",Madsen,1,25,1,1912,55.692152300000,12.568563700000
+"Hans Vilhelm",Løyche,1,10,1,1912,55.676886800000,12.571804500000
+"Oskar Johannes Theodor",Petersen,1,6,1,1912,NULL,NULL
+"Marie Caroline",Petersen,2,19,1,1912,NULL,NULL
+"Otto Henry Kjeldsholm",Petersen,1,5,1,1912,55.692106400000,12.558522800000
+"Marie Christine",Petersen,2,19,1,1912,NULL,NULL
+"Fritz Johan Heinrick",Reimers,1,7,1,1912,NULL,NULL
+"Ellen Victoria",Rømer,2,3,1,1912,NULL,NULL
+"Alma Marie",Larsen,2,8,1,1912,55.684470300000,12.583647600000
+"Valdemar Henrik Vilthers",Drostrup,1,4,1,1912,NULL,NULL
+"Axel Peter Viggo Løwenburg",Møller,1,4,1,1912,55.681228600000,12.583710300000
+"Mary Josefine",Petersen,2,1,1,1912,NULL,NULL
+"Anna Cecilie Caroline",Larsen,2,4,1,1912,NULL,NULL
+"Aage Valdemar",Nielsen,1,16,1,1912,NULL,NULL
+"Frederik Valdemar",Petersen,1,15,1,1912,NULL,NULL
+Carl,Reichardt,1,25,1,1912,NULL,NULL
+Martha,Nielsen,2,9,1,1912,55.671226700000,12.563885600000
+"Anna Vilhelmine",Larsen,2,12,1,1912,NULL,NULL
+"Anna Vilhelmine",Larsen,2,2,1,1912,NULL,NULL
+"Othar Frederik Møller",Månsson,1,28,1,1912,55.688994100000,12.573556600000
+"Thorvald Emil",Madsen,1,8,1,1912,NULL,NULL
+"Anna Marie Caja",Pedersen,2,12,1,1912,NULL,NULL
+"Morten Peter Anton Elinus",Nielsen,1,2,1,1912,NULL,NULL
+"Annanias Laurits Carl Axel",Nielsen,1,3,1,1912,NULL,NULL
+"Arthur Vincentius",Nielsen,1,8,1,1912,NULL,NULL
+"Nicoline Christine",Mikkelsen,2,15,1,1912,55.680001600000,12.591088000000
+Johannes,Nielsen,1,10,1,1912,NULL,NULL
+"Hans Jørgen Peter",Philipsen,1,12,1,1912,55.686645000000,12.588461800000
+"Clara Mathilde",Larsen,2,11,1,1912,NULL,NULL
+Petrine,Nielsen,2,13,1,1912,NULL,NULL
+"Emanuel Carl Alfred",Larsen,1,12,1,1912,NULL,NULL
+"Paul Anders",Nielsen,1,23,1,1912,55.682483800000,12.577427200000
+"Poul Arthur",Nielsen,1,6,1,1912,55.686518000000,12.588174500000
+"Niels Christian",Nielsen,1,31,1,1912,55.682575400000,12.563804500000
+Ragnhild,Nielsen,2,8,1,1912,55.689107500000,12.572177500000
+"Georg Severin",Larsen,1,20,1,1912,NULL,NULL
+Sigridur,Magnusdotter,2,1,1,1912,NULL,NULL
+"Diderik Johan Frederik",Møller,1,15,1,1912,55.681237200000,12.578617700000
+"Carl Peter",Nielsen,1,25,1,1912,NULL,NULL
+"Poul Marius",Larsen,1,11,1,1912,55.687451700000,12.588597300000
+"Emma Petrine",Müller,2,4,1,1912,NULL,NULL
+Vilhelm,Larsen,1,22,1,1912,55.691896100000,12.574666200000
+"Frederikke Sofie Elisabeth",Møller,2,20,1,1912,55.683718000000,12.584475900000
+"Henrik Vilhelm Jacob",Larsen,1,20,1,1912,NULL,NULL
+"Sigrid Kirstine",Nielsen,2,6,1,1912,55.678478800000,12.592136000000
+"Sophus Anton Marius",Nielsen,1,12,1,1912,55.682805700000,12.574274600000
+"Karen Marie Dorthea",Larsen,2,20,1,1912,55.672399600000,12.575878900000
+"Thora Vilhelmine",Nielsen,2,16,1,1912,55.691746400000,12.578991800000
+Emanuel,Overgaard,1,30,1,1912,55.686518000000,12.588174500000
+"Jens Louis",Olsen,1,3,1,1912,NULL,NULL
+"Carl Anton",Olsson,1,20,1,1912,55.708010100000,12.563116200000
+"Johan Vilhelm Thorulf",Praem,1,2,1,1912,NULL,NULL
+"Christian Ludvig",Nielsen,1,9,1,1912,NULL,NULL
+"Valdemar Ferdinand",Nielsen,1,5,1,1912,55.686993800000,12.589318000000
+"Svend Valdemar",Møller,1,17,1,1912,55.670864800000,12.552824500000
+"Viggo Andreas",Nielsen,1,18,1,1912,55.684268200000,12.585863700000
+"Emrik Carl Thomas",Nielsen,1,24,1,1912,55.684009300000,12.586136100000
+Einer,Nielsen,1,8,1,1912,55.684009300000,12.586136100000
+"Emil Emanuel",Nielsen,1,27,1,1912,NULL,NULL
+"Mary Elna",Nielsen,2,5,1,1912,55.682652800000,12.588684500000
+Gertrud,Nielsen,2,6,1,1912,NULL,NULL
+"Else Margrethe",Nielsen,2,8,1,1912,55.681072900000,12.588949100000
+"Otto Theodor",Olsen,1,28,1,1912,55.670274900000,12.554752100000
+"Holger Villiam",Nielsen,1,15,1,1912,NULL,NULL
+Asger,Petersen,1,1,1,1912,NULL,NULL
+"Axel Hans Theodor",Petersen,1,30,1,1912,NULL,NULL
+"Frederik Laurits",Mortensen,1,3,1,1912,NULL,NULL
+"Frederik Laurits",Mortensen,1,25,1,1912,NULL,NULL
+"Maren Christine",Olsen,2,4,1,1912,55.685485400000,12.567664900000
+"Niels Valdemar",Nielsen,1,5,1,1912,55.679677100000,12.592302100000
+"Jagolin Christian",Petersen,3,2,1,1912,NULL,NULL
+Jensine,Petersen,2,30,1,1912,NULL,NULL
+"Jensine Severine",Petersen,2,1,1,1912,NULL,NULL
+"Jens Lauritz Christian",Nielsen,1,30,1,1912,NULL,NULL
+"Ingeborg Christine",Petersen,2,13,1,1912,NULL,NULL
+"Jens Christian",Mortensen,1,20,1,1912,NULL,NULL
+"John Albert",Petersson,1,9,1,1912,55.687825000000,12.586237400000
+"John Magnus",Persson,1,16,1,1912,55.688994100000,12.573556600000
+"Anders Georg Hermann",Wiinberg,1,5,1,1912,55.688305100000,12.586352300000
+"Karen Rasmine",Petersen,2,11,1,1912,NULL,NULL
+"Nielsine Marie",Nielsen,2,2,1,1912,55.687002800000,12.580593900000
+"Anna Marie Emilie",Pedersen,2,8,1,1912,NULL,NULL
+Ingeborg,Nielsen,2,6,1,1912,NULL,NULL
+"Vilhelm Simon",Mundeling,1,31,1,1912,NULL,NULL
+Vida,Mouritzen,2,10,1,1912,55.713238600000,12.575169500000
+"Gustav Wallentin",Pettersson,1,30,1,1912,NULL,NULL
+"Martha Rasmine",Rasmussen,2,1,1,1912,NULL,NULL
+"Peter Martin",Petersen,1,23,1,1912,NULL,NULL
+Carla,Mortensen,2,15,1,1912,55.689365100000,12.557999400000
+"Emma Mathilda",Petersdotter,2,15,1,1912,NULL,NULL
+"Karl Magnus",Petersen,1,24,1,1912,NULL,NULL
+"Karl Magnus",Petersen,1,12,1,1912,NULL,NULL
+Eske,Petersen,1,15,1,1912,NULL,NULL
+"Adele Vilhelmine Marie",Milthe,2,1,1,1912,NULL,NULL
+Olivia,Persson,2,8,1,1912,55.677492000000,12.581354900000
+Ludvig,Petersen,1,8,1,1912,NULL,NULL
+"Magnus Georg",Pedersen,1,8,1,1912,NULL,NULL
+Magnus,Mortensen,1,6,1,1912,55.685585800000,12.586310700000
+"Henry Frederik",Petersen,1,16,1,1912,NULL,NULL
+"Anker Christian",Rangholm,1,16,1,1912,55.672280400000,12.545684500000
+"Anker Christian",Rangholm,1,29,1,1912,NULL,NULL
+"Anker Christian",Rangholm,1,6,1,1912,NULL,NULL
+"Juliane Sofie Lydia",Winzentsen,2,10,1,1912,NULL,NULL
+"Marie Margrethe",Petersen,2,3,1,1912,NULL,NULL
+"Julius Valdemar",Niebling,1,4,1,1912,NULL,NULL
+"Julius Valdemar",Niebling,1,19,1,1912,NULL,NULL
+"Viggo Emil",Rasmussen,1,12,1,1912,NULL,NULL
+"Ejner Petersen",Nørregaard,1,23,1,1912,NULL,NULL
+"Poul Viktor Garrich",Voigt,1,10,1,1912,55.684253600000,12.563684100000
+"Oluf Fisker Windfeld",Petersen,1,20,1,1912,55.694406300000,12.576750900000
+"Bror Conrad",Sjöbergh,1,20,1,1912,NULL,NULL
+Otto,Petersen,1,15,1,1912,55.714729700000,12.575777900000
+Frederik,Rasmussen,1,22,1,1912,55.684857500000,12.584944700000
+"Peder Christian",Pedersen,1,8,1,1912,55.683998000000,12.584916900000
+"Peter Christian Resdal",Petersen,1,24,1,1912,NULL,NULL
+"Edmund Christian",Rasmussen,1,11,1,1912,55.686993800000,12.589318000000
+"Georg Otto Carl",Turby,1,25,1,1912,NULL,NULL
+"Gerda Amalie",Rasmussen,2,8,1,1912,55.693567400000,12.577720700000
+"John Wilhelm",Sandberg,1,10,1,1912,55.688606900000,12.557658500000
+Ludvig,Sander,1,18,1,1912,NULL,NULL
+"Axel Severin",Scharff,1,19,1,1912,NULL,NULL
+Selma,Scherf,2,1,1,1912,NULL,NULL
+Anthon,Verwohlt,1,26,1,1912,NULL,NULL
+"Holger Otto",Vestring,1,12,1,1912,55.682483800000,12.577427200000
+"Oscar Valdemar",Tverschou,1,11,1,1912,NULL,NULL
+Agnes,Tüchsen,2,16,1,1912,NULL,NULL
+"Frederik Carl Christian",Snoer,1,30,1,1912,55.686073200000,12.554602100000
+"Axel Valdemar",Serup,1,8,1,1912,NULL,NULL
+"Knud Madsen",Toft,1,11,1,1912,NULL,NULL
+"Michael Elias",Tofte,1,3,1,1912,NULL,NULL
+"Marie Christiane",Thomas,2,2,1,1912,NULL,NULL
+Ruprecht,Thøgersen,1,10,1,1912,NULL,NULL
+"Kirstine Marie",Sørensen,2,3,1,1912,NULL,NULL
+"Elisabeth Cathrine",Sørensen,2,6,1,1912,NULL,NULL
+"Holger Carl Alexius",Sørensen,1,30,1,1912,NULL,NULL
+"Jens Peter",Sørensen,1,21,1,1912,NULL,NULL
+"Johan Peter",Schelhase,1,31,1,1912,NULL,NULL
+"Carl Christian",Sundby,1,9,1,1912,NULL,NULL
+"Paul August",Schiller,1,4,1,1912,NULL,NULL
+"Knud Christian",Thorup,1,12,1,1912,NULL,NULL
+"Poul Carl",Winther,1,15,1,1912,55.688792100000,12.559670600000
+"Osvald Valdemar",Schiolten,1,2,1,1912,NULL,NULL
+"Niels Peter",Sørensen,1,16,1,1912,55.690024800000,12.559385600000
+"Karen Marie Christine",Wesselhoff,2,24,1,1912,55.692558200000,12.556114100000
+"Dora Vilhelmine",Schondel,2,31,1,1912,NULL,NULL
+"Friedrich Herman",Schmidt,1,3,1,1912,NULL,NULL
+"Hans Peter",Warberg,1,6,1,1912,55.687952400000,12.553288100000
+Marie,Schmidt,2,15,1,1912,NULL,NULL
+"Jacob Zacharias",Weichardt,1,21,1,1912,55.699612100000,12.541182400000
+"Frederik Albert Joseph",Teudt,1,1,1,1912,NULL,NULL
+"Viggo Erik",Rasmussen,1,8,1,1912,NULL,NULL
+"Vilhelm August",Rasmussen,1,6,1,1912,NULL,NULL
+Carl,Stenholm,1,8,1,1912,NULL,NULL
+"Edvard Anders",Velander,1,30,1,1912,NULL,NULL
+"Edvard Anders",Velander,1,29,1,1912,NULL,NULL
+"Erik Fridolf",Velander,1,6,1,1912,55.690085000000,12.558123500000
+"Ole Peter Vilhelm",Riis,1,19,1,1912,NULL,NULL
+"Erik Ludvig Poul",Winding,1,17,1,1912,NULL,NULL
+"Knut Konrad",Vennborg,1,4,1,1912,55.686021600000,12.547524800000
+"August Valdemar",Svendsen,1,14,1,1912,NULL,NULL
+"Ane Petersen",Søndergaard,2,30,1,1912,NULL,NULL
+Volmer,Vilandt,1,9,1,1912,55.688406300000,12.557437800000
+Hermann,Wiehweg,1,9,1,1912,55.697164900000,12.576189300000
+"Rudolf Hermann",Schiffer,1,15,1,1912,NULL,NULL
+"Rudolf Hermann",Schiffer,1,5,1,1912,NULL,NULL
+"Carl Johan Ludvig",Svendsen,1,18,1,1912,NULL,NULL
+"Christian Frederik",Stæhr,1,7,1,1912,NULL,NULL
+"Ane Johanne Marie Augusta",Selvig,2,5,1,1912,NULL,NULL
+"Victor Klemp",Schrøder,1,24,1,1912,NULL,NULL
+"Poul Valdemar Petersen",Sten,1,13,1,1912,NULL,NULL
+"Jon Eymundur",Sigurdsson,1,30,1,1912,NULL,NULL
+"Albrekt Rottbølle",Schytte,1,30,1,1912,NULL,NULL
+Axel,Meyer,1,11,1,1912,NULL,NULL
+"Erik Vilhelm",Svendsen,1,6,1,1912,NULL,NULL
+"Carl Alfred Oskar",Staahlnacke,1,7,1,1912,NULL,NULL
+"Svante William",Svensson,1,18,1,1912,55.687315700000,12.558508200000
+Anna,Sørensen,2,10,1,1912,NULL,NULL
+"Anton Carl",Sørensen,1,25,1,1912,NULL,NULL
+Thorvald,Svendsen,1,18,1,1912,NULL,NULL
+"Karen Margrethe",Skjødsholm,2,25,1,1912,NULL,NULL
+"Emilie Nielsine Kirstine",Sørensen,2,1,1,1912,NULL,NULL
+"Knud Bertel Alexander",Thomsen,1,11,1,1912,NULL,NULL
+"Gerda Elisabeth",Wachter,2,8,1,1912,NULL,NULL
+"Hans Christian",Sørensen,1,30,1,1912,NULL,NULL
+"Jens Christian",Sørensen,1,18,1,1912,NULL,NULL
+"Oluf Johan Christian",Solberg,1,6,1,1912,NULL,NULL
+"Karen Marie",Sørensen,2,27,1,1912,NULL,NULL
+"Ella Louise",Arbo-Sonne,2,24,1,1912,NULL,NULL
+"Jagda Dorthea",Sonne,2,5,1,1912,NULL,NULL
+"Axel Einar",Tommerup,1,18,1,1912,NULL,NULL
+"Alvin Robert",Schmilder,1,22,1,1912,NULL,NULL
+"Peder Helenius",Sørensen,1,27,1,1912,NULL,NULL
+"Clara Lavine ell. Ludvigne",Steffensen,2,2,1,1912,NULL,NULL
+"Clara Lavine ell. Ludvigne",Steffensen,2,22,1,1912,NULL,NULL
+"Carl Christian Johannes",Straus,1,23,1,1912,NULL,NULL
+"Antonette Frederikke Christine",Andersen,2,2,1,1912,NULL,NULL
+"Jens Jørgen Jensen",Ørntoft,1,27,1,1912,NULL,NULL
+"Jean Louis",Vermundsen,1,4,1,1912,NULL,NULL
+Olaf,Ørstrup,1,26,1,1912,NULL,NULL
+"Ane Christine",Christensen,2,3,1,1912,NULL,NULL
+"Osvald Vilhelm",Vestergaard,1,4,1,1912,NULL,NULL
+"Poula Hermine Petrine",Wiencke,2,4,1,1912,NULL,NULL
+"Oscar Amos",Thufverson,1,5,1,1912,NULL,NULL
+"Valdemar Christian Henrik Nicolaj",Tychsen,1,23,1,1912,NULL,NULL
+"Karen Margrethe",Andersen,2,3,1,1912,NULL,NULL
+"Marie Dorthea",Børlum,2,4,1,1912,NULL,NULL
+"Petra Augusta",Wissing,2,11,1,1912,NULL,NULL
+"Carl Otto",Franck,1,17,1,1912,NULL,NULL
+"Bernt Sigurd",Wykmark,1,31,1,1912,55.686276400000,12.591690100000
+"Julie Hansine",Hansen,2,8,1,1912,NULL,NULL
+"Ane Marie",Bentsen,2,31,1,1912,NULL,NULL
+"Henrik Peter Willer",Hansen,1,20,1,1912,NULL,NULL
+"Niels Peter Tordenskjold",Jørgensen,1,24,1,1912,55.685899700000,12.585735000000
+"Christian Johannes van der",Graaf,1,14,1,1912,NULL,NULL
+"Johanne Christine",Hansen,2,5,1,1912,NULL,NULL
+"Richard Karl",Hengelhaupt,1,6,1,1912,NULL,NULL
+"Laura Christine",Jensen,2,9,1,1912,NULL,NULL
+"Alma Caroline Augusta",Petersen,2,3,1,1912,NULL,NULL
+Selik,Schneider,1,9,1,1912,NULL,NULL
+"Caroline Sofie",Nielsen,2,24,1,1912,NULL,NULL
+"Theodor Johannes Frederik Vilhelm",Herlin,1,31,1,1912,NULL,NULL
+Salomon,Hoghem,1,23,1,1912,55.685831800000,12.584875300000
+Leiba,Weiner,1,4,1,1912,NULL,NULL
+"Albertha Christine",Jensen,2,3,1,1912,NULL,NULL
+"Edih Thekla",Jordan,3,6,1,1912,55.691896100000,12.574666200000
+Poul,Rasmussen,1,29,1,1912,NULL,NULL
+"Jens Ole",Petersen,1,10,1,1912,NULL,NULL
+"Camilla Theodora",Jensen,2,2,1,1912,NULL,NULL
+Mary,Nielsen,2,8,1,1912,NULL,NULL
+Alois,Koutek,1,13,1,1912,NULL,NULL
+"Christine Marie Carla",Jensen,2,5,1,1912,NULL,NULL
+Johan,Persson,1,23,1,1912,NULL,NULL
+Emil,Jensen,1,11,1,1912,NULL,NULL
+Peretz,Israelewitz,1,10,1,1912,NULL,NULL
+"Nikoline Christine Maria",Kruckov,2,1,1,1912,NULL,NULL
+"Andrea Johanne",Larsen,2,3,1,1912,NULL,NULL
+"Bruno Henry Arthur",Tegtmeier,1,6,1,1912,55.682926500000,12.584721800000
+"Valborg Christiane Birgitte",Nielsen,2,5,1,1912,NULL,NULL
+"Carl Oscar",Benjaminsson,1,30,1,1912,55.664824900000,12.607506600000
+"Emma Susanne",Jukola,2,4,1,1912,NULL,NULL
+"Josefine Jensine",Jørgensen,2,6,1,1912,NULL,NULL
+"Sofie Nicoline",Pedersen,2,2,1,1912,55.691746400000,12.578991800000
+"Laura Jørgine",Berthu,2,3,1,1912,NULL,NULL
+"Martin Christian",Jørgensen,1,15,1,1912,NULL,NULL
+"Signe Marie",Christoffersen,2,2,1,1912,NULL,NULL
+"Thora Christine Clara",Larsen,2,8,1,1912,NULL,NULL
+"Josper Karl August",Mannhardt,1,8,1,1912,55.678433700000,12.587561300000
+Martha,Thomsen,2,1,1,1912,55.680231300000,12.591631200000
+Nelly,Thomsen,2,17,1,1912,NULL,NULL
+"Hermann Heinrich Wilhelm",Petereit,1,6,1,1912,NULL,NULL
+Jan,Spykmann,1,27,1,1912,NULL,NULL
+"Johanne Hansine Marie",Mortensen,2,1,1,1912,NULL,NULL
+"Camilla Amalie",Petersen,2,1,1,1912,NULL,NULL
+"Elna Marie Sørine Christine",Rasmussen,2,3,1,1912,NULL,NULL
+"Abel Niilonp",Juvonen,1,18,1,1912,NULL,NULL
+"Ejner Christian Axel",Andersen,1,11,1,1912,NULL,NULL
+Andrea,Andersen,2,12,1,1912,NULL,NULL
+"Axel Sigfred",Andersson,1,22,1,1912,55.685899700000,12.585735000000
+"Anders Albert Vilhelm Martin",Andersen,1,8,1,1912,NULL,NULL
+"Hans Peter Sophus",Andersen,1,26,1,1912,NULL,NULL
+"Anna Marie",Andersen,2,9,1,1912,NULL,NULL
+"Bepo Tjell Ville Judis",Staulausky,1,29,1,1912,NULL,NULL
+"Bepo Tjell Ville Judis",Staulausky,1,13,1,1912,NULL,NULL
+Paul,Rosenberg,1,4,1,1912,55.680523600000,12.589099100000
+"Hans Peter",Hansen,1,4,1,1912,NULL,NULL
+"Hans Peter",Hansen,1,20,1,1912,NULL,NULL
+"Julie Thobine",Jepsen,2,20,1,1912,NULL,NULL
+"Holger Emil Peter",Hansen,1,23,1,1912,NULL,NULL
+"Harald Andreas",Andersen,1,5,1,1912,NULL,NULL
+"Harriet Martine",Andersen,2,2,1,1912,55.686302600000,12.567446400000
+Viggo,Hansen,1,1,1,1912,55.667479900000,12.553366600000
+"Carl Frederik",Andersen,1,3,1,1912,NULL,NULL
+Petrine,Hansen,2,2,1,1912,NULL,NULL
+Hedvig,Andersen,2,31,1,1912,55.666203800000,12.547801800000
+"Ingeborg Frederikke",Rudolf,2,4,1,1912,NULL,NULL
+"Rasmus Peter",Hansen,1,10,1,1912,NULL,NULL
+"Rigmor Martha Andrea",Hansen,2,10,1,1912,NULL,NULL
+"Robert Charlie",Hansen,1,31,1,1912,NULL,NULL
+Hilda,Andersen,2,24,1,1912,55.668649200000,12.554505900000
+"Ernst Georg Christian",Cohn,1,5,1,1912,NULL,NULL
+"Susanne Severine",Brandt,2,18,1,1912,NULL,NULL
+Jens,Hansen,1,25,1,1912,NULL,NULL
+"Jens Peter",Andersen,1,17,1,1912,NULL,NULL
+"Jørgine Marie",Andersen,2,20,1,1912,55.667479900000,12.553366600000
+Christian,Nissen,1,25,1,1912,NULL,NULL
+"Ingrid Sørine",Hansen,2,18,1,1912,NULL,NULL
+"Ingrid Sørine",Hansen,2,24,1,1912,NULL,NULL
+"Ingvard Christian",Hansen,1,21,1,1912,NULL,NULL
+"Svend Holger",Hansen,1,9,1,1912,NULL,NULL
+"Karen Marie",Andersen,2,11,1,1912,NULL,NULL
+Erik,Andersen,1,12,1,1912,NULL,NULL
+"Helga Barfred",Barfod,2,5,1,1912,NULL,NULL
+"Lauritz Sofus",Andersen,1,9,1,1912,NULL,NULL
+"Laurits Valdemar",Andersen,1,27,1,1912,NULL,NULL
+"Niels Juul",Christiansen,1,4,1,1912,NULL,NULL
+"Johanne Margrethe",Hansen,2,3,1,1912,55.672566700000,12.551012900000
+"Johannes Martin",Hansen,1,4,1,1912,NULL,NULL
+"Niels Marius",Hansen,1,20,1,1912,NULL,NULL
+"Hans Alfred",Christensen,1,1,1,1912,NULL,NULL
+"Anna Marie",Frederiksen,2,10,1,1912,NULL,NULL
+John,Johnsen,1,7,1,1912,NULL,NULL
+"Valdemar Alfred Emil",Christiansen,1,16,1,1912,NULL,NULL
+"Hans Christian",Brøns,1,11,1,1912,NULL,NULL
+Margrethe,Andersen,2,11,1,1912,NULL,NULL
+"Margrethe Agnete",Andersen,2,24,1,1912,NULL,NULL
+"Ane Kirstine",Christensen,2,4,1,1912,NULL,NULL
+"Julie Caroline",Bauer,2,12,1,1912,NULL,NULL
+"Gertrud Fransisca",Bauerfeld,2,22,1,1912,NULL,NULL
+Martin,Andersen,1,10,1,1912,NULL,NULL
+"Ida Louise Alfrida",Björk,2,12,1,1912,NULL,NULL
+"Jens Peter Vilhelm",Hansen,1,16,1,1912,NULL,NULL
+"Axel Edvard",Christensen,1,13,1,1912,55.666493800000,12.549453900000
+"Carl Sofus Alfred",Christensen,1,12,1,1912,NULL,NULL
+Jørgen,Clausen,1,30,1,1912,NULL,NULL
+"Anders Knudsen",Frost,1,4,1,1912,NULL,NULL
+"Georg Louis",Bekker,1,23,1,1912,NULL,NULL
+Poul,Clausen,1,15,1,1912,NULL,NULL
+"Frida Karen",Funch,2,15,1,1912,NULL,NULL
+"Helga Constance Norris",Hansen,2,11,1,1912,NULL,NULL
+"Axel August",Bentsen,1,22,1,1912,NULL,NULL
+"Jens Peter Petersen",Friis,1,26,1,1912,NULL,NULL
+"Johanne Nielsine",Frandsen,2,11,1,1912,55.666493800000,12.549453900000
+Christian,Christensen,1,29,1,1912,55.670874100000,12.543798400000
+Christian,Christensen,1,15,1,1912,55.685814900000,12.551085500000
+Christian,Christensen,1,8,1,1912,55.671329600000,12.561751000000
+"Mejnert Peter Martin",Einertsen,1,16,1,1912,NULL,NULL
+"Christian Laurits",Christensen,1,24,1,1912,NULL,NULL
+"Christian Niels",Christiansen,1,15,1,1912,55.671425100000,12.552755000000
+"Hansine Marie Augusta",Jacobsen,2,3,1,1912,NULL,NULL
+Rasmus,Edlefsen,1,8,1,1912,NULL,NULL
+"Christian Sten Petersen",Egeris,1,9,1,1912,NULL,NULL
+"Carl Emil",Egesø,1,27,1,1912,NULL,NULL
+"Niels Juel",Andersen,1,10,1,1912,NULL,NULL
+"Clara Elise Antonia",Christensen,2,29,1,1912,NULL,NULL
+"Marie Christine",Hansen,2,5,1,1912,NULL,NULL
+"Ida Sofie",Bengtsen,2,10,1,1912,NULL,NULL
+"Louis Frederik Carl Christjan",Hansen,1,23,1,1912,NULL,NULL
+"Jens Marius",Hansen,1,31,1,1912,NULL,NULL
+"Peter Thorvald",Andersen,1,10,1,1912,NULL,NULL
+"Jørgen Nielsen",Franck,1,8,1,1912,NULL,NULL
+Poul,Andersen,1,18,1,1912,NULL,NULL
+"Maren Johanne Sofie",Hansen,2,16,1,1912,NULL,NULL
+Kirstine,Bentsen,2,6,1,1912,NULL,NULL
+"Ellen Mary",Calben,2,18,1,1912,NULL,NULL
+"Marie Elise",Fischer,2,11,1,1912,NULL,NULL
+"Jens Christen",Christensen,1,10,1,1912,NULL,NULL
+"Thorvald Christiansen",Furendal,1,5,1,1912,NULL,NULL
+"Marie Louise",Fjerdingstad,2,29,1,1912,NULL,NULL
+"Hans Christian",Carlsen,1,30,1,1912,NULL,NULL
+Johann,Friedrichs,1,31,1,1912,NULL,NULL
+"Fritz Niels Christian",Christensen,1,2,1,1912,NULL,NULL
+"Carl Theodor",Faxholm,1,15,1,1912,NULL,NULL
+"Christine Boline",Hansen,2,8,1,1912,55.668549000000,12.552888800000
+Olga,Bjernøe,2,11,1,1912,NULL,NULL
+"Ferdinand Marius",Frederiksen,1,30,1,1912,55.670407200000,12.556933300000
+Thorvald,Christensen,1,24,1,1912,NULL,NULL
+"Carl Rasmus",Carlsen,1,22,1,1912,NULL,NULL
+"Charlotte Mathilde",Carlsen,2,22,1,1912,NULL,NULL
+"Christian Emilius",Carlsen,1,15,1,1912,NULL,NULL
+"Frederik Balling",Hansen,1,26,1,1912,NULL,NULL
+Otto,Faas,1,27,1,1912,NULL,NULL
+"Johan Alvild Vilhelm",Brinkmann,1,18,1,1912,55.668986700000,12.553953200000
+Holger,Callesen,1,1,1,1912,NULL,NULL
+"Otto Julius Damfeldt",Bøtner,1,17,1,1912,NULL,NULL
+"Carl Hugo",Brasse,1,5,1,1912,NULL,NULL
+"Harald Emil Theodor",Christensen,1,8,1,1912,NULL,NULL
+"Anna Christine Henriette Sørensen",Beinkamp,2,26,1,1912,NULL,NULL
+Robert,Gehrke,1,12,1,1912,NULL,NULL
+"Ane Margrethe Mathilde",Hansen,2,13,1,1912,NULL,NULL
+"Otto Max",Breder,1,12,1,1912,55.670992600000,12.552505300000
+Louis,Brons,1,6,1,1912,55.687421700000,12.583345500000
+"Anna Vilhelmine",Hansen,2,31,1,1912,NULL,NULL
+"Carl Frederik",Hansen,1,20,1,1912,NULL,NULL
+Jerwje,Brown,1,29,1,1912,55.671484600000,12.552439500000
+"Agnes Marie",Brechmer,2,3,1,1912,NULL,NULL
+"Christen Ditlev",Christensen,1,27,1,1912,NULL,NULL
+"Christian Julius Henrik",Christensen,1,13,1,1912,55.693959600000,12.577930300000
+"Carl Johan",Henckel,1,3,1,1912,NULL,NULL
+Bruno,Herold,1,18,1,1912,NULL,NULL
+Ella,Hansen,2,27,1,1912,NULL,NULL
+Ellen,Hansen,2,11,1,1912,55.671794300000,12.550470900000
+Bertha,Hansen,2,8,1,1912,NULL,NULL
+"Emilie Katania",Hansen,2,6,1,1912,55.671484600000,12.552439500000
+"Emma Alvilda",Hansen,2,19,1,1912,55.671401500000,12.558060500000
+"Christian Sofus",Hansen,1,10,1,1912,NULL,NULL
+Anders,Jensen,1,15,1,1912,55.669355200000,12.550080000000
+Axel,Jensen,1,11,1,1912,NULL,NULL
+"Antonie Martha Christiane",Groth,2,12,1,1912,55.670551500000,12.549989000000
+Carl,Jensen,1,24,1,1912,NULL,NULL
+"Niels Peter",Frederiksen,1,20,1,1912,55.671604600000,12.545245000000
+"Jens Christian",Jensen,1,5,1,1912,55.715073100000,12.575209900000
+"Jens Christian",Jensen,1,23,1,1912,55.668198400000,12.548855500000
+Hans,Jensen,1,22,1,1912,NULL,NULL
+"Søren Andersen Hansen",Clausen,1,13,1,1912,NULL,NULL
+"Dagmar Hansine",Hansen,2,6,1,1912,55.673847800000,12.559307700000
+"Johannes Nicolai",Christensen,1,8,1,1912,NULL,NULL
+"Jens Christian Martin Herulff",Jensen,1,8,1,1912,NULL,NULL
+"Ida Marie",Jensen,2,15,1,1912,NULL,NULL
+"Ida Maria",Jönsson,2,2,1,1912,NULL,NULL
+"Niels Peter",Jensen,1,15,1,1912,NULL,NULL
+"Niels Peter Emil",Jensen,1,9,1,1912,NULL,NULL
+"Peter Christian",Jensen,1,18,1,1912,NULL,NULL
+"Charles Louis Rechoff",Geslin,1,12,1,1912,55.668772000000,12.551310300000
+"Carl Christian",Gerzelius,1,23,1,1912,NULL,NULL
+"Jens Konstantin",Jensen,1,1,1,1912,55.671435100000,12.550860100000
+"Erik Alfred",Bergen,1,23,1,1912,NULL,NULL
+Gudrun,Gislasson,2,16,1,1912,NULL,NULL
+Ludvig,Jensen,1,12,1,1912,NULL,NULL
+Marie,Jensen,2,6,1,1912,NULL,NULL
+"Anna Emmy Christine",Jensen,2,4,1,1912,55.671485000000,12.549929700000
+Marie,Jensen,2,8,1,1912,NULL,NULL
+"Adam Martinus Valdemar",Jensen,1,13,1,1912,NULL,NULL
+"Hans Thomas",Gram,1,2,1,1912,55.672145400000,12.561956500000
+"Adolf Michael",Jensen,1,8,1,1912,NULL,NULL
+Michael,Jensen,1,29,1,1912,NULL,NULL
+"Jens Peter",Jensen,1,4,1,1912,55.681797900000,12.561889100000
+Harald,Görtz,1,11,1,1912,NULL,NULL
+"Axel Charles David",Gøtze,1,6,1,1912,55.672803200000,12.551909700000
+"Peter Valdemar",Jensen,1,26,1,1912,NULL,NULL
+"Jens Peter",Jensen,1,19,1,1912,NULL,NULL
+"Peter Axel",Jensen,1,29,1,1912,NULL,NULL
+"Gerda Karin Lovisa",Grimberg,2,27,1,1912,55.671176400000,12.559386000000
+"Jonanne Marie",Jacobsen,2,27,1,1912,NULL,NULL
+Rasmus,Jensen,1,12,1,1912,NULL,NULL
+Edvard,Jensen,1,29,1,1912,NULL,NULL
+"Karla Margrethe",Cederholm,2,19,1,1912,NULL,NULL
+"Jens Peter",Jensen,1,10,1,1912,NULL,NULL
+"Astrid Andrine",Chemnitz,2,6,1,1912,NULL,NULL
+"Jørgen Ejnar",Grundahl,1,29,1,1912,NULL,NULL
+"Anie Nathalie",Jensen,2,12,1,1912,NULL,NULL
+"Holger Theodor",Hildebrandt,1,28,1,1912,55.665752200000,12.549191500000
+"Asta Sofie Kirstine",Jensen,2,8,1,1912,NULL,NULL
+"Christine Charlotte",Hillertz,2,9,1,1912,55.672344000000,12.561843700000
+"Peter Herman Jacob",Jensen,1,5,1,1912,NULL,NULL
+"Sigurd Nathan",Bernard,1,9,1,1912,NULL,NULL
+Laurine,Jacobsen,2,13,1,1912,NULL,NULL
+"Edvin Arnold",Jensen,1,31,1,1912,NULL,NULL
+"Ellen Vilhelmine Theodora Christine",Jensen,2,31,1,1912,NULL,NULL
+"Andreas Christian",Iversen,1,12,1,1912,NULL,NULL
+"Thorvald Axel Alfred",Jensen,1,13,1,1912,NULL,NULL
+Anna,Jensen,2,11,1,1912,NULL,NULL
+"Emmy Caroline Theodora",Juhl,2,20,1,1912,NULL,NULL
+"Valborg Christiane",Jensen,2,29,1,1912,NULL,NULL
+"Hans Christian Rasmus",Jensen,1,24,1,1912,NULL,NULL
+"Hans Peter",Jensen,1,9,1,1912,NULL,NULL
+"Ellen Johanne",Hinsch,2,3,1,1912,NULL,NULL
+"Axel Christian",Jensen,1,4,1,1912,NULL,NULL
+"Carl Emil",Jensen,1,30,1,1912,NULL,NULL
+"Christine Caroline Dorthea",Christiansen,2,1,1,1912,NULL,NULL
+"Carl Gustaf",Jønsson,1,11,1,1912,55.668649900000,12.550129000000
+"Hildur Agil",Jensen,2,20,1,1912,NULL,NULL
+"Carl Lauritz",Jensen,1,30,1,1912,NULL,NULL
+"Jensine Cathrine Andrea",Jensen,2,16,1,1912,NULL,NULL
+"Carl Peter Christian",Jensen,1,31,1,1912,NULL,NULL
+"Erna Edvine Elisabet",Jensen,2,4,1,1912,55.673284900000,12.555459500000
+"Jenny Louise",Jønsson,2,20,1,1912,55.671127200000,12.559941000000
+Volmer,Jensen,1,3,1,1912,NULL,NULL
+Anders,Hultberg,1,24,1,1912,NULL,NULL
+"Ellen Mathilde Sofie",Corfitz,2,4,1,1912,NULL,NULL
+"Florentine Christine Marie Fog",Christensen,2,11,1,1912,NULL,NULL
+Henrik,Jeppesen,1,20,1,1912,NULL,NULL
+"Charles August",Jensen,1,18,1,1912,NULL,NULL
+"Ingeborg Mathilde Stjerne",Jensen,2,22,1,1912,NULL,NULL
+"Martin Lauritz",Henningsen,1,2,1,1912,NULL,NULL
+"Edvard Valdemar",Jensen,1,8,1,1912,NULL,NULL
+"Christian Oluf Anton",Jensen,1,10,1,1912,NULL,NULL
+"Lars Peter Georg",Jensen,1,12,1,1912,NULL,NULL
+"Hans Nissen",Jøker,1,16,1,1912,NULL,NULL
+"Niels Antonsen",Jessen,1,12,1,1912,NULL,NULL
+"Leif Prosch",Jensen,1,29,1,1912,NULL,NULL
+"Georgia Alfrida",Jensen,2,17,1,1912,NULL,NULL
+"Elise Cecilie Caroline",Jensen,2,11,1,1912,NULL,NULL
+"Ellen Sofie Jacobine Alvilda",Christiansen,2,19,1,1912,NULL,NULL
+"Elvira Christine Rasmussen",Christiansen,2,11,1,1912,NULL,NULL
+Hans,Christiansen,1,17,1,1912,NULL,NULL
+"Axel Claudius",Johansen,1,9,1,1912,NULL,NULL
+"Bendt Christian",Johansen,1,22,1,1912,NULL,NULL
+"Margrethe Rasmine",Jensen,2,4,1,1912,NULL,NULL
+"Margrethe Rasmine",Jensen,2,20,1,1912,NULL,NULL
+"Marie Caroline",Jensen,2,8,1,1912,NULL,NULL
+"Harald Christoffer",Jensen,1,10,1,1912,NULL,NULL
+"Carl Christian Ludvig",Johansen,1,24,1,1912,NULL,NULL
+Alfred,Hansen,1,31,1,1912,NULL,NULL
+"Niels Anders",Jensen,1,15,1,1912,NULL,NULL
+"Martha Elfrida",Jensen,2,17,1,1912,NULL,NULL
+Jensine,Christiansen,2,27,1,1912,NULL,NULL
+"Aage Ludvig Emil",Hansen,1,19,1,1912,NULL,NULL
+"Alfred Emil",Hansen,1,29,1,1912,NULL,NULL
+"Caroline Sørine",Johannsen,2,15,1,1912,NULL,NULL
+"Holger Einer Emil",Hørning,1,19,1,1912,NULL,NULL
+"John Theodor",Hörnqvist,1,28,1,1912,55.672646000000,12.557887400000
+"Carl Henrik",Jørgensen,1,5,1,1912,NULL,NULL
+"Anders Christian Vilhelm",Knudsen,1,8,1,1912,NULL,NULL
+"Carla Emilie",Jørgensen,2,3,1,1912,NULL,NULL
+"Aage Peter Valdemar",Lind,1,23,1,1912,NULL,NULL
+"David Oskar",Engstrøm,1,20,1,1912,55.671484600000,12.552439500000
+Johanne,Larsen,2,11,1,1912,NULL,NULL
+Marie,Møller,2,14,1,1912,NULL,NULL
+"Harald Arthur",Erichsen,1,13,1,1912,NULL,NULL
+"Carl Christian",Nielsen,1,8,1,1912,NULL,NULL
+Emil,Nielsen,1,20,1,1912,NULL,NULL
+"Edvard Simon Onsberg",Henriksen,1,25,1,1912,NULL,NULL
+"Arnold Henry",Nielsen,1,12,1,1912,NULL,NULL
+"Carl Julius",Nielsen,1,10,1,1912,NULL,NULL
+Astrid,Nielsen,2,25,1,1912,55.668792000000,12.552417600000
+"August Reinhold",Nielsen,1,29,1,1912,NULL,NULL
+Jutta,Eriksen,2,10,1,1912,NULL,NULL
+"Lorentz Conrad Frederik",Eriksen,1,9,1,1912,NULL,NULL
+Rasmus,Larsen,1,8,1,1912,NULL,NULL
+Einer,Nielsen,1,24,1,1912,NULL,NULL
+Alfrida,Malmberg,2,2,1,1912,55.666114100000,12.548663400000
+"Ejnar Nordentoft",Nielsen,1,19,1,1912,NULL,NULL
+"Jenny Stella",Larsen,2,24,1,1912,NULL,NULL
+"Axel Rudolf",Nilsson,1,25,1,1912,55.683900600000,12.585564000000
+"Birtha Cecilie",Jørgensen,2,2,1,1912,NULL,NULL
+"Christen Johannes Frederik",Johansen,1,6,1,1912,NULL,NULL
+"Jens Frederik Oluf",Larsen,1,8,1,1912,55.671786800000,12.562257000000
+"Jens Knud Henrik",Larsen,1,31,1,1912,55.675119000000,12.599196100000
+Jens,Nielsen,1,23,1,1912,55.673484600000,12.559526700000
+"Jens Aage Edmund",Nielsen,1,27,1,1912,NULL,NULL
+"Hans Jacob",Olsen,1,20,1,1912,NULL,NULL
+Adolf,Kaulbarsch,1,12,1,1912,NULL,NULL
+"Hans Christian",Nielsen,1,8,1,1912,NULL,NULL
+"Knud Christian",Hartmejer,1,31,1,1912,NULL,NULL
+"Jens Peter",Larsen,1,8,1,1912,NULL,NULL
+"Hans Jacob Thorvald",Nielsen,1,4,1,1912,NULL,NULL
+"Anna Jensine",Nielsen,2,24,1,1912,NULL,NULL
+"Anna Jensine Christine",Nielsen,2,2,1,1912,NULL,NULL
+"Ingeborg Christiane",Larsen,2,4,1,1912,NULL,NULL
+"Harald Mads Laurits",Nielsen,1,16,1,1912,NULL,NULL
+"Albert Godtfred August",Hassing,1,18,1,1912,NULL,NULL
+"Ane Marie",Nielsen,2,31,1,1912,NULL,NULL
+"Axel Peter",Larsen,1,3,1,1912,NULL,NULL
+"Louise Elisabeth",Olsen,2,4,1,1912,NULL,NULL
+Herluf,Nielsen,1,20,1,1912,NULL,NULL
+Herluf,Nielsen,1,2,1,1912,NULL,NULL
+"Aksel Chornelius",Knudsen,1,10,1,1912,NULL,NULL
+"Holger Thomas",Nielsen,1,18,1,1912,NULL,NULL
+"Frithjof Sylvius",Olsen,1,1,1,1912,NULL,NULL
+"Helga Elvira",Olsen,2,16,1,1912,NULL,NULL
+"Jens Christian",Nielsen,1,24,1,1912,NULL,NULL
+"Svend Gunnar Ditlev",Johansen,1,23,1,1912,NULL,NULL
+"Jens Henrik Vilhelm",Nielsen,1,24,1,1912,NULL,NULL
+Dagmar,Nielsen,2,24,1,1912,NULL,NULL
+"Hans Peter",Johansen,1,5,1,1912,NULL,NULL
+Albrecht,Nielsen,1,12,1,1912,55.665428300000,12.548430100000
+Fritz,Mazanti,1,11,1,1912,55.680514200000,12.581427500000
+"Camilla Nielsine",Nielsen,2,3,1,1912,NULL,NULL
+"Anker Charles",Mehlsen,1,10,1,1912,NULL,NULL
+"Eleonora Kirstine Therese",Hee,2,6,1,1912,NULL,NULL
+"Helga Elvira",Johansen,2,9,1,1912,NULL,NULL
+Henrik,Johansen,1,13,1,1912,NULL,NULL
+"Anders Peter",Jørgensen,1,17,1,1912,NULL,NULL
+"Peter Frederik",Heide,1,12,1,1912,NULL,NULL
+Jørgen,Jørgensen,1,2,1,1912,NULL,NULL
+"Anna Christine",Jørgensen,2,1,1,1912,NULL,NULL
+"Ketty Mathilde Hansine Louise",Larsen,2,29,1,1912,NULL,NULL
+"Ella Rosalia",Larsen,2,6,1,1912,NULL,NULL
+"Ella Rosalia",Larsen,2,4,1,1912,NULL,NULL
+Kristian,Nielsen,1,6,1,1912,NULL,NULL
+"Jørgen Marius",Jørgensen,1,28,1,1912,NULL,NULL
+"Christian Edvard",Nielsen,1,12,1,1912,NULL,NULL
+"Christian Theodor",Nielsen,1,29,1,1912,NULL,NULL
+Sigrid,Helander,2,24,1,1912,55.670081000000,12.539858500000
+"Laura Dorthea",Larsen,2,17,1,1912,NULL,NULL
+"Jens Theodor",Johansen,1,12,1,1912,NULL,NULL
+"Lauritz Peter Vilhelm Rosenkrantz",Larsen,1,24,1,1912,NULL,NULL
+"Karen Kirstine",Jørgensen,2,18,1,1912,NULL,NULL
+"Niels Axel Julius",Knudsen,1,15,1,1912,NULL,NULL
+"Peter Andresen",Knudsen,1,20,1,1912,NULL,NULL
+Christian,Zieler-Nielsen,1,9,1,1912,NULL,NULL
+"Christiane Lovise",Nielsen,2,2,1,1912,NULL,NULL
+"Julius Volmer",Lemme,1,26,1,1912,NULL,NULL
+"Hans Frederik",Larsen,1,11,1,1912,NULL,NULL
+"Christine Louise",Nielsen,2,8,1,1912,NULL,NULL
+"Hans Oluf",Larsen,1,31,1,1912,NULL,NULL
+"Clara Augusta Pouline",Holbaum,2,15,1,1912,NULL,NULL
+"Ernst Theodor Gotthilf",Laabs,1,9,1,1912,NULL,NULL
+"Gerda Constantia",Legran,2,22,1,1912,NULL,NULL
+Lauritz,Jørgensen,1,5,1,1912,NULL,NULL
+"Maren Dagmar Elisabeth",Jørgensen,2,31,1,1912,NULL,NULL
+"Richardt Max",Neubert,1,12,1,1912,NULL,NULL
+"Hans Ejner Anthon",Lauritzen,1,22,1,1912,55.669011600000,12.554495800000
+"Andrea Christine",Larsen,2,3,1,1912,NULL,NULL
+Nis,Larsen,1,22,1,1912,NULL,NULL
+"Oluf Gerhard David",Larsen,1,11,1,1912,NULL,NULL
+"Peter Rasmus",Larsen,1,19,1,1912,NULL,NULL
+"Petra Olivia Dorthea",Olsen,2,10,1,1912,NULL,NULL
+Pauline,Olsen,2,30,1,1912,NULL,NULL
+"Valdemar Eduard",Oelsner,1,10,1,1912,NULL,NULL
+"Hans Theodor Carl Gunnar",Mortensen,1,9,1,1912,NULL,NULL
+Johanne,Mortensen,2,22,1,1912,NULL,NULL
+"Marius Christian Wenzel",Johansen,1,3,1,1912,NULL,NULL
+"Valdemar Christian",Larsen,1,20,1,1912,NULL,NULL
+"Victor Robert Anton",Larsen,1,13,1,1912,NULL,NULL
+"Viggo Ferdinand Julius",Larsen,1,15,1,1912,NULL,NULL
+"Ingeborg Johanne Amalia",Nielsen,2,22,1,1912,NULL,NULL
+"Bodil Kirstine",Frejesleben,2,3,1,1912,55.708508600000,12.577739500000
+"Hagbart Theodor",Paldorf,1,2,1,1912,NULL,NULL
+"Meta Cathrine",Nielsen,2,26,1,1912,55.671796700000,12.558442000000
+"Ida Alfrida",Andersen,2,23,1,1912,NULL,NULL
+"Ellen Helga Betty Elise",Erle,2,5,1,1912,NULL,NULL
+"Andreas Christian Peter",Obel,1,26,1,1912,NULL,NULL
+"Niels Peter",Lassen,1,12,1,1912,NULL,NULL
+"Dusine Adelaide",Petersen,2,1,1,1912,55.694827500000,12.571371700000
+"Carl Christian",Petersen,1,1,1,1912,NULL,NULL
+"Carl John Petersen",Lönberg,1,16,1,1912,NULL,NULL
+Oluf,Johansson,1,19,1,1912,55.671897000000,12.558096800000
+Johannes,Nielsen,1,16,1,1912,NULL,NULL
+"Johannes Christian",Nielsen,1,5,1,1912,NULL,NULL
+"Eleonora Anna Magdalene",Petersen,2,12,1,1912,NULL,NULL
+"Hans Christian",Munck,1,8,1,1912,NULL,NULL
+"Oline Kathrine",Andersen,2,11,1,1912,NULL,NULL
+"Oline Kathrine",Andersen,2,4,1,1912,NULL,NULL
+"Elna Marie Rasmussen",Lercke,2,4,1,1912,NULL,NULL
+"Catharina Johanne",Peters,2,29,1,1912,55.671397900000,12.575096800000
+"Albert Frederik",Petersen,1,29,1,1912,NULL,NULL
+"Niels Louis Marinus Michael",Jørgensen,1,15,1,1912,NULL,NULL
+"Valdemar Christian",Andersen,1,2,1,1912,NULL,NULL
+"Emilie Petra Victoria",Petersen,2,9,1,1912,NULL,NULL
+"Emma Elisabeth",Petersen,2,10,1,1912,NULL,NULL
+"Vilhelm Carl Frederik",Meyer,1,24,1,1912,NULL,NULL
+"Ernst Conradin",Petersen,1,26,1,1912,NULL,NULL
+"Martha Anna Louise",Andersen,2,22,1,1912,NULL,NULL
+"Alfred Christian Robert",Petersen,1,24,1,1912,NULL,NULL
+Marius,Nielsen,1,19,1,1912,NULL,NULL
+"Marius Andreas",Nielsen,1,27,1,1912,NULL,NULL
+"Karen Olga Martha",Klæbel,2,20,1,1912,NULL,NULL
+"Axel Hjalmar Gerhardt",Pehrsson,1,26,1,1912,NULL,NULL
+"Olga Lilly Camille Constance",Jørgensen,2,4,1,1912,NULL,NULL
+"Anna Elisabeth",Andersen,2,5,1,1912,NULL,NULL
+"Ludvig Schütten",Kold,1,24,1,1912,NULL,NULL
+"Julia Thyra",Kondrup,2,12,1,1912,55.665835500000,12.548715000000
+"Vilhelm Oscar Viggo",Kongsbøg,1,3,1,1912,NULL,NULL
+Axel,Kornbeck,1,7,1,1912,NULL,NULL
+"Peter Theodor",Jørgensen,1,17,1,1912,NULL,NULL
+"Peter Theodor",Jørgensen,1,10,1,1912,NULL,NULL
+"Rasmus Peter Lauritz",Jørgensen,1,11,1,1912,NULL,NULL
+"Rasmus Peter Richard",Jørgensen,1,25,1,1912,NULL,NULL
+"Methea Marie",Nielsen,2,31,1,1912,NULL,NULL
+Ole,Andersen,1,8,1,1912,NULL,NULL
+Ritra,Jørgensen,2,6,1,1912,NULL,NULL
+"Conrad Constantin",Lindemann,1,10,1,1912,NULL,NULL
+"Anna Jensine Caroline",Andersen,2,24,1,1912,NULL,NULL
+"Pappy Xaver",Leyrer,1,24,1,1912,NULL,NULL
+"Sophie Christiane",Jørgensen,2,10,1,1912,NULL,NULL
+"Vilhelm August",Jørgensen,1,10,1,1912,NULL,NULL
+"Anders Emanuel Kavling",Andersen,1,20,1,1912,NULL,NULL
+"Anders Emanuel Kavling",Andersen,1,16,1,1912,NULL,NULL
+"Amalie Christine",Pedersen,2,29,1,1912,NULL,NULL
+Anna,Petersen,2,17,1,1912,NULL,NULL
+"Elna Maria",Andersen,2,3,1,1912,55.677236200000,12.576766100000
+"Anna Berthine",Petersen,2,2,1,1912,NULL,NULL
+Kerstin,Andersdotter,2,1,1,1912,55.688306300000,12.561484800000
+Johanne,Melchiorsen,2,11,1,1912,NULL,NULL
+"Anna Christine",Petersen,2,6,1,1912,NULL,NULL
+"Benedikte Marie",Andersen,2,13,1,1912,NULL,NULL
+Maren,Nielsen,2,5,1,1912,NULL,NULL
+Maren,Nielsen,2,15,1,1912,NULL,NULL
+"Emma Alfrida",Andersson,2,10,1,1912,NULL,NULL
+Oluf,Nielsson,1,13,1,1912,NULL,NULL
+"Kirstine Marie",Andersen,2,6,1,1912,NULL,NULL
+Marie,Nielsen,2,12,1,1912,55.672646000000,12.557887400000
+"Laura Kirstine",Nielsen,2,18,1,1912,55.678076500000,12.575404400000
+Kalmann,Kovacs,1,11,1,1912,NULL,NULL
+"Ulrik Rostrup",Kragh,1,24,1,1912,NULL,NULL
+"Martha Rosalie",Nielsen,2,5,1,1912,NULL,NULL
+"Martha Sofie",Nielsen,2,2,1,1912,NULL,NULL
+"Caroline Sofie Karen Marie",Andersen,2,29,1,1912,NULL,NULL
+"Georg Johan",Andersen,1,22,1,1912,NULL,NULL
+Gerda,Andersen,2,4,1,1912,NULL,NULL
+Anders,Petersen,1,13,1,1912,NULL,NULL
+King,Lindberg,1,25,1,1912,NULL,NULL
+Axel,Andersen,1,6,1,1912,NULL,NULL
+"Christian Emil",Andersen,1,15,1,1912,NULL,NULL
+"Peter Holger",Nielsen,1,24,1,1912,NULL,NULL
+"Anna Caroline",Larsen,2,11,1,1912,NULL,NULL
+Olaf,Kavring,1,9,1,1912,NULL,NULL
+"Niels Christian",Nielsen,1,18,1,1912,NULL,NULL
+"Anders Peter",Larsen,1,12,1,1912,NULL,NULL
+"Niels Frederik",Nielsen,1,10,1,1912,55.671425100000,12.552755000000
+Alfrida,Christensen,2,4,1,1912,NULL,NULL
+"Sofie Dusine Magdalene",Møller,2,4,1,1912,NULL,NULL
+"Ferdinand Rudolph Henrik",Keil,1,8,1,1912,NULL,NULL
+"Holger Christian",Christensen,1,19,1,1912,55.683465900000,12.577322100000
+"Niels Hansen",Nielsen,1,20,1,1912,NULL,NULL
+Julius,Andersen,1,9,1,1912,NULL,NULL
+Marya,Bajor,2,6,1,1912,NULL,NULL
+"Niels Oluf  Nyrup",Nielsen,1,20,1,1912,NULL,NULL
+"Niels Oluf  Nyrup",Nielsen,1,5,1,1912,NULL,NULL
+"Einar Otto Frederik",Franck,1,24,1,1912,NULL,NULL
+"Erik Rasmus",Erichsen,1,19,1,1912,NULL,NULL
+"Niels Peter",Nielsen,1,6,1,1912,NULL,NULL
+"Niels Salholdt Mikkelsen",Kjær,1,24,1,1912,NULL,NULL
+"Hans Leo",Christiansen,1,22,1,1912,NULL,NULL
+Axel,Bencke,1,30,1,1912,NULL,NULL
+"Holger Emil Christian",Bencke,1,8,1,1912,NULL,NULL
+"Margrethe Sofie",Christiansen,2,3,1,1912,NULL,NULL
+"Ada Othine Kirsten",Andreasen,2,16,1,1912,NULL,NULL
+"Karen Marie",Christensen,2,8,1,1912,NULL,NULL
+"Karen Marie",Christensen,2,12,1,1912,NULL,NULL
+"Jens Peter",Madsen,1,30,1,1912,NULL,NULL
+"Holger Julius Vilhelm",Fjellerad,1,4,1,1912,NULL,NULL
+Christian,Boye,1,8,1,1912,NULL,NULL
+"Carl Jes",Boisen,1,2,1,1912,NULL,NULL
+"Thorvald Albert",Nielsen,1,20,1,1912,NULL,NULL
+"Thorvald Emil",Nielsen,1,31,1,1912,NULL,NULL
+"Gunna Agneta Johanne Hurup",Andresen,2,25,1,1912,NULL,NULL
+"Hans Johansen",Andreasen,1,13,1,1912,NULL,NULL
+Valdemar,Nielsen,1,10,1,1912,NULL,NULL
+"Mette Christine",Andreasen,2,1,1,1912,NULL,NULL
+"Marius Peter Søren",Edler,1,3,1,1912,55.666293600000,12.553618500000
+Marie,Fikar,2,1,1,1912,NULL,NULL
+"Agnes Louise Sofie",Mikkelsen,2,1,1,1912,NULL,NULL
+"Niels Peter",Christensen,1,19,1,1912,NULL,NULL
+Holmfridur,Einarsdottir,3,23,1,1912,NULL,NULL
+"Carl Peter",Bomann,1,18,1,1912,55.703100000000,12.578875400000
+"Hans Nielsen",Lund,1,30,1,1912,NULL,NULL
+"Anders Peter",Olsen,1,24,1,1912,NULL,NULL
+"Anna Petrea",Carlsen,2,1,1,1912,NULL,NULL
+"Dagmar Frederikke Johanne",Elbo,2,25,1,1912,55.696310200000,12.571751300000
+Marie,Kudsk,2,8,1,1912,NULL,NULL
+"Johan Christian",Elsøe,1,10,1,1912,55.696917400000,12.586695900000
+"Astrid Nielsine Caroline",Christensen,2,12,1,1912,NULL,NULL
+Carl,Kurtzhals,1,3,1,1912,NULL,NULL
+"Astrid Petrea",Christensen,2,10,1,1912,NULL,NULL
+"Mads Jørgen",Madsen,1,21,1,1912,NULL,NULL
+"Anna Agnes",McCarty,2,9,1,1912,55.693481900000,12.547627200000
+"Axel Villum Henriksen",Olsen,1,31,1,1912,NULL,NULL
+"Hulda Hansine",Kølberg,2,6,1,1912,NULL,NULL
+"Julie Alvilda",Hansen,2,2,1,1912,NULL,NULL
+"Maren Kirstine",Hansen,2,1,1,1912,NULL,NULL
+"Maren Kirstine Vilhelmine",Hansen,2,1,1,1912,NULL,NULL
+"Carl Axel",Lundgren,1,4,1,1912,NULL,NULL
+"Alberta Sofie",Hansen,2,4,1,1912,55.670081700000,12.551837300000
+"Niels Peter",Madsen,1,12,1,1912,55.703050100000,12.581220100000
+"Carl Emil Henrik",Olsen,1,8,1,1912,NULL,NULL
+"Olga Henriette Christine",Lagerholm,2,1,1,1912,NULL,NULL
+"Fritz Vilhelm",Lampe,1,6,1,1912,NULL,NULL
+"Heinrik Frederik",Laars,1,24,1,1912,NULL,NULL
+"Marie Augusta",Hansen,2,3,1,1912,55.684791900000,12.585178600000
+"Marie Christine",Hansen,2,8,1,1912,NULL,NULL
+Martin,Hansen,1,8,1,1912,55.694614800000,12.571043100000
+"Alma Henriette Marie",Friis,2,2,1,1912,55.704086200000,12.589040000000
+"Hulda Johanne",Hansen,2,12,1,1912,NULL,NULL
+"Carl August",Philipp,1,9,1,1912,NULL,NULL
+"Max Fritz Edvard",Hansen,1,9,1,1912,NULL,NULL
+"Karen Marie Ingemann",Hansen,2,3,1,1912,NULL,NULL
+"Nicoline Marie Cathrine",Plambeck,2,25,1,1912,NULL,NULL
+"Niels Poul  Einer",Mikkelsen,1,2,1,1912,NULL,NULL
+Theodor,Mikscha,1,29,1,1912,NULL,NULL
+"Olaf August Marius Johan",Hansen,1,29,1,1912,NULL,NULL
+Augusta,Laursen,2,1,1,1912,NULL,NULL
+"Mourits Herman",Nake,1,12,1,1912,NULL,NULL
+"Hans Jørgen",Hansen,1,2,1,1912,55.694419100000,12.577435600000
+"Hans Ludvig",Hansen,1,19,1,1912,NULL,NULL
+"Hans Ole",Hansen,1,15,1,1912,55.668762500000,12.547254600000
+"Harry Constantin Petersen",Pompery,1,27,1,1912,55.671796700000,12.558442000000
+"Carl Albert Emil",Popke,1,11,1,1912,55.671796700000,12.558442000000
+"Hanna Caroline",Hansen,2,8,1,1912,55.666114100000,12.548663400000
+"Harald Klokker",Hansen,1,26,1,1912,NULL,NULL
+"Harry Alfred",Hansen,1,4,1,1912,55.698194300000,12.582506800000
+"Ingeborg Emmaline",Laursen,2,20,1,1912,55.691387600000,12.558939400000
+Otto,Caspersen,1,8,1,1912,55.690842300000,12.576738900000
+"Ellen Marie Fernanda",Møgelvang,2,25,1,1912,NULL,NULL
+"Axel Carl Valdemar",Haase,1,6,1,1912,NULL,NULL
+"Holger Henning",Hansen,1,27,1,1912,NULL,NULL
+"Christian Jensen",Christensen,1,6,1,1912,NULL,NULL
+"Emma Marie Augusta",Hansen,2,27,1,1912,55.701404600000,12.577716400000
+"Ernst Oliver Robert",Hansen,1,9,1,1912,NULL,NULL
+"Jens Christian Henrik Chaudius Jagd",Bendtsen,1,13,1,1912,NULL,NULL
+Kathrine,Brinck,2,12,1,1912,NULL,NULL
+"Cathrine Elisabeth",Christensen,2,3,1,1912,NULL,NULL
+August,Gerber,1,3,1,1912,NULL,NULL
+Anna,Møller,2,1,1,1912,NULL,NULL
+Heinrich,Gerson,1,4,1,1912,NULL,NULL
+"Ane Else Sørensen",Møller,2,1,1,1912,NULL,NULL
+"Astrid Elisabeth",Budde,2,18,1,1912,NULL,NULL
+Hans,Brock,1,24,1,1912,NULL,NULL
+"Johannes Adam",Neupert,1,12,1,1912,NULL,NULL
+"Jens Pedersen",Bjergaarde,1,4,1,1912,55.725227300000,12.572569300000
+"Oscar Magnus Jean",Berggren,1,8,1,1912,NULL,NULL
+"Inga Aurora",Henriksen,2,24,1,1912,NULL,NULL
+"Inga Aurora",Henriksen,2,2,1,1912,NULL,NULL
+"Otto Herman Fred.",Granqvist,1,2,1,1912,NULL,NULL
+"Søren Christen",Hansen,1,5,1,1912,55.695748500000,12.571127200000
+"Mathilde Marie",Mathiassen,2,22,1,1912,NULL,NULL
+"Mathilde Elisabeth",Henriksen,2,8,1,1912,55.691459400000,12.574596200000
+"Hjalmar Josef Ibsen",Nyborg,1,13,1,1912,NULL,NULL
+"Dines Hother Severin",Nielsen,1,4,1,1912,55.699094400000,12.586943600000
+Gerhard,Nielsen,1,9,1,1912,NULL,NULL
+"Aage Henry",Israelsen,1,6,1,1912,55.713418200000,12.573344800000
+"Johannes Charles Frederik",Hejdelberg,1,19,1,1912,55.689414200000,12.572080200000
+Pouline,Iversen,2,9,1,1912,55.697541200000,12.584711900000
+Heinrich,Baier,1,4,1,1912,NULL,NULL
+"Hedvig Elisabeth",Hill,2,19,1,1912,55.698845700000,12.586673100000
+"Ester Ragnhild Dyveke",Hildebrandt,2,3,1,1912,55.708705400000,12.577735800000
+Ingeborg,Bjarnason,2,30,1,1912,NULL,NULL
+"Henriette Potentia",Hammarlund,2,29,1,1912,NULL,NULL
+Eduard,Jaschke,1,24,1,1912,NULL,NULL
+"Alfred Huggo",Heinel,1,8,1,1912,NULL,NULL
+"Sigrid Nielsine",Hansen,2,2,1,1912,55.702800500000,12.584730700000
+"Einar August Julius",Nielsen,1,19,1,1912,NULL,NULL
+Karen,Handrup,2,3,1,1912,55.696724800000,12.579938700000
+"Christian Georg Hansen","Ibskov (Kl. Nielsen)",1,5,1,1912,55.696369200000,12.574587600000
+Herman,Igelski,1,13,1,1912,NULL,NULL
+"Hansine Petrine",Jespersen,2,2,1,1912,NULL,NULL
+"Olga Kristiane Laura",Nielsen,2,16,1,1912,NULL,NULL
+"Ella Petra Dagmar",Nielsen,2,6,1,1912,NULL,NULL
+"Sara Johanne Mary",Nielsen,2,5,1,1912,NULL,NULL
+"Einer Christian",Jessen,1,27,1,1912,NULL,NULL
+"Harald Karl Adolf",Jondahl,1,29,1,1912,55.684264300000,12.587482700000
+"Olaf Robert Mac",Nielsen,1,2,1,1912,NULL,NULL
+"Hans Carl",Henriksen,1,21,1,1912,NULL,NULL
+"Jenny Marie Sofie",Nielsen,2,2,1,1912,NULL,NULL
+"Dagny Nanette",Jensen,2,5,1,1912,NULL,NULL
+"Aage Ludvig Christian",Høyer,1,15,1,1912,NULL,NULL
+"Petra Ella",Nielsen,2,3,1,1912,NULL,NULL
+"Maria Theodora",Nilsson,2,9,1,1912,NULL,NULL
+"Martha Marie",Nielsen,2,30,1,1912,NULL,NULL
+"Paula Amalie",Nielsen,2,16,1,1912,55.708033100000,12.570544100000
+"Kaj Ludvig",Nielsen,1,2,1,1912,NULL,NULL
+Gerda,Jensen,2,19,1,1912,NULL,NULL
+"Richardt Peter Kongebro",Nielsen,1,9,1,1912,NULL,NULL
+"Thora Rasmine Cathrine",Jacobsen,2,4,1,1912,55.703926500000,12.589306400000
+"Thorvald Theodor Kelberg-",Jacobsen,1,2,1,1912,55.684941500000,12.569777600000
+"Thyra Vilhelmine Caroline Larsen",Jacobsen,2,10,1,1912,55.694167400000,12.570368400000
+"Meta Elvira",Nielsen,2,29,1,1912,NULL,NULL
+Andreas,Jacobsen,1,5,1,1912,NULL,NULL
+"Robert Richardt Georg",Nielsen,1,6,1,1912,NULL,NULL
+"Julius Bærentz",Jensen,1,17,1,1912,55.690305100000,12.573520900000
+"Lucia Elisabeth",Jensen,2,2,1,1912,55.673517300000,12.575976700000
+"Karen Nielsine Marie",Nielsen,2,31,1,1912,NULL,NULL
+"Marie Anna Sofie",Jørgensen,2,2,1,1912,55.686708700000,12.589558300000
+"Laura Theodora",Nielsen,2,15,1,1912,NULL,NULL
+Martha,Jørgensen,2,18,1,1912,NULL,NULL
+"Theodora Georgine Frederikke",Nielsen,2,1,1,1912,NULL,NULL
+"Niels Christian Michael",Olsen,1,29,1,1912,NULL,NULL
+"Edith Margrethe",Jacobsen,2,15,1,1912,NULL,NULL
+"Oscar Marius",Jørgensen,1,19,1,1912,NULL,NULL
+"Petra Cathrine Johanne Jørgine",Jørgensen,2,24,1,1912,55.699101300000,12.585629700000
+"Petra Sylvia",Jørgensen,2,2,1,1912,NULL,NULL
+"Caroline Marie Johanne Laurine",Olesen,2,3,1,1912,NULL,NULL
+"Olga Sofie Amalie",Gundersen,2,19,1,1912,NULL,NULL
+Margrethe,Nielsen,2,4,1,1912,NULL,NULL
+"Niels Henrik",Nielsen,1,12,1,1912,NULL,NULL
+"Frants Louis",Heising,1,10,1,1912,55.704357300000,12.584918000000
+"Ane Margrethe Kirstine Simonsen",Jensen,2,5,1,1912,55.697952200000,12.585022700000
+Poul,Olsen,1,1,1,1912,NULL,NULL
+Olga,Jensen,2,13,1,1912,NULL,NULL
+"Olga Eline Amalie",Jensen,2,20,1,1912,NULL,NULL
+"Olga Nielsine",Jensen,2,17,1,1912,NULL,NULL
+Karin,Jønsson,2,14,1,1912,NULL,NULL
+"Johannes Jacob",Levy,1,3,1,1912,NULL,NULL
+"Svend Peter Ravn",Klottrup,1,10,1,1912,NULL,NULL
+"Jean Aage Christian",Jensen,3,3,1,1912,NULL,NULL
+"Anders Marius Christian",Hende,1,7,1,1912,55.695686600000,12.572691600000
+"Emma Vilhelmine",Jensen,2,19,1,1912,NULL,NULL
+Johannes,Larsen,1,6,1,1912,55.696369200000,12.574587600000
+Karen,Larsen,2,5,1,1912,55.704691600000,12.578422900000
+"Jenny Frederikke",Lund,2,3,1,1912,NULL,NULL
+Hanna,Jønsson,2,8,1,1912,55.686650700000,12.549576400000
+Boris,Lworwsky,1,15,1,1912,NULL,NULL
+"Christian Adolf Julius",Herholdt,1,27,1,1912,55.698366700000,12.575665400000
+"Anders Peter",Lynard,1,18,1,1912,NULL,NULL
+Einar,Hermannsson,1,26,1,1912,55.698156800000,12.583384900000
+Lars,Jensen,1,18,1,1912,55.698374800000,12.577675500000
+"Harald Hansen",Holm,1,10,1,1912,NULL,NULL
+"Laura Johanne",Larsen,2,4,1,1912,NULL,NULL
+"Laura Johanne",Larsen,2,6,1,1912,55.686068300000,12.583996000000
+"Lilly Aurelia Martha",Larsen,2,13,1,1912,55.686276400000,12.591690100000
+"Arthur Emil",Jensen,1,15,1,1912,55.681640900000,12.577619300000
+"Helga Elisabeth",Jensen,2,5,1,1912,55.705149400000,12.579770100000
+"Fritz Theodor",Larsen,1,20,1,1912,NULL,NULL
+"Anna Laurine",Larsen,2,10,1,1912,NULL,NULL
+"Peder Christian",Jensen,1,16,1,1912,55.670761000000,12.554775200000
+"Inger Marie",Klokholm,2,4,1,1912,55.697917400000,12.574830700000
+"Anna Nielsine",Larsen,2,9,1,1912,NULL,NULL
+"Arnold Lytken",Larsen,1,24,1,1912,55.691727600000,12.544176500000
+"Agnes Emilie",Olsen,2,24,1,1912,NULL,NULL
+Peter,Larsen,1,20,1,1912,55.685486600000,12.569603400000
+"Johannes Mejner",Jensen,1,10,1,1912,55.665350000000,12.610699300000
+"Camilla Nielsine",Larsen,2,2,1,1912,55.665854400000,12.545255500000
+"Ellen Sofie",Henriksen,2,4,1,1912,55.696409400000,12.573277400000
+"Carla Vilhelmine",Larsen,2,8,1,1912,NULL,NULL
+"Jens Peter",Lydahl,1,29,1,1912,NULL,NULL
+"Olaf Christian Frederik",Maale,1,11,1,1912,NULL,NULL
+"Agnes Valborg",Messmann,2,15,1,1912,55.698659500000,12.578769500000
+"Poula Valborg Marie",Neubert,2,3,1,1912,55.704028600000,12.578513700000
+"Elna Meta Paula",Olsen,2,1,1,1912,NULL,NULL
+"Axel Henning",Madsen,1,31,1,1912,NULL,NULL
+"Camilla Agnete",Christoffersen,2,12,1,1912,NULL,NULL
+"Carla Olga Sofie",Madsen,2,8,1,1912,NULL,NULL
+"Hans Johan Peter",Larsen,1,29,1,1912,55.668197800000,12.549538300000
+"Einar Vilhelm",Laursen,1,25,1,1912,NULL,NULL
+"Svend August",Petersen,1,12,1,1912,NULL,NULL
+"Aage Andreas",Rasmussen,1,19,1,1912,NULL,NULL
+"Knud Aage Kruse",Qvasinitsky,1,23,1,1912,55.694505200000,12.570205200000
+"Anna Marie",Qvist,2,3,1,1912,NULL,NULL
+"Gorm Gustav",Marcussen,1,15,1,1912,NULL,NULL
+"Olga Martine",Markussen,2,5,1,1912,NULL,NULL
+"Margrethe Jensine Frederikke",Petersen,2,29,1,1912,NULL,NULL
+"Nancy Christine Georgine",Rasmussen,2,31,1,1912,NULL,NULL
+"Sigrid Dagmar Martine",Jensen,2,1,1,1912,NULL,NULL
+"Axel Oscar Frederik",Muurbach,1,31,1,1912,NULL,NULL
+"Marie Christine",Petersen,2,9,1,1912,NULL,NULL
+"Marie Elisabeth",Petersen,2,5,1,1912,NULL,NULL
+"Ingeborg Louise",Olsen,2,5,1,1912,NULL,NULL
+"Nicoline Frederikke",Madsen,2,6,1,1912,NULL,NULL
+"Jacob Hansen",Løve,1,20,1,1912,55.685825300000,12.568058000000
+"Henriette Jørgine Dagmar",Møller,2,1,1,1912,NULL,NULL
+Andrea,Mørch,2,18,1,1912,55.697345800000,12.575511300000
+Anna,Jørgensen,2,19,1,1912,55.697592900000,12.581102800000
+"Hugo Georg",Svedberg,1,1,1,1912,NULL,NULL
+"Gudrun Elisabeth",Mathiasen,2,31,1,1912,NULL,NULL
+"Gudrun Elisabeth",Mathiasen,2,6,1,1912,NULL,NULL
+"Christian Axel",Rasmussen,1,27,1,1912,NULL,NULL
+"Anna Marie Sofie",Jørgensen,2,18,1,1912,55.698699200000,12.585819500000
+"Elna Tepka Catharina",Madsen,2,4,1,1912,NULL,NULL
+"Ida Emilie Kragh",Svingelberg,2,23,1,1912,NULL,NULL
+"Bertha Marie",Jørgensen,2,19,1,1912,NULL,NULL
+"Svend Oskar",Jeppesen,1,16,1,1912,NULL,NULL
+"Knud Lyhne Rahbeck Marius Jan",Simoni,1,16,1,1912,NULL,NULL
+"Charles Erik",Johnsen,1,23,1,1912,55.695657300000,12.571283600000
+"Niels Frederik",Rasmussen,1,6,1,1912,NULL,NULL
+"Anna Christine",Sirnitz,2,9,1,1912,NULL,NULL
+"Frederik Johan Henry",Petersen,1,18,1,1912,NULL,NULL
+"Christen Jørgen Christensen",Jørgensen,1,12,1,1912,NULL,NULL
+Valborg,Mortensen,2,5,1,1912,NULL,NULL
+"Frida Emilie",Rasmussen,2,5,1,1912,NULL,NULL
+"Ella Hansine",Petersen,2,13,1,1912,NULL,NULL
+"Dora Agnete Elisabeth",Pedersen,2,11,1,1912,NULL,NULL
+Fritz,Petersen,1,17,1,1912,55.697917000000,12.583671700000
+"Astrid Marie Christine",Mortensen,2,22,1,1912,NULL,NULL
+"Anna Vilhelmine Marie Michaline",Møller,2,4,1,1912,55.699675300000,12.579395300000
+"Carl Victor Emanuel",Møller,1,15,1,1912,55.671472600000,12.563600200000
+"Marie Cathrine",Sørensen,2,20,1,1912,NULL,NULL
+Cecilie,Mortensen,2,18,1,1912,NULL,NULL
+Emma,Jørgensen,2,6,1,1912,55.676649900000,12.588294000000
+"Gerda Elvira",Jørgensen,2,3,1,1912,55.703350800000,12.578927900000
+Peter,Petersen,1,26,1,1912,NULL,NULL
+"Ferdinand Lassalle",Sørensen,1,23,1,1912,55.698054700000,12.575084600000
+"Anna Gurli Hansine Bloch",Petersen,2,2,1,1912,NULL,NULL
+Olaf,Sæther,1,2,1,1912,55.697446200000,12.579452700000
+"Peter Daniel",Johansen,1,27,1,1912,55.698047400000,12.579640300000
+"Karen Margrethe",Olsen,2,15,1,1912,NULL,NULL
+"Ellen Sofie",Vejlandt,2,5,1,1912,NULL,NULL
+"Anna Marie",Petersen,2,8,1,1912,NULL,NULL
+"Frederik Marinus C.",Sørensen,1,23,1,1912,55.694372800000,12.587201800000
+"Regnar Georg Valdemar",Petersen,1,10,1,1912,NULL,NULL
+"Selma Therese Josefine",Søderlund,2,18,1,1912,NULL,NULL
+"Antoine Falck",Nielsen,1,23,1,1912,55.703609200000,12.579354000000
+"Adolf Frederik Christian",Petersen,1,17,1,1912,NULL,NULL
+"Fanny Elvira Christine",Petersen,2,26,1,1912,55.665573900000,12.548411900000
+"Henrik Valdemar",Petersen,1,10,1,1912,NULL,NULL
+"Lars Jørgen Petersen",Veismose,1,9,1,1912,55.690359800000,12.559989000000
+"Hilma Beate",Persson,2,18,1,1912,55.697446200000,12.579452700000
+Valdemar,Johansen,1,18,1,1912,55.698976000000,12.585632800000
+Frederik,Petersen,1,29,1,1912,55.668683200000,12.549817800000
+"Niels Jørgen Theodor",Petersen,1,24,1,1912,55.700547600000,12.588038800000
+"Antomine Mariane Kirsten",Petersen,2,1,1,1912,NULL,NULL
+"Augusta Amalie Ølgaard",Petersen,2,25,1,1912,NULL,NULL
+"Betty Anna Vilhelmine",Petersen,2,8,1,1912,NULL,NULL
+Agnes,Poulsen,2,6,1,1912,NULL,NULL
+"Valdemar Dufoir",Petersen,1,10,1,1912,55.700400400000,12.575111200000
+"Inger Christine",Petersen,2,13,1,1912,NULL,NULL
+"Ida Valborg",Sørensen,2,2,1,1912,NULL,NULL
+Georg,Petersen,1,24,1,1912,55.669786200000,12.551851700000
+"Gerda Jensine",Petersen,2,2,1,1912,NULL,NULL
+"Carl Christian",Petersen,1,12,1,1912,NULL,NULL
+"Carl Eduard Martin",Petersen,1,2,1,1912,NULL,NULL
+Thora,Olsen,2,17,1,1912,NULL,NULL
+Gustav,Persson,1,29,1,1912,55.667370300000,12.549917400000
+"Inger Sofie",Pedersen,2,11,1,1912,NULL,NULL
+"Carl Thorvald",Petersen,1,29,1,1912,NULL,NULL
+"Harald Ludvig Bjørnsen",Petersen,1,25,1,1912,55.684267100000,12.570478400000
+"Henrik Valentin",Petersen,1,2,1,1912,NULL,NULL
+Margrethe,Schwensen,2,20,1,1912,NULL,NULL
+"Peter Eiler Andreas",Schwensen,1,10,1,1912,NULL,NULL
+"Hans Edvard Johan",Petersen,1,12,1,1912,55.669265100000,12.553127300000
+"Anna Jensine",Nielsen,2,2,1,1912,NULL,NULL
+"Hans Jørgen",Petersen,1,8,1,1912,55.690032900000,12.558823100000
+"Hans Jørgen",Petersen,1,24,1,1912,55.691101300000,12.559026800000
+"Hans Martin",Petersen,1,26,1,1912,55.670937500000,12.542541000000
+Carl,Poulsen,1,3,1,1912,NULL,NULL
+"Hans Peter",Petersen,1,19,1,1912,55.666350600000,12.547341100000
+"Adolf Johan Frederik",Wengler,1,16,1,1912,55.700188200000,12.547223300000
+"Jensine Christiane",Petersen,2,3,1,1912,NULL,NULL
+"Ida Marie",Peterson,2,29,1,1912,55.671604600000,12.545245000000
+"Theodør Olafur",Sveinsson,1,22,1,1912,NULL,NULL
+"Jørgen Frederik",Krull,1,4,1,1912,NULL,NULL
+"Ludvig Henrik Peter",Jørgensen,1,31,1,1912,NULL,NULL
+"Laurits Cornelius Lassen",Wessel,1,4,1,1912,55.686302600000,12.567446400000
+Christian,West,1,11,1,1912,NULL,NULL
+"Emilie Christiane",Thorning,2,18,1,1912,NULL,NULL
+Axel,Krohn,1,3,1,1912,55.667667200000,12.578179700000
+"Georg Dorde",Krasojovic,1,17,1,1912,55.698511000000,12.575959700000
+"Svend Louis",Sørensen,1,18,1,1912,NULL,NULL
+"Søren Theodor",Sørensen,1,12,1,1912,NULL,NULL
+Thorvald,Rasmussen,1,18,1,1912,NULL,NULL
+"Frederik Andreas",Kruse,1,10,1,1912,NULL,NULL
+"Jens Julius",Petersen,1,10,1,1912,NULL,NULL
+"Jøns Magnus",Persson,1,29,1,1912,NULL,NULL
+"Christian Alfred",Nielsen,1,1,1,1912,NULL,NULL
+"Christian Georg Dybdal",Nielsen,1,25,1,1912,NULL,NULL
+"Jensine Christine",Petersen,2,24,1,1912,55.668068100000,12.548878900000
+"Otto Valdemar",Trebbien,1,4,1,1912,NULL,NULL
+"Johan Carl Henrik",Petersen,1,20,1,1912,NULL,NULL
+"Johanne Margrethe",Nielsen,2,20,1,1912,55.674137600000,12.558674200000
+"Anna Sofie Johanne",Nielsen,2,2,1,1912,NULL,NULL
+Johannes,Petersen,1,24,1,1912,55.670837700000,12.549673400000
+"Rasmus Andersen",Tange,1,19,1,1912,NULL,NULL
+"Christian Christensen",Trærup,1,18,1,1912,NULL,NULL
+"Agnes Marie",Poulsen,2,3,1,1912,55.673733400000,12.556527800000
+"Aage Carl",Rasmussen,1,3,1,1912,55.672134300000,12.550743000000
+Willy,Lamprecht,1,15,1,1912,NULL,NULL
+"Karen Marie Olufa",Petersen,2,13,1,1912,55.671484600000,12.552439500000
+"Gerda Helene",Tuxen,2,30,1,1912,NULL,NULL
+"Svend August",Petersen,1,2,1,1912,55.667606300000,12.549892400000
+"Anton Sofus",Richardt,1,9,1,1912,NULL,NULL
+"Anton Sofus",Richardt,1,5,1,1912,NULL,NULL
+"Lauritz Peter",Petersen,1,18,1,1912,55.669011600000,12.554495800000
+"Harald Georg",Mollerup,1,7,1,1912,55.685456500000,12.553773600000
+"Oda Andrea",Wilsen,2,12,1,1912,NULL,NULL
+Frants,Richter,1,4,1,1912,55.690485000000,12.555587600000
+Niels,Winther,1,12,1,1912,55.686747700000,12.589994400000
+"Thora Ingeborg",Pedersen,2,2,1,1912,55.666859100000,12.550274200000
+"Thorvald Julius Rasmus",Petersen,1,1,1,1912,55.669886900000,12.549611300000
+"Ludvig Lars",Rasmussen,1,11,1,1912,55.669370500000,12.554381100000
+"Niels Ejner Martin Adolf",Petersen,1,22,1,1912,55.670788300000,12.542975100000
+"Heinrich Georg",Uffelmann,1,8,1,1912,NULL,NULL
+Ole,Pedersen,1,14,1,1912,55.667045000000,12.548761500000
+Maren,Sørensen,2,19,1,1912,55.673237000000,12.562800700000
+"Hans Ludvig",Langhoff,1,16,1,1912,NULL,NULL
+"Walter Alfred Reinhold",Petschke,1,22,1,1912,NULL,NULL
+"Walter Alfred Reinhold",Petschke,1,30,1,1912,NULL,NULL
+"Sigurd Niels",Philipsen,1,11,1,1912,NULL,NULL
+"Valdemar Niels Peter",Petersen,1,20,1,1912,55.668683200000,12.549817800000
+"Nicolaj Wedel",Rasmussen,1,4,1,1912,55.670742800000,12.590986800000
+"Niels Einer Emil",Rasmussen,1,20,1,1912,55.669133300000,12.557334600000
+Nikoline,Scharff,2,18,1,1912,NULL,NULL
+"Astrid Marie Kristine",Schaufus,2,6,1,1912,NULL,NULL
+"Rasmus Johannes",Petersen,1,2,1,1912,55.670408800000,12.549698700000
+"Agnes Christine",Petersen,2,31,1,1912,NULL,NULL
+"Robert Jørgen Regner Marcussen",Petersen,1,17,1,1912,55.668622700000,12.555775200000
+"Peter Valdemar",Pedersen,1,27,1,1912,55.670856600000,12.552533400000
+"Peter Marius",Petersen,1,23,1,1912,55.668912400000,12.546810300000
+"Carl Gustav",Svendsen,1,17,1,1912,55.665546800000,12.547506900000
+Søren,Sønder,1,26,1,1912,NULL,NULL
+"Clara Johanne",Nielsen,2,2,1,1912,NULL,NULL
+"Jørgen Christian",Poulsen,1,19,1,1912,55.665647300000,12.543475500000
+Oline,Thorlasius,2,19,1,1912,NULL,NULL
+Sofus,Sletting,1,24,1,1912,NULL,NULL
+"Thorvald Julius Sofus",Lind,1,11,1,1912,NULL,NULL
+"Johan Jensen",Smed,1,11,1,1912,55.671474300000,12.544702100000
+"Lilly Kirstine Antonia",Møller,2,2,1,1912,55.699381600000,12.582167300000
+"Metha Caroline",Sørensen,2,4,1,1912,55.690510300000,12.559818600000
+"Martha Henriette Marie",Poulsen,2,24,1,1912,NULL,NULL
+"Astrid Johanne",Jacobsen,2,1,1,1912,NULL,NULL
+"Othar Emmanuel",Kaulberg,1,20,1,1912,55.694237500000,12.570014200000
+"Anna Johanne Sofie",Nielsen,2,13,1,1912,NULL,NULL
+"Carla Hilda Cecilia",Schumacker,2,1,1,1912,NULL,NULL
+"Peter Theodor",Sørensen,1,18,1,1912,NULL,NULL
+"Anna Dusine",Sørensen,2,20,1,1912,55.688217900000,12.560150700000
+"Asta Johanne",Reimer,2,3,1,1912,NULL,NULL
+Carlo,Sørensen,1,24,1,1912,NULL,NULL
+"Einer Vilhelm",Schrøder,1,11,1,1912,NULL,NULL
+"Hans Peter Madsen",Schock,1,20,1,1912,55.667964100000,12.547946900000
+"Augusta Christine",Steen,2,6,1,1912,NULL,NULL
+Emil,Skengel,1,25,1,1912,55.695748500000,12.571127200000
+"Else Marie",Steenberg,2,31,1,1912,NULL,NULL
+"Meta Marie Hansen",Rex,2,8,1,1912,55.675414700000,12.575123500000
+"Georg Emilius Thomas Andersen Vittrup",Rinfeldt,1,12,1,1912,NULL,NULL
+"Georg Emilius Thomas Andersen Vittrup",Rinfeldt,1,5,1,1912,55.676886800000,12.571804500000
+"Martin Valdemar",Svensson,1,26,1,1912,NULL,NULL
+"Peter Julius",Svendsen,1,7,1,1912,NULL,NULL
+"Knud Vilhelm",Thomsen,1,12,1,1912,NULL,NULL
+"Victor Andreas",Riis,1,19,1,1912,NULL,NULL
+"Hilda Lovise Ingeborg",Riisberg,2,27,1,1912,55.676954400000,12.575844200000
+"Hilda Lovise Ingeborg",Riisberg,2,5,1,1912,NULL,NULL
+"Hilda Lovise Ingeborg",Riisberg,2,26,1,1912,55.679095500000,12.568500600000
+"Thyra Johanne Marie",Ljunggreen,2,30,1,1912,NULL,NULL
+Johannes,Steffensen,1,27,1,1912,55.668805800000,12.549811600000
+"Nanna Andrea",Willumsen,2,24,1,1912,55.682710300000,12.584731000000
+"Friedrich Vilhelm Erich",Zeymer,1,13,1,1912,NULL,NULL
+"Friedrich Vilhelm Erich",Zeymer,1,26,1,1912,NULL,NULL
+"Marie Christiane",Westphal,2,27,1,1912,55.669359600000,12.549767200000
+Kirstine,Thomsen,2,29,1,1912,NULL,NULL
+"Otto Emil",Walbom,1,27,1,1912,55.670602700000,12.552877300000
+"Mads Peter Jensenius Johannes",Thomsen,1,8,1,1912,NULL,NULL
+"Johannes Christoffer",Tegner,1,8,1,1912,55.668573500000,12.556116500000
+Michael,Steffensen,1,8,1,1912,55.672116700000,12.545820600000
+"Hans Christian Lauritz",Wikkelsøe,1,25,1,1912,55.683242000000,12.586645100000
+"Christoffer Frede Olsen",Wennike,1,9,1,1912,NULL,NULL
+Jørgen,Nicolajsen,1,11,1,1912,NULL,NULL
+"Knud Johan Traugott",Østerby,1,20,1,1912,NULL,NULL
+"Carl Johan Suhr",Westi,1,22,1,1912,55.672649000000,12.546891800000
+"William Nielsen",Wibe,1,15,1,1912,55.683781000000,12.563438100000
+"Alfrida Dorthea",Samuelsen,2,17,1,1912,55.665977000000,12.548697200000
+"Christine Sofie",Rasmussen,2,2,1,1912,NULL,NULL
+"Emil Hermann",Rosendahl,1,18,1,1912,55.673481800000,12.551184600000
+"Mary Christine",Hansen,2,3,1,1912,55.706195300000,12.587993100000
+Ejner,Schmidt,1,17,1,1912,NULL,NULL
+"Hans Peter",Toft,1,19,1,1912,NULL,NULL
+"Georg Vilhelm",Tommerup,1,18,1,1912,NULL,NULL
+"Christian Hansen",Skafte,1,2,1,1912,55.671231400000,12.554483400000
+"Oskar Martin Fred.",Storch,1,10,1,1912,55.672344000000,12.561843700000
+"Axel Thorvald Valdemar",Petersen,1,22,1,1912,NULL,NULL
+"Hans Ferdinand",Hansen,1,4,1,1912,55.689984100000,12.564187300000
+"Otto Carl",Hansen,1,25,1,1912,NULL,NULL
+"Otto Hakon",Hansen,1,19,1,1912,NULL,NULL
+"Mads Andreas Laursen",Vedersøe,1,8,1,1912,55.703832900000,12.588281800000
+"Jacob Ejner Johannes",Jacobsen,1,23,1,1912,NULL,NULL
+Emil,Jensen,1,2,1,1912,NULL,NULL
+"Albert Carl Peter",Jessen,1,4,1,1912,NULL,NULL
+"Jens Christian",Tølløse,1,16,1,1912,NULL,NULL
+"Ludvig Frederik",Tölner,1,9,1,1912,NULL,NULL
+"Emilie Henriette",Nyholm,2,4,1,1912,55.698984200000,12.586571400000
+"Hans Peder Ove",Hansen,1,29,1,1912,55.699140200000,12.540540300000
+"Alma Jensen",Andersen,2,2,1,1912,NULL,NULL
+"Frederik Villy",Jensen,1,2,1,1912,NULL,NULL
+Levi,Roitmann,1,4,1,1912,NULL,NULL
+"Carl August","Bjørn Green",1,10,1,1912,55.686544600000,12.549864900000
+"Astrid Christine",Ulriksen,2,19,1,1912,NULL,NULL
+"Anna Dorthea Marie",Jensen,2,7,1,1912,NULL,NULL
+"Ingvar Olaf Vallentin",Ursin,1,20,1,1912,55.671385800000,12.545686500000
+"Vilhelm Johan Hernrik",Sambo,1,29,1,1912,NULL,NULL
+"Axel Viktor",Hansen,1,2,1,1912,NULL,NULL
+"Hans Georg",Thomsen,1,1,1,1912,NULL,NULL
+"August Axel",Andersen,1,15,1,1912,55.687910500000,12.553513700000
+"Niels Vilhelm Nordstrøm",Hansen,1,23,1,1912,55.695027500000,12.548031500000
+Johan,Pryznitza,1,11,1,1912,NULL,NULL
+Adelaide,Seger,2,2,1,1912,NULL,NULL
+"August Lauritz Cornelius",Mogensen,1,16,1,1912,NULL,NULL
+"Anna Marie Jensen Tang",Wagner,2,11,1,1912,55.673800200000,12.551517500000
+"Christine Louise Vilhelmine",Petersen,2,2,1,1912,NULL,NULL
+"Carl August",Berger,1,22,1,1912,55.685640100000,12.556507300000
+"Kirstine Marie",Sommerlund,2,4,1,1912,55.698743500000,12.581418000000
+"Mathilde Victoria",Boeck,2,16,1,1912,55.699856900000,12.545245400000
+Heinrich,Baldauf,1,8,1,1912,NULL,NULL
+"Hakon Benjamin Ahnfeldt",Rønne,1,12,1,1912,NULL,NULL
+"Hans Peter",Jensen,1,20,1,1912,NULL,NULL
+"Christian John",Rønning,1,18,1,1912,55.673114800000,12.558880900000
+"Poul Dreier",Hansen,1,3,1,1912,NULL,NULL
+"Carl Andreas",Hansen,1,16,1,1912,NULL,NULL
+"Carl Andreas",Hansen,1,12,1,1912,NULL,NULL
+"Friedrich August Eduard",Becker,1,24,1,1912,NULL,NULL
+Leo,Reeht,1,6,1,1912,NULL,NULL
+"Aage Ludvig",Boesgaard,1,23,1,1912,55.700155000000,12.549038900000
+Harald,Jensen,1,1,1,1912,NULL,NULL
+Harald,Jensen,1,3,1,1912,55.704735600000,12.526441400000
+"Marie Louise",Bohse,2,1,1,1912,NULL,NULL
+"Bernhard Viggo",Andersen,1,8,1,1912,NULL,NULL
+"Betty Olga",Andersen,2,5,1,1912,55.705329600000,12.577696700000
+"Charles Emil Norden",Andersen,1,20,1,1912,NULL,NULL
+"Erik Heribert",Borgström,1,11,1,1912,NULL,NULL
+"Niels Christian",Andersen,1,9,1,1912,55.698328300000,12.539225500000
+"Ellen Larsine Fanny Kirstine Dorthea",Bounaventien,2,25,1,1912,NULL,NULL
+Ejner,Born,1,8,1,1912,55.683931800000,12.556938600000
+Halvor,Brammer,1,17,1,1912,55.694866000000,12.549149300000
+"Peter Svendsen",Andersen,1,12,1,1912,NULL,NULL
+"Carl Rasmus",Hansen,1,25,1,1912,NULL,NULL
+"Christian Olof",Hansen,1,8,1,1912,NULL,NULL
+"Ernst Victor Hermann",Weber,1,20,1,1912,55.671606800000,12.549622700000
+"Ernst Victor Hermann",Weber,1,20,1,1912,55.671606800000,12.549622700000
+"Georg Poul Carl",Weber,1,20,1,1912,55.671606800000,12.549622700000
+"Carl Christian Valdemar Johannes",Andersen,1,6,1,1912,NULL,NULL
+"Dagmar Louise",Hansen,2,23,1,1912,NULL,NULL
+"Hilda Vilhelmine Christine",Jensen,2,9,1,1912,NULL,NULL
+"Hans Frederik Albrech",Andersen,1,29,1,1912,NULL,NULL
+"Ellen Nielsine Sofie",Hansen,2,5,1,1912,NULL,NULL
+"Anna Marie",Riis,2,3,1,1912,NULL,NULL
+"Harald Christian",Andersen,1,16,1,1912,55.701032000000,12.547145900000
+Johanne,Søbæk,2,19,1,1912,NULL,NULL
+"Arnold Aleksander",Rischel,1,27,1,1912,NULL,NULL
+"Julius Peter",Christensen,1,15,1,1912,NULL,NULL
+"Agnes Vilhelmine Margrethe",Christiansen,2,8,1,1912,NULL,NULL
+"Henry Albert",Andersen,1,9,1,1912,55.670363200000,12.562533800000
+"Søren Christian",Hansen,1,5,1,1912,NULL,NULL
+"Vilhelm Frederik",Hegelund,1,8,1,1912,NULL,NULL
+"Mathilde Elise Cathrine Pedersen",Schobius,2,15,1,1912,55.690218900000,12.562203800000
+"Thorvald Viggo Skovgaard",Hansen,1,15,1,1912,55.701978000000,12.532160500000
+"Ingeborg Nielsine",Andersen,2,17,1,1912,55.693900200000,12.545669400000
+"Carl Anthon Eduard",Ziirsen,1,25,1,1912,NULL,NULL
+"Knud Georg",Christensson,1,4,1,1912,55.693720000000,12.546785300000
+"Astrid Amalie",Carlsson,2,6,1,1912,55.701895800000,12.531674800000
+"Amanda Theodora Frederikke",Heinze,2,9,1,1912,NULL,NULL
+"Johanne Gustava",Andersen,2,5,1,1912,55.698436900000,12.551921600000
+"Hans Christian",Zinglersen,1,12,1,1912,55.670826800000,12.554402500000
+"Aage Viggo Theodor",Rohde,1,16,1,1912,NULL,NULL
+"Alice Marie",Hansen,2,12,1,1912,NULL,NULL
+"Søren Stilling",Bøg,1,23,1,1912,NULL,NULL
+"Robert Peter Jensen",Juul,1,16,1,1912,NULL,NULL
+Kaspar,Elm,1,22,1,1912,55.699575500000,12.535771700000
+"Max Walther",Lohwasser,1,11,1,1912,55.701336400000,12.535234100000
+"Robert Ernst",Ærmig,1,1,1,1912,55.670572100000,12.558255600000
+"Johan Christoffer Villiam",Meyer,1,24,1,1912,55.671076800000,12.554584700000
+"Julie Theresia",Nielsen,2,21,1,1912,NULL,NULL
+"Ane Marie",Larsen,2,4,1,1912,NULL,NULL
+"Marie Oline Henriette Ventine",Olsen,2,19,1,1912,55.691415000000,12.555758500000
+"Albert Edvard",Petersen,1,4,1,1912,NULL,NULL
+"Alfred Victor",Berthelsen,1,15,1,1912,55.693698200000,12.568475600000
+"Niels Julius",Nielsen,1,24,1,1912,NULL,NULL
+"Anders Marius",Nielsen,1,31,1,1912,NULL,NULL
+"Axel Peter Heinrich",Øler,1,20,1,1912,NULL,NULL
+"Anders Peter",Nielsen,1,9,1,1912,55.693417600000,12.545509900000
+"Niels Theodor",Nielsen,1,9,1,1912,NULL,NULL
+"Andreas Christoffer",Nielsen,1,20,1,1912,55.671446600000,12.554956400000
+"Alma Nancy",Pedersen,2,4,1,1912,NULL,NULL
+"Erna Louise Magdalene",Hauptmann,2,3,1,1912,NULL,NULL
+"Karen Jensine",Jensen,2,15,1,1912,55.668735200000,12.554053300000
+Emilie,Christensen,2,1,1,1912,NULL,NULL
+"Marius Eliot",Johansen,1,25,1,1912,NULL,NULL
+"Marius Eliot",Johansen,1,9,1,1912,NULL,NULL
+"Karen Marie",Jensen,2,2,1,1912,NULL,NULL
+Anna,Hansen,2,23,1,1912,NULL,NULL
+"Anna Emilie",Ølting,2,1,1,1912,NULL,NULL
+"Magda Andrea",Christensen,2,10,1,1912,NULL,NULL
+Knud,Nielsen,1,19,1,1912,NULL,NULL
+"Vilhelm Georg",Espe,1,9,1,1912,NULL,NULL
+"Hans Vilhelm",Kragh,1,19,1,1912,55.698229400000,12.544833000000
+Johannes,Ewald,1,27,1,1912,55.700155600000,12.540729600000
+"Carl Einar Fridericz August",Nielsen,1,31,1,1912,NULL,NULL
+"Dagmar sofie Elisabeth",Hansen,2,4,1,1912,NULL,NULL
+"Carla Elvina Augusta Elisabeth",Hansen,2,4,1,1912,55.704248900000,12.577716600000
+"Cathinka Frandsine Sofie",Hansen,2,1,1,1912,NULL,NULL
+Cathrine,Hansen,2,15,1,1912,NULL,NULL
+"Maren Marie",Nielsen,2,4,1,1912,NULL,NULL
+"Carl Henrik",Jensen,1,8,1,1912,55.686388100000,12.550300000000
+"Cathrine Marie",Hansen,2,13,1,1912,55.670763600000,12.564929300000
+"Vilhelm Christian ?",Weienberg,1,18,1,1912,NULL,NULL
+Anna,Persdotter,2,11,1,1912,55.689247800000,12.559947500000
+"Anna Beate Selina",Pedersen,2,2,1,1912,55.702447700000,12.582999900000
+"Olga Petrine Sofie",Christensen,2,22,1,1912,55.698373700000,12.579544000000
+"Niels Laurits",Christensen,1,11,1,1912,55.666427200000,12.554072400000
+"Axel Henning",Nordqvist,1,20,1,1912,55.692326300000,12.543773600000
+"Edvard Vilhelm Albert",Lundgren,1,1,1,1912,NULL,NULL
+Martin,Henriksen,1,5,1,1912,55.696030200000,12.545714600000
+"Jacob Hansen Schmidt",Christensen,1,10,1,1912,55.700264400000,12.546358200000
+"Mathilde Henriette Johanne",Mortensen,2,9,1,1912,NULL,NULL
+"Poul Robert",Otto,1,25,1,1912,NULL,NULL
+"Anna Marie",Olin,2,8,1,1912,55.684927100000,12.568822600000
+"Karen Christine Bolette",Jørgensen,2,5,1,1912,55.688986100000,12.542319800000
+"Christian Anders Viggo",Nielsen,1,18,1,1912,NULL,NULL
+"Marie Johanne",Larsen,2,4,1,1912,55.701132100000,12.547327000000
+Valdemar,Mogensen,1,19,1,1912,NULL,NULL
+"Ella Carla Christine",Nielsen,2,3,1,1912,NULL,NULL
+"Ella Carla Christine",Nielsen,2,18,1,1912,55.698125900000,12.555936200000
+Petra,Larsen,2,5,1,1912,NULL,NULL
+"Peter Magnus",Nielsen,1,25,1,1912,NULL,NULL
+"Olga Christine",Olsen,2,25,1,1912,55.691063700000,12.543849200000
+"Valdemar Julius Amandus",Julin,1,29,1,1912,NULL,NULL
+"Ejnert Vennemoes",Nielsen,1,24,1,1912,NULL,NULL
+"Svend Frederik",Fjeldslev,1,4,1,1912,NULL,NULL
+"Anton Carl Valdemar",Olsen,1,22,1,1912,NULL,NULL
+"Birtha Marie Pauline",Olsen,2,27,1,1912,NULL,NULL
+"Else Marie Thomine",Nielsen,2,22,1,1912,55.687393300000,12.488287900000
+"Oskar Valdemar",Magnussen,1,31,1,1912,NULL,NULL
+"Jens Peter",Frederiksen,1,8,1,1912,NULL,NULL
+"Jens Carl Schjellerup",Manley,1,3,1,1912,NULL,NULL
+"Einer Gerhardt",Rasmussen,1,2,1,1912,NULL,NULL
+Christiane,Pedersen,2,4,1,1912,55.694916800000,12.546363900000
+Valdemar,Christensen,1,10,1,1912,NULL,NULL
+"Christen Ole Axel",Olsen,1,3,1,1912,NULL,NULL
+"Hans Valdemar",Marcussen,1,20,1,1912,NULL,NULL
+"Olly Valborg",Jørgensen,3,2,1,1912,55.689171800000,12.562860900000
+"Anna Marie Vilhelmine",Andersen,2,17,1,1912,NULL,NULL
+"Heinrich Gustav Johan",Martens,1,4,1,1912,NULL,NULL
+"Oluf Emil",Jørgensen,1,19,1,1912,NULL,NULL
+"Ludvig Brylle",Frandsen,1,10,1,1912,NULL,NULL
+"August Berthold Otto Fritz",Kroll,1,11,1,1912,55.657057600000,12.518938700000
+Johann,Käss,1,23,1,1912,NULL,NULL
+Svend,Bjerge,1,8,1,1912,55.692680700000,12.555987900000
+"Peter Sofus",Olsen,1,3,1,1912,NULL,NULL
+"Lauritz Christensen",Baun,1,2,1,1912,NULL,NULL
+"Ida Emma",Overbeck,2,13,1,1912,55.657057600000,12.518938700000
+"Carl Harald Emanuel",Petersen,1,3,1,1912,NULL,NULL
+"Hans Anton",Hansen,1,31,1,1912,55.693047800000,12.565649400000
+"Christiane Hansine",Petersen,2,1,1,1912,55.658632800000,12.520021400000
+"Anna Jensine",Poulsen,2,1,1,1912,NULL,NULL
+Hans,Olsen,1,24,1,1912,NULL,NULL
+Calfrid,Johansson,1,23,1,1912,NULL,NULL
+Ida,Hansen,2,16,1,1912,NULL,NULL
+"Søren Otto",Olsen,1,9,1,1912,NULL,NULL
+"Kaj Angul Asger",Petersen,1,4,1,1912,NULL,NULL
+"Thyra Constance Natalie",Hansen,2,8,1,1912,55.672903300000,12.559247100000
+"Thyra Constance Natalie",Hansen,2,26,1,1912,NULL,NULL
+"Ole Andersen",Jensen,1,30,1,1912,NULL,NULL
+"Pauli Marchart André Johannes",Poulsen,1,15,1,1912,NULL,NULL
+"Hans Olsen",Løvaas,1,9,1,1912,55.699761800000,12.554546700000
+"Emil Frederik Deleurang",Olsen,1,10,1,1912,NULL,NULL
+"Agnes Vilhelmine",Nielsen,2,3,1,1912,55.677749000000,12.588011000000
+"Carla Marie",Ravn,2,31,1,1912,NULL,NULL
+"Carl Joachim Georg",Behlendorff,1,3,1,1912,NULL,NULL
+"Marie Elvine Bertha",Hoff,2,16,1,1912,NULL,NULL
+"Viggo Johan Frederik",Hofmann,1,2,1,1912,55.700011500000,12.541105900000
+Inger,Olsen,2,8,1,1912,55.693918000000,12.546131500000
+"Bodil Mine Victoria",Christensen,2,18,1,1912,55.686360100000,12.566263000000
+"Hermann Adolf Otto",Rolosf,1,23,1,1912,55.699995800000,12.548235400000
+"Rosalie Freia",Ross,2,12,1,1912,NULL,NULL
+"Hans Christian",Andersen,1,16,1,1912,55.655786600000,12.520349400000
+"Jacobine Kirstine Petra",Petersen,2,19,1,1912,55.691735400000,12.545656000000
+"Axel Alfred",Bengtsson,1,22,1,1912,55.695200800000,12.546745800000
+"Elisabeth Concordia Johanne",Seiler,2,15,1,1912,55.714914100000,12.576279700000
+"Jens Peter",Andersen,1,10,1,1912,NULL,NULL
+"Alfred Valdemar Sørensen",Østergaard,1,24,1,1912,55.696462300000,12.544972300000
+"Astrid Hansine",Østergaard,2,15,1,1912,NULL,NULL
+"Ellen Ingeborg",Svendsen,2,29,1,1912,55.691141200000,12.575359100000
+"Osvald Gustav Frederik Albert",Møller,1,2,1,1912,55.672825200000,12.558862500000
+"Sofie Mariane Emilie",Rasmussen,2,1,1,1912,NULL,NULL
+"Laura Juliane Sofie",Petersen,2,23,1,1912,55.693922000000,12.543058200000
+"Laura Marie",Petersen,2,1,1,1912,NULL,NULL
+"Lars Carl",Sørensen,1,24,1,1912,55.714190900000,12.572241100000
+Otto,Jensen,1,6,1,1912,55.696161900000,12.547365600000
+"Bengt Mauritz",Torell,1,10,1,1912,NULL,NULL
+"Alfred Bernhard",Nielsen,1,19,1,1912,55.698454500000,12.586391200000
+"Albert Elias",Hansen,1,31,1,1912,55.690327400000,12.554603200000
+"Sylvia Therese Estra Kunigunde Wiinfred",Cloos,2,6,1,1912,NULL,NULL
+"Alvilda Mathilde Rigmor",Johansen,2,6,1,1912,NULL,NULL
+"August Valdemar",Madsen,1,1,1,1912,55.665625000000,12.512531800000
+"Lorentz Johannes",Olsen,1,8,1,1912,55.677341400000,12.565572100000
+"Ellen Theodora",Nielsen,2,19,1,1912,NULL,NULL
+"Ida Louise",Ludvigsen,2,5,1,1912,NULL,NULL
+"Hans Jørgen",Christiansen,1,27,1,1912,55.665815300000,12.520003800000
+"Ludovika Tjelsine",From,2,22,1,1912,55.666030900000,12.518571200000
+Martinus,Larsen,1,25,1,1912,55.664469600000,12.516881700000
+"Oluf Peter",Larsen,1,3,1,1912,NULL,NULL
+Otilia,Christiansen,2,1,1,1912,NULL,NULL
+"Carl Christian",Bramshøj,1,1,1,1912,55.697505300000,12.540009900000
+"Kjeld Abild",Hahn,1,11,1,1912,NULL,NULL
+"Karl Eliasson",Ekberg,1,9,1,1912,55.669831600000,12.544805800000
+Alexander,Zeller,1,18,1,1912,55.673481800000,12.551184600000
+"Henrik Peter",Nielsen,1,10,1,1912,55.665762700000,12.518613500000
+Ole,Nielsen,1,31,1,1912,NULL,NULL
+"Marie Pouline Elisabeth Christine",Petersen,2,11,1,1912,NULL,NULL
+"Ane Kirstine",Rasmussen,2,6,1,1912,55.656716200000,12.518937500000
+"Else Kirstine Sofie",Svendsen,2,20,1,1912,55.653058600000,12.520658700000
+"Peter Marcus Petersen",Wandbeck,1,15,1,1912,55.700388700000,12.546565600000
+"Vilhelmine Augusta",Jensen,2,2,1,1912,NULL,NULL
+"Aage Elvar Ludvig Hugo",Sølving,1,6,1,1912,55.665286900000,12.517732000000
+"Asta Lentz",Petersen,2,8,1,1912,NULL,NULL
+Bernhard,Haurowitz,1,8,1,1912,NULL,NULL
+"Kirsten Johanne Marie",Hermansen,2,17,1,1912,NULL,NULL
+"Sigvald Peter",Seitzberg,1,29,1,1912,55.693984400000,12.544205100000
+"Niels Peter",Petersen,1,1,1,1912,NULL,NULL
+Johanne,Haagensen,2,16,1,1912,NULL,NULL
+"Ebba Marie Cathrine",Jensen,2,29,1,1912,NULL,NULL
+"Marie Cathrine",Rasmussen,2,24,1,1912,NULL,NULL
+"Niels Viggo Peter",Petersen,1,5,1,1912,NULL,NULL
+"Oluf Frederik",Petersen,1,8,1,1912,NULL,NULL
+"Oluf Niels Erland",Petersen,1,18,1,1912,NULL,NULL
+"Carl Einer",Maimann,1,15,1,1912,55.670468700000,12.562848300000
+"Martin Morten Peter",Rasmussen,1,15,1,1912,55.686544600000,12.549864900000
+"Eva Marie",Højer,2,30,1,1912,NULL,NULL
+"Robert Hjalmer Petersen",Hørup,1,19,1,1912,NULL,NULL
+"Robert Hjalmer Petersen",Hørup,1,29,1,1912,55.698570000000,12.545190000000
+"Anders Peter",Hansen,1,8,1,1912,55.672161800000,12.557375100000
+"Henrik Ambrosius Vilhelm",Thomsen,1,19,1,1912,NULL,NULL
+"Petra Louise Kirstine",Rasmussen,2,1,1,1912,NULL,NULL
+"Rudolf Henrik",Rasmussen,1,2,1,1912,NULL,NULL
+"Jens Christian",Pedersen,1,3,1,1912,55.665639600000,12.519257600000
+"Carla Theodora",Hansen,2,15,1,1912,NULL,NULL
+"Karen Elfrida",Jørgensen,2,5,1,1912,NULL,NULL
+"Axel Rudolf",Sjøgren,1,9,1,1912,NULL,NULL
+"Aage Harald",Schmith,1,8,1,1912,55.697732900000,12.543460700000
+"Johanne Amanda Christine",Christiansen,2,19,1,1912,55.664500300000,12.604103300000
+"Ane Helene Bolette Sørensen",Schmidt,2,6,1,1912,55.691484100000,12.544506500000
+"Laura Edvardine Hansine",Therkelsen,2,1,1,1912,55.669679300000,12.549738200000
+"Meta Marie",Knudsen,2,21,1,1912,NULL,NULL
+"Julius Ferdinand",Schjøller,1,20,1,1912,55.703657600000,12.586673600000
+"Ludvig Adolf",Wendrup,1,5,1,1912,55.665308100000,12.516393300000
+"Hans Henrik",Peters,1,30,1,1912,55.689616700000,12.563959600000
+"Mette Marie",Møller,2,6,1,1912,55.679176500000,12.589534300000
+"Carl Frederik",Johansson,1,4,1,1912,NULL,NULL
+"Gustav Adolf",Müller,1,4,1,1912,NULL,NULL
+"Charles Valdemar",Johanson,1,23,1,1912,NULL,NULL
+"Edvard Villiam",Høyer,1,13,1,1912,55.678812000000,12.570307500000
+"Hans Christian",Vigø,1,1,1,1912,55.694088800000,12.569793000000
+"Poul Theodor",Schvartz,1,1,1,1912,NULL,NULL
+Rigmor,Jensen,2,15,1,1912,NULL,NULL
+"Ellen Ingeborg",Mollerup,2,6,1,1912,NULL,NULL
+"Laura Betzy",Wilhjelm,2,6,1,1912,NULL,NULL
+"Svend Knud Sophus",Jensen,1,18,1,1912,NULL,NULL
+"Carl Julius",Hiervagen,1,26,1,1912,55.691727600000,12.544176500000
+"Carl Christian Emanuel",Mulvad,1,8,1,1912,NULL,NULL
+"Emanuel Poul",Mürer,1,29,1,1912,NULL,NULL
+"Peter Christian",Jensen,1,7,1,1912,NULL,NULL
+"Ole Peter",Christiansen,1,8,1,1912,NULL,NULL
+"Vilhelm Constantin Ekhardt",Lau,1,10,1,1912,NULL,NULL
+"Vilhelm Constantin Ekhardt",Lau,1,30,1,1912,NULL,NULL
+"Anna Elvire Jacobine",Nielsen,2,10,1,1912,NULL,NULL
+"Poula Andrea",Petersen,2,9,1,1912,55.692022900000,12.554434500000
+Johannes,Eiler,1,31,1,1912,NULL,NULL
+"Ane Caroline Marie",Nyboe,2,8,1,1912,NULL,NULL
+"William Peter Henry",Mørk,1,1,1,1912,55.686120500000,12.547198000000
+"Lauritz Andreas",Mjølner,1,20,1,1912,NULL,NULL
+"Julius Johannes",Samuelsen,1,23,1,1912,NULL,NULL
+"Ida Magdalene",Mikkelsen,2,4,1,1912,55.702521200000,12.589117700000
+"Niels Anton Nielsen",Laubjerg,1,16,1,1912,NULL,NULL
+"Frands Hakon Victor",Lauritsen,1,18,1,1912,55.700815800000,12.549647900000
+"Hans Martin",Larsen,1,9,1,1912,55.689607800000,12.560540400000
+"Anna Marie Cathrine",Rasmussen,2,15,1,1912,55.692728800000,12.543712100000
+"Louis Peter Ludvig",Stensbo,1,30,1,1912,NULL,NULL
+"Otto Richardt",Schallert,1,9,1,1912,55.699999500000,12.546809700000
+"Agnes Marie",Stork,2,23,1,1912,55.697148700000,12.558559700000
+"Frederik Carl Christian Sørensen",Prip,1,1,1,1912,NULL,NULL
+"Axel Edvard",Sundstrøm,1,18,1,1912,NULL,NULL
+"Ole Kristofer",Halvorsen,1,10,1,1912,55.687139300000,12.548252300000
+"Frederik Lauritz",Hartig,1,10,1,1912,NULL,NULL
+"Charles Christian",Lund,1,24,1,1912,NULL,NULL
+"Svend Valdemar Hans Johannes Hoffmann",Larsen,1,16,1,1912,NULL,NULL
+"Frans Emil Sigfred",Gyllenborg,1,9,1,1912,NULL,NULL
+"Elna Camilla Christiane Erdmann",Holm,2,31,1,1912,NULL,NULL
+"Christian Godtfred Grandt",Godtfredsen,1,6,1,1912,NULL,NULL
+"Vilhelm Christian",Poulsen,1,20,1,1912,NULL,NULL
+Jakob,Pedersen,1,2,1,1912,NULL,NULL
+"Edla Albina Christina",Stern,2,18,1,1912,55.689951300000,12.563506000000
+"Ingeborg Hansigne",Albrechtsen,2,2,1,1912,NULL,NULL
+"Einar Lorentz",Andersen,1,14,1,1912,55.689384400000,12.556322500000
+"Frederik Sigfred",Andersen,1,31,1,1912,55.701398900000,12.547815900000
+"Hans Vilhelm",Andersen,1,20,1,1912,55.667479900000,12.553366600000
+"Jens Gustav",Andersen,1,7,1,1912,NULL,NULL
+Niels,Andersen,1,5,1,1912,NULL,NULL
+"Svend Peter",Andersen,1,14,1,1912,NULL,NULL
+"Thomas Christian",Andersen,1,6,1,1912,NULL,NULL
+"Carl Martin",Andreasen,1,20,1,1912,55.684780300000,12.583473800000
+"Carl Martin",Andreasen,1,6,1,1912,NULL,NULL
+"Christian Sigfred",Andreasen,1,12,1,1912,55.670836400000,12.591784800000
+"August Valdemar",Andresen,1,27,1,1912,55.690446000000,12.558808800000
+"Nicolai Nielsen",Bagger,1,19,1,1912,55.667715400000,12.549291800000
+"Alfrid Nieman",Bakke,3,12,1,1912,55.701710100000,12.548900000000
+"Caroline Henriette Christine",Bendixen,2,26,1,1912,NULL,NULL
+"Johan Adolf Friederik",Benthe,1,13,1,1912,55.671746900000,12.549610200000
+"Adolf Thorvald Frederik August",Berger,1,18,1,1912,55.683729000000,12.574161500000
+"Hans Gotfred",Bjørnebo,1,4,1,1912,55.687329400000,12.582967400000
+"Johannes Valdemar",Bregnager,1,20,1,1912,55.690875700000,12.559524800000
+"Anton Nielsen",Buus,1,5,1,1912,55.670714200000,12.558673000000
+"Velin Gotthard",Carlsson,1,2,1,1912,55.691094100000,12.558321000000
+"Alfred Vilhelm",Christensen,1,15,1,1912,55.677160500000,12.589258800000
+"Alfred Vilhelm",Christensen,1,22,1,1912,55.704357300000,12.584918000000
+"Anna Christine Marie Fischer",Christensen,2,1,1,1912,NULL,NULL
+"Arnold Elisius",Christensen,1,31,1,1912,55.671329600000,12.561751000000
+Hans,Christensen,1,11,1,1912,NULL,NULL
+Johanne,Christensen,2,27,1,1912,55.678283600000,12.583636700000
+"Marie Kirstine",Christensen,2,29,1,1912,55.677646000000,12.575845300000
+Ottilie,"Christensen (g. Brager)",2,4,1,1912,55.672237500000,12.562297900000
+"Thyra Amalie Karen",Christensen,2,8,1,1912,NULL,NULL
+Christian,Christiansen,1,29,1,1912,55.668945700000,12.549800300000
+Peter,Christiansen,1,16,1,1912,55.681844400000,12.582326100000
+"Dagmar Bernhardine Georgine",Creutzburg,2,1,1,1912,NULL,NULL
+"Thora Kamilla",Eriksen,2,9,1,1912,55.671045600000,12.561294500000
+"Thora Amalie",Evert,2,11,1,1912,55.680733100000,12.589442600000
+"Axel Magnus",Fagerstrøm,1,28,1,1912,NULL,NULL
+"Christian Thomas",Fowler,1,14,1,1912,NULL,NULL
+Gambetta,Frandsen,2,26,1,1912,55.666574300000,12.550397700000
+"Jens Peter (kl. Rasch)",Frederiksen,1,3,1,1912,55.666289500000,12.550291800000
+"Martha Dorthea Nielsine Vilhelmine",Frederiksen,2,17,1,1912,55.697556700000,12.546517800000
+"Carl Christian Emil",Funck,1,9,1,1912,55.678872100000,12.573218200000
+"Johannes Ovidius",Gebaur,1,21,1,1912,NULL,NULL
+Olaf,Goldschmidt,1,8,1,1912,55.668530700000,12.549834600000
+Harald,Hallas,1,25,1,1912,55.685814900000,12.551085500000
+"Carl Emil",Hansen,1,2,1,1912,55.656636500000,12.518556700000
+Christian,Hansen,1,19,1,1912,55.689647000000,12.572837800000
+"Eigil Ekmann",Hansen,1,3,1,1912,55.681931900000,12.590935000000
+"Eli Christian Anders",Hansen,1,14,1,1912,NULL,NULL
+"Ella Marie Sofie",Hansen,2,1,1,1912,NULL,NULL
+"Frits Herman",Hansen,1,15,1,1912,55.673266900000,12.589392000000
+"Hans Carl Frederik",Hansen,1,10,1,1912,55.679073400000,12.569000700000
+"Hans Christian",Hansen,1,10,1,1912,55.670494700000,12.544166200000
+"Louis Carl Thorvald",Hansen,1,12,1,1912,NULL,NULL
+Niels,Hansen,1,4,1,1912,55.686322600000,12.551556200000
+"Niels Erik",Hemmingsen,1,24,1,1912,NULL,NULL
+"Hans Peter Hansen",Holm,1,23,1,1912,55.681106400000,12.589804600000
+"Osvald Gerner",Holst,1,19,1,1912,55.693039900000,12.545561000000
+"Johan Julius",Hornstrøm,1,19,1,1912,NULL,NULL
+"Poul Peter Nissen",Høyer,1,2,1,1912,NULL,NULL
+Gudny,Iversen,2,9,1,1912,NULL,NULL
+Christian,Jensen,1,29,1,1912,NULL,NULL
+Dorthea,Jensen,2,5,1,1912,55.714166400000,12.574482100000
+"Emil Otto",Jensen,1,27,1,1912,55.685584400000,12.568733100000
+"Erna Hansine Marie",Jensen,2,15,1,1912,55.669714800000,12.555536400000
+"Hans Jeppe",Jensen,1,10,1,1912,55.670507900000,12.591463100000
+Jacob,Jensen,1,31,1,1912,NULL,NULL
+Jens,Jensen,1,16,1,1912,NULL,NULL
+"Nanny Augusta",Jensen,2,18,1,1912,55.668068100000,12.548878900000
+"Olaf Frederik",Jensen,1,4,1,1912,55.670551500000,12.549989000000
+"Olaf Frederik",Jensen,1,20,1,1912,NULL,NULL
+"Rasmus Johannes",Jensen,1,27,1,1912,NULL,NULL
+"Kirsten (Kjersti)",Jeppesen,2,24,1,1912,NULL,NULL
+"Henrik Jørgen",Johansen,1,4,1,1912,NULL,NULL
+Poul,Johansen,1,6,1,1912,NULL,NULL
+"Niels Peter",Jørgensen,1,31,1,1912,NULL,NULL
+"Thyra Johanne",Jørgensen,2,31,1,1912,NULL,NULL
+"Valdemar Reinhold Niels",Jørgensen,1,24,1,1912,55.681963700000,12.581737500000
+"Valdemar Elicius Marius",Kaffka,1,9,1,1912,NULL,NULL
+"Alfred Plougmann",Kirk,1,18,1,1912,55.686484400000,12.566766100000
+Kaja,Klemp,2,2,1,1912,55.681513500000,12.580527000000
+"Lars Knud Peter",Knudsen,1,22,1,1912,NULL,NULL
+"Albertine Hermandine",Kornerup,2,2,1,1912,NULL,NULL
+"Marie Cathrine",Krogh,2,30,1,1912,NULL,NULL
+"Carl Johan",Kyhn,1,10,1,1912,NULL,NULL
+"Axel Thorvald Frederik",Larsen,1,20,1,1912,55.681639800000,12.577880800000
+"Carl Marius",Larsen,1,3,1,1912,NULL,NULL
+"Jakob Alfred",Larsen,1,9,1,1912,NULL,NULL
+Niels,Larsen,1,14,1,1912,NULL,NULL
+"Ove Emil",Larsen,1,23,1,1912,55.712930500000,12.569230300000
+"Viggo Axel",Larsen,1,1,1,1912,NULL,NULL
+"Agnes Elfrida Amalie",Lincke,2,19,1,1912,55.683368900000,12.566769800000
+"Hjalmar Poul Jørgen",Lund,1,24,1,1912,NULL,NULL
+"Gustaf Herman",Lundqvist,1,16,1,1912,55.693918000000,12.546131500000
+"Peter Kell",Lyngholm,1,7,1,1912,NULL,NULL
+"Alfreda Jensine",Madsen,2,3,1,1912,55.681127100000,12.584095500000
+"Jens Kristian",Madsen,1,2,1,1912,NULL,NULL
+"Jens Peter",Madsen,1,13,1,1912,55.686645000000,12.588461800000
+Jørgen,Madsen,1,14,1,1912,NULL,NULL
+"Marcus Poul","Markussen (kaldet Thornøe)",1,6,1,1912,NULL,NULL
+"Jens Otto",Mathiesen,1,5,1,1912,55.676517800000,12.575638800000
+"Sophus Marius Sigfred",Mortensen,1,23,1,1912,NULL,NULL
+"Anna Cathrine Jacobine",Munck,2,27,1,1912,NULL,NULL
+"Carl Arnold",Møller,1,25,1,1912,NULL,NULL
+"Carl Arnold",Møller,1,31,1,1912,55.671797500000,12.561999300000
+"Christine Sofie Amalie",Møller,2,22,1,1912,55.658831200000,12.608501300000
+"Elna Sørensen",Møller,2,9,1,1912,55.684495000000,12.567393000000
+"Peter Jensen",Møller,1,1,1,1912,NULL,NULL
+"Amalie Marie",Nielsen,2,13,1,1912,55.687910500000,12.553513700000
+"Ane Sofie",Nielsen,2,1,1,1912,NULL,NULL
+"Cathrine Kirstine",Nielsen,2,23,1,1912,55.692076500000,12.566757600000
+Jens,Nielsen,1,5,1,1912,55.665977000000,12.548697200000
+Johan,Nielsen,1,24,1,1912,55.682421800000,12.576838900000
+"Marinus Kjærsgaard",Nielsen,1,19,1,1912,NULL,NULL
+"Niels Jørgen",Nielsen,1,31,1,1912,NULL,NULL
+"Thora Mathilde",Nielsen,2,16,1,1912,NULL,NULL
+"Christian Siegfred Samuel (Brusen)",Nygreen,1,14,1,1912,NULL,NULL
+"Ane Marie",Olsen,2,13,1,1912,NULL,NULL
+Axel,Olsen,1,29,1,1912,55.670274900000,12.554752100000
+Otto,Olsson,1,26,1,1912,55.685683600000,12.556394900000
+"Dagmar Vilhelmine Robertine",Pedersen,2,24,1,1912,55.690466800000,12.560372300000
+Johanna,Persson,2,31,1,1912,NULL,NULL
+"Augusta Henriette Sofie",Petersen,2,28,1,1912,55.684878000000,12.558344700000
+Charles,Petersen,1,5,1,1912,55.685251800000,12.585874800000
+"Erna Olivia Kirstine Elisabeth",Petersen,2,13,1,1912,55.700278300000,12.581734700000
+Frederik,Petersen,1,18,1,1912,55.687270700000,12.583905500000
+"Gunild Jensine Anine",Petersen,2,1,1,1912,55.679787300000,12.574568200000
+"Hans Alfred",Petersen,1,11,1,1912,55.705777300000,12.584014000000
+Jens,Petersen,1,5,1,1912,55.685251800000,12.585874800000
+Jens,Petersen,1,9,1,1912,55.677732900000,12.576591100000
+Lars,Petersen,1,31,1,1912,NULL,NULL
+"Marie Sophie Pernille",Petersen,2,1,1,1912,55.702928000000,12.581254500000
+"Niels Christian",Petersen,1,9,1,1912,NULL,NULL
+"Villy Jørgen",Petersen,1,17,1,1912,55.670856600000,12.552533400000
+"Caspar à",Porta,1,20,1,1912,55.672161800000,12.557375100000
+"Charles Viggo",Poulsen,1,17,1,1912,NULL,NULL
+Jens,Poulsen,1,4,1,1912,55.669255800000,12.557203900000
+"Ella Mathilde Bang",Rasmussen,2,16,1,1912,NULL,NULL
+"Gotlieb Joachim Koch",Rasmussen,1,1,1,1912,NULL,NULL
+Hans,Rasmussen,1,15,1,1912,NULL,NULL
+"Henry Johannes Martin",Rasmussen,1,16,1,1912,55.669011600000,12.554495800000
+"Jørgen Frederik",Rasmussen,1,13,1,1912,NULL,NULL
+"Morten Christian Julius Thyge Skafte",Rasmussen,1,30,1,1912,55.688501700000,12.561708500000
+"Poul Vilhelm",Rasmussen,1,9,1,1912,55.668142700000,12.552964700000
+"Halvor Franz Eduard Villiam",Riis,1,12,1,1912,55.690327400000,12.558364500000
+"Rosa Christiane",Rohman,2,11,1,1912,55.698627100000,12.585969500000
+"Søren Christian",Roschou,1,6,1,1912,55.684477100000,12.570973400000
+"Søren Christian",Roschou,1,18,1,1912,55.681963700000,12.581737500000
+"Aage Christian Otto",Rosted,1,12,1,1912,NULL,NULL
+Poul,Ruff,1,10,1,1912,55.688222600000,12.554171700000
+"Eline Henriette",Schouw,2,5,1,1912,NULL,NULL
+"Emil Julius",Schultz,1,29,1,1912,55.694380200000,12.546252800000
+"Harald Peter Villiam",Schumacher,1,20,1,1912,NULL,NULL
+"Holger Sofus",Steenberg,1,31,1,1912,NULL,NULL
+Johanne,Søllberg,2,6,1,1912,NULL,NULL
+Anders,Sørensen,1,15,1,1912,55.671897000000,12.558096800000
+"Christiane Laura Sine Frederikke Petrine",Sørensen,2,11,1,1912,55.690712800000,12.572533000000
+"Dagmar Andrea",Sørensen,2,22,1,1912,NULL,NULL
+"Dagmar Andrea",Sørensen,2,5,1,1912,55.669786200000,12.551851700000
+"Henry Christian",Sørensen,1,8,1,1912,NULL,NULL
+"Lauritz Peter Mathias",Sørensen,1,3,1,1912,NULL,NULL
+"Karen Johanne Ottogine",Tetzlaff,2,15,1,1912,NULL,NULL
+"Vilhelm Emanuel Andreas Constantin",Theisen,1,14,1,1912,NULL,NULL
+"Peter August",Welcker,1,1,1,1912,NULL,NULL
+"Marie Magdalene Edvardsen",Hagelund,2,6,1,1912,55.690454200000,12.558329400000
+"Jens Peter",Gjerløv,1,6,1,1912,55.686650700000,12.549576400000
+"Maren Kirstine",Larsen,2,8,1,1912,NULL,NULL
+Emanuel,Bartroff,1,14,1,1912,NULL,NULL
+"Martha Caroline",Larsen,2,1,1,1912,55.702968500000,12.577697800000
+"Carl Christian",Andersen,1,20,1,1912,NULL,NULL
+"Theodora Vilhelmine Elisabeth",Pedersen,2,4,1,1912,NULL,NULL
+"Maren Henriette Kirstine",Knudsen,2,11,1,1912,NULL,NULL
+"Tage Holm",Langebæk,1,10,1,1912,NULL,NULL
+"Emilie Caroline",Langzeth,2,2,1,1912,NULL,NULL
+"Anna Carla Christine Louise",Lassen,2,13,1,1912,NULL,NULL
+"Christian Charles",Larsen,1,30,1,1912,55.674995100000,12.599045000000
+"Adolf Christian",Bentien,1,8,1,1912,NULL,NULL
+"Christen Martinus",Brix,1,25,1,1912,NULL,NULL
+"Johan Christian",Elsøe,1,10,1,1912,NULL,NULL
+Thomas,Harper,1,12,1,1912,55.706996200000,12.578762000000
+"Ingeborg Emilie",Hartz,2,8,1,1912,55.667937200000,12.554959400000
+"Elvira Dorthea",Larsen,2,4,1,1912,55.674475400000,12.576664100000
+"Christian Peter Valdemar Theodor",Grønsund,1,31,1,1912,NULL,NULL
+"Ellen Kirstine Vilhelmine",Hansen,2,3,1,1912,NULL,NULL
+"Annette Marie Christine",Hansen,2,30,1,1912,55.700625500000,12.575583600000
+"Poul Adolf Michael Gjedde",Hviid,1,30,1,1912,NULL,NULL
+"Carl Johan",Thomsen,1,8,1,1912,NULL,NULL
+"Axel Johannes Valdemar",Teisen,1,10,1,1912,55.699554700000,12.582166900000
+"Sofus William Nicolai",Tidemann,1,25,1,1912,55.703195800000,12.586751700000
+"Johan Henrik",Klamer,1,22,1,1912,NULL,NULL
+"Hansine Marie",Andersen,2,31,1,1912,55.703153100000,12.584203200000
+"Mads Thalund",Nielsen,1,30,1,1912,NULL,NULL
+Niels,Nielsen,1,8,1,1912,55.671425100000,12.552755000000
+Niels,Nielsen,1,19,1,1912,NULL,NULL
+"Peter Victor",Larsen,1,2,1,1912,NULL,NULL
+Christiane,Nielsen,2,3,1,1912,55.691746400000,12.578991800000
+"Henry Nicolai Valdemar",Olsen,1,12,1,1912,NULL,NULL
+"Anna Marie Hansine",Olsen,2,5,1,1912,NULL,NULL
+"Conrard Valdemar",Preuss,3,15,1,1912,NULL,NULL
+"Ejler Emil Valdemar",Bolvig,1,16,1,1912,NULL,NULL
+"Alma Fanny Bodil",Nielsen,2,2,1,1912,55.692035200000,12.545089600000
+"Carl Christian",Nielsen,1,19,1,1912,55.703832900000,12.588281800000
+Valdemar,Jønson,1,6,1,1912,55.697180400000,12.551755300000
+"Valborg Georgine",Petersen,2,27,1,1912,55.672903300000,12.559247100000
+Svend,Salling,1,10,1,1912,55.688766700000,12.572234600000
+"Carl Christian",Johansen,1,27,1,1912,NULL,NULL
+"Knud Valdemar Lauritz",Hansen,1,27,1,1912,55.670116600000,12.550020500000
+"Peter Christian",Jacobsen,1,5,1,1912,55.683662800000,12.574140500000
+"Niels Kristian Mikael",Hansen,1,3,1,1912,NULL,NULL
+Clara,Christensen,2,14,1,1912,NULL,NULL
+"Peter Hvidtfeldt Fogde",Hansen,1,20,1,1912,55.658837100000,12.608382700000
+"Rosa Georgine",Hansen,2,1,1,1912,NULL,NULL
+Jørgen,Jacobsen,1,13,1,1912,NULL,NULL
+"Kirsten Marie Christiane",Jakobsen,2,1,1,1912,NULL,NULL
+"Astrid Bernhardine Caroline",Hansen,2,11,1,1912,55.693104200000,12.543061500000
+"Gunnar Peter Jacob",Stochmarr,1,22,1,1912,55.673847800000,12.559307700000
+"Johannes Otto",Johansen,1,28,1,1912,NULL,NULL
+"Ludovika Sofie Amalie",Johansen,2,6,1,1912,NULL,NULL
+"Ludovika Sofie Amalie",Johansen,2,10,1,1912,NULL,NULL
+"Henry Frederik",Jenrich,1,8,1,1912,NULL,NULL
+"Hans Hjalmer",Kondrup,1,20,1,1912,NULL,NULL
+"Gotlieb Anton",Christensen,1,26,1,1912,55.691854300000,12.544009100000
+"Nils Persson",Sandell,1,5,1,1912,55.668151700000,12.553259500000
+"Karen Marie",Jensen,2,3,1,1912,55.697446200000,12.579452700000
+"Jørgen Andersen",Schou,1,17,1,1912,NULL,NULL
+Anders,Sjunnesson,1,18,1,1912,55.672746300000,12.552749300000
+"Agneta Jessy Justa",Simonsen,2,8,1,1912,NULL,NULL
+Hans,Jensen,1,17,1,1912,NULL,NULL
+Hans,Christensen,1,24,1,1912,55.685161600000,12.584293500000
+"Aage Herman",Andersen,1,9,1,1912,NULL,NULL
+Gudrun,Thorarensen,2,16,1,1912,NULL,NULL
+"Poul Adolf Michael Gjedde",Hviid,1,30,1,1912,NULL,NULL
+"Jacob K. Nicolai",Larsen,1,18,1,1912,55.677866500000,12.579095600000
+"Ingeborg Carla Kirstine",Nielsen,2,4,1,1912,NULL,NULL
+"Hjalmar Josef Marius",Hansen,1,21,1,1912,NULL,NULL
+"Hjalmar Josef Marius",Hansen,1,3,1,1912,NULL,NULL
+"Anna Johanne Camilla",Rasmussen,2,30,1,1912,NULL,NULL
+"Niels Lauritz",Jensen,1,4,1,1912,55.679484300000,12.569755500000
+Carl,Martin,1,31,1,1912,55.682707700000,12.586153300000
+"Marie Amalie",Heindorf,2,9,1,1912,NULL,NULL
+"Albert Sofus",Schjellerup,1,24,1,1912,NULL,NULL
+"Ellen Kirstine",Larsen,2,19,1,1912,55.670658000000,12.552111900000
+Aneli,Darocha,2,18,1,1912,NULL,NULL
+"Sorring Anker",Ingdam,1,12,1,1912,55.691358800000,12.544675600000
+"Elvig Niels Christian",Christensen,1,30,1,1912,55.683677100000,12.573027400000
+Vilhelm,Pedersen,1,18,1,1912,55.671076800000,12.554584700000
+"Holger Ivan Høyer",Klifoth,1,3,1,1912,55.682265900000,12.582668800000
+Jørgen,Rasmussen,1,10,1,1912,55.668057000000,12.552472500000
+Reinhard,Frederiksen,1,11,1,1912,55.683272300000,12.565468100000
+"Augusta Caroline Ernestine",Fabricius,2,9,1,1912,55.685428200000,12.566633900000
+"Hugo Albert Wilmer",Eriksen,1,3,1,1912,NULL,NULL
+"Dagmar Sofie Bentine",Henriksen,2,26,1,1912,55.684553400000,12.570725700000
+Jens,Andersen,1,19,1,1912,NULL,NULL
+"Dagmar Anna Johanne",Eichler,2,31,1,1912,55.670124800000,12.555956300000
+"Olaf Hansen",Lind,1,15,1,1912,NULL,NULL
+"Charles Christian Robert",Jensen,1,23,1,1912,NULL,NULL
+"Thorvald Arthur",Jørgensen,1,9,1,1912,NULL,NULL
+"Sofie Oline",Jørgensen,2,29,1,1912,NULL,NULL
+"Carl Christian",Jørgensen,1,2,1,1912,NULL,NULL
+"Martha Hansine Dorthea",Jørgensen,2,19,1,1912,NULL,NULL
+"Anna Amalie",Pedersen,2,4,1,1912,NULL,NULL
+"Anna Hansine",Petersen,2,6,1,1912,NULL,NULL
+"Anna Amalie",Petersen,2,4,1,1912,NULL,NULL
+Christen,Jørgensen,1,1,1,1912,NULL,NULL
+"Dorthea Christine Andrea",Jørgensen,2,1,1,1912,NULL,NULL
+"Olga Marie",Nielsen,2,3,1,1912,NULL,NULL
+"Frederik Villiam Laurits",Jørgensen,1,4,1,1912,NULL,NULL
+"Hans Vilhelm",Jørgensen,1,8,1,1912,NULL,NULL
+"Dorthea Eline",Petersen,2,9,1,1912,NULL,NULL
+Johan,Jørgensen,1,4,1,1912,NULL,NULL
+"Robert Georg",Elling,1,7,1,1912,NULL,NULL
+"Emil Robert",Olsen,1,3,1,1912,NULL,NULL
+"Erhard Alexander",Olsen,1,3,1,1912,NULL,NULL
+Hans,Olsen,1,27,1,1912,NULL,NULL
+"Emmy Karen Andrea",Kastrup,2,31,1,1912,NULL,NULL
+"Anna Emilie Augusta",Kelm,2,29,1,1912,NULL,NULL
+Oskar,Kempfel,1,23,1,1912,NULL,NULL
+"Niels Hjalmar Rødel",Kildeberg,1,9,1,1912,NULL,NULL
+"Friedrich Heinrich August",Klipp,1,12,1,1912,NULL,NULL
+"Fritz Adolf",Kluge,1,9,1,1912,NULL,NULL
+"Johan Peter",Knap,1,19,1,1912,NULL,NULL
+"Carlo Mogens",Block,1,25,1,1912,NULL,NULL
+"Carlo Mogens",Block,1,19,1,1912,NULL,NULL
+"Gustav Adof Martin",Husmann,1,2,1,1912,NULL,NULL
+"Martin Oluf",Hansen,1,8,1,1912,NULL,NULL
+"Hans Peter",Jørgensen,1,10,1,1912,NULL,NULL
+Niels,Christensen,1,22,1,1912,NULL,NULL
+Pauli,Christensen,1,10,1,1912,NULL,NULL
+"Peder Eriksen",Christensen,1,19,1,1912,NULL,NULL
+"Rasmus Frederik",Christensen,1,8,1,1912,NULL,NULL
+Søren,Christensen,1,21,1,1912,NULL,NULL
+"Ingeborg Alexandra Theodora",Koch,2,3,1,1912,NULL,NULL
+"Alfred Michael",Johansen,1,2,1,1912,NULL,NULL
+Søren,Olsen,1,31,1,1912,NULL,NULL
+"Christian Lauritz",Nielsen,1,10,1,1912,NULL,NULL
+"Johan Henrik",Marcussen,1,6,1,1912,NULL,NULL
+"Dagmar Olivia Marie",Petersen,2,12,1,1912,NULL,NULL
+"Oline Hansine Christine",Thomsen,2,6,1,1912,NULL,NULL
+"Marie Kirstine",Petersen,2,12,1,1912,NULL,NULL
+"Rasmus Theodor Gøsta",Rasmussen,1,20,1,1912,NULL,NULL
+"Theodor Christensen",Hauge,1,9,1,1912,NULL,NULL
+"Carl Johan August",Lüthmann,1,11,1,1912,NULL,NULL
+"Carl Johan August",Lüthmann,1,27,1,1912,NULL,NULL
+"Carl Sofus",Madsen,1,31,1,1912,NULL,NULL
+"Alfred Jacob",Jensen,1,25,1,1912,NULL,NULL
+Madsine,Nielsen,2,1,1,1912,NULL,NULL
+"Johan Jørgen",Christensen,1,18,1,1912,NULL,NULL
+"Jens Christian Laurits",Jensen,1,1,1,1912,NULL,NULL
+"Oda Dagmar",Rasmussen,2,25,1,1912,NULL,NULL
+"Maren Johanne",Kruse,2,3,1,1912,NULL,NULL
+"Paul Hansen",Olsen,1,6,1,1912,NULL,NULL
+"Jens Carl",Hansen,1,11,1,1912,NULL,NULL
+"Ida Sofie",Hansen,2,4,1,1912,NULL,NULL
+"Johannes Christian",Hansen,1,23,1,1912,NULL,NULL
+"Jørgen Christian",Hansen,1,27,1,1912,NULL,NULL
+"Niels Georg Holger",Nielsen,1,4,1,1912,NULL,NULL
+"Holger Vilhelm",Bagger,1,20,1,1912,NULL,NULL
+Oluf,Olsen,1,6,1,1912,NULL,NULL
+Oluf,Olsen,1,30,1,1912,NULL,NULL
+"Hans Peter",Larsen,1,15,1,1912,NULL,NULL
+"Helga Dorthea",Jensen,2,3,1,1912,NULL,NULL
+Henry,Hansen,1,3,1,1912,NULL,NULL
+"Vilhelm Frederik",Müller,1,13,1,1912,NULL,NULL
+"Andreas Louis Christoffer",Andersen,1,5,1,1912,NULL,NULL
+Ane,Nielsen,2,2,1,1912,NULL,NULL
+Peter,Andersen,1,26,1,1912,NULL,NULL
+"Agnete Jensen",Laursen,2,20,1,1912,NULL,NULL
+"Niels Peter",Nielsen,1,17,1,1912,NULL,NULL
+"Henry Georg",Svendsen,1,20,1,1912,NULL,NULL
+"Viggo Johan",Sørensen,1,5,1,1912,NULL,NULL
+"Viggo Johan",Sørensen,1,23,1,1912,NULL,NULL
+"Hans Jacob",Tanggaard,1,6,1,1912,NULL,NULL
+"Martin Gottfrid",Thørning,1,16,1,1912,NULL,NULL
+"Peter Christian Petersen",Loft,1,2,1,1912,NULL,NULL
+"Arnold Hans Christian",Jensen,1,11,1,1912,NULL,NULL
+"Jenny Christine",Nielsen,3,10,1,1912,NULL,NULL
+Axel,Petersen,3,8,1,1912,NULL,NULL
+Axel,Petersen,3,24,1,1912,NULL,NULL
+"Marie Elisabeth",Petersen,3,13,1,1912,NULL,NULL
+"Christian Gerhardt Emanuel",Svendsen,3,3,1,1912,NULL,NULL

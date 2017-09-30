@@ -1,0 +1,7 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Hans Peter",Ludvigsen,1,20,0,1898,NULL,NULL
+"Georg Anthonius",Hansen,1,0,0,1898,NULL,NULL
+"Ane Dorthea",Jørgensen,2,0,0,1898,NULL,NULL
+"Carl Adolf",Molin,1,0,0,1898,NULL,NULL
+"Niels Peter Sørensen",Winther,1,0,0,1898,55.688406300000,12.557437800000
+"Lars Nielsen",Meyer,1,0,0,1898,NULL,NULL

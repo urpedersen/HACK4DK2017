@@ -1,0 +1,35 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Johanne Petrine",Lorentzen,2,5,5,1928,NULL,NULL
+"Ane Kirstine",Nielsen,2,1,5,1928,NULL,NULL
+"Bruno Alf Villy",Petersen,1,1,5,1928,NULL,NULL
+"Peter Emerantius",Vogelius,1,1,5,1928,NULL,NULL
+"Lars Peter",Larsen,1,1,5,1928,NULL,NULL
+"Hans Peder",Pedersen,1,15,5,1928,55.687095900000,12.557207400000
+"Bodil Christine Olava",Nielsen,2,1,5,1928,55.668876900000,12.551294200000
+"Hans Peter",Paulsen,1,19,5,1928,NULL,NULL
+"Rasmus Hansen",Aastrup,1,29,5,1928,NULL,NULL
+"Carla Viola",Andersen,2,1,5,1928,55.681309300000,12.581045700000
+"Hedvig Ragnhild",Blom,2,1,5,1928,55.683286100000,12.581437700000
+"Chaim Josel",Chnielnik,1,1,5,1928,NULL,NULL
+"Jutta Marie Cathrine",Clemmensen,2,1,5,1928,NULL,NULL
+"Benny Leonhardt",Gerber,1,1,5,1928,55.679060900000,12.591112900000
+Gustav,Christensen,1,1,5,1928,NULL,NULL
+"Hans Peter Johansen",Holtvig,1,1,5,1928,55.667479900000,12.553366600000
+"Bolette Pouline",Knudsen,2,4,5,1928,NULL,NULL
+"Anna Cathrine",Jensen,2,1,5,1928,55.689283100000,12.582546000000
+"Laurits Christian",Jensen,1,5,5,1928,NULL,NULL
+"Emma Margrethe Sofie",Madsen,2,15,5,1928,55.700542100000,12.579573600000
+Ellen,Petersen,2,5,5,1928,NULL,NULL
+Dagmar,Cartz,2,1,5,1928,NULL,NULL
+"Karen Marie Christine",Olsen,2,23,5,1928,NULL,NULL
+Harald,Ewaldsen,1,3,5,1928,NULL,NULL
+"Ellen Marie Victoria",Lunau,2,1,5,1928,NULL,NULL
+"Else Anna Victoria",Bech,2,10,5,1928,NULL,NULL
+"Carlo Peter Thorvald",Christensen,1,3,5,1928,NULL,NULL
+"Johannes Friedrich Arnold",Jürgensen,1,1,5,1928,55.707859900000,12.583352600000
+"Niels Christian",Hansen,1,9,5,1928,NULL,NULL
+Knud,Jørgensen,1,26,5,1928,NULL,NULL
+"Ole Bendix",Petersen,1,1,5,1928,55.660482300000,12.519217400000
+"Heinrich Frederich",Røigaard,1,1,5,1928,NULL,NULL
+"Marie Caroline",Davidsen,2,1,5,1928,55.652458000000,12.620200500000
+Christen,Christensen,1,1,5,1928,NULL,NULL

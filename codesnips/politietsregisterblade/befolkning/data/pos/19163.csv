@@ -1,0 +1,3600 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Louis Aage",Street,1,21,3,1916,NULL,NULL
+"Jens Emil",Svendsen,1,4,3,1916,55.667144400000,12.616940100000
+"Christian Frederik",Thomsen,1,8,3,1916,NULL,NULL
+"Carl Larsen",Thomsen,1,6,3,1916,55.673856200000,12.591357800000
+"Carl Peter Jacob",Sørensen,1,13,3,1916,55.692152300000,12.568563700000
+Einer,Sørensen,1,8,3,1916,NULL,NULL
+"John Oscar",Vesterdahl,1,9,3,1916,NULL,NULL
+Aage,Johansen,1,30,3,1916,NULL,NULL
+"Blenda Hansine",Johansen,2,2,3,1916,NULL,NULL
+"Anna Marie",Johansson,2,15,3,1916,NULL,NULL
+"Hans Peter",Jensen,1,24,3,1916,NULL,NULL
+"Elna Mathilde Caroline",Jensen,2,27,3,1916,NULL,NULL
+"Amanda Sofie",Lawartz,2,10,3,1916,55.664884500000,12.597572200000
+"Oktavius Heinrich",Krause,1,2,3,1916,NULL,NULL
+Leon,Lubitz,1,20,3,1916,NULL,NULL
+"Johanne Marie",Larsen,2,1,3,1916,NULL,NULL
+"Niels Laurits",Larsen,1,24,3,1916,NULL,NULL
+"Jørgine Rasmine",Nielsen,2,4,3,1916,NULL,NULL
+"Eilert Emil",Petersen,1,29,3,1916,NULL,NULL
+Jens,Pedersen,1,8,3,1916,NULL,NULL
+"Kaj Henry",Petersen,1,22,3,1916,NULL,NULL
+"Thorvald Otto",Petersen,1,24,3,1916,NULL,NULL
+"Laurits Julius",Rasmussen,1,6,3,1916,55.674895600000,12.597484900000
+"Emilie Marie",Nørring,2,9,3,1916,NULL,NULL
+Solomon,Kowarski,1,12,3,1916,NULL,NULL
+"Lauritz Theodor",Thøgersen,1,15,3,1916,NULL,NULL
+"Mandix Emil",Nielsen,1,9,3,1916,NULL,NULL
+"Carl Felix",Petersen,1,13,3,1916,NULL,NULL
+Einar,Petersen,1,27,3,1916,NULL,NULL
+"Martin Albert Christian",Kofod,1,25,3,1916,NULL,NULL
+"Marius Valdemar",Hansen,1,8,3,1916,NULL,NULL
+"Viggo Georg Friis",Hansen,1,24,3,1916,NULL,NULL
+"Andrea Petra Hansine",Holm,2,2,3,1916,NULL,NULL
+"Augusta Josefine",Jaque,2,7,3,1916,NULL,NULL
+"Hans Villiam",Hansen,1,22,3,1916,55.666039400000,12.613209200000
+"Einer Arthur Victor",Andersen,1,11,3,1916,55.663834500000,12.582561700000
+"Ella Andrea",Espersen,2,18,3,1916,55.708657500000,12.580752000000
+"Sofus Marius",Andersen,1,11,3,1916,55.665882400000,12.611919000000
+"Carl Herman Andersen",Cato,1,23,3,1916,55.663553200000,12.614179300000
+"Emilie Marie",Christiansen,2,10,3,1916,NULL,NULL
+Hans,Ruvang,1,6,3,1916,NULL,NULL
+"Alfred Petersen",Lykke,1,1,3,1916,NULL,NULL
+"Georg Ludvig",Hansen,1,19,3,1916,55.664872000000,12.514497600000
+"Alvine Sofie",Andersen,2,27,3,1916,55.690787800000,12.557656900000
+Oskar,Bruunsgaard,1,13,3,1916,NULL,NULL
+"Anders Oluf Jacob",Andersen,1,1,3,1916,NULL,NULL
+Ivar,Egebjerg,1,10,3,1916,55.666388200000,12.596655600000
+"Thomas Hannibal",Christensen,1,9,3,1916,55.662476500000,12.603759600000
+"Carl August Hjalmar",Andersen,1,14,3,1916,NULL,NULL
+"Axel Laurits Kirk Maasen",Eising,1,31,3,1916,55.671294100000,12.558530900000
+"Helga Amanda Louise",Johansen,2,6,3,1916,NULL,NULL
+"Jens Clausen",Jensen,1,21,3,1916,NULL,NULL
+"Albert Alexander",Andersen,1,30,3,1916,55.673082900000,12.556938600000
+"Anders Korsgaard",Nielsen,1,8,3,1916,NULL,NULL
+"Gustav Franz",Brauer,1,29,3,1916,NULL,NULL
+"Carl Martinus",Andersen,1,8,3,1916,55.681728600000,12.561303100000
+"Laurenze Karen Sophie",Pedersen,2,1,3,1916,NULL,NULL
+"Louis Carl",Petersen,1,30,3,1916,55.689607800000,12.560540400000
+"Jens Peter",Hansen,1,29,3,1916,55.670714200000,12.558673000000
+"Marie Hansine Pauline Anna",Petersen,2,9,3,1916,NULL,NULL
+Ole,Pedersen,1,21,3,1916,NULL,NULL
+"Ferdinand Lai Eberhardt",Andersen,1,28,3,1916,NULL,NULL
+"Christen Thomsen",Barfoed,1,3,3,1916,NULL,NULL
+"Peter Oskar",Petersen,1,28,3,1916,NULL,NULL
+Marie,Andersen,2,8,3,1916,NULL,NULL
+"Einer Rasmus Christian Petersen",Barsted,1,10,3,1916,55.651757700000,12.612145200000
+"Petra Augusta Inger",Petersen,2,17,3,1916,55.667263000000,12.597417300000
+"Johanne Marie",Andersen,2,1,3,1916,55.670882200000,12.589949900000
+"Johanne Marie",Andersen,2,6,3,1916,NULL,NULL
+"Karen Helga",Andersen,2,14,3,1916,55.664991300000,12.582742600000
+"Harald Nicolai",Rasmussen,1,1,3,1916,NULL,NULL
+"Ingeborg Eleonora Marie",Rasmussen,2,5,3,1916,NULL,NULL
+"Maren Christine",Beck,2,1,3,1916,55.696310200000,12.571751300000
+"Carl Valdemar",Christensen,1,21,3,1916,55.665989000000,12.612811900000
+"Jens Ludvig",Rasmussen,1,13,3,1916,NULL,NULL
+Johannes,Rasmussen,1,18,3,1916,NULL,NULL
+Johannes,Rasmussen,1,21,3,1916,NULL,NULL
+"Martin August",Andersen,1,22,3,1916,55.693095700000,12.543615400000
+"Jørgen Einer Julius",Hansen,1,21,3,1916,55.691235400000,12.558550500000
+"Aage Hagbarth",Haarby,1,8,3,1916,NULL,NULL
+"Carl Christian",Jensen,1,9,3,1916,NULL,NULL
+"Carl Christian",Jensen,1,6,3,1916,NULL,NULL
+"Niels Steffen",Andersen,1,21,3,1916,NULL,NULL
+"Nisse Nissen",Petersen,1,28,3,1916,NULL,NULL
+"Rudolph Joseph",Pedersen,1,1,3,1916,NULL,NULL
+"Anna Marie",Clausen,2,8,3,1916,55.672646000000,12.557887400000
+"Ludvig Jakob",Brinch,1,22,3,1916,NULL,NULL
+"Magnus Thorvald",Hansen,1,14,3,1916,NULL,NULL
+"Othilie Jacobine Jensine",Larsen,2,3,3,1916,NULL,NULL
+Otto,Larsen,1,8,3,1916,NULL,NULL
+"Niels Thorvald Emanuel",Britze,1,29,3,1916,55.673266900000,12.589392000000
+"Ellen Margrethe",Rasmussen,2,15,3,1916,NULL,NULL
+"Frederik Christian Einer",Christensen,1,18,3,1916,55.673692400000,12.592179800000
+"Marie Dorthea",Hansen,2,1,3,1916,55.685342800000,12.565618100000
+"Theodor Peter",Hansen,1,27,3,1916,NULL,NULL
+"Anna Marie",Nielsen,2,1,3,1916,NULL,NULL
+Carl,Petterssen,1,15,3,1916,55.672068200000,12.592426900000
+"Olga Christine",Johansen,2,30,3,1916,NULL,NULL
+Martin,Madsen,1,18,3,1916,NULL,NULL
+"Hans Henrik",Hylleholdt,1,24,3,1916,55.659084400000,12.608410900000
+"Marius Nicolaj",Hansen,1,9,3,1916,55.669212700000,12.552774900000
+Joseph,Hüttel,1,1,3,1916,55.674995100000,12.599045000000
+"Jens Christian",Løvenhøj,1,18,3,1916,NULL,NULL
+"Bertha Mathilde",Nilsson,2,22,3,1916,55.694286800000,12.588975800000
+"Oluf Anders",Hansen,1,21,3,1916,NULL,NULL
+"Carl Christian",Nielsen,1,21,3,1916,NULL,NULL
+"Carl Emil",Nielsen,1,30,3,1916,NULL,NULL
+"Marzella Marie Vilhelmine",Madsen,2,13,3,1916,NULL,NULL
+"Emma Sofie",Elmstrøm,2,1,3,1916,55.708186000000,12.571366700000
+"Caroline Sabine Lydia",Nielsen,2,8,3,1916,NULL,NULL
+"Karen Jensine",Nielsen,2,1,3,1916,NULL,NULL
+Christian,Nielsen,1,9,3,1916,NULL,NULL
+"Søren Johannes",Rasmussen,1,1,3,1916,NULL,NULL
+"Caroline Petrea",Larsen,2,1,3,1916,NULL,NULL
+"Carl Martin Oluf Fabian",Petersen,1,15,3,1916,NULL,NULL
+"Niels Alfred",Hansen,1,10,3,1916,NULL,NULL
+"Paul Erik",Witzansky,1,30,3,1916,NULL,NULL
+"Albert Ludvig",Henriksen,1,23,3,1916,NULL,NULL
+Marius,Johansen,1,11,3,1916,NULL,NULL
+Einar,Berthelsen,1,6,3,1916,55.685363500000,12.567689300000
+"Ella Bertha",Berthelsen,2,4,3,1916,55.682117200000,12.564139700000
+"Astrid Vilhelmine Nielsine",Burghardt,2,7,3,1916,55.683224700000,12.565011700000
+"Ella Viola Cathinka",Nielsen,2,15,3,1916,NULL,NULL
+"Ellen Emilie Nielsine",Nielsen,2,9,3,1916,NULL,NULL
+"Ellen Emilie Nielsine",Nielsen,2,1,3,1916,NULL,NULL
+"Cai Christian",Holm,1,24,3,1916,NULL,NULL
+Haldor,Bjarnesen,1,10,3,1916,55.680794800000,12.575327300000
+"Georg Axel",Nielsen,1,14,3,1916,NULL,NULL
+"Drott Ferdinand Enge",Björklund,1,23,3,1916,55.685428200000,12.566633900000
+"Edith Eleonora Josefine",Blom,2,1,3,1916,NULL,NULL
+"Ebbe Frederik Zoega",Boesen,1,28,3,1916,55.703656500000,12.584048700000
+"Anna Mathilde Dora",Haagen,2,9,3,1916,NULL,NULL
+"Hans Martin",Nielsen,1,14,3,1916,55.665467700000,12.582349300000
+"Kai Andreas",Mogensen,1,24,3,1916,NULL,NULL
+"Axel Severin",Høyer,1,14,3,1916,55.668293800000,12.548243400000
+Johan,Mattesen,1,18,3,1916,NULL,NULL
+"Peter Jensen",Boysen,1,23,3,1916,55.663553200000,12.614179300000
+"Anders Svendsen",Jensen,1,17,3,1916,NULL,NULL
+"Edvard Valdemar",Christiansen,1,19,3,1916,55.675837900000,12.598116300000
+Sven,Maar,1,4,3,1916,NULL,NULL
+"Georg Hans Robert",Carlsen,1,24,3,1916,55.673137500000,12.588643800000
+"Harry Laurits",Nielsen,1,1,3,1916,NULL,NULL
+"Harry Laurits",Nielsen,1,8,3,1916,NULL,NULL
+"Hedvig Josefa",Nielsen,2,4,3,1916,NULL,NULL
+"Jens Axel",Larsen,1,7,3,1916,NULL,NULL
+"Johannes Valdemar",Larsen,1,21,3,1916,NULL,NULL
+Herman,Nielsen,1,20,3,1916,NULL,NULL
+"Jens Martinus",Christensen,1,6,3,1916,NULL,NULL
+"Aage Vilhelm",Wibrandt,1,30,3,1916,NULL,NULL
+"Olga Helene Frederikke",Fisch,2,23,3,1916,55.665467700000,12.582349300000
+"Johan Jørgen",Christensen,1,8,3,1916,55.664172100000,12.607810900000
+Robert,Hall,1,18,3,1916,NULL,NULL
+"Oda Kamma Emilie",Eriksen,2,1,3,1916,55.666260000000,12.577601300000
+Jørgen,Christensen,1,4,3,1916,55.676932300000,12.588537800000
+"Kaj Christen Niels",Christensen,1,8,3,1916,55.670655700000,12.591630500000
+"Einar Villiam",Gren,1,8,3,1916,55.698366700000,12.575665400000
+"Inger Marie Magdalene",Nielsen,2,1,3,1916,NULL,NULL
+"Alma Elise Cathrine",Madsen,2,7,3,1916,NULL,NULL
+"Dorothea Vilhelmine",Petersen,2,16,3,1916,NULL,NULL
+"Anna Marie Kristine",Jensen,2,9,3,1916,NULL,NULL
+Antonie,Jensen,2,15,3,1916,NULL,NULL
+"Martha Jensine",Nielsen,2,9,3,1916,NULL,NULL
+"Julius Christian",Jensen,1,6,3,1916,NULL,NULL
+"Marie Christiane Margrethe",Kosach,2,2,3,1916,NULL,NULL
+"Jens Clausen",Nielsen,1,31,3,1916,NULL,NULL
+"Jens Kaalby",Nielsen,1,21,3,1916,NULL,NULL
+"Hans Bach",Møller,1,25,3,1916,NULL,NULL
+"Aage Ludvig",Christensen,1,31,3,1916,55.664161800000,12.616689600000
+"Magda Alfrida",Christensen,2,8,3,1916,55.672220200000,12.563547300000
+"Juliane Sofie",Henriksen,2,1,3,1916,NULL,NULL
+"Kristian Johannes",Jacobsen,1,3,3,1916,55.671484600000,12.552439500000
+"Kristian Johannes",Jacobsen,1,31,3,1916,55.668347200000,12.549215000000
+"Carl Christian Alfred",Jensen,1,21,3,1916,55.664001000000,12.599669600000
+"Agnes Hedvig",Weber,2,3,3,1916,55.685485400000,12.567664900000
+Ragna,Jensen,2,20,3,1916,55.683781000000,12.563438100000
+"Lauritz Peter Michael",Jensen,1,22,3,1916,55.705002000000,12.496739600000
+"Peter Johannes",Christensen,1,9,3,1916,NULL,NULL
+"Boline Marie",Christensen,2,2,3,1916,55.678726200000,12.574796400000
+"Elida Bergliot",Jørgensen,2,27,3,1916,NULL,NULL
+Einer,Jacobsen,1,1,3,1916,NULL,NULL
+Ejnar,Heiberg,1,2,3,1916,55.685668100000,12.566010800000
+"Anne Christine",Frederiksen,2,1,3,1916,NULL,NULL
+"Stella Marie",Christensen,2,3,3,1916,55.655068500000,12.610576200000
+"Anton Jensen",Schou,1,7,3,1916,55.679063300000,12.566635900000
+"Asger Jensen",Schou,1,7,3,1916,55.679063300000,12.566635900000
+Kai,Zachou,2,7,3,1916,55.690905600000,12.574838800000
+"Hansine Mathilde",Petersson,2,3,3,1916,55.694197100000,12.577381700000
+Anders,Andersen,1,8,3,1916,55.690769800000,12.554746200000
+Nicoline,Petersen,2,10,3,1916,NULL,NULL
+"Else Marie Skøde",Pedersen,2,2,3,1916,NULL,NULL
+Axel,Larsen,1,1,3,1916,NULL,NULL
+"Hedvig Helene Hansine",Petersen,2,3,3,1916,55.671927700000,12.573403700000
+"Niels Laurentius Theodor",Petersen,1,4,3,1916,55.685428200000,12.566633900000
+"Joseph Aisir",Zukermann,1,6,3,1916,55.685722700000,12.566767500000
+"Oline Lagerda",Zwanziger,2,28,3,1916,55.690225400000,12.573703500000
+"Hans Peter",Frederiksen,1,7,3,1916,NULL,NULL
+"Emma Marie",Petersen,2,3,3,1916,NULL,NULL
+"Carl Vilhelm Heinrich Max",Hintz,1,15,3,1916,55.685701300000,12.589098600000
+"Peter Martin Emil",Christiansen,1,7,3,1916,NULL,NULL
+"Otto Henrik",Borgkvist,1,24,3,1916,NULL,NULL
+"Ella Antoinette",Kofoed,2,2,3,1916,55.678358300000,12.568586000000
+"Christian Marius Peter",Øelund,1,20,3,1916,55.676559800000,12.576049100000
+"Otto Rabus Frederik",Ødmannsen,1,9,3,1916,55.681751800000,12.570055600000
+"Arnold Richard",Andersen,1,16,3,1916,55.682479500000,12.571536200000
+"Augusta Elisabeth",Andersson,2,21,3,1916,NULL,NULL
+"Johanne Christine",Hillmar,2,8,3,1916,NULL,NULL
+"Otto Heingrich",Hilmer,1,10,3,1916,NULL,NULL
+"Ferdinand Cornelius",Petersen,1,14,3,1916,NULL,NULL
+"Martha Henriette",Jacobsen,2,2,3,1916,NULL,NULL
+"Mary Christine Jensen",Østergaard,2,8,3,1916,55.683464700000,12.567950800000
+"Peter Emil Herman",Jacobsen,1,9,3,1916,NULL,NULL
+"Andreas Thomsen",Hjorth,1,16,3,1916,NULL,NULL
+"Andrea Emilie",Larsen,2,21,3,1916,55.681874700000,12.559145500000
+"Johan Henrik Julius Mads",Nielsen,1,5,3,1916,NULL,NULL
+"Christian Martin",Fugl,1,31,3,1916,55.672903300000,12.559247100000
+"Axel Christian",Jensen,1,11,3,1916,55.686073200000,12.554602100000
+"Anna Marie",Andersen,2,3,3,1916,55.677902200000,12.591496000000
+"Guido Hugo Pachal",Talamo,3,1,3,1916,55.679026500000,12.568234300000
+"Hans Jacob",Hansen,1,10,3,1916,55.681443800000,12.573960400000
+"Hans Christian Anders",Petersen,1,18,3,1916,55.683388400000,12.565797300000
+"Carl Martin Løve",Østerby,1,5,3,1916,NULL,NULL
+"Axel Sofus Christen",Jensen,1,4,3,1916,NULL,NULL
+"Carl Oluf",Andersen,1,22,3,1916,55.678996800000,12.575195500000
+"Karen Marie",Olsen,2,1,3,1916,NULL,NULL
+"Sophie Frederikke Johanne",Fæster,2,10,3,1916,NULL,NULL
+"Lauritz Emil",Olsen,1,25,3,1916,55.678687900000,12.568973500000
+"Sara Alma Camilla",Hoffmeyer,2,2,3,1916,NULL,NULL
+Mads,Jensen,1,27,3,1916,NULL,NULL
+"Harald Trop",Friis,1,21,3,1916,NULL,NULL
+"Eva Emilie",Lund,2,30,3,1916,55.678812000000,12.570307500000
+"Hans Frederik",Lund,1,9,3,1916,55.683091200000,12.564845900000
+Axel,Christensen,1,4,3,1916,55.666637500000,12.549435500000
+"Carl Antonius",Petersson,1,27,3,1916,NULL,NULL
+Katrine,Olsen,2,4,3,1916,55.684506500000,12.571448300000
+"Jens Martinus",Nørby,1,7,3,1916,55.665076700000,12.582894800000
+"Carla Oda Nielsine",Jensen,2,21,3,1916,NULL,NULL
+"Henry Ferdinand",Marcusen,1,20,3,1916,NULL,NULL
+"Anton Valdemar",Marchwitz,1,27,3,1916,NULL,NULL
+"Einer Christian",Andersen,1,1,3,1916,NULL,NULL
+"Edith Jenny",Olsen,2,6,3,1916,NULL,NULL
+"Anna Caroline",Hansen,2,11,3,1916,55.680282400000,12.563236300000
+"Niels Peter",Nielsen,1,25,3,1916,NULL,NULL
+"Erik Birger",Andersson,1,22,3,1916,55.679238300000,12.569605600000
+"Ester Vilhelmine",Andersen,2,3,3,1916,55.681000700000,12.574208700000
+Jens,Pedersen,1,21,3,1916,NULL,NULL
+"Anna Gjertine",Hansen,2,16,3,1916,55.686360100000,12.566263000000
+Christian,Jensen,1,20,3,1916,NULL,NULL
+"Ida Caroline Elisabeth",Nielsen,2,24,3,1916,55.690140800000,12.573912700000
+Poul,Rosen,1,4,3,1916,NULL,NULL
+"Nielsine Jensine",Nielsen,2,18,3,1916,NULL,NULL
+Hansine,Andersen,2,11,3,1916,NULL,NULL
+"Holger Waldemar",Andersen,1,13,3,1916,55.679699600000,12.592207800000
+"Henrik Emil",Andersen,1,7,3,1916,55.681229300000,12.563878100000
+"Anders Peter August",Jørgensen,1,1,3,1916,55.686645000000,12.588461800000
+"Jens Stephan Martin",Magnussen,1,14,3,1916,NULL,NULL
+"Jürgen Jacob",Brodersen,1,16,3,1916,NULL,NULL
+"Carla Eleonora",Petersen,2,1,3,1916,NULL,NULL
+"Ragnhild Kamilla Charlotte",Jensen,2,2,3,1916,NULL,NULL
+Rasmus,Jensen,1,7,3,1916,NULL,NULL
+"Polly Gudrun",Bransholm,2,30,3,1916,55.684827300000,12.569066400000
+"Rudolf William",Jensen,1,22,3,1916,NULL,NULL
+"Frida Ella Rosa",Vehlow,2,9,3,1916,55.668335500000,12.555807500000
+"Julius Magnus",Gudmundsson,1,20,3,1916,NULL,NULL
+Reinhold,Jensen,1,1,3,1916,55.688501700000,12.561708500000
+Svend,Jepsen,1,18,3,1916,NULL,NULL
+"Villiam Carl Christian",Jeppesen,1,11,3,1916,NULL,NULL
+"Theodora Jensine",Rotzov,2,1,3,1916,NULL,NULL
+Dina,Cohrfeldt,2,15,3,1916,NULL,NULL
+Ingeborg,Hansen,2,29,3,1916,NULL,NULL
+"Viggo Alfred",Jensen,1,21,3,1916,NULL,NULL
+"Agnes Petronelle",Johansen,2,15,3,1916,NULL,NULL
+"Edith Neumann",Halle,2,21,3,1916,NULL,NULL
+"Jørgen Edvard",Halskov,1,15,3,1916,NULL,NULL
+"Axel Christian",Johansen,1,11,3,1916,NULL,NULL
+"Olga Marie Elisabeth",Jensen,2,24,3,1916,55.707480000000,12.586641700000
+"Ingeborg Elisabeth",Olsen,2,1,3,1916,NULL,NULL
+Kai,Hoff-Jessen,2,1,3,1916,NULL,NULL
+"Johanne Elisabeth Marie Louise",Petersen,2,10,3,1916,55.670145700000,12.551067500000
+"Johanne Elisabeth Marie Louise",Petersen,2,27,3,1916,55.678730100000,12.574982500000
+"Gerda Severine",Bruhn,2,8,3,1916,55.696491100000,12.550978800000
+"Josephine Amalie Kirstine",Thomsen,2,4,3,1916,55.664517000000,12.596019900000
+"Charles Marius",Foltmann,1,24,3,1916,55.683915600000,12.583050300000
+"Charles Marius",Foltmann,1,12,3,1916,55.685351100000,12.592578600000
+"Christian Einer",Petersen,1,31,3,1916,55.677961500000,12.567108100000
+"Elisabeth Laurine Mathilde",Wenzell,2,2,3,1916,55.671647000000,12.562394300000
+"Frantz Bjørn",Wentzel,1,29,3,1916,NULL,NULL
+"Anna Hilda",Hansen,2,2,3,1916,55.666315400000,12.613098200000
+"Edvard Anders",Jensen,1,24,3,1916,NULL,NULL
+"Dorthea Elfrida",Knudsen,2,22,3,1916,55.678812000000,12.570307500000
+Vilhelm,Verversen,1,8,3,1916,55.678241100000,12.568733200000
+"Erna Andrea",Kroll,2,10,3,1916,NULL,NULL
+"Dagmar Augusta Bodil",Petersen,2,1,3,1916,55.659288100000,12.607818900000
+"Poul Jean Iver",Jensen,1,31,3,1916,NULL,NULL
+"Johanne Camille",Johnsson,2,1,3,1916,NULL,NULL
+"Pouline Emilie Christine",Jensen,2,1,3,1916,55.698988300000,12.578399900000
+"Nancy Jensine Sylvia",Olsen,2,28,3,1916,NULL,NULL
+Ole,Olsen,1,29,3,1916,NULL,NULL
+"Ida Mathilde",Nielsen,2,28,3,1916,NULL,NULL
+"Anna Nielsine",Hansen,2,7,3,1916,NULL,NULL
+Christian,Hansen,1,2,3,1916,55.685499800000,12.566444800000
+Eline,Hansen,2,1,3,1916,55.680990900000,12.582120400000
+"Dagmar Marie",Petersen,2,8,3,1916,55.689718400000,12.555529500000
+"Andreas Peter",Koch,1,2,3,1916,55.686131600000,12.567122500000
+Svend,Thastum,1,18,3,1916,55.650170200000,12.614616900000
+"Ejnar Harald",Petersen,1,8,3,1916,55.683058900000,12.575219900000
+"Kirstine Jørgensen",Bugge,2,5,3,1916,55.683064000000,12.567436400000
+"Villiam Bernhard John",Funcke,1,8,3,1916,55.684038500000,12.571086200000
+"Anna Nielsine",Nielsen,2,1,3,1916,NULL,NULL
+Agnes,Rasmussen,2,1,3,1916,NULL,NULL
+"Dagmar Poula Mathilde",Timm,2,13,3,1916,NULL,NULL
+"Valdemar Herman",Førster,1,18,3,1916,55.684477100000,12.570973400000
+"Otto Theodor",Johnsen,1,10,3,1916,NULL,NULL
+"Herta Elvira",Strømberg,2,8,3,1916,55.680986300000,12.576192300000
+"Anna Ella Augusta",Rasmussen,2,15,3,1916,55.671533400000,12.562512800000
+"Anna Jensine",Rasmussen,2,3,3,1916,NULL,NULL
+"Kristen Just",Rahbek,1,23,3,1916,NULL,NULL
+"Agnes Kirstine",Klintrup,2,8,3,1916,NULL,NULL
+Hermann,Raffenberg,1,4,3,1916,NULL,NULL
+Henry,Jørgensen,1,4,3,1916,55.681407100000,12.585815200000
+"Carl Hugo",Jonsson,1,16,3,1916,55.685428200000,12.566633900000
+"Frida Elisabeth Margrethe",Krogh,2,13,3,1916,55.698347500000,12.585768100000
+Olga,Larsen,2,3,3,1916,55.681965700000,12.564553200000
+"Olga Christine",Larsen,2,1,3,1916,55.682239400000,12.561789400000
+"Knud Christian",Møller,1,16,3,1916,55.701398900000,12.547815900000
+"Ane Kirstine",Laustsen,2,8,3,1916,55.673284900000,12.555459500000
+"Carla Marie Johanne",Hansen,2,25,3,1916,NULL,NULL
+"Sofus Birger",Kruuse,1,24,3,1916,NULL,NULL
+"Niels Christian",Søby,1,2,3,1916,NULL,NULL
+"Louise Vilhelmine",Friis,2,1,3,1916,55.682960300000,12.562462700000
+Villy,Larsen,1,16,3,1916,NULL,NULL
+"Erik Gunner Ingvar",Hegnsbøl,1,6,3,1916,NULL,NULL
+"Billy Alexis Felix Elmenhoff",Nielsen,1,6,3,1916,55.698658300000,12.587558300000
+"Christian Holger",Rasmussen,1,28,3,1916,55.686360100000,12.566263000000
+"Dagmar Vilhelmine",Rasmussen,2,1,3,1916,NULL,NULL
+Anna,Olesen,2,20,3,1916,55.693545900000,12.570417100000
+"Emil Carl Leopold",Frost,1,10,3,1916,55.681459700000,12.563263100000
+"Emma Bolavina Cathrine Maren",Hansen,2,15,3,1916,55.667257000000,12.577620300000
+"Karen Kirstine Sørensen",Heide,2,10,3,1916,NULL,NULL
+"Aage Andreas",Carstensen,1,4,3,1916,55.698976000000,12.585632800000
+"Erna Alfrida Betty",Hansen,2,6,3,1916,NULL,NULL
+"Elin Anna",Carlsson,2,1,3,1916,55.684662600000,12.567605700000
+"Fanny Bromose",Hansen,2,27,3,1916,55.665997500000,12.576564800000
+"Julie Johanne",Nielsen,2,29,3,1916,55.684989800000,12.567749300000
+"Julie Kirstine",Nielsen,2,1,3,1916,55.687620900000,12.561871300000
+Ellen,Rasmussen,2,16,3,1916,55.675377900000,12.572800900000
+"Agnes Johanne",Jensen,2,8,3,1916,NULL,NULL
+"Carl Marius Nicolaj",Nielsen,1,3,3,1916,55.691453400000,12.562693400000
+Alma,Cramon,2,23,3,1916,55.683978300000,12.568578900000
+"John Arthur",Järpe,1,20,3,1916,55.666560600000,12.578336100000
+"Clara Marie",Hildebrandt,2,17,3,1916,55.686955500000,12.588171800000
+Willy,Jørgensen,1,1,3,1916,55.684827300000,12.569066400000
+"Aage Ejnar",Hansen,1,24,3,1916,55.676485500000,12.573034800000
+"Aage Emil",Hansen,1,14,3,1916,55.689384400000,12.556322500000
+"Axel Emil",Helmersen,1,25,3,1916,NULL,NULL
+"Ernst Georg",Wiedemann,1,7,3,1916,55.681197300000,12.562987700000
+"Johanne Jensine",Jørgensen,2,8,3,1916,55.681229300000,12.563878100000
+Christa,Nielsen,2,4,3,1916,55.680581300000,12.582997000000
+"Otto Harry",Wilhelmsen,1,4,3,1916,NULL,NULL
+Viggo,Jensen,1,16,3,1916,55.668945700000,12.549800300000
+"Karen Anne",Iversen,2,2,3,1916,55.671243200000,12.571104300000
+"Ejnar Charles",Jeppesen,1,28,3,1916,55.676830700000,12.571922300000
+"Hans Holger",Knudsen,1,24,3,1916,55.684941500000,12.569777600000
+"Maren Kirstine Marie",Larsen,2,13,3,1916,NULL,NULL
+"Hjalmar Christian",Knudsen,1,10,3,1916,NULL,NULL
+"Karen Rasmine",Sørensen,2,15,3,1916,55.651893800000,12.611574400000
+"Henry Emil",Pedersen,1,15,3,1916,NULL,NULL
+Anton,Olesen,1,4,3,1916,55.676761400000,12.572058800000
+"Jensine Marie",Hansen,2,1,3,1916,NULL,NULL
+Marius,Sørensen,1,22,3,1916,55.696462300000,12.544972300000
+"Carl Camillus",Koessler,1,30,3,1916,NULL,NULL
+"Eli Helga Andersen",Møller,2,16,3,1916,NULL,NULL
+"Richard Sigvald Carl",Sørensen,1,22,3,1916,55.665583500000,12.612159800000
+"Karen Agnes Elisabeth",Petersen,2,10,3,1916,55.685336500000,12.570162600000
+"Henriette Augusta",George,2,18,3,1916,NULL,NULL
+"Marie Theodora Eugenie",Gert,2,7,3,1916,NULL,NULL
+"Henry Andreas",Gidion,1,9,3,1916,55.689871000000,12.573687700000
+Aage,Gjedsted,1,16,3,1916,55.670432500000,12.554656300000
+"Gert Hai",Rasmussen,1,1,3,1916,55.670439600000,12.559995900000
+"Jens Theodor",Jørgensen,1,16,3,1916,NULL,NULL
+"Ingeborg Charlotte",Rasmussen,2,15,3,1916,NULL,NULL
+"Ingeborg Charlotte",Rasmussen,2,1,3,1916,NULL,NULL
+"Gerda Petrea",Petersen,2,4,3,1916,NULL,NULL
+"Karen Sofie",Jørgensen,2,1,3,1916,NULL,NULL
+"Hanna Astrid Elisabeth",Petersson,2,1,3,1916,55.678321400000,12.568489300000
+"Hans Bertel",Hansen,1,10,3,1916,55.684553400000,12.570725700000
+"Hilma Anna Christine",Rasmussen,2,2,3,1916,55.685502300000,12.565330700000
+Jens,Rasmussen,1,13,3,1916,55.676853500000,12.576013800000
+"Peter Viggo",Køng,1,8,3,1916,NULL,NULL
+"Ella Johanne Marie",Jacobsen,2,16,3,1916,55.677950900000,12.574207400000
+"Poul Herman",Kallenback,1,8,3,1916,NULL,NULL
+Henrik,Hansen,1,4,3,1916,55.681751800000,12.570055600000
+"Jens Peter",Hansen,1,22,3,1916,55.686484400000,12.566766100000
+"Svend Gustav",Carlsen,1,27,3,1916,55.669487200000,12.553780400000
+"Theodolinda Kristiane",Carlsson,2,15,3,1916,55.687314900000,12.583748300000
+"Hans Albert",Jensen,1,30,3,1916,55.683295700000,12.574026400000
+"Peter Oluf",Nielsen,1,2,3,1916,55.675377900000,12.572800900000
+"Christiane Vilhelmine",Simonsen,2,1,3,1916,55.701621300000,12.577206400000
+"Olga Charlotte Cecilia",Carlsson,2,4,3,1916,NULL,NULL
+"Lovise Vilhelmine",Petersen,2,8,3,1916,55.685556000000,12.567185500000
+Christian,Simonsen,1,8,3,1916,NULL,NULL
+"Kirsten Marie",Rasmussen,2,3,3,1916,55.685123700000,12.569988600000
+"Margrethe Christine",Petersen,2,11,3,1916,NULL,NULL
+"Margrethe Jørgine",Petersen,2,6,3,1916,55.681657300000,12.573805200000
+Jens,Laustsen,1,7,3,1916,55.673517300000,12.575976700000
+"Hans Peter Christian",Jensen,1,8,3,1916,NULL,NULL
+"Kirsten Jensine Alberta Boye",Rasmussen,2,3,3,1916,NULL,NULL
+"Hans Julius Valdemar",Jensen,1,30,3,1916,NULL,NULL
+"Maren Julie Birgitte",Petersen,2,18,3,1916,55.685203800000,12.565845500000
+"Jens Vinstrup",Jacobsen,1,23,3,1916,55.687952400000,12.553288100000
+"Robert Emil",Nielsen,1,8,3,1916,55.682685800000,12.565583300000
+"Laura Dorthea",Jacobsen,2,7,3,1916,NULL,NULL
+"Laura Frederikke",Jacobsen,2,1,3,1916,55.694499400000,12.589297500000
+"Anders Peter",Peiterssen,1,9,3,1916,NULL,NULL
+"Poul Bernhard Samuel",Nielsen,1,22,3,1916,55.697745800000,12.586613000000
+Anker,Munck,1,8,3,1916,55.699231200000,12.588599400000
+"Rasmus Olaf",Nielsen,1,8,3,1916,NULL,NULL
+"Marius Frederik Nicolai",Lauritsen,1,21,3,1916,NULL,NULL
+"Carl Bischoff",Lauritsen,1,4,3,1916,NULL,NULL
+Frederik,Laursen,1,4,3,1916,NULL,NULL
+"Carl Bischoff",Laursen,1,1,3,1916,NULL,NULL
+"Anna Dorthea Kathrine",Witzansky,2,23,3,1916,55.682379800000,12.576529400000
+Henrik,Jensen,1,4,3,1916,55.682848500000,12.564937600000
+"Stanley Oscar",Nielsen,1,10,3,1916,NULL,NULL
+"Søren Meder",Nielsen,1,6,3,1916,NULL,NULL
+Kirstine,Nielsen,2,16,3,1916,55.682575400000,12.563804500000
+"Hans Lauritz",Wange,1,24,3,1916,55.678812000000,12.570307500000
+"Marie Frederikke",Jensen,2,16,3,1916,NULL,NULL
+Nahum,London,1,16,3,1916,55.671483900000,12.561299000000
+Christine,Ricks,2,31,3,1916,NULL,NULL
+"Margrethe Cathrine",Schourup,2,8,3,1916,NULL,NULL
+"Erik Theodor",Solem,1,30,3,1916,NULL,NULL
+"Knud Arnold Nørmark",Mølvig,1,17,3,1916,55.681878800000,12.564782800000
+"Augusta Margrethe",Volf,2,3,3,1916,NULL,NULL
+"Christian Peter Georg",Kampmann,1,4,3,1916,55.680581300000,12.582997000000
+Ole,Larsen,1,16,3,1916,55.667326900000,12.549350000000
+"Vilhelmine Christine",Nielsen,2,8,3,1916,NULL,NULL
+Claudia,Spang,2,10,3,1916,NULL,NULL
+"Lilly Eleonora Adolfine",Olsen,2,22,3,1916,NULL,NULL
+"Kamma Louise",Hansen,2,2,3,1916,55.708229400000,12.569436900000
+"Ida Louise Albertine",Hansen,2,1,3,1916,55.678677000000,12.569451900000
+"Stella Rigmor",Nielsen,2,15,3,1916,55.672963900000,12.558193900000
+"Flora Vilhelmine Elisabeth",Greisen,2,3,3,1916,55.685574900000,12.566264200000
+"Anna Margrethe",Larsen,2,7,3,1916,55.678519800000,12.574401500000
+"Klas Axel",Lindström,1,3,3,1916,55.681228600000,12.583710300000
+Niels,Olesen,1,2,3,1916,NULL,NULL
+"Jensine Elisabeth",Jensen,2,4,3,1916,NULL,NULL
+"Aage Emil",Petersen,1,4,3,1916,NULL,NULL
+Agnete,Petersen,2,9,3,1916,NULL,NULL
+"Thorvald Kolumbus",Wolfbrand,1,15,3,1916,NULL,NULL
+Niels,Ringgaard,1,24,3,1916,NULL,NULL
+"Aage Hilmer",Madsen,1,17,3,1916,55.679095500000,12.568500600000
+Andreas,Madsen,1,4,3,1916,NULL,NULL
+"Anna Frederikke",Madsen,2,11,3,1916,55.684478900000,12.567997000000
+"Anna Mathilde Catrine",Madsen,2,31,3,1916,55.682902200000,12.569469800000
+"Anna Tholund",Madsen,2,9,3,1916,55.681870400000,12.561569000000
+"Peter Rasmus",Risløv,1,7,3,1916,NULL,NULL
+"Niels Jørgen",Olsen,1,1,3,1916,NULL,NULL
+Christian,Hansen,1,21,3,1916,55.683677100000,12.573027400000
+Peter,Møller,1,30,3,1916,55.680742500000,12.583466200000
+"Carl Marius",Madsen,1,8,3,1916,55.683039100000,12.573651300000
+"Søren Buchtrup",Olsen,1,9,3,1916,NULL,NULL
+"Olga Christine Marie",Olsen,2,3,3,1916,NULL,NULL
+"Ove Juul",Olsen,1,8,3,1916,NULL,NULL
+"Anna Knudine",Christensen,2,29,3,1916,NULL,NULL
+Hansine,Madsen,2,3,3,1916,NULL,NULL
+Marie,Jørgensen,2,22,3,1916,55.685123700000,12.569988600000
+"Anna Marie",Christensen,2,1,3,1916,55.679582300000,12.590277900000
+"Carl August",Hansen,1,25,3,1916,55.649278000000,12.613188700000
+Gregor,Tjenachowski,1,3,3,1916,55.673517300000,12.575976700000
+"Ove Ejner",Petersen,1,23,3,1916,55.683761100000,12.583263500000
+"Carl Emil",Legéne,1,6,3,1916,55.671294100000,12.558530900000
+"Carl Vilhelm",Larsen,1,16,3,1916,55.684858300000,12.564305100000
+"Carla Marie Nielsen",Larsen,3,21,3,1916,55.681089300000,12.574515900000
+"Sofie Marcha",Thomsen,2,4,3,1916,NULL,NULL
+Olivia,Tingstedt,2,25,3,1916,NULL,NULL
+"Carl Leo Robert",Hansen,1,21,3,1916,NULL,NULL
+"Eva Andrea",Poulsen,2,2,3,1916,NULL,NULL
+"William Janus",Harvey,1,9,3,1916,NULL,NULL
+"Carl Valdemar",Hansen,1,15,3,1916,55.682117200000,12.564139700000
+Peter,Petersen,1,21,3,1916,55.683160000000,12.564928500000
+"Hans Peter Oscar",Mørch,1,1,3,1916,NULL,NULL
+"Karla Marie Andrine Rosa",Hansen,2,4,3,1916,55.685363500000,12.567689300000
+"Valdemar Christian Petersen",Madsen,1,2,3,1916,55.683654500000,12.566116600000
+"Anna Marie",Christensen,2,8,3,1916,NULL,NULL
+Hans,Larsen,1,3,3,1916,55.681657300000,12.573805200000
+"Anna Olivia",Christensen,2,20,3,1916,NULL,NULL
+"Anna Laura Tanius",Petersen,2,18,3,1916,NULL,NULL
+"Camilla Rosalie Vibeke",Rasmussen,2,7,3,1916,55.676187600000,12.574011500000
+"Rasmine Louise",Petersen,2,2,3,1916,55.685417400000,12.589755100000
+"Hans Jørgen",Larsen,1,8,3,1916,NULL,NULL
+"Hans Martin",Larsen,1,29,3,1916,55.659282300000,12.606160800000
+"Holger Vadum",Michelsen,1,27,3,1916,55.685754700000,12.567545700000
+"Hans Chr.",Kæmpe,1,24,3,1916,NULL,NULL
+"Ingvard Peter",Mikkelsen,1,29,3,1916,55.681443800000,12.573960400000
+Augusta,Palmgren,2,11,3,1916,NULL,NULL
+"Maren Louise",Møller,2,1,3,1916,NULL,NULL
+"Gertrud Marie",Svensson,2,16,3,1916,55.694499400000,12.589297500000
+"Jørgen Christian Nielsen",Petersen,1,24,3,1916,NULL,NULL
+"Konradine Carla Cecilie",Hansen,2,6,3,1916,55.681848400000,12.570919900000
+"Jens Aage",Svendsen,1,22,3,1916,55.678730100000,12.574982500000
+"Rudolf Johannes Peter",Petersen,1,7,3,1916,55.685499800000,12.566444800000
+"Poul Frederik",Poulsen,1,4,3,1916,NULL,NULL
+Ansgar,Lyngø,1,8,3,1916,NULL,NULL
+"Mogens Marius",Uhrenholt,1,2,3,1916,55.684858300000,12.564305100000
+"Johanne Margrethe",Nielsen,2,1,3,1916,55.684625700000,12.568669400000
+"Axel Larsenius",Nielsen,1,12,3,1916,NULL,NULL
+"Frederik Johannes",Schultz,1,28,3,1916,55.681847800000,12.561420300000
+"Oda Anna Marie",Christensen,2,1,3,1916,55.686310000000,12.587249000000
+Regitze,Thøgersen,2,1,3,1916,55.681675900000,12.584015500000
+"Villads Christian",Michaelsen,1,25,3,1916,55.690024800000,12.559385600000
+"Johan Valfrid",Larsson,1,15,3,1916,55.670856600000,12.552533400000
+"Emma Margrethe Veronica",Tøpfer,2,24,3,1916,NULL,NULL
+"Hilda Franciska Johanne",Jensen,2,8,3,1916,55.693257800000,12.575671600000
+"Hjørdis Solveij",Jensen,2,1,3,1916,55.676896100000,12.575639600000
+"Ruby Vilhelm Johannes",Christensen,2,1,3,1916,NULL,NULL
+Malte,Göransson,1,1,3,1916,55.677824200000,12.582731500000
+"Bothilde Kirstine",Sørensen,2,10,3,1916,55.681742800000,12.564822200000
+"Sofie Frederikke",Christensen,2,9,3,1916,55.687040100000,12.567736100000
+"Elfrida Marie",Streibig,2,2,3,1916,55.683876900000,12.567891800000
+"Oscar Adolf",Svensson,1,4,3,1916,55.680689900000,12.564061400000
+"Thora Alvilda Nathalie",Christensen,2,1,3,1916,55.681247500000,12.571324900000
+Dirsinus,Jensen,1,22,3,1916,55.680523600000,12.589099100000
+"Elise theodora Sofie Holst",Hansen,2,21,3,1916,55.677953600000,12.567942600000
+"Ellen Christine Johanne",Hansen,2,6,3,1916,55.684506500000,12.571448300000
+"Ellen Marie Christine",Hansen,2,3,3,1916,55.673085100000,12.574827400000
+"Elna Margrethe",Hansen,2,14,3,1916,55.686983800000,12.582852300000
+"Else Vind",Hansen,2,11,3,1916,55.685543700000,12.569379100000
+"Lars Christian",Svendsen,1,10,3,1916,55.677609900000,12.576898000000
+"Karen Sofie",Nielsen,2,18,3,1916,55.694481200000,12.570394400000
+"Emma Johanne Amalie",Hansen,2,1,3,1916,55.677902200000,12.591496000000
+"Emma Margrethe",Hansen,2,3,3,1916,55.664453600000,12.581872300000
+"Ejner Otto",Jensen,1,8,3,1916,55.692159000000,12.558155600000
+"Elise Cathrine",Jensen,2,7,3,1916,55.684495000000,12.567393000000
+"Niels Kristian",Hansen,1,6,3,1916,55.681215000000,12.583219000000
+"Hans Ferdinand",Mortensen,1,30,3,1916,55.675377900000,12.572800900000
+"Jenny Caroline",Mortensen,2,3,3,1916,55.684198700000,12.571073300000
+Veronika,Levinsky,2,3,3,1916,55.689531900000,12.583381900000
+"Edith Ingeborg",Christensen,2,3,3,1916,NULL,NULL
+"Edith Ingeborg",Christensen,2,24,3,1916,NULL,NULL
+"Edith Ingeborg",Christensen,2,21,3,1916,55.669733500000,12.557442200000
+"Lauritz Henry",Larsen,1,31,3,1916,55.682539400000,12.583823700000
+"Hansine Christine",Sørensen,2,1,3,1916,NULL,NULL
+"Carl Martin",Simonsen,1,10,3,1916,55.676265700000,12.574971500000
+"Alfrida Johanne",Jensen,2,3,3,1916,NULL,NULL
+"Anders Laurits",Jensen,1,16,3,1916,55.681800700000,12.572367400000
+"Anders Vilhelm",Jønsson,1,3,3,1916,55.654534900000,12.610780600000
+"Anine Terese",Jensen,2,6,3,1916,55.689063000000,12.543100900000
+Anton,Jensen,1,4,3,1916,55.683724900000,12.565592700000
+Eva,Christensen,2,29,3,1916,NULL,NULL
+Marius,Jørgensen,1,1,3,1916,55.690875700000,12.559524800000
+"Olga Johanne Jensine",Mortensen,2,31,3,1916,NULL,NULL
+Meta,Laursen,2,2,3,1916,NULL,NULL
+"Georg Henry",Christensen,1,13,3,1916,55.677160500000,12.589258800000
+"Magnus Henri Oscar Alfred",Larsen,1,22,3,1916,55.693980800000,12.544684100000
+Alfred,Hermansen,1,10,3,1916,NULL,NULL
+"Thora Alvilda",Petersen,2,1,3,1916,55.684383500000,12.570191500000
+Edwin,Nielson,1,28,3,1916,55.684477100000,12.570973400000
+"Emanuel Axel Christian Valdemar",Nehm,1,6,3,1916,NULL,NULL
+"Emanuel Axel Christian Valdemar",Nehm,1,3,3,1916,55.678107200000,12.582446200000
+Eleonora,Nielsen,2,16,3,1916,55.677944400000,12.575224400000
+"Lauritz Emil Nicolaj",Nielsen,1,23,3,1916,55.682483800000,12.577427200000
+"Lauritz Emil Nicolaj",Nielsen,1,8,3,1916,55.679228800000,12.577839100000
+"Marie Oline",Larsen,2,1,3,1916,NULL,NULL
+"Karen Marie Nielsine",Sørensen,2,16,3,1916,55.684481600000,12.566543900000
+"Johanne Cathrine",Jensen,2,2,3,1916,NULL,NULL
+Gregor,Sinclonikoff,1,1,3,1916,55.684662600000,12.567605700000
+"Andrea Christine",Johansen,2,17,3,1916,NULL,NULL
+"Juliane Kirstine",Hansen,2,3,3,1916,NULL,NULL
+Edvard,Hedegaard,1,4,3,1916,55.676813000000,12.574981800000
+Aage,Heide,1,4,3,1916,NULL,NULL
+"Nelly Jensine",Sørensen,2,1,3,1916,NULL,NULL
+"Jens Martin D.",Christensen,1,23,3,1916,55.676886800000,12.571804500000
+"Jens Peter Sørensen",Christensen,1,31,3,1916,55.684253600000,12.563684100000
+"Anna Vilhelmine",Jensen,2,1,3,1916,55.681965700000,12.564553200000
+"Johan Carl Christian",Christensen,1,15,3,1916,55.670272900000,12.549714300000
+"Niels Volmer",Jørgensen,1,17,3,1916,NULL,NULL
+"Maren Christine",Sørensen,2,29,3,1916,NULL,NULL
+Erik,Nichum,1,16,3,1916,55.684662600000,12.567605700000
+Sofie,Jørgensen,2,9,3,1916,55.681476600000,12.572622300000
+"Mary Kirstine Jacobine",Jensen,2,2,3,1916,55.697419500000,12.589838200000
+"Karen Marie",Hansen,2,16,3,1916,NULL,NULL
+"Carl Osvald Bernhardt",Jensen,1,9,3,1916,55.688840600000,12.557062400000
+"Otto Lars",Hansen,1,27,3,1916,55.689653600000,12.561767700000
+"Michael Adolf",Hansen,1,4,3,1916,55.684908100000,12.566541900000
+"Peter Elias Sofus",Hansen,1,27,3,1916,NULL,NULL
+Valdemar,Sørensen,1,21,3,1916,55.673517300000,12.575976700000
+"Valdemar Harry",Sørensen,1,16,3,1916,NULL,NULL
+"Carla Viola Harriet",Jensen,2,7,3,1916,55.685502300000,12.565330700000
+"Caroline Amalie",Jensen,2,7,3,1916,55.684219200000,12.573835700000
+"Anton Christian",Johansen,1,17,3,1916,55.686000100000,12.567632600000
+"Rosalie Johanne Marie",Hansen,2,9,3,1916,55.677485200000,12.571798300000
+"Olga Jørgine",Jørgensen,2,25,3,1916,55.704443000000,12.590002900000
+"Olga Jørgine",Jørgensen,2,10,3,1916,NULL,NULL
+"Ingeborg Mathilde",Skaarup,2,4,3,1916,NULL,NULL
+"Petra Johanne Kirstine",Skals,2,12,3,1916,55.685186900000,12.565263100000
+"Emilie Caroline",Hersted,2,24,3,1916,NULL,NULL
+"Karen Kirstine",Hertzum,2,16,3,1916,NULL,NULL
+"Thora Sevilla Rigmor",Hansen,2,4,3,1916,55.677945900000,12.575615500000
+"Marius Andreas",Nielsen,1,3,3,1916,55.681140700000,12.571324600000
+"Walther Frithjof",Hansen,1,8,3,1916,NULL,NULL
+Anders,Nielsen,1,30,3,1916,55.684827300000,12.569066400000
+Valdemar,Lillegaard,1,23,3,1916,55.670272900000,12.549714300000
+Francisco,Noli,1,1,3,1916,55.676896100000,12.575639600000
+Knud,Lilliegren,1,9,3,1916,55.681800700000,12.572367400000
+"Ane Christine",Henriksen,2,8,3,1916,55.681558100000,12.563648700000
+"Anna Lilly Christiane",Henriksen,2,4,3,1916,NULL,NULL
+"Jensine Christine",Hald,2,9,3,1916,55.678519800000,12.574401500000
+"Erik Hinden",Nielsen,1,20,3,1916,55.684328600000,12.558661900000
+Frode,Henriksen,1,9,3,1916,55.693610400000,12.586044000000
+"Helga Cathrine",Henriksen,2,11,3,1916,NULL,NULL
+"Sigfred Peter",Lindegaard,1,10,3,1916,55.683876900000,12.567891800000
+"Marie Jacobine",Poulsen,2,4,3,1916,55.678350900000,12.574803900000
+"Morten Luther",Poulsen,1,3,3,1916,55.681000700000,12.574208700000
+"Ole Gerhard",Poulsen,1,14,3,1916,55.684477100000,12.570973400000
+"Jens Christian",Henriksen,1,21,3,1916,55.677953600000,12.567942600000
+"Ernst Georg Hermann",Snellmann,1,9,3,1916,NULL,NULL
+"Emmy Oline Esperdine",Nielsen,2,28,3,1916,NULL,NULL
+"Ellen Betzy Charlotte",Johansen,2,1,3,1916,NULL,NULL
+"Hanna Jørgine",Nielsen,2,23,3,1916,NULL,NULL
+"Hanna Jørgine",Nielsen,2,15,3,1916,55.678827700000,12.567179400000
+"Søren Victor Halse",Christiansen,1,7,3,1916,NULL,NULL
+"Pouline Kirstine",Poulsen,2,2,3,1916,55.686360100000,12.566263000000
+"Anna Marie",Lindström,2,11,3,1916,55.682126300000,12.571903600000
+"Nora Louise",Nielsen,2,2,3,1916,NULL,NULL
+Augusta,Christophersen,2,4,3,1916,55.676671500000,12.586991100000
+"Frederik Valter",Johansen,1,8,3,1916,55.692579000000,12.564773900000
+"Gerda Else",Markussen,2,3,3,1916,55.681842000000,12.588016400000
+"Gustav Helmer",Nykvist,1,18,3,1916,55.677890000000,12.577597100000
+"Hans Christian",Nielsen,1,27,3,1916,55.684707200000,12.566143900000
+"Alma Ingeborg",Randløv,2,16,3,1916,NULL,NULL
+"Harriet Valborg",Nielsen,2,13,3,1916,NULL,NULL
+Martha,Christoffersen,2,14,3,1916,55.684506500000,12.571448300000
+"Hjalmar Vilhelm Valdemar",Nielsen,1,7,3,1916,55.677038300000,12.571473900000
+"Gertrud Cathrine",Kjølholm,2,28,3,1916,55.677235500000,12.587903000000
+"Johanne Kirstine",Lund,2,1,3,1916,NULL,NULL
+"Carl Eduard Theodor",Steenberg,1,17,3,1916,55.669422700000,12.542124500000
+"Ellen Margrethe",Overby,2,3,3,1916,55.675843300000,12.573998800000
+"Inger Marie",Nørgaard,2,8,3,1916,55.680641000000,12.570999300000
+"Karen Nielsine",Nørgaard,2,1,3,1916,55.683363100000,12.566166500000
+"Caroline Kirstine Birgitte",Ovesen,2,23,3,1916,55.678122500000,12.590481900000
+Arnold,Petersen,1,21,3,1916,NULL,NULL
+"Hilda Thora Nissen",Raun,2,2,3,1916,NULL,NULL
+"Aage Valdemar",Olsen,1,16,3,1916,55.681459700000,12.563263100000
+Johan,Johansen,1,13,3,1916,55.679375600000,12.570057000000
+Niels,Klit,1,30,3,1916,NULL,NULL
+"Clara Pouline Pedersen",Lundgren,2,10,3,1916,NULL,NULL
+"Valborg Marthea",Krarup,2,4,3,1916,NULL,NULL
+Lauritz,Kruse,1,1,3,1916,55.684253600000,12.563684100000
+"Carl Martin Jensen",Sort,1,7,3,1916,NULL,NULL
+"Harry Aage",Albrechtsen,1,22,3,1916,55.698342900000,12.545397400000
+"Albert Christian",Nielsen,1,18,3,1916,NULL,NULL
+"Jens Peter Holboe",Langdahl,1,25,3,1916,NULL,NULL
+"Jens Peter",Andersen,1,1,3,1916,NULL,NULL
+"Hans Johan E.",Andreasen,1,23,3,1916,NULL,NULL
+"Hans Christian",Andreasen,1,23,3,1916,55.681788800000,12.573982200000
+"Julie Kathinka",Albrechtsen,2,1,3,1916,55.670767900000,12.558117500000
+"Cathrine Semine",Kagstrup,2,3,3,1916,55.668772000000,12.551310300000
+"Ingeborg Marie Camilla",Aaberg,2,7,3,1916,NULL,NULL
+"Elfrida Sophie Justine",Lynge,2,15,3,1916,NULL,NULL
+"Ingeborg Emilie",Andersen,2,9,3,1916,55.678730100000,12.574982500000
+"Emma Ragnhild",Anthony,2,6,3,1916,NULL,NULL
+"Arthur Bernhardt",Aagesen,1,2,3,1916,55.671483900000,12.561299000000
+"Niels Sigfred",Andersen,1,1,3,1916,NULL,NULL
+Elna,Aagesen,2,16,3,1916,55.670408800000,12.549698700000
+"Gustaf Hjalmar",Aagesen,1,18,3,1916,55.705777300000,12.584014000000
+Bagge,Bisgaard,1,8,3,1916,55.684707200000,12.566143900000
+"Jensine Jenny Christine",Meiner,2,10,3,1916,55.688980600000,12.553946900000
+"Gudrun Erna",Bjørn,2,3,3,1916,55.684553400000,12.570725700000
+"Ane Dorthea",Løfgren,2,1,3,1916,55.665141200000,12.603577300000
+"Olof Vilhelm",Andersson,1,8,3,1916,NULL,NULL
+"Peter Mathias",Aagesen,1,1,3,1916,NULL,NULL
+"Laura Marie Kirstine",Andersen,2,3,3,1916,55.667988600000,12.549845600000
+"Henry Magilius Ernie Jensenius",Dam,1,30,3,1916,55.672099900000,12.557738900000
+"Margrethe Petrea",Aakjær,2,20,3,1916,55.671732700000,12.554793100000
+"Carl Christian Oluf","Bengtsson kld. Krüger",1,10,3,1916,55.669327200000,12.557858000000
+"Carl Christian Oluf","Bengtsson kld. Krüger",1,4,3,1916,NULL,NULL
+"Carl Christian Oluf","Bengtsson kld. Krüger",1,17,3,1916,55.670639800000,12.558860700000
+Lars,Aakerberg,1,7,3,1916,55.679205500000,12.569491900000
+Gertrud,Bestvater,2,13,3,1916,NULL,NULL
+"Theodora Petra",Ahlstrøm,2,1,3,1916,NULL,NULL
+"Christian Emil",Dam,1,15,3,1916,NULL,NULL
+"Christian Jensen",Dam,1,6,3,1916,55.708010100000,12.563116200000
+"Mary Alma Amanda",Ameland,2,31,3,1916,55.708164100000,12.583709300000
+"Frithiof Holther",Schlägelberger,1,30,3,1916,55.684663400000,12.564081500000
+"Sofus Charles Valdemar",Kasch,1,20,3,1916,55.668328100000,12.548824400000
+"Ellen Frederikke",Bodenhagen,2,18,3,1916,55.683876900000,12.567891800000
+"Robert William",Andersen,1,6,3,1916,55.671133000000,12.563577500000
+"Jens Christian Vilhelm",Bendtsen,1,7,3,1916,55.676485500000,12.573034800000
+"Thora Mariane Dagmar",Damm,2,2,3,1916,55.665114100000,12.543654400000
+Asta,Dørge,2,27,3,1916,55.666413100000,12.547763000000
+Asta,Dørge,2,21,3,1916,55.666323100000,12.547773100000
+"Maren Margrethte",Johansen,2,22,3,1916,55.680406800000,12.562896600000
+"Holger Emil",Andreassen,1,17,3,1916,55.670639800000,12.558860700000
+"Ernie Frederik",Jensen,1,2,3,1916,55.681459700000,12.563263100000
+"Aage Victor Christian",Bohn,1,30,3,1916,55.684746900000,12.566802000000
+"Ingeborg Sofie",Andreasen,2,1,3,1916,NULL,NULL
+"Mary Ane Jepsen",Becker,2,20,3,1916,55.698804100000,12.544487800000
+Ejnar,Dahl,1,23,3,1916,55.671018400000,12.563476800000
+Josef,Pawlovski,1,6,3,1916,NULL,NULL
+"Helga Ottovine Adaleida",Damsgaard,2,21,3,1916,55.669011600000,12.554495800000
+"Frederikke Nikoline",Davidsen,2,7,3,1916,55.691699600000,12.544615800000
+Vilhelmine,Abrahams,2,10,3,1916,55.671992000000,12.548197500000
+Marius,Bonum,1,7,3,1916,55.682938600000,12.564657500000
+"Hans Ølgaard",Dahl,1,7,3,1916,NULL,NULL
+Nielsine,Damgaard,2,1,3,1916,NULL,NULL
+"Svend Otto",Schrøder,1,4,3,1916,55.675946200000,12.574262900000
+"Ivan Hjelm",Damkjær,1,21,3,1916,NULL,NULL
+"Johan Gotmar",Dahl,1,6,3,1916,55.671647000000,12.562394300000
+"Johan Nilsson",Dahl,1,14,3,1916,55.684734300000,12.583923700000
+"Johanne Marie",Dahl,2,14,3,1916,55.682880800000,12.589865700000
+"Alfred Anuel",Petersen,1,22,3,1916,NULL,NULL
+"Emil Alfred",Abrahamsen,1,23,3,1916,55.671647000000,12.562394300000
+"Emil Alfred",Abrahamsen,1,23,3,1916,55.670548200000,12.563588600000
+"Nils Henrik",Bergqvist,1,16,3,1916,NULL,NULL
+"Louis Peter Henry Madsen",Søgaard,1,6,3,1916,NULL,NULL
+"Anton Carl",Anthonius,1,7,3,1916,55.665066000000,12.582566500000
+Frederikke,Augustinusen,2,1,3,1916,NULL,NULL
+"Axel Emanuel",Andreasson,1,28,3,1916,55.670574500000,12.559976300000
+"Carl Johan",Rehn,1,10,3,1916,55.686131600000,12.567122500000
+"Mary Frandsen",Dahl,2,24,3,1916,55.663804400000,12.602847400000
+Klotild,Dunskoffer,1,10,3,1916,55.670548200000,12.563588600000
+Edvard,Stangebye,1,4,3,1916,NULL,NULL
+Vilhjalmur,Bjarnarson,3,28,3,1916,55.689933300000,12.571653300000
+"Andreas Christian Hendrik",Andreasen,1,14,3,1916,55.670977600000,12.549658800000
+"Emil Hjalmar Carl",Davidsen,1,8,3,1916,55.687315700000,12.558508200000
+Olga,Abrahams,2,10,3,1916,NULL,NULL
+"Helga Theodora",Appel,2,4,3,1916,55.680196700000,12.568429700000
+"Marie Laporte",Apter,2,10,3,1916,55.670548200000,12.563588600000
+"Christian Hugo Johannes",Nellemose,1,31,3,1916,NULL,NULL
+Poul,Dessau,1,14,3,1916,55.686276400000,12.591690100000
+"Marius Jensen",Adelørn,1,4,3,1916,55.688623500000,12.560001100000
+"Nanna Louise Hedvig",Aagaard,2,6,3,1916,55.689628300000,12.575065200000
+"Anders Adolf Axel",Andreasen,1,31,3,1916,55.669193600000,12.553788500000
+"Anders Theodor Villiam",Andreasen,1,21,3,1916,55.649599400000,12.613103000000
+Elin,Åkesen,2,27,3,1916,55.690066200000,12.565649600000
+"Edith Agnes",Dideriksen,2,28,3,1916,55.669514000000,12.557365600000
+"Sophus Julius",Aggerdahl,1,6,3,1916,55.665293700000,12.553234600000
+Valdemar,Aggersgaard,1,10,3,1916,NULL,NULL
+Valdemar,Aggersgaard,1,1,3,1916,55.678730100000,12.574982500000
+"August Peter Heinrich",Aarløkke,1,6,3,1916,55.666350600000,12.547341100000
+"Herman Henri",Duvies,1,10,3,1916,55.671749400000,12.562885500000
+"Johan Georg Irgens",Abel,1,24,3,1916,NULL,NULL
+"Chr. Madsen",Abilsbu,1,13,3,1916,55.669011600000,12.554495800000
+"Joachine Caroline",Ahrentz,2,24,3,1916,NULL,NULL
+"Uno Hjalmar",Danielsson,1,7,3,1916,NULL,NULL
+"Josef Robert",Dombrovsky,1,6,3,1916,NULL,NULL
+"Carl Henrik Valdemar",Dohn,1,1,3,1916,NULL,NULL
+"Theodor Valdemar",Darmer,1,4,3,1916,55.683636400000,12.565044400000
+"Olga Sofie",Andreasen,2,18,3,1916,55.659469400000,12.616399500000
+"Arnold Adolf Ludvig",Jensen,1,29,3,1916,55.692139800000,12.544542100000
+Aage,Christiansen,1,21,3,1916,NULL,NULL
+Amalie,Andersen,2,11,3,1916,55.682873500000,12.573182600000
+"Anders Christian Ingvard",Andersen,1,22,3,1916,NULL,NULL
+"Anders Christian Ingvard",Andersen,1,14,3,1916,55.683432300000,12.587160100000
+"Gustav Anders",Bergqvist,1,31,3,1916,55.682291600000,12.581789500000
+"Svend Robert",Albeck,1,25,3,1916,55.669317300000,12.545108600000
+Carl,Berthelsen,1,22,3,1916,55.682291600000,12.581789500000
+Johannes,Didriksen,1,6,3,1916,55.673517300000,12.575976700000
+Karl,Jønsson,1,21,3,1916,NULL,NULL
+"Anna Mathilde Cathrine",Arvidsen,2,13,3,1916,55.678656000000,12.588278900000
+"Erik Bergishagen",Dons,1,10,3,1916,55.672679800000,12.553734500000
+"Camilla Victoria",Andersen,2,13,3,1916,55.684492000000,12.572964000000
+"Johanne Elise Kirstine",Kristensen,2,6,3,1916,55.684212700000,12.574468800000
+Julius,Kristensen,1,10,3,1916,NULL,NULL
+"Olfert André",Bengtsson,1,18,3,1916,55.685663000000,12.594826600000
+"Ernst Arthur",Andersen,1,14,3,1916,NULL,NULL
+"Ernst Arthur",Andersen,1,1,3,1916,NULL,NULL
+"Jens Ejner",Flensborg,1,16,3,1916,55.682479500000,12.571536200000
+"Peter Vilhelm Schultz",Andreasen,1,22,3,1916,55.687036800000,12.559280800000
+"Petra Jacobine",Andreassen,2,4,3,1916,NULL,NULL
+Johan,Andersen,1,13,3,1916,55.680744100000,12.582941900000
+"Ditlev Kirketerp",Due,1,8,3,1916,55.689607800000,12.560540400000
+Rasmus,Andreasen,1,25,3,1916,55.666826500000,12.548608000000
+"Knud Hjørlund",Andersen,1,10,3,1916,55.683637500000,12.587432600000
+Sigurd,Andreasen,1,1,3,1916,55.700278200000,12.547414100000
+"Christine Vilhelmine",Jensen,2,4,3,1916,NULL,NULL
+Søren,Andersen,1,8,3,1916,NULL,NULL
+"Viola Sylvia",Andersen,2,8,3,1916,NULL,NULL
+"Thora Alma",Andersen,2,16,3,1916,NULL,NULL
+"Signe Ragnhild",Bandelin,2,1,3,1916,55.680259500000,12.584290400000
+Joseph,Brown,1,28,3,1916,NULL,NULL
+"Ella Ottine Hansine Ingstrup",Jensen,2,6,3,1916,55.676530900000,12.587039200000
+"Emma Anna Augusta",Jensen,2,15,3,1916,NULL,NULL
+Marius,Bader,1,2,3,1916,NULL,NULL
+"Erna Elisabeth Christiane",Jensen,2,3,3,1916,NULL,NULL
+"Inger Petrea Marie",Dahlsgaard,2,3,3,1916,NULL,NULL
+Marduch,Asvarishtsh,3,13,3,1916,55.672245500000,12.551886900000
+Frederik,Ahlstrøm,1,22,3,1916,55.686955500000,12.588171800000
+"Harry Rasmussen",Duelund,1,4,3,1916,55.673481800000,12.551184600000
+"Vilhelm Theodor Johan",Andresen,1,9,3,1916,NULL,NULL
+"Gothard Hjalmar",Jønson,1,29,3,1916,55.682265900000,12.582668800000
+"Hjalmer Victor Bahnsen",Birchsen,1,9,3,1916,NULL,NULL
+"Jens Peter",Jensen,1,6,3,1916,NULL,NULL
+"Jens Marinus",Jensen,1,9,3,1916,55.674680900000,12.598408800000
+"Jens William",Jensen,1,21,3,1916,55.667849800000,12.553305500000
+"Karen Elisabeth",Angelsø,2,15,3,1916,55.690762700000,12.544523100000
+"Agnete Victoria Jacobine",Ahnen,2,1,3,1916,NULL,NULL
+"Anna Clara",Härtel,2,3,3,1916,55.671841200000,12.572843100000
+"Inger Jensine",Jensen,2,21,3,1916,NULL,NULL
+Emma,Albertsen,2,9,3,1916,NULL,NULL
+"Johanne Marie Ingeborg",Jensen,2,16,3,1916,NULL,NULL
+Wolf,Brand,1,27,3,1916,NULL,NULL
+"Heinrich Carl",Dypping,1,14,3,1916,NULL,NULL
+"Marius Niels Julius",Høver,1,1,3,1916,NULL,NULL
+"Andy Elisabeth",Ander,3,30,3,1916,NULL,NULL
+"Magda Mathilde",Ander,2,30,3,1916,NULL,NULL
+"Lars Peter",Jensen,1,8,3,1916,55.682575400000,12.563804500000
+Michel,Jainberg,1,18,3,1916,NULL,NULL
+Emil,Jander,1,13,3,1916,55.678306000000,12.569661700000
+Emilia,Ankersen,2,3,3,1916,55.672803200000,12.551909700000
+"Carla Emilie",Ankerstjerne,2,1,3,1916,55.663092800000,12.600353900000
+"Frits Johan",Brøndum,1,21,3,1916,NULL,NULL
+"Esther Louise",Attrup,2,30,3,1916,NULL,NULL
+Oskar,Anderberg,1,3,3,1916,NULL,NULL
+"Emilie Marie",Caspersen,2,31,3,1916,NULL,NULL
+Marius,Jensen,1,6,3,1916,55.677117100000,12.587997900000
+"Marius Andreas",Jensen,1,28,3,1916,NULL,NULL
+Einar,Larsen,1,13,3,1916,NULL,NULL
+"Frederik Gert",Anthon,1,11,3,1916,55.703227600000,12.587075400000
+"Hans Johan",Frederiksen,1,6,3,1916,NULL,NULL
+"Erik Martin",Larsen,1,8,3,1916,NULL,NULL
+"Agnes Johanne Christine",Christensen,2,21,3,1916,NULL,NULL
+"Anna Margrethe",Jespersen,2,21,3,1916,55.695414300000,12.545849200000
+"Ida Josefina",Larsson,2,13,3,1916,NULL,NULL
+Harald,Funck,1,4,3,1916,NULL,NULL
+"Marie Elisabeth",Christiansen,2,3,3,1916,NULL,NULL
+"Einer Alexander",Funder,1,29,3,1916,NULL,NULL
+"Ellen Louise",Førsterling,2,6,3,1916,NULL,NULL
+"Hans Peter",Jespersen,1,30,3,1916,NULL,NULL
+"Ove Alfred",Gellner,1,3,3,1916,NULL,NULL
+"Peter Madsen",Gilmar,1,3,3,1916,NULL,NULL
+Giovanni,Ginocchio,1,25,3,1916,NULL,NULL
+"Ingeborg Dorthea Nielsine",Holm,2,30,3,1916,55.664872400000,12.596095900000
+Ernest,Gipser,1,17,3,1916,NULL,NULL
+Alma,Krogh,2,29,3,1916,NULL,NULL
+Alma,Krogh,2,6,3,1916,NULL,NULL
+Emma,Kristensson,2,2,3,1916,55.678474900000,12.583940500000
+"Jacob Jankel Meer",Goldstein,1,15,3,1916,NULL,NULL
+"Hans Theodor",Christensen,1,16,3,1916,NULL,NULL
+"Hans Peter Johannes",Eilersen,1,9,3,1916,NULL,NULL
+"Petra Marie",Larsen,2,28,3,1916,NULL,NULL
+"Sven Olof",Carlsson,1,2,3,1916,NULL,NULL
+"Bodil Marie",Hansen,2,20,3,1916,NULL,NULL
+Carl,Hansen,1,18,3,1916,NULL,NULL
+Alexandre,Labensky,1,14,3,1916,NULL,NULL
+"Carl Christian",Hansen,1,10,3,1916,NULL,NULL
+"Ida Caroline",Hovila,2,1,3,1916,NULL,NULL
+"Karl Christian",Hansen,1,6,3,1916,NULL,NULL
+"Gunnar Siegfred Martin",Jonsson,1,28,3,1916,55.671828700000,12.592891000000
+"Ella Johanne Margrethe",Hansen,2,3,3,1916,NULL,NULL
+"Ellen Henriette",Hansen,2,1,3,1916,NULL,NULL
+"Hjalmar Hans Peter Hansen",Høgsborg,1,3,3,1916,NULL,NULL
+Christian,Guldbæk,1,20,3,1916,NULL,NULL
+Wilhelm,Laursen,1,24,3,1916,55.685264900000,12.567927600000
+Jens,Larsen,1,27,3,1916,55.679840900000,12.589322200000
+Georg,Hansen,1,25,3,1916,55.681287300000,12.584047100000
+"Ane Catrine",Larsen,2,3,3,1916,NULL,NULL
+"Hans Carl Vilhelm Robert",Hansen,1,6,3,1916,NULL,NULL
+"Hans Christian",Hansen,1,1,3,1916,NULL,NULL
+"Gustav Frederik Nielsen",Eskebjerg,1,4,3,1916,NULL,NULL
+Jankel,Lipkin,1,14,3,1916,NULL,NULL
+"Anker Georg",Larsen,1,3,3,1916,NULL,NULL
+"Aksel Christian Werner",Larsen,1,6,3,1916,NULL,NULL
+"Peter Thomas Emil",Ljungberg,1,8,3,1916,NULL,NULL
+"Carl August Leonhard",Hasslund,1,2,3,1916,55.676896100000,12.575639600000
+"Carl Christian",Lund,1,10,3,1916,NULL,NULL
+"Max Olaf",Madsen,1,31,3,1916,NULL,NULL
+"Hedvig Sofie",Mortensen,2,6,3,1916,NULL,NULL
+"Inger Maria",Petersen,2,18,3,1916,55.682895700000,12.588877100000
+Margrethe,Nielsen,2,14,3,1916,55.682910400000,12.567026300000
+"Nils Ivar",Persson,1,17,3,1916,55.677235500000,12.587903000000
+"Martha Sofie Frederikka",Månsen,2,12,3,1916,NULL,NULL
+"Anna Hansine",Hansen,2,2,3,1916,NULL,NULL
+"Christine Holst",Stenbryggen,2,3,3,1916,55.689126600000,12.583977800000
+"Louise Christine",Mossberg,2,20,3,1916,NULL,NULL
+"Jacob Julius",Hansen,1,8,3,1916,NULL,NULL
+"Hans Peter",Nielsen,1,21,3,1916,55.667352200000,12.548999700000
+Edvin,Møller,1,24,3,1916,NULL,NULL
+Valdemar,Hansen,1,9,3,1916,NULL,NULL
+"Hermann Marinus",Nielsen,1,27,3,1916,NULL,NULL
+"Karen Johanne",Petersen,2,23,3,1916,NULL,NULL
+"Albert Viggo",Nielsen,1,9,3,1916,NULL,NULL
+"Alinda Augusta",Nielsen,2,25,3,1916,NULL,NULL
+"Emil Bernhard",Svensson,1,8,3,1916,NULL,NULL
+"Frederik Jacob Marius",Wallentin,1,10,3,1916,NULL,NULL
+"Jacobine Kristine",Nielsen,2,12,3,1916,NULL,NULL
+"Anna Caroline",Nielsen,2,1,3,1916,NULL,NULL
+"Nelly Marie",Markussen,2,31,3,1916,NULL,NULL
+Jens,Nielsen,1,29,3,1916,NULL,NULL
+"Christen Nielsen",Svoldgaard,1,23,3,1916,NULL,NULL
+"Carla Lea",Sørensen,2,4,3,1916,NULL,NULL
+"Carl Just",Søndergaard,1,22,3,1916,NULL,NULL
+"Martha Nielsine",Søndergaard,2,27,3,1916,NULL,NULL
+"Sigrid Kamma Blenda",Wallin,2,3,3,1916,NULL,NULL
+"Ane Jenny Christine",Nissen,2,6,3,1916,NULL,NULL
+Mary,Sørensen,2,1,3,1916,NULL,NULL
+"Metty Alfrida Marie",Sørensen,2,13,3,1916,NULL,NULL
+"Hartvig Albrecht",Sørensen,1,28,3,1916,NULL,NULL
+"Louis Michael",Sørensen,1,30,3,1916,NULL,NULL
+"Anna Cathrine",Jensen,2,2,3,1916,NULL,NULL
+"Martin Christian",Sørensen,1,13,3,1916,NULL,NULL
+"Mette Kathrine",Sørensen,2,3,3,1916,NULL,NULL
+"Christian Vilhelm",Malmstrøm,1,10,3,1916,NULL,NULL
+"Christen Vilhelm Schmidt",Vilhelmsen,1,8,3,1916,55.679840900000,12.589322200000
+"Axel Marius",Rasmussen,1,14,3,1916,NULL,NULL
+"Viggo Alfred",Christensen,1,17,3,1916,55.690283800000,12.562463600000
+"Christian  Lund Jensen",Tang,1,1,3,1916,NULL,NULL
+"Orla Gundorf",Møller,1,7,3,1916,NULL,NULL
+"Georg Vilhelm Peter",Rasmussen,1,22,3,1916,NULL,NULL
+"Henrik Josef Kristian Hans",Rasmussen,1,2,3,1916,NULL,NULL
+Karen,Rasmussen,2,3,3,1916,NULL,NULL
+"Esther Isidora Bendikta",Weithz,2,2,3,1916,55.677235500000,12.587903000000
+Nosson,Pine,1,14,3,1916,NULL,NULL
+"Harry Palmon",Westerberg,1,10,3,1916,55.684553400000,12.570725700000
+"Aage Christian",Wibolt,1,4,3,1916,55.682941200000,12.576074500000
+"Jørgen Peter Hjort",Nielsen,1,3,3,1916,55.677962500000,12.581979200000
+"Jørgen Jørgensen",Thomsen,1,16,3,1916,NULL,NULL
+"Aage Robert Henry",Winkel,1,11,3,1916,55.678669500000,12.588663900000
+"Laura Margrethe",Nielsen,2,7,3,1916,NULL,NULL
+"Christian Frederik",Voigt,1,23,3,1916,NULL,NULL
+Georg,Zander,1,3,3,1916,55.681551700000,12.584489100000
+Rasmus,Petersen,1,7,3,1916,NULL,NULL
+Margrethe,Mørck,2,2,3,1916,NULL,NULL
+Morten,Nielsen,1,25,3,1916,NULL,NULL
+"Dora Eleonora Margrethe",Østergaard,2,6,3,1916,NULL,NULL
+"Niels Christian",Nielsen,1,2,3,1916,NULL,NULL
+"Niels Jacob",Nielsen,1,30,3,1916,NULL,NULL
+"Syster Ruth",Petersen,2,14,3,1916,55.681193400000,12.572539100000
+"Thora Marie Elisabeth",Petersen,2,15,3,1916,NULL,NULL
+Valdemar,Petersen,1,7,3,1916,NULL,NULL
+"Vanda Christine Emilie",Neidel,2,22,3,1916,NULL,NULL
+"Olga Antoinette",Nielsen,2,10,3,1916,NULL,NULL
+"William Adolf",Olsen,1,4,3,1916,NULL,NULL
+"Marie Louise Lucie",Mayerat,2,4,3,1916,NULL,NULL
+"Carl Leo",Petersen,1,29,3,1916,NULL,NULL
+"Dagmar Augusta Marie",Poulsen,2,3,3,1916,NULL,NULL
+"Alma Viktoria",Petersson,2,21,3,1916,55.677605600000,12.581184600000
+"Ellen Alma Caroline",Deichmann,2,1,3,1916,NULL,NULL
+Arild,Keidser,1,28,3,1916,55.680514200000,12.581427500000
+"William George",Kirk,1,3,3,1916,55.682958200000,12.573580500000
+"Anna Carla Christine",Petersen,2,3,3,1916,NULL,NULL
+"Anna Elise",Petersen,2,16,3,1916,NULL,NULL
+"Anne Christine",Pedersen,2,13,3,1916,NULL,NULL
+Axel,Petersen,1,10,3,1916,NULL,NULL
+"Broder Joachim",Petersen,1,31,3,1916,NULL,NULL
+"Christian Constantin",Degn,1,3,3,1916,55.681551700000,12.584489100000
+"Bertha Theodora",Sonne,2,8,3,1916,NULL,NULL
+"Gerda Thora Sofie",Petersen,2,2,3,1916,NULL,NULL
+"Gerda Thora Sofie",Petersen,2,25,3,1916,NULL,NULL
+Gotfred,Petersen,1,30,3,1916,NULL,NULL
+Emma,Meyer,2,5,3,1916,NULL,NULL
+"Gustav Christian",Hansen,1,7,3,1916,55.690024800000,12.559385600000
+"Karla Louise Christine",Kristensen,2,21,3,1916,NULL,NULL
+"Ingeborg Nielsine",Andersen,2,1,3,1916,NULL,NULL
+"Johanne Emilie",Andersen,2,15,3,1916,NULL,NULL
+"Johanne Marie Margrethe Cornelia",Andersen,2,22,3,1916,NULL,NULL
+"Ellen Marie",Buch,2,21,3,1916,55.691233800000,12.556375400000
+"Oda Ina Marie Magdalene",Buch,2,1,3,1916,55.693580700000,12.542519500000
+"Karen Christiane",Bremer,2,3,3,1916,NULL,NULL
+"Andreas Emil",Hansen,1,16,3,1916,NULL,NULL
+"Anker Ivan Henrik Flarius Balduin Gerlach",Hansen,1,16,3,1916,NULL,NULL
+Ellen,Christensen,2,22,3,1916,NULL,NULL
+"Arne Vincent Brummersted",Hansen,1,15,3,1916,55.689662700000,12.571545500000
+"Reinhold Olof Edvard",Brink,1,13,3,1916,NULL,NULL
+"Elly Jensine",Hansen,2,1,3,1916,NULL,NULL
+"Lars Peter",Andersen,1,17,3,1916,NULL,NULL
+Håkan,Håkansson,1,23,3,1916,55.692680700000,12.555987900000
+"Elsa Vilhelmine",Hansson,2,10,3,1916,55.699536500000,12.541242300000
+"Axel Johan",Hansen,1,1,3,1916,55.686650700000,12.549576400000
+"Axel Viggo Emil Theodor",Hansen,1,2,3,1916,55.685665000000,12.567879300000
+"Emma Magdalene",Hansen,2,4,3,1916,NULL,NULL
+"Axel Vilhelm Georg",Hansen,1,6,3,1916,NULL,NULL
+"Marie Oline",Andersen,2,17,3,1916,NULL,NULL
+Marius,Andersen,1,14,3,1916,55.699140200000,12.540540300000
+Marius,Andersen,1,24,3,1916,55.693297000000,12.552142200000
+"Mary Claudine",Andersen,2,10,3,1916,55.674248300000,12.550584200000
+"Jens Peter Christian",Michelsen,1,14,3,1916,NULL,NULL
+"Anders Peter",Andersen,1,28,3,1916,55.685680700000,12.548910200000
+"Robert Arnold Hjalmar",Frølander,1,27,3,1916,55.687596300000,12.557444200000
+"Alfred Carl",Husen,1,1,3,1916,NULL,NULL
+"Niels Peter",Andersen,1,4,3,1916,NULL,NULL
+Carl,Hansen,1,1,3,1916,NULL,NULL
+Georg,Hansen,1,22,3,1916,55.679840900000,12.589322200000
+"Hilda Cecilia",Morgan,2,21,3,1916,NULL,NULL
+"Christian Viggo Emilius",Hansen,1,7,3,1916,NULL,NULL
+"Christiane Marie",Hansen,2,8,3,1916,55.700582900000,12.577158200000
+"Carl Henrik Marinus Johannes",Bøger,1,1,3,1916,NULL,NULL
+"Carl Thorvald",Mortensen,1,30,3,1916,NULL,NULL
+"Marie Mette Cathrine",Bennesen,2,1,3,1916,NULL,NULL
+Cecilie,Andersen,2,29,3,1916,55.687797300000,12.553190700000
+"Anna Christine",Andersen,2,1,3,1916,NULL,NULL
+"Ditlev Julius Thorvald",Busk,1,15,3,1916,NULL,NULL
+"Hansine Kirstine Hansen",Busch,2,1,3,1916,NULL,NULL
+"Dagmar Louise",Hansen,2,1,3,1916,55.686591800000,12.548625400000
+"Jens Henrik",Frederiksen,1,21,3,1916,55.691850000000,12.557854900000
+"Poul Martin August",Børgesen,1,6,3,1916,NULL,NULL
+"Adolf Johan Henry",Bøttcher,1,3,3,1916,55.685333800000,12.557256100000
+"David Alfred Emanuel",Karlsson,1,4,3,1916,NULL,NULL
+"Erik Johan",Carlsen,1,1,3,1916,NULL,NULL
+"Frida Marie",Karlsson,2,22,3,1916,55.688243700000,12.559353300000
+"Johannes Ferdinand",Carlsen,1,14,3,1916,NULL,NULL
+"Laura Rasmine",Carlsen,2,2,3,1916,NULL,NULL
+"Edvard Ignatus",Hansson,1,15,3,1916,NULL,NULL
+"Carl Nielsen",Hansen,1,28,3,1916,NULL,NULL
+"Per Manfred",Carlsson,1,9,3,1916,55.669961200000,12.550037300000
+Carl,Andersen,1,21,3,1916,NULL,NULL
+"Johannes Christian Kjerdi",Frederiksen,1,1,3,1916,NULL,NULL
+"Othine Dagmar",Andersen,2,13,3,1916,55.689807800000,12.554798000000
+Christian,Christiansen,1,21,3,1916,NULL,NULL
+"Christian Johan",Christiansen,1,2,3,1916,NULL,NULL
+"Astrid Christine",Eg,2,18,3,1916,55.668529500000,12.538655200000
+"Klara Maria Josfine",Hansson,2,7,3,1916,55.689936900000,12.559118700000
+"Carl Johan Bernhard",Nielsen,1,2,3,1916,NULL,NULL
+"Carl Osvald",Bengtson,1,23,3,1916,NULL,NULL
+"Henry Valdemar",Sand,1,25,3,1916,NULL,NULL
+Gottfrid,Kristiansson,1,10,3,1916,55.664378600000,12.519254000000
+"Hans Aage",Christiansen,1,7,3,1916,NULL,NULL
+"Carl Skovbo",Nielsen,1,8,3,1916,NULL,NULL
+"Christian Albert",Hansen,1,14,3,1916,NULL,NULL
+"Thue Johannes Jørgen Fallesen",Schmidt,1,3,3,1916,NULL,NULL
+Alfred,Hansen,1,24,3,1916,NULL,NULL
+"Ane Mette",Christensen,2,6,3,1916,NULL,NULL
+"Johan Emil Valdemar",Hasslund,1,28,3,1916,55.671796700000,12.558442000000
+"Johan Emil Valdemar",Hasslund,1,1,3,1916,55.676896100000,12.575639600000
+"Astrid Christine Frederikke",Christensen,2,13,3,1916,NULL,NULL
+"Axel Carl Christian Johannes",Christensen,1,7,3,1916,NULL,NULL
+"Johannes Knud Gert Bromme",Halberg,1,19,3,1916,NULL,NULL
+"Gottfried Ingold Ferdinand",Hallgren,1,4,3,1916,NULL,NULL
+"Anna Alexandra Dorthea",Hansen,2,7,3,1916,55.689384400000,12.556322500000
+"Hans Lind Sofus",Carlsen,1,15,3,1916,55.671570400000,12.558247700000
+Jørgen,Bentzen,1,20,3,1916,NULL,NULL
+"Charles Georg Gordon",Nielsen,1,13,3,1916,NULL,NULL
+"Charluff Marius",Nielsen,1,9,3,1916,NULL,NULL
+"Dagny Marie",Eklund,2,27,3,1916,55.670584200000,12.563976900000
+"Sigurd Harald",Ellefsen,1,3,3,1916,NULL,NULL
+"Eiler Herluf Holtse",Andersen,1,10,3,1916,55.691340900000,12.563574500000
+"Ida Louise",Björk,2,30,3,1916,55.691340900000,12.563574500000
+Christine,Christensen,2,1,3,1916,NULL,NULL
+"Laura Margrethe",Ramløse,2,8,3,1916,NULL,NULL
+Esther,Hauerslev,2,23,3,1916,55.706689500000,12.581372100000
+"Albert Julius",Hansson,1,1,3,1916,55.691101300000,12.559026800000
+"Gerda Hansine",Haurholm,2,15,3,1916,55.690545400000,12.558595800000
+"Astrid Elisabeth",Givskov,2,10,3,1916,NULL,NULL
+"Edvard Christian Tommerup",Andersen,1,9,3,1916,NULL,NULL
+"Hans Peter Martin",Christensen,1,1,3,1916,NULL,NULL
+"Elon Andreas",Anderson,1,27,3,1916,55.689844200000,12.558191200000
+"Hansine Dorthea",Christensen,2,21,3,1916,NULL,NULL
+"Anna Olsen",Berg,2,1,3,1916,NULL,NULL
+Erik,Andersson,1,13,3,1916,NULL,NULL
+"Jens Christian",Christensen,1,29,3,1916,NULL,NULL
+"Ivan Valdemar",Kallman,1,7,3,1916,NULL,NULL
+"Vilhelm Johannes",Häggström,1,10,3,1916,55.668945700000,12.549800300000
+"Theodor Marius",Clausen,1,18,3,1916,NULL,NULL
+"Ditlev Emanuel",Berger,1,9,3,1916,55.692152300000,12.568563700000
+"Anna Marie",Clausen,2,23,3,1916,NULL,NULL
+"Jon Sigurdur",Bergmann,1,1,3,1916,NULL,NULL
+"Hans Peter",Scherning,1,13,3,1916,NULL,NULL
+"Ellen Christine",Clausen,2,1,3,1916,NULL,NULL
+"Holger Anker Nicolai",Clausen,1,9,3,1916,55.684476100000,12.569958100000
+"Vilhelmine Marie",Heindorff,2,18,3,1916,55.690272400000,12.575396200000
+"Johanne Marie",Christensen,2,1,3,1916,NULL,NULL
+Selma,Bertelsen,2,20,3,1916,NULL,NULL
+Selma,Bertelsen,2,23,3,1916,NULL,NULL
+Selma,Bertelsen,2,6,3,1916,NULL,NULL
+"Lovise Christine",Schiebler,2,21,3,1916,NULL,NULL
+"Laura Martine",Christensen,2,6,3,1916,NULL,NULL
+"Holger Emil",Andersen,1,9,3,1916,NULL,NULL
+"August Schults",Jørgensen,1,25,3,1916,NULL,NULL
+"Ragnhild Sofie",Grevskott,2,1,3,1916,55.690245100000,12.565282400000
+"Victoria Valborg",Andersen,2,7,3,1916,NULL,NULL
+"Yrsa Erna Carla Martine",Andersen,2,21,3,1916,NULL,NULL
+"Peter Laursen",Bager,1,14,3,1916,55.684477100000,12.570973400000
+"Peter Laursen",Bager,1,23,3,1916,55.689399100000,12.557048600000
+"Julius Alfred",Bjerregaard,1,28,3,1916,NULL,NULL
+"Julius Alfred",Bjerregaard,1,2,3,1916,NULL,NULL
+"Viller Ole",Andersen,1,21,3,1916,55.688829300000,12.554279100000
+"Ellen Helfrida Elisabeth",Nielsen,2,16,3,1916,NULL,NULL
+Einer,Groth,1,29,3,1916,NULL,NULL
+"Olga Senia Johanne",Hertz,2,22,3,1916,NULL,NULL
+"Martha Juliane Kvistgaard",Christensen,2,22,3,1916,NULL,NULL
+"Elma Christine",Nielsen,2,6,3,1916,NULL,NULL
+"Christian Thomsen",Barfoed,1,8,3,1916,55.687118400000,12.548945800000
+"Lars Vilhelm",Grønning,1,29,3,1916,NULL,NULL
+"Else Elisabeth",Nielsen,2,4,3,1916,NULL,NULL
+"Johannes Christian Cornelius Foght",Bjørnemose,1,13,3,1916,55.688306300000,12.561484800000
+"Henriette Maren Kirstine",Henriksen,2,10,3,1916,NULL,NULL
+"Heinrich Planck",Henriksen,1,1,3,1916,NULL,NULL
+"Oskar Thorvald",Ferdinandsen,1,15,3,1916,NULL,NULL
+"Niels Peter",Christoffersen,1,30,3,1916,55.694920800000,12.543500100000
+"Svend Aage Julius",Christoffersen,1,31,3,1916,NULL,NULL
+"Helga Olivia",Hermansen,2,1,3,1916,NULL,NULL
+Pauli,Hermansen,1,15,3,1916,NULL,NULL
+"Axel Poul Henry",Herreholm,1,21,3,1916,NULL,NULL
+"Carl Oscar Theodor Christian",Blohm,1,10,3,1916,NULL,NULL
+"Axel Johannes",Jensen,1,18,3,1916,NULL,NULL
+Peter,Hansen,1,13,3,1916,NULL,NULL
+"Peter Helmer Ulrik",Hansen,1,10,3,1916,NULL,NULL
+"Hans Christian Alfred",Hansen,1,22,3,1916,55.682265900000,12.582668800000
+"Hans Erik",Hansen,1,25,3,1916,NULL,NULL
+"Hans Frederik Dion",Jensen,1,15,3,1916,55.689940200000,12.554597000000
+"Gustaf Ludvig Teodor Olausson",Johansson,1,24,3,1916,NULL,NULL
+"Gustaf Ludvig Teodor Olausson",Johansson,1,5,3,1916,55.686882400000,12.556957700000
+"Niels Christian",Hansen,1,10,3,1916,55.692340800000,12.564339100000
+"Agnes Marie Christine",Jonassen,2,2,3,1916,55.678107000000,12.571020900000
+Jens,Hansen,1,23,3,1916,55.686754400000,12.560803600000
+"Viggo Anton Storm",Jensen,1,6,3,1916,NULL,NULL
+"Jens Peter",Hansen,1,8,3,1916,55.689607800000,12.560540400000
+"Martin Christian",Jensen,1,30,3,1916,NULL,NULL
+"Marius Reinholdt",Jensen,1,15,3,1916,55.713056600000,12.573896400000
+"Niels Sofus",Hansen,1,25,3,1916,55.692416700000,12.564468700000
+"Maria Helene Martha",Israelsen,2,1,3,1916,NULL,NULL
+"August Ludvig",Johansen,1,6,3,1916,55.686650700000,12.549576400000
+Adolf,Schröder,1,3,3,1916,NULL,NULL
+"Johanne Marie",Hansen,2,30,3,1916,NULL,NULL
+"Osvald Christian Georg",Jensen,1,16,3,1916,NULL,NULL
+"Gotfred Valdemar",Jensen,1,21,3,1916,NULL,NULL
+"Alfred Christian",Jensen,1,23,3,1916,55.701439700000,12.536330600000
+"Alfrida Viggoline",Jensen,2,3,3,1916,NULL,NULL
+Peter,Jønsson,1,28,3,1916,NULL,NULL
+Christen,Jacobsen,1,14,3,1916,NULL,NULL
+"Theodor Louis",Jensen,1,3,3,1916,55.687797000000,12.557218100000
+"Theodor Louis",Jensen,1,18,3,1916,NULL,NULL
+"Poul Gerhard",Jensen,1,4,3,1916,55.684477100000,12.570973400000
+"Peter Martin",Jensen,1,3,3,1916,55.672280400000,12.545684500000
+"Gabrielle Henriette",Iversen,2,16,3,1916,55.704637200000,12.528612400000
+"Rita Johanne",Jensen,2,29,3,1916,NULL,NULL
+"Thorvald Richard",Jensen,1,1,3,1916,NULL,NULL
+"Peter Benjamin Marinus",Iversen,1,28,3,1916,NULL,NULL
+"Axel Henrik",Jæger,1,31,3,1916,NULL,NULL
+"Lars Peter",Hansen,3,1,3,1916,NULL,NULL
+"Jonas Sigfred",Johnson,1,20,3,1916,55.686291900000,12.589609200000
+"Ivar Ebbesen",Johnsen,1,3,3,1916,55.690886900000,12.554332300000
+"Niels Sophus Hansen",Johnsen,1,15,3,1916,NULL,NULL
+Laura,Hansen,2,11,3,1916,NULL,NULL
+"Ellen Karen Sofie",Jensen,2,1,3,1916,NULL,NULL
+"Hertha Vilhelmine",Jensen,2,3,3,1916,55.693217500000,12.566629400000
+"Niels Christian",Jespersen,1,28,3,1916,NULL,NULL
+"Lauritz Alfred",Hansen,1,14,3,1916,NULL,NULL
+"Einar Rudolf",Jensen,1,3,3,1916,NULL,NULL
+"Axel Hans Liebe",Jacobsen,1,19,3,1916,NULL,NULL
+"Carl Johannes",Jacobsen,1,3,3,1916,NULL,NULL
+"Einer Viggo",Jensen,1,7,3,1916,NULL,NULL
+"Dagmar Alexander Eleonora",Jensen,2,14,3,1916,NULL,NULL
+Ernst,Jensen,1,2,3,1916,NULL,NULL
+"Ernst Magnus",Jensen,1,15,3,1916,NULL,NULL
+"Sophie Emilie",Hansen,2,13,3,1916,55.689365100000,12.557999400000
+"Julie Frederikke Helene",Jensen,2,10,3,1916,NULL,NULL
+Fanny,Jensen,2,29,3,1916,NULL,NULL
+Frands,Jensen,1,25,3,1916,NULL,NULL
+"Theobald Oscar",Hansen,1,23,3,1916,NULL,NULL
+"Julius Gustav",Hansen,1,6,3,1916,NULL,NULL
+Jeppe,Jessen,1,1,3,1916,NULL,NULL
+"Jørgen Adolf Harding",Jensen,1,12,3,1916,55.684662600000,12.567605700000
+Karen,Jensen,2,2,3,1916,55.702312300000,12.580490800000
+Adina,Jönsson,2,15,3,1916,NULL,NULL
+"Caroline Christine Vilhelmine",Jensen,2,28,3,1916,NULL,NULL
+"Valdemar Barfod",Hansen,1,14,3,1916,NULL,NULL
+Johanne,Jessen,2,10,3,1916,NULL,NULL
+"Vilhelm Theodor",Hansson,1,1,3,1916,NULL,NULL
+"Leo Elias",Jensen,1,10,3,1916,NULL,NULL
+Ludovika,Jensen,2,11,3,1916,NULL,NULL
+"Magnus Marinus",Jensen,1,5,3,1916,NULL,NULL
+"Amalie Augusta Vilhelminde",Jensen,2,1,3,1916,NULL,NULL
+"Maren Carla Catinka",Jensen,2,1,3,1916,NULL,NULL
+"Maren Christine",Jensen,2,9,3,1916,NULL,NULL
+"Anton Peter",Jensen,1,15,3,1916,55.687290600000,12.547809700000
+"Christian Johannes Faurhøj",Jensen,1,11,3,1916,NULL,NULL
+"Anton Georg",Kyesgaard,1,23,3,1916,55.689759900000,12.558575700000
+"Søren Hansen",Løfberg,1,7,3,1916,55.688167200000,12.557520200000
+"Adolf Georg Valdemar",Jørgensen,1,9,3,1916,NULL,NULL
+Alfred,Larsen,1,10,3,1916,55.677085800000,12.588442400000
+"Hansine Hulda Nicoline",Johansen,2,15,3,1916,NULL,NULL
+Anna,Larsson,2,3,3,1916,55.682514500000,12.586008800000
+"Poula Ida",Selter,2,28,3,1916,NULL,NULL
+"Johannes Martin",Kyhn,1,9,3,1916,NULL,NULL
+"Hans Peter",Mathiasen,1,23,3,1916,55.668151700000,12.553259500000
+"Johan Valdemar",Johansson,1,17,3,1916,NULL,NULL
+"Johanne Margrethe",Johansen,2,7,3,1916,55.689351200000,12.563075300000
+"Johanne Marie",Johansen,2,3,3,1916,NULL,NULL
+"Anna Oda Valborg",Larsen,2,10,3,1916,55.669374200000,12.555295200000
+"Bernhard Alfred",Knudsen,1,6,3,1916,NULL,NULL
+"Sigfred Emanuel",Simonsen,1,10,3,1916,NULL,NULL
+"Georg Holger",Madsen,1,3,3,1916,55.688306300000,12.561484800000
+"Halfdan Søren Henrik Juel",Madsen,1,10,3,1916,55.670826800000,12.554402500000
+"Anton Evald Otto",Larsen,1,8,3,1916,55.697695100000,12.542902200000
+"Arnold Valdemar",Larsen,1,15,3,1916,NULL,NULL
+"Axel Henry Fritjof",Larsen,1,15,3,1916,55.690377600000,12.555473100000
+"Axel Normann",Larsen,1,22,3,1916,NULL,NULL
+"Benhard Johannes",Larsen,3,11,3,1916,55.692843600000,12.544663100000
+"Peter Valdemar",Jørgensen,1,10,3,1916,55.687910500000,12.553513700000
+"Anna Marie",Larsson,2,1,3,1916,55.684267100000,12.570478400000
+"Christian Jonas Marius",Larsen,1,11,3,1916,NULL,NULL
+"Peder Mogensen",Jørgensen,1,1,3,1916,55.687325400000,12.557126200000
+"Per Theodor",Göransson,1,14,3,1916,NULL,NULL
+"Per Theodor",Göransson,1,1,3,1916,55.691699600000,12.544615800000
+"Carla Adolfine",Larsen,2,1,3,1916,NULL,NULL
+"Carla Jacobine",Larsen,2,1,3,1916,NULL,NULL
+"Niels Christian",Johansen,1,1,3,1916,NULL,NULL
+"Selma Margrethe Elise Christine",Jørgensen,2,11,3,1916,55.690454200000,12.558329400000
+"Sigfred Orla Hagbart Julius Henrik",Jørgensen,1,21,3,1916,NULL,NULL
+"Charles Frederik Emil",Larsen,1,31,3,1916,NULL,NULL
+"Svend Haufrits",Jørgensen,1,7,3,1916,55.687551800000,12.562074000000
+Rolf,Skogster,1,21,3,1916,NULL,NULL
+"Anna Mathea",Jørgensen,2,1,3,1916,55.685186900000,12.565263100000
+"Sophus Peter Gerhard",Madsen,1,17,3,1916,NULL,NULL
+"Søren Carl Rasmus",Madsen,1,27,3,1916,55.671366500000,12.559311100000
+"Jens Christian",Larsen,1,21,3,1916,55.659084400000,12.608410900000
+"Viggo Alfred Christian",Jørgensen,1,8,3,1916,55.665686800000,12.548750300000
+"Johanne Margrethe Trine",Larsen,2,1,3,1916,NULL,NULL
+"Vilhelm Henrik",Jørgensen,1,14,3,1916,NULL,NULL
+"Jens Christian",Lund,1,27,3,1916,NULL,NULL
+"Jens Peder",Lund,1,15,3,1916,NULL,NULL
+"Julie Jacobine Rudolpha",Larsen,2,28,3,1916,55.687321600000,12.559013700000
+"Carl Viggo",Jørgensen,1,11,3,1916,55.686073200000,12.554602100000
+"Lars Christian",Larsen,1,25,3,1916,55.689345300000,12.560402300000
+"Ejner Christian Jens Ferd.",Michelsen,1,19,3,1916,NULL,NULL
+"Lauritz Fløcke",Larsen,1,1,3,1916,NULL,NULL
+"Henriette Vilhelmine",Kaiser,2,16,3,1916,NULL,NULL
+"Julie Laura Rasmine Christine",Leismann,2,28,3,1916,NULL,NULL
+"Marinus Ingemann",Larsen,1,3,3,1916,NULL,NULL
+Leon,Leks,1,16,3,1916,NULL,NULL
+Maunus,Kanstrup,1,27,3,1916,55.674081200000,12.591704000000
+"Gustav Åkesson",Lundin,1,4,3,1916,55.682941200000,12.576074500000
+Carl,Nielsen,1,6,3,1916,NULL,NULL
+Carl,Nielsen,1,30,3,1916,NULL,NULL
+"Magda Ottilia",Nielsen,2,3,3,1916,NULL,NULL
+"Marie Rasmine Margrethe",Nielsen,2,1,3,1916,NULL,NULL
+"Rasmus Marinus",Mikkelsen,1,22,3,1916,NULL,NULL
+"Fanny Thyra Eleonora",Jørgensen,2,8,3,1916,55.691913300000,12.552740400000
+Karl,Nielsen,1,1,3,1916,NULL,NULL
+Christian,Nielsen,1,31,3,1916,NULL,NULL
+Kristian,Nielsen,1,29,3,1916,NULL,NULL
+"Villiam Axel Julius",Larsen,1,15,3,1916,NULL,NULL
+Johannes,Nielsen,1,28,3,1916,NULL,NULL
+"Edith Margrethe",Lassen,2,6,3,1916,55.688415100000,12.553989500000
+"Ida Marie",Jørgensen,2,10,3,1916,NULL,NULL
+"Ingeborg Johanne",Jørgensen,2,2,3,1916,NULL,NULL
+"Christian Frederik Valdemar",Olsen,1,14,3,1916,55.691608400000,12.544337300000
+"Kai Alixius",Jørgensen,1,22,3,1916,NULL,NULL
+"Karen Marie",Nielsen,2,10,3,1916,NULL,NULL
+"Alfred Persson",Rosén,1,1,3,1916,NULL,NULL
+"Frederik Adolf",Jørgensen,1,12,3,1916,NULL,NULL
+"Hans Peter",Jørgensen,1,6,3,1916,NULL,NULL
+"Hans Peter",Jørgensen,1,20,3,1916,NULL,NULL
+"Kirsten Marie Ellgaard",Nielsen,2,11,3,1916,NULL,NULL
+Lars,Nielsen,1,20,3,1916,NULL,NULL
+"Lars Johannes Marinus",Nielsen,1,9,3,1916,NULL,NULL
+"Emma Marie",Olsen,2,8,3,1916,NULL,NULL
+Jørgen,Jørgensen,1,7,3,1916,55.687721000000,12.557956900000
+"Vilhelm Marius",Nielsen,1,5,3,1916,NULL,NULL
+"Laurids Frederik",Nielsen,1,23,3,1916,NULL,NULL
+"Gudrun Charlotte",Olsen,2,24,3,1916,55.702500400000,12.583836000000
+"Carl Peter Lauritz Ludvig",Mortensen,1,2,3,1916,NULL,NULL
+"Carl Peter Lauritz Ludvig",Mortensen,1,17,3,1916,55.693445500000,12.546880100000
+"Harald Christian Thorvald",Olsen,1,6,3,1916,55.727949700000,12.567267000000
+"Henry Valdemar Nicolaj",Olsen,1,30,3,1916,NULL,NULL
+"Berndt Edvin",Nilsson,1,8,3,1916,55.690875700000,12.559524800000
+"Søren Marius",Knudsen,1,13,3,1916,NULL,NULL
+Emil,Mortensen,1,27,3,1916,NULL,NULL
+"Marie Kirstine",Olsen,2,25,3,1916,NULL,NULL
+"Christian Albert",Nielsen,1,11,3,1916,NULL,NULL
+"Carl Sørensen",Lage,1,2,3,1916,NULL,NULL
+"Johanne Ulrikka Mathilde",Olsen,2,1,3,1916,NULL,NULL
+"Ivan August",Mortensen,1,21,3,1916,NULL,NULL
+"Ole Julius Laurentius",Olsen,1,5,3,1916,NULL,NULL
+Olof,Olsen,1,6,3,1916,NULL,NULL
+"Peter Jacob Johannes",Nielsen,1,20,3,1916,NULL,NULL
+Cathrine,Lodbjerg,2,6,3,1916,NULL,NULL
+"Hanna Oliva",Nilsson,2,16,3,1916,55.668735200000,12.554053300000
+"Poul Ulrik",Olsen,1,29,3,1916,NULL,NULL
+"Marius Thorvald",Nielsen,1,28,3,1916,NULL,NULL
+"Christine Vilhelmine",Dreyer,2,27,3,1916,55.692326300000,12.543773600000
+"Mary Henriette",Nielsen,2,6,3,1916,NULL,NULL
+"Jens Lauritz Jensen",Lok,1,1,3,1916,NULL,NULL
+"Julius Vilhelm Constantin",Loll,1,19,3,1916,NULL,NULL
+Fanny,Elling,2,8,3,1916,NULL,NULL
+"Poul Gerner",Nielsen,1,9,3,1916,NULL,NULL
+"Anna Caroline",Olsen,2,2,3,1916,NULL,NULL
+"Anna Oline",Olsen,2,1,3,1916,NULL,NULL
+"Dagmar Petrea",Nielsen,2,10,3,1916,NULL,NULL
+"Pouline Alfrida",Nilsson,2,1,3,1916,55.689936900000,12.559118700000
+"Oda Siglea",Kisum,2,6,3,1916,55.689880400000,12.558956100000
+"Frederikke Marie",Nielsen,2,1,3,1916,NULL,NULL
+"Niels August",Nielsson,1,7,3,1916,55.689653600000,12.561767700000
+"Frits Carl Vilhelm",Drøscher,1,29,3,1916,55.679228800000,12.577839100000
+Ejner,Naalby,1,6,3,1916,55.689345300000,12.560402300000
+"Niels Christian",Nielsen,1,22,3,1916,NULL,NULL
+"Edith Eleonora",Nielsen,2,20,3,1916,55.690085000000,12.558123500000
+"Christian Adolf",Kjærrumgaard,1,6,3,1916,NULL,NULL
+"Ernst Gerion Getzelius",Nicolausen,1,1,3,1916,NULL,NULL
+"Orla Gustav Burch",Nicolaisen,1,8,3,1916,55.689322100000,12.562656300000
+"Ellen Signe Sofie",Nielsen,2,18,3,1916,NULL,NULL
+"Ellen Signe Sofie",Nielsen,2,1,3,1916,NULL,NULL
+"Ivan Ferdinant",Nielsen,1,3,3,1916,NULL,NULL
+"Svend Aage",Nielsen,1,3,3,1916,NULL,NULL
+"Niels Peter Jørgen Hedemann",Kjær,1,2,3,1916,NULL,NULL
+"Viktor Helmuth Olsson",Lind,1,30,3,1916,55.690346800000,12.562324100000
+Valborg,Nielsen,2,1,3,1916,NULL,NULL
+"Valborg Bertha",Nielsen,2,15,3,1916,NULL,NULL
+"Bodil Marie",Nissen,2,9,3,1916,NULL,NULL
+"Carl Anton",Nissen,1,30,3,1916,55.687797300000,12.553190700000
+"Frederik Viktor",Noll,1,16,3,1916,NULL,NULL
+"Helga Christine",Nielsen,2,9,3,1916,NULL,NULL
+"Valdemar Aage Godtfred",Nielsen,1,30,3,1916,NULL,NULL
+"Georg Henry",Nielsen,1,21,3,1916,NULL,NULL
+"Knud Christian Peter Rack",Licht,1,22,3,1916,NULL,NULL
+"Olga Herluffine Margrethe",Levin,2,22,3,1916,NULL,NULL
+"Jens Peter Marinus Petersen",Loft,1,1,3,1916,NULL,NULL
+"Søren Sørensen",Loft,1,24,3,1916,NULL,NULL
+"Oscar Eugen",Molin,1,20,3,1916,55.706728000000,12.485608600000
+"Hans Christian Tværmose",Nielsen,1,13,3,1916,NULL,NULL
+Michael,Linetzky,1,6,3,1916,NULL,NULL
+"Henriette Thyra Charlotte Dagmar",Nielsen,2,1,3,1916,NULL,NULL
+"Henry Christian Frederik",Nielsen,1,11,3,1916,NULL,NULL
+"Carl Emil Kasmus Ludvig Stephan",Lorentzen,1,15,3,1916,NULL,NULL
+"Hans Peder",Nielsen,1,21,3,1916,55.687641100000,12.558167100000
+"Hans Peter",Nielsen,1,9,3,1916,NULL,NULL
+"Mary Frederikke",Fleron,2,4,3,1916,55.697252100000,12.587452200000
+"Amanda Kristina",Nilsson,2,16,3,1916,55.689604400000,12.560120000000
+"Alfred Christian",Christensen,1,28,3,1916,NULL,NULL
+"Anders Jørgen",Andersen,1,22,3,1916,NULL,NULL
+Hertha,Nielsen,2,6,3,1916,NULL,NULL
+"Poul Robert Otto",Madalier,1,25,3,1916,55.689351200000,12.563075300000
+"Alma Vilhelmine",Huus,2,2,3,1916,55.687084900000,12.588984500000
+"Vilhelmine Caroline",Nyhuus,2,7,3,1916,NULL,NULL
+Valdemar,Ernst,1,18,3,1916,NULL,NULL
+"Anders Sofus",Andersen,1,9,3,1916,55.689871000000,12.573687700000
+"Einer Ferdinand",Lind,1,2,3,1916,NULL,NULL
+"Johan Lauritz",Andersen,1,28,3,1916,NULL,NULL
+"Valborg Dagny",Hall,2,23,3,1916,NULL,NULL
+"Axel Johannes",Andersen,1,1,3,1916,55.686645000000,12.588461800000
+Peter,Lidstrøm,1,2,3,1916,55.688280900000,12.557655200000
+"Jens Marinus",Jennum,1,10,3,1916,55.689762700000,12.572578700000
+"Carl Marius Ludvig",Mouritzen,1,13,3,1916,55.688163400000,12.552861500000
+"Poul Frederik",Meinhardt,1,20,3,1916,NULL,NULL
+"Rasmus Holst",Mortensen,1,29,3,1916,NULL,NULL
+Astrid,Hansen,2,10,3,1916,55.691217400000,12.578050100000
+Anna,Hansen,2,1,3,1916,NULL,NULL
+"Astrid Elisabeth",Lilja,2,2,3,1916,NULL,NULL
+"Heinrich Hermann Peter",Kuhlenhenke,1,31,3,1916,NULL,NULL
+"Michael Peter",Kolling,1,15,3,1916,NULL,NULL
+"Martine Marie Petersen",Munk,2,23,3,1916,NULL,NULL
+"Hugo Dusinius",Lindegaard,1,17,3,1916,NULL,NULL
+"Sigurd Leonard",Melin,1,22,3,1916,NULL,NULL
+"Johannes Alfred",Melsted,1,17,3,1916,NULL,NULL
+"Julius Frederik",Nørregaard,1,6,3,1916,NULL,NULL
+"Oscar Frederik",Lindstrand,1,27,3,1916,55.690720600000,12.555078800000
+"John Sigfred",Lindvall,1,1,3,1916,55.690327400000,12.558364500000
+"Emil Christian",Christensen,1,9,3,1916,NULL,NULL
+"Carl Albin",Ljung,1,27,3,1916,55.690915100000,12.554999800000
+"Simon Vilhelm",Christensen,1,14,3,1916,55.682539400000,12.583823700000
+"Astid Helene",Kjær,2,4,3,1916,NULL,NULL
+"Jens Viggo Christian",Kratsmer,1,15,3,1916,NULL,NULL
+"Ingeborg Vilhelmine",Mürer,2,23,3,1916,NULL,NULL
+"Amalie Kjerstine Juliane",Christiansen,2,7,3,1916,55.694419100000,12.577435600000
+"Hans Vilhelm Jensen",Mødekjær,1,28,3,1916,NULL,NULL
+"Lars Jørgen Adam Andersen",Boe,1,2,3,1916,55.685419000000,12.592324800000
+"Ludvig Valdemar",Borch,1,25,3,1916,55.680523600000,12.589099100000
+"Yrsa Skiøltz",Christensen,2,1,3,1916,55.689565400000,12.573030200000
+Helga,Hartvigsen,2,27,3,1916,55.699258900000,12.578215500000
+Holger,Høiriis,1,27,3,1916,55.689000700000,12.572961800000
+"Carl Theodor",Jonsson,1,18,3,1916,55.680523600000,12.589099100000
+"Hans Jacob Sofus",Hansen,1,29,3,1916,NULL,NULL
+"Hans Peter",Hansen,1,31,3,1916,NULL,NULL
+"Anna Magdalene",Gravesen,2,17,3,1916,NULL,NULL
+"Fanny Mathilde Jensine",Gregersen,2,15,3,1916,NULL,NULL
+Axel,Backlund,1,16,3,1916,NULL,NULL
+"Signe Eleonora",Johnson,2,29,3,1916,55.682114300000,12.588245800000
+"Christine Nanna",Caspersen,2,20,3,1916,55.680694100000,12.589380000000
+"Hans Peter",Christiansen,1,13,3,1916,NULL,NULL
+Anton,Christiansen,1,31,3,1916,55.687549600000,12.589196600000
+Daniel,Grumstrup,1,14,3,1916,NULL,NULL
+"Kaj Aage Helmuth Bendt",Christensen,1,27,3,1916,55.697950000000,12.582297400000
+Holger,Christiansen,1,9,3,1916,NULL,NULL
+"Søren Kristian Bundgaard",Andersen,1,24,3,1916,NULL,NULL
+"Camilla Marie",Hansen,2,4,3,1916,55.690397300000,12.571357300000
+"Camilla Nicoline Josefie",Hansen,2,1,3,1916,55.681534600000,12.563041800000
+Knud,Frederiksen,1,14,3,1916,NULL,NULL
+"Niels Christian Henry",Hansen,1,28,3,1916,NULL,NULL
+"Therese Vilhelmine Henriette",Friis,2,4,3,1916,NULL,NULL
+Jens,Christiansen,1,22,3,1916,NULL,NULL
+Marie,Christiansen,2,15,3,1916,NULL,NULL
+"Oscar Ferdinand Jonas",Christiansen,1,31,3,1916,55.680523600000,12.589099100000
+"Albert Emilius Reimann",Hansen,1,13,3,1916,NULL,NULL
+"Elly Anna Louise",Hansen,2,14,3,1916,NULL,NULL
+"Knud Frederik",Grønlund,1,4,3,1916,NULL,NULL
+Alfred,Hansen,1,28,3,1916,NULL,NULL
+Søren,Christiansen,1,31,3,1916,NULL,NULL
+Harald,Borre,1,3,3,1916,55.690140800000,12.573912700000
+"Alfrida Caroline Amalie",Hansen,2,8,3,1916,NULL,NULL
+"Jens Peter Frederik Adolf Nielsen",Budtz,1,8,3,1916,55.685402900000,12.585319600000
+"Anders Vilhelm",Hansen,1,20,3,1916,NULL,NULL
+"Mary Bothilde Melby",Andersen,2,8,3,1916,NULL,NULL
+"Niels Frederik",Andersen,1,18,3,1916,55.689367000000,12.584185300000
+Jonina,Gudjonsdotter,2,16,3,1916,NULL,NULL
+Gustaf,Eklund,1,25,3,1916,55.684264300000,12.587482700000
+"Vilhelm Oskar Emanuel",Andersson,1,21,3,1916,55.680523600000,12.589099100000
+"Karen Hansine Carla",Hansen,2,14,3,1916,55.669357600000,12.543873200000
+Lauritz,Hansen,1,10,3,1916,55.684374100000,12.585246800000
+"Hans Paul",Hansen,1,25,3,1916,NULL,NULL
+"Hans Rasmus",Hansen,1,14,3,1916,NULL,NULL
+"Margrethe Marie",Hansen,2,6,3,1916,55.686466200000,12.587381000000
+"Christiane Johanne Louise Ræhr",Jacobsen,2,1,3,1916,NULL,NULL
+"Dyveke Spani",Jacobsen,2,18,3,1916,55.695378500000,12.578783700000
+Hans,Henriksen,1,15,3,1916,NULL,NULL
+"Charlotte Josefine",Andersson,2,21,3,1916,55.680523600000,12.589099100000
+"Johanne Kirstine Larsine",Andersen,2,31,3,1916,NULL,NULL
+"Hans Marius",Henriksen,1,3,3,1916,NULL,NULL
+"Jens Christian",Espersen,1,14,3,1916,55.680523600000,12.589099100000
+Leopold,Bielegaard,1,9,3,1916,NULL,NULL
+"Peter Alfred",Helmich,1,10,3,1916,NULL,NULL
+"Julie Louise Johanne Georgine",Jensen,2,6,3,1916,55.681427900000,12.583513000000
+"Henry Christian Andreas",Brandholdt,1,27,3,1916,55.685267300000,12.594508100000
+Aage,Brasen,1,31,3,1916,55.687451700000,12.588597300000
+"Petra Marie",Jensen,2,3,3,1916,55.689351200000,12.563075300000
+"Frederik Vilhelm Christian",Andersen,1,9,3,1916,NULL,NULL
+"Niels Christian Christensen",Hem,1,30,3,1916,NULL,NULL
+"Niels Christian Christensen",Hem,1,12,3,1916,55.671330500000,12.592620700000
+"Niels Christian Christensen",Hem,1,16,3,1916,NULL,NULL
+"Asger Christian Frederik",Krogsbeck,1,8,3,1916,NULL,NULL
+Axel,Fältman,1,25,3,1916,55.680514200000,12.581427500000
+Erik,Pedersen,1,13,3,1916,NULL,NULL
+"Helga Hansine Andrea",Jensen,2,10,3,1916,NULL,NULL
+"Henry Thorvald Arthur",Jensen,1,15,3,1916,NULL,NULL
+"Julius Knud",Bendtsen,1,20,3,1916,NULL,NULL
+"Olaf Harald",Kronstad,1,28,3,1916,55.690225400000,12.573703500000
+"Agnes Rasmine",Jensen,2,6,3,1916,NULL,NULL
+"Alberti Martinus",Jensen,3,21,3,1916,55.667934800000,12.548672900000
+"Hans Andreas",Kofoed,1,18,3,1916,NULL,NULL
+"Henrik Stanley",Andersen,1,27,3,1916,55.674159300000,12.590858900000
+"Niels Christian William",Bauner,1,9,3,1916,NULL,NULL
+"Poul Hansen",Kofoed,1,6,3,1916,55.694088800000,12.577630700000
+"Poul Bjerre",Jensen,1,8,3,1916,55.680596300000,12.589573700000
+"Knudine Martha",Bremholt,2,8,3,1916,55.690571000000,12.574544800000
+"Jørgen Peter Hviid",Jørgensen,1,14,3,1916,55.680523600000,12.589099100000
+Nanna,Belling,2,3,3,1916,NULL,NULL
+"Nils Peter Johan Larsson",Bellmann,1,1,3,1916,55.688362000000,12.586143200000
+"Anna Nielsine Rigmor",Jensen,2,1,3,1916,55.700925900000,12.579732800000
+"Anna Cathrine",Jørgensen,2,7,3,1916,NULL,NULL
+Anna,Johansen,2,24,3,1916,NULL,NULL
+"Birthe Kirstine Marie",Jensen,2,7,3,1916,NULL,NULL
+"Arthur Emanuel",Jørgensen,1,14,3,1916,NULL,NULL
+"Josef Vilhelm Prytz",Jensen,1,1,3,1916,NULL,NULL
+"Julie Frederikke Sofie",Jensen,2,18,3,1916,55.686343400000,12.588796900000
+"Caroline Amalie",Jørgensen,2,2,3,1916,55.696214000000,12.574777400000
+"Julius Vilhelm Constantin",Loll,1,21,3,1916,NULL,NULL
+"Ejnar Peder Rosendahl",Kaae,1,1,3,1916,55.680523600000,12.589099100000
+"Jacob Løf",Andersen,1,1,3,1916,55.688048300000,12.583972100000
+Emilie,Clausen,2,15,3,1916,55.694444300000,12.578267200000
+"Clara Mathilda",Eriksson,2,6,3,1916,55.684476100000,12.569958100000
+"Ingeborg Victoria",Eriksson,2,17,3,1916,55.689804100000,12.558717200000
+"Axel Erenius",Bjørk,1,2,3,1916,NULL,NULL
+"Birgit Sofi",Bjørnson,2,16,3,1916,NULL,NULL
+"Anton Christensen",Laier,1,10,3,1916,NULL,NULL
+Valdemar,Liedecke,1,15,3,1916,NULL,NULL
+Adolf,Landergren,1,9,3,1916,NULL,NULL
+Carl,Lang,1,16,3,1916,NULL,NULL
+"Jens Christian",Lange,1,14,3,1916,NULL,NULL
+"Kirstine Petrea",Jensen,2,2,3,1916,NULL,NULL
+"Oluf Eiler Nordahl",Jørgensen,1,6,3,1916,55.685870500000,12.588396800000
+"Dusinus Martin",Jensen,1,11,3,1916,NULL,NULL
+"Laura Hansine",Cortzen,2,6,3,1916,55.684506500000,12.571448300000
+"Laura Hansine",Cortzen,2,15,3,1916,NULL,NULL
+"Thora Emilie",Brødsgaard,2,9,3,1916,NULL,NULL
+"Inger Christine Larsen",Lensholm,2,6,3,1916,NULL,NULL
+"Valborg Louise Antoinette",Bruun,2,18,3,1916,55.685720000000,12.586510200000
+"Ella Margrethe Block",Jensen,2,2,3,1916,55.683405100000,12.570098200000
+"Ella Marie Hansine",Jensen,2,1,3,1916,55.681133600000,12.587799900000
+"Dagmar Agathe",Christensen,2,1,3,1916,55.694918600000,12.588745300000
+"Marie Christine Augusta",Jensen,2,6,3,1916,NULL,NULL
+"Aage Albert",Ludvigsen,1,1,3,1916,NULL,NULL
+"Marinus Christian",Jensen,1,3,3,1916,NULL,NULL
+"Poul Alfred",Knudsen,1,10,3,1916,NULL,NULL
+Martin,Jensen,1,28,3,1916,NULL,NULL
+Ebbe,Lund,1,20,3,1916,NULL,NULL
+Vilhelm,Jensen,1,4,3,1916,NULL,NULL
+Mette,Jensen,2,20,3,1916,NULL,NULL
+Herman,Lundstrøm,1,22,3,1916,NULL,NULL
+Christian,Hansen,1,3,3,1916,NULL,NULL
+"Jens Kristian",Kjærgaard,1,11,3,1916,NULL,NULL
+"Jensine Marie Cathrine",Jacobsen,2,2,3,1916,55.700623000000,12.577717700000
+"Dagmar Marie",Hagemann,2,11,3,1916,55.687825000000,12.586237400000
+Herman,Knoblauch,1,28,3,1916,NULL,NULL
+"Anders Peter",Knudsen,1,22,3,1916,NULL,NULL
+"Edvard Hans Villiam",Knudsen,1,8,3,1916,NULL,NULL
+"Laura Ingeborg Henriche",Kuhl,2,16,3,1916,NULL,NULL
+"Ella Mathea",Hinrichsen,2,14,3,1916,NULL,NULL
+"Niels Johan Severin",Jensen,1,14,3,1916,NULL,NULL
+"Rigmor Sofie Dilling",Jacobsen,2,1,3,1916,NULL,NULL
+"Olga Johanne Sofie",Kæhler,2,13,3,1916,NULL,NULL
+"Ernst Hugo",Johansson,1,30,3,1916,NULL,NULL
+"Hilbert Christian",Johansen,1,22,3,1916,NULL,NULL
+"Ester Almina",Johansson,2,17,3,1916,NULL,NULL
+"Emmy Alma",Hermansen,2,10,3,1916,55.672746300000,12.552749300000
+"Lauritz Jensen",Hermansen,1,4,3,1916,NULL,NULL
+"Lars Peter",Petersen,1,7,3,1916,55.688222600000,12.554171700000
+"Alfred Theodor",Rasmussen,1,11,3,1916,55.684481600000,12.566543900000
+"Alfred Johannes",Jørgensen,1,21,3,1916,NULL,NULL
+Anna,Petersen,2,15,3,1916,NULL,NULL
+"Oscar Valdemar Andersen",Ekberg,1,1,3,1916,NULL,NULL
+"Peter Johannes",Jensen,1,10,3,1916,NULL,NULL
+"Peter Johannes",Petersen,1,29,3,1916,NULL,NULL
+Jørgen,Petersen,1,29,3,1916,NULL,NULL
+Albert,Jensen,1,20,3,1916,NULL,NULL
+Thorvald,Pedersen,1,11,3,1916,NULL,NULL
+"Jens Hansen",Petersen,1,1,3,1916,55.688980600000,12.553946900000
+"Rasmine Petrine Mikkeline",Petersen,2,1,3,1916,NULL,NULL
+"Søren Hjalmer",Petersen,1,1,3,1916,NULL,NULL
+"Hans Olaf",Petersen,1,20,3,1916,NULL,NULL
+"Anna Jensine Marie",Rasmussen,2,3,3,1916,NULL,NULL
+"Fanny Maria Karolina",Runn,2,3,3,1916,55.687952400000,12.553288100000
+"Anders Peter",Petersen,1,8,3,1916,NULL,NULL
+Niels,Petersen,1,4,3,1916,NULL,NULL
+"Thorvald Emil",Peters,1,7,3,1916,NULL,NULL
+"Wilhelm Otto",Roggemann,1,10,3,1916,55.682806900000,12.564072300000
+"Valdemar Peter Lund",Pedersen,1,18,3,1916,NULL,NULL
+"Vigandia Juliane",Petersen,2,1,3,1916,NULL,NULL
+"Viggo Jørgen Gramkou",Petersen,1,3,3,1916,NULL,NULL
+"Edmund Johan",Pedersen,1,3,3,1916,NULL,NULL
+"Alfred Emil",Placing,1,6,3,1916,NULL,NULL
+"Helga Jensine Marie",Petersen,2,18,3,1916,NULL,NULL
+"Niels Carl Christian Ditlev",Pedersen,1,21,3,1916,NULL,NULL
+"Niels Christian",Petersen,1,15,3,1916,NULL,NULL
+"Einer Rudolf",Petersen,1,31,3,1916,NULL,NULL
+Eline,Petersen,2,6,3,1916,NULL,NULL
+"Carl Henrik",Petersen,1,1,3,1916,NULL,NULL
+"Carl Henry",Pehrsson,1,17,3,1916,55.691817300000,12.559123400000
+Christian,Rasmussen,1,20,3,1916,55.684404900000,12.558157300000
+"Ellen Kirstine",Petersen,2,6,3,1916,NULL,NULL
+"Niels Peter",Petersen,1,24,3,1916,NULL,NULL
+"Johanne Marie",Petersen,2,1,3,1916,NULL,NULL
+"Ellen Dorthea",Post,2,1,3,1916,NULL,NULL
+"Christian Johannes","Rasmussen Kl. Dalby",1,1,3,1916,55.698319100000,12.544017700000
+"Johannes Frederik Fritz",Petersen,1,2,3,1916,NULL,NULL
+"Elna Anna Marie",Pedersen,2,7,3,1916,NULL,NULL
+"Elin Johanne Margrethe",Poulsen,2,1,3,1916,NULL,NULL
+"Hans Julius",Poulsen,1,6,3,1916,NULL,NULL
+"Alfred Bernhard",Pedersen,1,10,3,1916,NULL,NULL
+"Ellen Maren Eleonora",Rasmussen,2,1,3,1916,NULL,NULL
+"Astrid Nielsine",Petersen,2,4,3,1916,NULL,NULL
+"Hans Martin Valdemar",Poulsen,1,11,3,1916,NULL,NULL
+"Anna Margrethe Caroline",Petersen,2,3,3,1916,NULL,NULL
+"Hans Bæk",Rasmussen,1,29,3,1916,55.696481400000,12.547941400000
+"Jens Peder",Poulsen,1,17,3,1916,NULL,NULL
+"Christian Holger",Petersen,1,28,3,1916,NULL,NULL
+"Christian Sofus",Petersen,1,6,3,1916,NULL,NULL
+Hans,Petersen,1,6,3,1916,55.687139300000,12.548252300000
+"Anna Marie",Petersen,2,24,3,1916,55.694277000000,12.543793600000
+"Laurine Marie",Petersen,2,18,3,1916,NULL,NULL
+"Nielsine Oline",Poulsen,2,6,3,1916,NULL,NULL
+"Olga Louise",Poulsen,2,1,3,1916,NULL,NULL
+"Kaj Aage Emanuel",Madsen,1,14,3,1916,NULL,NULL
+"Mathilde Frederikke",Rasch,2,9,3,1916,55.686322600000,12.551556200000
+"Marius Carl Peter",Larsen,1,9,3,1916,55.693651600000,12.575852100000
+"Jacob Severin",Nielsen,1,1,3,1916,NULL,NULL
+"Lauritz Jessen",Madsen,1,14,3,1916,55.685267300000,12.594508100000
+"Niels Andreas",Pedersen,1,17,3,1916,NULL,NULL
+"Nils Edgard",Persson,1,17,3,1916,55.685499800000,12.566444800000
+"Else Marie Petrine",Madsen,2,1,3,1916,NULL,NULL
+Conrad,Madsen,1,8,3,1916,55.685428200000,12.566633900000
+"Christian Nørby",Madsen,1,31,3,1916,55.690140800000,12.573912700000
+"Peder Beck",Pedersen,1,16,3,1916,NULL,NULL
+"Inger Petrine Benthine Thybo",Nielsen,2,1,3,1916,55.694616400000,12.577190900000
+"Maren Kirstine",Petersen,2,1,3,1916,NULL,NULL
+"Margrethe Helene",Petersen,2,13,3,1916,NULL,NULL
+Mariane,Petersen,2,1,3,1916,NULL,NULL
+"Ib Stapf Christensen",Reinath,1,23,3,1916,NULL,NULL
+"Christian Oluf",Reinert,1,24,3,1916,NULL,NULL
+"Axel Edvard",Lyngvig,1,18,3,1916,55.689365100000,12.557999400000
+Marius,Nielsen,1,9,3,1916,55.684374100000,12.585246800000
+"Alfred Valdemar",Larsen,1,17,3,1916,55.686645000000,12.588461800000
+Anders,Larsen,1,14,3,1916,NULL,NULL
+"Carl Holger",Muhlhausen,1,30,3,1916,NULL,NULL
+"Erna Sørine",Larsen,2,1,3,1916,55.674150500000,12.575063000000
+"Antoni Holger",Møller,1,22,3,1916,55.682960300000,12.586777100000
+"Anna Cecilie Caroline",Larsen,2,1,3,1916,NULL,NULL
+"Berthold Frederik Emil",Meyer,1,16,3,1916,NULL,NULL
+"Anna Petrea",Larsen,2,6,3,1916,NULL,NULL
+"Niels Lund Nielsen",Rieck,1,3,3,1916,NULL,NULL
+"Johanne Petrine",Mohr,2,1,3,1916,NULL,NULL
+"Meta Johanne Marie",Nielsen,2,7,3,1916,55.689588400000,12.571142900000
+"Anton Christian Frederik",Nielsen,1,10,3,1916,55.669872400000,12.543488900000
+"Jens Peter",Løvskjold,1,4,3,1916,NULL,NULL
+"Axel Hans Ludvig",Nielsen,1,1,3,1916,55.683915600000,12.583050300000
+"Nelly Margrethe",Nielsen,2,18,3,1916,55.672128600000,12.578674600000
+Niels,Nielsen,1,3,3,1916,55.680523600000,12.589099100000
+"Magda Sørine Friis",Michelsen,2,28,3,1916,NULL,NULL
+"Karen Hansine",Nielsen,2,9,3,1916,55.688540000000,12.583869700000
+"Petra Caroline",Nielsen,2,1,3,1916,55.682960300000,12.586777100000
+"Anna Aurelia",Markussen,2,4,3,1916,NULL,NULL
+Andreas,Marcussen,1,7,3,1916,55.686816700000,12.589266800000
+Poulus,Nilsson,1,7,3,1916,55.666565400000,12.549957900000
+"Karen Nelly",Nielsen,2,2,3,1916,55.689791100000,12.571262000000
+"Axel Georg",Møller,1,7,3,1916,55.694866100000,12.570969400000
+Marius,Larsen,1,3,3,1916,55.680523600000,12.589099100000
+"Vilhemine Frederikke Sofie",Majborn,2,23,3,1916,NULL,NULL
+"Per Gustav",Magnusson,1,28,3,1916,NULL,NULL
+Arthur,Magnussen,1,2,3,1916,55.685419000000,12.592324800000
+"Hariet Marie",Larsen,2,1,3,1916,55.674159300000,12.590858900000
+"Carl Valdemar",Nielsen,1,8,3,1916,55.694169300000,12.587545500000
+Otto,Ottesen,1,16,3,1916,55.670714200000,12.558673000000
+"Bernhard Valdemar",Maale,1,10,3,1916,55.659143600000,12.604141200000
+Martin,Larsen,1,11,3,1916,NULL,NULL
+"Fritz Strarup",Møller,1,6,3,1916,55.683915600000,12.583050300000
+"Mette Cathrine",Larsen,2,1,3,1916,NULL,NULL
+"Carla Henriette",Nielsen,2,15,3,1916,55.689588400000,12.571142900000
+"Schalager Jordan",Nielsen,1,24,3,1916,55.680523600000,12.589099100000
+Carsten,Nielsen,1,9,3,1916,55.688748600000,12.572971000000
+"Valdemar Frederik",Larsen,1,1,3,1916,NULL,NULL
+"Svend Gustaf",Nilsson,1,3,3,1916,55.681228600000,12.583710300000
+Jørgen,Larsen,1,9,3,1916,55.686645000000,12.588461800000
+"Christian Kokholm",Nielsen,1,6,3,1916,55.688501700000,12.561708500000
+"Eigil Smith",Nielsen,1,8,3,1916,NULL,NULL
+"Jens Edvard",Olsen,1,11,3,1916,55.671805500000,12.563944100000
+"Rigmor Dagmar",Møller,2,11,3,1916,55.702286700000,12.583218200000
+"Ernst Ivan",Nilsson,1,17,3,1916,55.686471100000,12.567914700000
+"Anna Margrethe",Olsen,2,15,3,1916,NULL,NULL
+"Anna Margrethe Elisabeth",Olsen,2,2,3,1916,55.670714200000,12.558673000000
+"Hans Peter Sofus",Nielsen,1,3,3,1916,NULL,NULL
+"Poul Kaj Viggo",Felktoff,1,6,3,1916,NULL,NULL
+"Henning Severin",Nielsen,1,22,3,1916,55.680523600000,12.589099100000
+"Adolf Johannes",Rasmussen,1,6,3,1916,55.693446400000,12.576322000000
+"Thora Alberta Christiane",Petersen,2,1,3,1916,NULL,NULL
+"Vilhelmine Marie",Petersen,2,6,3,1916,NULL,NULL
+"Axel Manfred",Persson,1,9,3,1916,55.679205500000,12.569491900000
+Johan,Persson,1,16,3,1916,55.684734300000,12.583923700000
+Jens,Nielsen,1,28,3,1916,55.693815100000,12.578014900000
+"Anna Emma Christine",Petersen,2,1,3,1916,55.687555000000,12.583614900000
+"Niels Valdemar",Nielsen,1,23,3,1916,NULL,NULL
+"Niels Valdemar",Nielsen,1,1,3,1916,NULL,NULL
+Johannes,Petersen,1,18,3,1916,55.688305100000,12.586352300000
+Cathrine,Poulsen,2,7,3,1916,NULL,NULL
+"Jensine Andrea",Petersen,2,16,3,1916,NULL,NULL
+"Jens Christian",Nielsen,1,25,3,1916,NULL,NULL
+"Johanne Knuth",Petersen,2,2,3,1916,NULL,NULL
+Karen,Pedersen,2,14,3,1916,NULL,NULL
+Petrea,Olsen,2,2,3,1916,NULL,NULL
+"Hedevig Camilla Boline",Mejer,2,2,3,1916,55.689126600000,12.583977800000
+"Frode Halfdan",Petersen,1,28,3,1916,NULL,NULL
+"Anna Marie",Petersen,2,20,3,1916,NULL,NULL
+"Stig Bloye",Poulsen,1,13,3,1916,55.698299000000,12.543101200000
+"Anna Marie Petrea",Petersen,2,24,3,1916,NULL,NULL
+"Martha Johanne Caroline",Rasmussen,2,18,3,1916,55.689974700000,12.563998100000
+Christen,Thomsen,1,19,3,1916,NULL,NULL
+"Lauritz Christian",Petersen,1,7,3,1916,55.690430400000,12.558033000000
+"Mathilde Sofie",Rasmussen,2,7,3,1916,55.675377900000,12.572800900000
+"Hans Peter",Petersen,1,9,3,1916,NULL,NULL
+"Oskar Alfred",Nilsson,1,10,3,1916,NULL,NULL
+"Valdemar Branth",Qvist,1,13,3,1916,55.682198700000,12.563951000000
+Peter,Rasmussen,1,1,3,1916,NULL,NULL
+"Lavrine Sofie",Mortensen,2,15,3,1916,55.707263300000,12.586760100000
+"Rasmus Peter",Rasmussen,1,20,3,1916,55.691575800000,12.544781200000
+Rigmor,Rasmussen,2,15,3,1916,NULL,NULL
+"Rudolf Pio",Rasmussen,1,21,3,1916,NULL,NULL
+"Svend Aage",Rasmussen,1,6,3,1916,NULL,NULL
+"Paul Ferdinand",Ree,1,4,3,1916,NULL,NULL
+"Mads Peter Emil",Petersen,1,9,3,1916,NULL,NULL
+"Alfred Carl Theodor",Sørensen,1,4,3,1916,NULL,NULL
+Martin,Petersen,1,22,3,1916,NULL,NULL
+"Valdemar Theodor",Theisen,1,6,3,1916,NULL,NULL
+"Max Gunder",Petersen,1,4,3,1916,NULL,NULL
+"Anders Peter Jens",Svendsen,1,5,3,1916,NULL,NULL
+"Axel Methling Carl",Sørensen,1,23,3,1916,NULL,NULL
+"Karla Marie",Woer,2,1,3,1916,NULL,NULL
+"Niels Vad",Petersen,1,7,3,1916,NULL,NULL
+"Carl Christian",Sørensen,1,1,3,1916,NULL,NULL
+Margrethe,Rasmussen,2,6,3,1916,NULL,NULL
+"Anna Christine",Rasmussen,2,3,3,1916,55.688222600000,12.554171700000
+"Carl Emil",Rasmussen,1,18,3,1916,NULL,NULL
+"Harry Strøm",Rasmussen,1,15,3,1916,55.689367000000,12.584185300000
+"Christian Ferdinand",Rasmussen,1,1,3,1916,55.684264300000,12.587482700000
+"Carl Walfred",Petersson,1,29,3,1916,55.680477800000,12.581028000000
+"Dagmar Eleonora",Rasmussen,2,7,3,1916,55.687523400000,12.582650200000
+Peder,Pedersen,1,6,3,1916,NULL,NULL
+"Caroline Mathilde",Pedersen,2,8,3,1916,NULL,NULL
+Axel,Sjövall,1,27,3,1916,55.690032900000,12.558823100000
+Johannes,Sørensen,1,15,3,1916,NULL,NULL
+"Clara Ludovicha Hansine Christine",Petersen,2,14,3,1916,NULL,NULL
+"Petra Mary",Petersen,2,1,3,1916,NULL,NULL
+Vosilje,Tropenin,1,14,3,1916,NULL,NULL
+"Jens Laafog",Rasmussen,1,1,3,1916,55.713897000000,12.568955600000
+"Carl Emil Fredenhardt",Sørensen,1,14,3,1916,NULL,NULL
+"Jensine Christine",Rasmussen,2,1,3,1916,55.691117100000,12.579192200000
+"Svend Aage",Petersen,1,21,3,1916,NULL,NULL
+"Valdemar Ingemann",Petersen,1,10,3,1916,NULL,NULL
+"Ejner Valter",Wulff,1,15,3,1916,NULL,NULL
+"Jevel Pinkus",Swirski,1,15,3,1916,NULL,NULL
+"Emil Christian Løbnitz",Skjoldborg,1,1,3,1916,NULL,NULL
+"Albert William",Skoglund,1,11,3,1916,55.694001400000,12.546005800000
+"Jens Viggo",Thuresen,1,29,3,1916,NULL,NULL
+"Ellen Margrethe",Tvilum,2,6,3,1916,NULL,NULL
+Jacob,Szpielfogel,1,10,3,1916,NULL,NULL
+"Samuel Julius",Seligmann,1,2,3,1916,NULL,NULL
+"Axel Valdemar",Serup,1,9,3,1916,NULL,NULL
+"Mariane Nicoline",Setterberg,2,23,3,1916,NULL,NULL
+"Mariane Nicoline",Setterberg,2,8,3,1916,NULL,NULL
+"Kai Lauritz",Splid,1,16,3,1916,NULL,NULL
+"Jensine Petra",Søgaard,2,11,3,1916,NULL,NULL
+"Hans Christian",Sørensen,1,25,3,1916,NULL,NULL
+"Harald Martin Emil",Sørensen,1,21,3,1916,NULL,NULL
+"Laurits Christian",Sørensen,1,1,3,1916,NULL,NULL
+"Inger Eline Sofie",Sørensen,2,12,3,1916,NULL,NULL
+"Carl Sixten Alexander",Stjernberg,1,1,3,1916,NULL,NULL
+Franceska,Stika,2,14,3,1916,NULL,NULL
+"Søren Madsen",Sørensen,1,1,3,1916,NULL,NULL
+"Carl David",Østlund,1,13,3,1916,55.688501700000,12.561708500000
+"Thyra Johanne Jørgine",Sørensen,2,9,3,1916,55.690636200000,12.558288700000
+"Otto Valdemar",Sussemiehl,1,20,3,1916,NULL,NULL
+"Hans Peter",Warberg,1,16,3,1916,NULL,NULL
+"Hans Peter",Warberg,1,14,3,1916,55.687596300000,12.557444200000
+"Villiam Laurits",Sørensen,1,21,3,1916,NULL,NULL
+Josefine,Thomsen,2,6,3,1916,NULL,NULL
+"Niels Peter",Rasmussen,1,8,3,1916,NULL,NULL
+"Regina Hedvig Gudrun",Schjørring,2,1,3,1916,NULL,NULL
+"Osvald Carl Christian",Weile,1,10,3,1916,NULL,NULL
+"Osvald Carl Christian",Weile,1,1,3,1916,NULL,NULL
+Theodora,Schrøder,2,15,3,1916,NULL,NULL
+"Carl Vilhelm",Stein,1,30,3,1916,NULL,NULL
+"Carl Ludvig",Ringstrøm,1,16,3,1916,55.682926500000,12.584721800000
+"Søren Anker",Svendsen,1,3,3,1916,NULL,NULL
+"Nils Gullberg",Strand,1,1,3,1916,55.686291900000,12.589609200000
+"Anton Carlo Henrik Larsen",Schmidt,1,17,3,1916,55.669952000000,12.555267200000
+"Alva Sofia",Rosenstrøm,2,13,3,1916,NULL,NULL
+Bernd,Svensson,1,24,3,1916,NULL,NULL
+"Harald Robert",Schneider,1,7,3,1916,NULL,NULL
+"Anders Petersen",Søndergaard,1,31,3,1916,NULL,NULL
+Sigfrid,Wilén,1,14,3,1916,55.682707700000,12.586153300000
+"Berell Konrad",Svensson,1,10,3,1916,NULL,NULL
+"Søren Sørensen",Svanum,1,14,3,1916,55.689762700000,12.572578700000
+"Inger Jørgine Vilhelmine",Simonsen,2,1,3,1916,NULL,NULL
+"Emil Johan Martin",Schning,1,30,3,1916,NULL,NULL
+"Niels Sofus Anders",Simonsen,1,3,3,1916,NULL,NULL
+"Otto Arnold Hakon Immanuel",Simonsen,1,15,3,1916,NULL,NULL
+"Jenny Theresia",Svensson,2,21,3,1916,55.704524700000,12.585309200000
+"Margrethe Hansine",Svendsen,2,27,3,1916,NULL,NULL
+Morten,Simonsen,1,7,3,1916,NULL,NULL
+"Anna Marie Jørgine",Sørensen,2,8,3,1916,NULL,NULL
+"Arnold Egild Toke",Sørensen,1,2,3,1916,NULL,NULL
+"Carla Elvira",Sørensen,2,13,3,1916,55.689807800000,12.554798000000
+"Hans Peter",Thomsen,1,5,3,1916,NULL,NULL
+"Gudrun Rasmine",Sørensen,2,1,3,1916,NULL,NULL
+"Gustav Johannes Bülow",Sørensen,1,6,3,1916,NULL,NULL
+"Julie Elisabeth",Thomsen,2,4,3,1916,NULL,NULL
+"Edith Carla Vilhelmine Victoria",Thomsen,2,6,3,1916,NULL,NULL
+"Anders Viktor",Spritt,1,28,3,1916,NULL,NULL
+Oscar,Sørensen,1,14,3,1916,NULL,NULL
+"Oscar Valdemar",Sørensen,1,29,3,1916,NULL,NULL
+"Peter Jesper",Sørensen,1,1,3,1916,NULL,NULL
+Poula,Steiner,2,31,3,1916,NULL,NULL
+Sigrid,Sørensen,2,9,3,1916,NULL,NULL
+"Sofie Petrea",Sørensen,2,6,3,1916,NULL,NULL
+"Clara Rasmine Gerda",Christensen,2,3,3,1916,NULL,NULL
+"Olga Louise Nathalie",Tofte,2,13,3,1916,NULL,NULL
+"Carl Sigismund Pehrsson",Tørnsøe,1,31,3,1916,NULL,NULL
+"Christine Marie",Andersen,2,13,3,1916,NULL,NULL
+"Carl Krieger",Thostrup,1,3,3,1916,NULL,NULL
+"Edvin Richard Wessel",Thoudahl,1,6,3,1916,NULL,NULL
+"Jensine Sørine Marie",Andersen,2,31,3,1916,NULL,NULL
+"Agnes Kirstine",Thomsen,2,31,3,1916,NULL,NULL
+"Boris Benjaminowitsch",Bruskine,1,6,3,1916,NULL,NULL
+"Astrid Kirstine Fransiska",Thomsen,2,7,3,1916,NULL,NULL
+"August Harald Carl",Thomsen,1,18,3,1916,NULL,NULL
+"Dagmar Emilie Oda",Hansen,2,7,3,1916,NULL,NULL
+"Augusta Emilie",Hansen,2,7,3,1916,NULL,NULL
+"Augusta Mathilde Juliane",Hansen,2,2,3,1916,NULL,NULL
+Anna,Fikar,2,4,3,1916,NULL,NULL
+Anna,Johansen,2,16,3,1916,NULL,NULL
+"Dagmar Christine",Mogensen,2,3,3,1916,NULL,NULL
+Helena,Gora,2,1,3,1916,NULL,NULL
+Karin,Hedlund,2,23,3,1916,NULL,NULL
+"Valborg Marie Frederikke",Helt,2,1,3,1916,NULL,NULL
+"Ane Kirstine",Nielsen,2,1,3,1916,NULL,NULL
+"Eleonora Augusta Petersen",Gadegaard,2,15,3,1916,NULL,NULL
+"Laura Nelly",Rasmussen,2,6,3,1916,NULL,NULL
+"Olga Marie",Hormun,2,2,3,1916,NULL,NULL
+"Eva Kirstine",Balle,2,1,3,1916,NULL,NULL
+Alice,Philip,2,1,3,1916,55.681210900000,12.590218600000
+"Lavra Frederikke Henriette",Kock,2,1,3,1916,NULL,NULL
+"Thyra Johanne Amalie",Sørensen,2,1,3,1916,55.686842900000,12.595304200000
+"Gertrud Albertine Dorthea Emma Caroline",Hammerling,2,10,3,1916,NULL,NULL
+"Niels Christian",Nielsen,1,4,3,1916,NULL,NULL
+Hilding,Olsen,1,25,3,1916,NULL,NULL
+"Claus Christian",Jørgensen,1,17,3,1916,NULL,NULL
+"Jenny Henriette",Olsen,2,8,3,1916,NULL,NULL
+"Oda Charlotte",Jensen,2,2,3,1916,NULL,NULL
+"Johan Nordahl Bruhn",Rolfsen,1,20,3,1916,55.680812100000,12.583826500000
+Vilhelm,Nielsen,1,6,3,1916,NULL,NULL
+"Karen Marie",Olsen,2,6,3,1916,NULL,NULL
+Judas,Segatovitsh,1,21,3,1916,NULL,NULL
+"Olga Anna Charlotte",Seibt,2,13,3,1916,NULL,NULL
+"Maren Christine",Larsen,2,1,3,1916,NULL,NULL
+"Judit Scholomaff Morishiff",Sigalowitsch,2,25,3,1916,NULL,NULL
+"Judel Scholomoff Monscheff",Sigolowitsch,1,25,3,1916,NULL,NULL
+"Tyysia Hilja",Romo,3,11,3,1916,NULL,NULL
+Jacob,Piletzky,1,11,3,1916,NULL,NULL
+"Ingrid Andrea",Nilsson,2,1,3,1916,NULL,NULL
+"Heinrich Christian",Wümpelmann,1,2,3,1916,NULL,NULL
+"Agnes Margrethe",Andersen,2,16,3,1916,55.666775900000,12.505037900000
+"Albert Vilhelm",Andersen,1,31,3,1916,55.670994200000,12.554310600000
+Ejner,Andersen,1,1,3,1916,NULL,NULL
+"Agnes Andersmine Frederikke Marie Hansine",Andersen,2,2,3,1916,55.671295500000,12.550878400000
+Alfrida,Andersen,2,14,3,1916,NULL,NULL
+"Axel August",Andersen,1,29,3,1916,55.673082900000,12.556938600000
+"Anton Leonhard Thorvald",Andersen,1,14,3,1916,NULL,NULL
+"Anders Marius",Andersen,1,8,3,1916,NULL,NULL
+"David Martin",Andersen,1,13,3,1916,NULL,NULL
+"Karl Alfred",Andersen,1,6,3,1916,NULL,NULL
+"Carl Martin",Andersson,1,31,3,1916,NULL,NULL
+Henry,Hansen,1,29,3,1916,55.671796700000,12.558442000000
+"Henry August",Hansen,1,4,3,1916,NULL,NULL
+"Hans Peter",Hansen,1,14,3,1916,NULL,NULL
+Peter,Hansen,1,21,3,1916,NULL,NULL
+"Anna Marie",Andersen,2,3,3,1916,NULL,NULL
+Valdemar,Hansen,1,8,3,1916,55.671401500000,12.558060500000
+"Valdemar Eugen",Hansen,1,1,3,1916,55.671581300000,12.551670300000
+Vilhelm,Hansen,1,21,3,1916,NULL,NULL
+Vilhelm,Hansen,1,21,3,1916,NULL,NULL
+"Carl Christian",Andersen,1,11,3,1916,NULL,NULL
+"Hulda Marie",Hansen,2,21,3,1916,55.666396200000,12.549997100000
+"Hans Carl",Hansen,1,21,3,1916,NULL,NULL
+"Carla Christine Theodora",Andersen,2,11,3,1916,NULL,NULL
+Jens,Back,1,2,3,1916,NULL,NULL
+"Selma Victoria Oda",Bernhardt,2,18,3,1916,NULL,NULL
+"Hans Jørgen Ægedius",Hansen,1,18,3,1916,NULL,NULL
+"Hans Jørgen Ægedius",Hansen,1,7,3,1916,NULL,NULL
+"Pouline Alvilda",Hansen,2,13,3,1916,NULL,NULL
+"Magda Christine Caroline",Brandt,2,4,3,1916,NULL,NULL
+Emil,Jaudes,1,12,3,1916,NULL,NULL
+"Ida Valeska",Bliesmann,2,11,3,1916,NULL,NULL
+Gravers,Bloch,1,24,3,1916,NULL,NULL
+"Gunnar Rudolf",Blom,1,16,3,1916,55.669620000000,12.555475400000
+Emil,Jacobsen,1,13,3,1916,55.669374200000,12.555295200000
+"Christian Emil",Jacobsen,1,1,3,1916,NULL,NULL
+"Daniel Marinus Peter",Frederiksen,1,14,3,1916,55.670562300000,12.554580000000
+Johannes,Andersen,1,22,3,1916,NULL,NULL
+"John Simeon Matteus",Andersson,1,1,3,1916,55.664368800000,12.502309500000
+Theodore,Barkau,1,15,3,1916,NULL,NULL
+"Søren Albert",Hansen,1,11,3,1916,NULL,NULL
+"Axel Sofus Christian",Bovien,1,6,3,1916,NULL,NULL
+"Axel Sofus Christian",Bovien,1,12,3,1916,NULL,NULL
+"Valdemar  Edvard",Hansen,1,27,3,1916,NULL,NULL
+Oddur,Jonasson,1,23,3,1916,NULL,NULL
+"Eva Adelina",Andersen,2,1,3,1916,55.697446200000,12.579452700000
+"Lauritz Emil",Christiansen,1,8,3,1916,NULL,NULL
+"Niels Carl",Hansen,1,NULL,3,1916,NULL,NULL
+"Osvald Lauritzen",Christiansen,1,18,3,1916,55.666114100000,12.548663400000
+Christian,Christiansen,1,8,3,1916,NULL,NULL
+"Gustaf Adolf Engelbrecht",Johnsson,1,23,3,1916,55.669531400000,12.550871900000
+"Niels Peter",Hansen,1,10,3,1916,NULL,NULL
+Jacob,Johansen,1,10,3,1916,NULL,NULL
+"Laurits Viggo",Christensen,1,13,3,1916,55.664884300000,12.551707700000
+"Rosa Amalie Frederikke",Christiansen,2,1,3,1916,NULL,NULL
+"Martha Kirstine Karen Marie Andersen",Brøndum,2,18,3,1916,NULL,NULL
+"Viggo Rosenkrantz",Christiansen,1,9,3,1916,NULL,NULL
+"Agnes Johanne",Frederiksen,2,10,3,1916,NULL,NULL
+"Aron Søren Larsen",Christiensen,1,14,3,1916,55.669961200000,12.550037300000
+"Sigurd Skau",Isaksen,1,8,3,1916,55.682685800000,12.565583300000
+"Karen Emilie",Christoffersen,2,16,3,1916,NULL,NULL
+"Olga Frantsine Oda",Hansen,2,7,3,1916,NULL,NULL
+"Curt Alex Willy Edgar",Binneballe,1,2,3,1916,NULL,NULL
+Alfred,Jacobsen,1,20,3,1916,NULL,NULL
+"Martin Johannes",Andersen,1,15,3,1916,NULL,NULL
+"Jørgen Robert Hannibal",Hansen,1,2,3,1916,NULL,NULL
+"Jens Peter Vilhelm",Hansen,1,7,3,1916,NULL,NULL
+Otto,Hansen,1,22,3,1916,NULL,NULL
+Mariane,Christensen,2,3,3,1916,55.671647000000,12.562394300000
+Fanny,Clausen,2,16,3,1916,NULL,NULL
+Palmer,Buch,1,6,3,1916,NULL,NULL
+Johannes,Clausen,1,6,3,1916,NULL,NULL
+"Carl Christian",Christensen,1,24,3,1916,55.668318600000,12.549847100000
+"Jensine Christiane",Hansen,2,8,3,1916,NULL,NULL
+"Jensine Marie",Hansen,2,9,3,1916,NULL,NULL
+"Marius Christen",Hansen,1,31,3,1916,NULL,NULL
+"Richard Sofus",Clausen,1,18,3,1916,55.700531200000,12.580075000000
+"Anton Rudolf",Bengtson,1,13,3,1916,NULL,NULL
+"Axel Rudolf Wilhelm",Bengtsson,1,24,3,1916,NULL,NULL
+"Carl Johan",Bukvald,1,21,3,1916,55.667678100000,12.548645500000
+Holger,Friis,1,18,3,1916,NULL,NULL
+"Frands Anschou",Frandsen,1,5,3,1916,55.672298200000,12.562819700000
+Christen,Christensen,1,15,3,1916,NULL,NULL
+Christen,Christensen,1,8,3,1916,NULL,NULL
+"Anton Valdemar",Frandsen,1,14,3,1916,NULL,NULL
+"Janus Hakon Alfonso",Frisenborg,1,23,3,1916,NULL,NULL
+Christian,Christensen,1,7,3,1916,NULL,NULL
+"Karen Andrea",Ebbesen,2,29,3,1916,NULL,NULL
+Marna,Christensen,2,4,3,1916,NULL,NULL
+Hansine,Jacobsen,2,13,3,1916,NULL,NULL
+"Nils Rudolf",Edgren,1,25,3,1916,55.669374200000,12.555295200000
+"Olga Cecilie",Andersen,2,23,3,1916,NULL,NULL
+"Olga Elvira",Andersen,2,2,3,1916,NULL,NULL
+"Jean Vilhelm",Hansen,1,4,3,1916,NULL,NULL
+"Johan Valfred",Bengtson,1,24,3,1916,NULL,NULL
+"Oscar Alfred",Andersson,1,28,3,1916,55.670714200000,12.558673000000
+Michael,Christensen,1,23,3,1916,55.670858800000,12.559109100000
+Metea,Christensen,2,20,3,1916,NULL,NULL
+"Peter Hansen",Andersen,1,28,3,1916,NULL,NULL
+Carl,Christoffersen,1,7,3,1916,NULL,NULL
+"Lars Peter",Bentsen,1,28,3,1916,NULL,NULL
+Margrethe,Hansen,2,11,3,1916,NULL,NULL
+"Anna Cornelia",Callesen,2,17,3,1916,NULL,NULL
+Walter,Fischer,1,30,3,1916,NULL,NULL
+Walter,Fischer,1,30,3,1916,NULL,NULL
+"Edith Dagmar",Christensen,2,3,3,1916,NULL,NULL
+Trygve,Bodmar,1,8,3,1916,NULL,NULL
+"Aage Johannes",Fischer,1,23,3,1916,NULL,NULL
+"Jens Christian",Christensen,1,3,3,1916,NULL,NULL
+"Jens Christian",Christensen,1,30,3,1916,NULL,NULL
+"Jens Christian",Christensen,1,10,3,1916,NULL,NULL
+Johan,Berthelsen,1,11,3,1916,NULL,NULL
+"Laura Sofie",Bertelsen,2,23,3,1916,NULL,NULL
+Sørine,Andersen,2,5,3,1916,55.668772000000,12.551310300000
+"Frederik Nielsen",Fuglsang,1,11,3,1916,NULL,NULL
+"Vilhelm Johannes",Bech,1,14,3,1916,NULL,NULL
+"Ture Sigfred",Andersson,1,23,3,1916,55.671425100000,12.552755000000
+Rasmus,Christensen,1,16,3,1916,NULL,NULL
+Bjarne,Hilssen-Frogg,1,28,3,1916,NULL,NULL
+"Fritz August",Andersson,1,29,3,1916,55.671975300000,12.546761000000
+Emma,Christensen,2,20,3,1916,NULL,NULL
+"Gustav Adolf",Forsbom,1,1,3,1916,55.671992000000,12.548197500000
+"Hanna Mathilde",Fogelstrøm,2,7,3,1916,55.699180900000,12.581187600000
+"Valdemar Jensen",Fog,1,16,3,1916,NULL,NULL
+"Ernst Gotfred Hermann",Brandin,1,10,3,1916,NULL,NULL
+"Anna Caroline",Fentz,2,1,3,1916,NULL,NULL
+"Karl Vilhelm",Karlsen,1,8,3,1916,NULL,NULL
+"Edith Valborg",Bonnez,2,4,3,1916,NULL,NULL
+"Christian Alfred Johannes",Borch,1,18,3,1916,NULL,NULL
+"Knud Mathias Olsen",Farre,1,11,3,1916,55.671946400000,12.550783900000
+"Lauritz Olsen",Fafner,1,8,3,1916,NULL,NULL
+"Marinus Christian",Berg,1,11,3,1916,NULL,NULL
+Anna,Hansen,2,23,3,1916,NULL,NULL
+Ingeborg,Boyesen,2,9,3,1916,NULL,NULL
+Marius,Bertramsen,1,31,3,1916,NULL,NULL
+Alfred,Espensen,1,2,3,1916,NULL,NULL
+"Sofie Dagmar",Berg,2,10,3,1916,NULL,NULL
+"Erling Emanuel",Bjernsted,1,4,3,1916,NULL,NULL
+"Doris Vilhelmine Hansine",Grønlund,2,18,3,1916,NULL,NULL
+"Thora Marie",Grønvald,2,20,3,1916,NULL,NULL
+"Erik Oscar",Hansen,1,9,3,1916,NULL,NULL
+"Erna Emilie Hansine",Hansen,2,7,3,1916,NULL,NULL
+Carl,Hansen,1,21,3,1916,55.670424800000,12.562710200000
+"Hans Peter",Frederiksen,1,11,3,1916,NULL,NULL
+Peter,Bringfelt,1,21,3,1916,NULL,NULL
+"Vaclawa Jozefa",Garlej,2,10,3,1916,NULL,NULL
+Johanna,Evaldsson,2,18,3,1916,55.671695700000,12.557759600000
+"Alfred Theodor",Evald,1,30,3,1916,NULL,NULL
+"Aage Erik",Holm,1,23,3,1916,NULL,NULL
+"Marie Nielsine",Frederiksen,2,2,3,1916,55.699612100000,12.541182400000
+Aage,Hansen,1,1,3,1916,NULL,NULL
+"Ernst Ragnar",Benander,1,8,3,1916,55.682707700000,12.586153300000
+Bernhardt,Bjerregaard,1,31,3,1916,NULL,NULL
+Ejnar,Carlsen,1,20,3,1916,NULL,NULL
+"Carl Christian",Hansen,1,18,3,1916,NULL,NULL
+"Agnes Eleonora Marie",Christiansen,2,3,3,1916,NULL,NULL
+"Anna Marie",Hansen,2,27,3,1916,55.670272900000,12.549714300000
+"Gunni Jens Preben",Hansen,3,10,3,1916,NULL,NULL
+"Bodil Martine",Holm,2,1,3,1916,NULL,NULL
+"Sigfred Simon",Brauner,1,3,3,1916,NULL,NULL
+"Christine Marie Hansine",Hansen,2,1,3,1916,NULL,NULL
+"Johan Ludvig",Henriksen,1,8,3,1916,NULL,NULL
+"Karen Rasmussen",Grønvang,2,1,3,1916,NULL,NULL
+"Anna Jensine Abelone Marie",Christiansen,2,14,3,1916,NULL,NULL
+"Hanne Margrethe",Hansen,2,2,3,1916,NULL,NULL
+"Arthur Frederik",Christiansen,1,22,3,1916,NULL,NULL
+Christian,Hansen,1,21,3,1916,NULL,NULL
+Magnus,Hedegaard,1,18,3,1916,NULL,NULL
+"Elna Dusine Karentine",Hansen,2,14,3,1916,55.683889800000,12.586574600000
+"Ernst Marius",Bruun,1,25,3,1916,NULL,NULL
+Einar,Hansen,1,21,3,1916,55.671394300000,12.549636000000
+"Agnes Marie",Brechmer,2,16,3,1916,55.671484600000,12.552439500000
+"Holger Leontinus",Holm,1,16,3,1916,55.665641600000,12.554332100000
+"Ella Magdalene Kirstine Jacobi",Hansen,2,7,3,1916,NULL,NULL
+"Jens Peter Ingemann",Christensen,1,26,3,1916,NULL,NULL
+"Ellen Hedvig",Hansen,2,6,3,1916,55.671969200000,12.561454000000
+Ellen,Gundorph,2,8,3,1916,NULL,NULL
+Poul,Henriksen,1,21,3,1916,NULL,NULL
+"Marie Sofie",Holm,2,6,3,1916,55.704266000000,12.581477700000
+Huna,Grinchtein,3,10,3,1916,NULL,NULL
+"Emilie Marie",Hansen,2,23,3,1916,55.671753700000,12.550796100000
+Valdemar,Holm,1,20,3,1916,NULL,NULL
+Giovanni,Catalano,1,23,3,1916,55.671647000000,12.562394300000
+"Johanne Christine Bjørnkjær",Christensen,2,17,3,1916,NULL,NULL
+"Ettare Eugenio Flice",Cavalline,1,30,3,1916,NULL,NULL
+"Christian Vilhelm",Hansen,1,7,3,1916,NULL,NULL
+Kathrine,Jensen,2,6,3,1916,NULL,NULL
+Frederik,Jensen,1,11,3,1916,NULL,NULL
+"Alma Marie",Gustavsen,2,24,3,1916,55.669536300000,12.543735900000
+"Emilie Rosa",Carlsen,2,2,3,1916,55.671122500000,12.549650900000
+Elisa,Brill,2,7,3,1916,55.691217400000,12.578050100000
+Georg,Jensen,1,15,3,1916,NULL,NULL
+Hans,Jensen,1,31,3,1916,NULL,NULL
+"Niels Kirkegaard",Jensen,1,14,3,1916,55.672008700000,12.549898400000
+"Ludvig Jørgen",Heiden,1,29,3,1916,55.669905000000,12.550175600000
+Johannes,Christensen,1,6,3,1916,NULL,NULL
+"Niels Laurits",Jensen,1,18,3,1916,55.668760400000,12.553928600000
+"Niels Peter",Jensen,1,17,3,1916,55.671484600000,12.552439500000
+"Niels Peter Fabricius",Jensen,1,21,3,1916,NULL,NULL
+Jens,Jensen,1,26,3,1916,NULL,NULL
+"Alfred Johannes Richard",Gormsen,1,7,3,1916,NULL,NULL
+"Oda Mathilda Helene",Jensen,2,2,3,1916,NULL,NULL
+"Palle Johannes Christian",Jensen,1,3,3,1916,NULL,NULL
+"Anna Dorthea Jensine",Jensen,2,10,3,1916,NULL,NULL
+"Aage Emanuel",Jeppesen,1,1,3,1916,NULL,NULL
+"Viggo Lauritz",Jeppesen,1,23,3,1916,NULL,NULL
+"Ernst Martin",Gertsen,1,27,3,1916,NULL,NULL
+Aron,Halasken,1,1,3,1916,NULL,NULL
+"Jens Jacob Valdemar",Jensen,1,7,3,1916,NULL,NULL
+"Oscar Henry",Jensen,1,8,3,1916,NULL,NULL
+"Dina Elisabeth",Reventlov-Ginge,2,18,3,1916,NULL,NULL
+"Jens Johannes Thorvald",Jensen,1,17,3,1916,55.666565400000,12.549957900000
+Agnes,Gjørup,2,13,3,1916,NULL,NULL
+"Ove Juul",Jensen,1,23,3,1916,NULL,NULL
+"Peder Siegfred Julius",Jensen,1,6,3,1916,NULL,NULL
+"Oscar Gotfred Henrik",Carlsson,1,9,3,1916,55.671647000000,12.562394300000
+"Carl Johan",Grenander,1,2,3,1916,55.672601600000,12.560789900000
+"Carl Johan",Grenander,1,3,3,1916,NULL,NULL
+"Jens Peter",Jensen,1,6,3,1916,NULL,NULL
+"Frederik Emil",Hilbert,1,6,3,1916,NULL,NULL
+"Anna Mathilde Kirstine",Jensen,2,7,3,1916,55.671067200000,12.560406700000
+"Thora Camilla",Jensen,2,15,3,1916,NULL,NULL
+"Signe Elvira",Carlsson,2,30,3,1916,55.680812100000,12.583826500000
+Valter,Grozna,1,27,3,1916,55.671133000000,12.563577500000
+Valter,Grozna,1,14,3,1916,55.671294100000,12.558530900000
+"Anna Olga",Jensen,2,28,3,1916,55.681133600000,12.587799900000
+"Jørgen Christian",Jensen,1,8,3,1916,NULL,NULL
+"Caroline Sofie Ilse",Havemann,2,23,3,1916,55.672059200000,12.551907400000
+Poula,Groth,2,7,3,1916,NULL,NULL
+"Georg Arnold",Grauleff,1,31,3,1916,NULL,NULL
+"Ane Margrethe",Graves,2,18,3,1916,NULL,NULL
+"Armand Aage Aksel",Jensen,1,17,3,1916,NULL,NULL
+Arnee,Chang,1,8,3,1916,NULL,NULL
+"Henry Dahlerup",Jensen,1,6,3,1916,NULL,NULL
+Hermann,Jensen,1,21,3,1916,55.688292900000,12.553719300000
+"Niels Christian",Jacobsen,1,4,3,1916,NULL,NULL
+"Niels Christian Viggo",Jacobsen,1,6,3,1916,NULL,NULL
+"Niels Henry",Jacobsen,1,10,3,1916,NULL,NULL
+"Søren Johannes",Jensen,1,21,3,1916,NULL,NULL
+"David Georg Emanuel",Gustavson,1,31,3,1916,NULL,NULL
+"Edith Emilie",Gustavsen,2,4,3,1916,NULL,NULL
+"Gustav Frederik",Gustafsson,1,31,3,1916,NULL,NULL
+"Einar Magnus Blisman",Jensen,1,10,3,1916,55.670787800000,12.562567900000
+Niels,Birk,1,13,3,1916,NULL,NULL
+Regnar,Jacobsen,1,21,3,1916,55.672646000000,12.557887400000
+"Karen Marie",Gustavsen,2,10,3,1916,NULL,NULL
+Søren,Jacobsen,1,16,3,1916,55.666813800000,12.550411100000
+"Einar Henrik",Hermansen,1,10,3,1916,NULL,NULL
+"Hans Andreas Hermann",Hermansen,1,14,3,1916,NULL,NULL
+Caroline,Hjorth,2,15,3,1916,55.700431100000,12.581515800000
+"Carl Johan",Ivarssen,1,13,3,1916,NULL,NULL
+"Axel Harris",Jensen,1,6,3,1916,NULL,NULL
+"Frederik Marentius",Hestehave,1,8,3,1916,55.671691100000,12.552725000000
+"Knud Albert",Jensen,1,3,3,1916,NULL,NULL
+"Vilhelm Robert Louis",Jensen,1,8,3,1916,NULL,NULL
+"Else Marie Magdalene",Jensen,2,3,3,1916,NULL,NULL
+"Else Marie Magdalene",Jensen,2,8,3,1916,NULL,NULL
+"Aksel Johannes",Clemens,1,29,3,1916,NULL,NULL
+"Carl Ejler",Jensen,1,23,3,1916,NULL,NULL
+Jansine,Jensen,2,23,3,1916,NULL,NULL
+"Johannes Noak",Collin,1,10,3,1916,NULL,NULL
+"Carl Lorentz Enrico Helge",Jensen,1,14,3,1916,NULL,NULL
+"Karen Hansen",Collstrup,2,11,3,1916,NULL,NULL
+"Einer Alexander",Conradsen,1,9,3,1916,NULL,NULL
+"Kersti Laura Christina",Haakansson,2,21,3,1916,55.653672300000,12.602334800000
+"Niels Olof",Haakonsson,1,29,3,1916,NULL,NULL
+"Hedvig Elvira",Ivarsen,2,8,3,1916,55.670119400000,12.540401300000
+"Agnes Andrea",Jeppesen,2,1,3,1916,NULL,NULL
+"Carl Georg",Hagedorn,1,16,3,1916,NULL,NULL
+"Jens Christian",Jeppesen,1,17,3,1916,NULL,NULL
+"Kaj Anders",Jensen,1,6,3,1916,NULL,NULL
+"Christine Andrea",Jeppesen,2,14,3,1916,NULL,NULL
+"Niels Julius Ejnar",Jepsen,1,27,3,1916,NULL,NULL
+"Charles Christian",Jensen,1,8,3,1916,NULL,NULL
+"Charles Oluf",Jensen,1,14,3,1916,55.671127200000,12.559941000000
+Ferdinand,Jensen,1,21,3,1916,NULL,NULL
+Adolf,Christensen,1,6,3,1916,NULL,NULL
+"Albert Martinius",Christensen,1,10,3,1916,NULL,NULL
+"Peter Ludvig Heinrich Wulff",Jeppesen,1,4,3,1916,NULL,NULL
+Ingvard,Jensen,1,31,3,1916,NULL,NULL
+Jens,Jensen,1,29,3,1916,NULL,NULL
+"Svend Juul",Henningsen,1,3,3,1916,NULL,NULL
+Aage,Henriksen,1,23,3,1916,NULL,NULL
+"Laura Ellen",Erlind,2,21,3,1916,NULL,NULL
+"Søren Harald Jacobsen",Hjortshøj,1,15,3,1916,NULL,NULL
+Hertha,Christensen,2,16,3,1916,NULL,NULL
+"Hilmar Viggo",Humlebæk,1,14,3,1916,NULL,NULL
+"Adolf Georg",Hvorslev,1,27,3,1916,NULL,NULL
+"Lauritz Christian",Jensen,1,3,3,1916,NULL,NULL
+"Frederik Anton",Hougaard,1,31,3,1916,NULL,NULL
+Ole,Hyldskov,1,4,3,1916,NULL,NULL
+"Peter Harald",Jessen,1,8,3,1916,NULL,NULL
+"Arnst Adolf Valdemar",Johansen,1,11,3,1916,NULL,NULL
+"Harriet Johanne Neumann",Jensen,2,23,3,1916,NULL,NULL
+"Carl Otto Lund",Halby,1,13,3,1916,NULL,NULL
+"Marie Jensine",Jensen,2,20,3,1916,NULL,NULL
+"Oscar Enok",Eckman,1,31,3,1916,55.670932900000,12.555137000000
+"Hans Laurits",Ellekild,1,13,3,1916,NULL,NULL
+"Niels Christian",Henriksen,1,29,3,1916,NULL,NULL
+Anna,Christensen,2,2,3,1916,NULL,NULL
+"Clemens Augustin",Eisenbichler,1,18,3,1916,NULL,NULL
+Jensine,Christiansen,2,1,3,1916,NULL,NULL
+"Selma Amanda",Elmqvist,2,3,3,1916,NULL,NULL
+"Nicolai Roskær",Jensen,1,9,3,1916,NULL,NULL
+"Nicolai Roskær",Jensen,1,17,3,1916,NULL,NULL
+"Oscar Louis Julius",Højer,1,11,3,1916,NULL,NULL
+"Thorvald Carl",Henriksen,1,27,3,1916,NULL,NULL
+"Aage Heinrich",Hansen,1,3,3,1916,NULL,NULL
+"Aage Heinrich",Hansen,1,31,3,1916,NULL,NULL
+Christian,Johansen,1,2,3,1916,NULL,NULL
+Albert,Larsen,1,16,3,1916,NULL,NULL
+Frederik,Olsen,1,29,3,1916,NULL,NULL
+"Adolf Rohard Valdemar",Ekman,1,15,3,1916,55.672646000000,12.557887400000
+Christen,Larsen,1,4,3,1916,NULL,NULL
+"Anders Michael",Højstrøm,1,6,3,1916,NULL,NULL
+Ejner,Engberg,1,2,3,1916,NULL,NULL
+Niels,Mortensen,1,15,3,1916,NULL,NULL
+"Holger Einer Emil",Hørning,1,15,3,1916,NULL,NULL
+Chr.,Larsen,1,27,3,1916,NULL,NULL
+Hans,Larsen,1,28,3,1916,NULL,NULL
+Hjalmar,Lind,1,25,3,1916,55.672601600000,12.560789900000
+"Karen Oda Dupont",Möller,2,1,3,1916,NULL,NULL
+"Aage Ludvig",Nielsen,1,20,3,1916,NULL,NULL
+"Albert Sigfred",Hansen,1,10,3,1916,NULL,NULL
+"Alfrida Marie",Hansen,2,6,3,1916,NULL,NULL
+Georg,Jørgensen,1,24,3,1916,NULL,NULL
+"Elna Dorthea",Eriksen,2,10,3,1916,NULL,NULL
+Alfred,Jørgensen,1,6,3,1916,NULL,NULL
+"Theobald Henry Emilius",Lillie,1,11,3,1916,NULL,NULL
+"Hilma Christine Marie","Liljedahl kl. Bergstrøm",2,8,3,1916,55.694001400000,12.546005800000
+"Soffy Oddy Jacobine",Liliendahl,2,3,3,1916,NULL,NULL
+Aage,Nielsen,1,17,3,1916,NULL,NULL
+"Agnes Johanne Kristensen",Nielsen,2,14,3,1916,NULL,NULL
+Albert,Nielsen,1,11,3,1916,NULL,NULL
+"Anton Adolf",Nielsen,1,21,3,1916,NULL,NULL
+"Anton Christian",Nielsen,1,6,3,1916,NULL,NULL
+Marie,Larsen,2,28,3,1916,NULL,NULL
+"Carl John Haubert",Nielsen,1,23,3,1916,NULL,NULL
+"Carl  Peter",Nielsen,1,2,3,1916,NULL,NULL
+"Anker Octavo",Hansen,1,11,3,1916,NULL,NULL
+"Carl Vilhelm",Nielsen,1,11,3,1916,NULL,NULL
+"Astrid Kirstine Petrea",Nielsen,2,11,3,1916,NULL,NULL
+"Astrid Kirstine Petrea",Nielsen,2,31,3,1916,NULL,NULL
+"Astrid Kirstine Petrea",Nielsen,2,17,3,1916,NULL,NULL
+"Astrid Elvin Clara",Lauritsen,2,21,3,1916,NULL,NULL
+"Johan Martin",Erikson,1,1,3,1916,NULL,NULL
+"Otto Emil",Eriksen,1,8,3,1916,NULL,NULL
+Edvard,Nielsen,1,13,3,1916,NULL,NULL
+"Edle Thyra Asta Johanne Caroline",Nielsen,2,16,3,1916,NULL,NULL
+Einer,Nielsen,1,3,3,1916,NULL,NULL
+"Jens Andreas",Jørgensen,1,10,3,1916,NULL,NULL
+"August Pallesen",Hansen,1,8,3,1916,NULL,NULL
+"August Pallesen",Hansen,1,24,3,1916,NULL,NULL
+"Lars Bernhard",Madsen,1,16,3,1916,NULL,NULL
+"Esther Alexandra",Nielsen,2,1,3,1916,NULL,NULL
+"Carl Peter",Kaae,1,10,3,1916,55.671483900000,12.561299000000
+Gerda,Olsen,2,6,3,1916,NULL,NULL
+"Frans Oskar",Nilsson,1,22,3,1916,55.669061100000,12.544963400000
+"Frederik Christian",Nielsen,1,1,3,1916,NULL,NULL
+"Axel Emil Harald Hjalmar",Hansen,1,9,3,1916,NULL,NULL
+"Hans Albert",Madsen,1,27,3,1916,NULL,NULL
+"Hans Christian",Nielsen,1,27,3,1916,NULL,NULL
+"Hans Vilhelm",Nielsen,1,6,3,1916,NULL,NULL
+"Hedvig Emilie Elisabeth",Nielsen,2,11,3,1916,NULL,NULL
+"Einar Alexander",Jørgensen,1,14,3,1916,NULL,NULL
+"Ellen Margrethe",Jørgensen,2,22,3,1916,NULL,NULL
+"Emil Berendt Angelo Jens Adolf Schmidtz",Jørgensen,1,23,3,1916,NULL,NULL
+"Jens Frode",Holde,1,15,3,1916,NULL,NULL
+"Robert Martin Friderich",Kleinfeldt,1,13,3,1916,NULL,NULL
+"Anton Sofus",Knudsen,1,23,3,1916,NULL,NULL
+Hjalmar,Haug,1,19,3,1916,55.673215200000,12.544326300000
+"Ranghild Berthe",Kjersgaard,2,3,3,1916,NULL,NULL
+"Anna Marie",Nielsen,2,2,3,1916,NULL,NULL
+"Anna Marie",Nielsen,2,3,3,1916,NULL,NULL
+"Anna Marie",Nielsen,2,10,3,1916,NULL,NULL
+"Anna Vilhelmine Marie Sofie",Nielsen,2,8,3,1916,NULL,NULL
+"Berndt Hilding Valdemar",Nilsson,1,27,3,1916,55.667501500000,12.549907900000
+"Jens Carl Anton Hans",Nielsen,1,18,3,1916,NULL,NULL
+"Ane Marie Cathrine",Mortensen,2,6,3,1916,NULL,NULL
+"Inger Christine Vilhelmine",Larsen,2,17,3,1916,NULL,NULL
+"Helga Sofie",Olsen,2,24,3,1916,NULL,NULL
+"Jens Christian",Nielsen,1,16,3,1916,NULL,NULL
+"Holger Christian",Olsen,1,23,3,1916,NULL,NULL
+"Carl Christian",Mortensen,1,30,3,1916,NULL,NULL
+"Axel Hjalmar",Hector,1,21,3,1916,NULL,NULL
+"Aage Georg",Jørgensen,1,28,3,1916,55.673632900000,12.555842400000
+George,Leach,1,11,3,1916,NULL,NULL
+"Helga Lilly",Hedegaard,2,31,3,1916,NULL,NULL
+"Martinus Hammer",Martinusen,1,14,3,1916,NULL,NULL
+"Agnes Charlotte Wilhelmine Nielsine Cathrine",Jørgensen,2,30,3,1916,NULL,NULL
+"Dorthea Vilhelmine",Nielsen,2,10,3,1916,NULL,NULL
+"Charles Peter",Nielsen,1,22,3,1916,NULL,NULL
+"Eilert Villiam",Larsen,1,8,3,1916,NULL,NULL
+"Max Emil",Møller,1,10,3,1916,NULL,NULL
+"Ejnar Lilian",Larsen,1,31,3,1916,NULL,NULL
+"Anders Lauritz",Jørgensen,1,3,3,1916,NULL,NULL
+"Maren Sofie",Knudsen,2,13,3,1916,NULL,NULL
+"Josefine Cathrine",Jørgensen,2,11,3,1916,NULL,NULL
+"Christian Nicolaj",Nielsen,1,31,3,1916,NULL,NULL
+Jørgen,Jørgensen,1,3,3,1916,NULL,NULL
+"Marius Johannes",Madsen,1,31,3,1916,55.672903300000,12.559247100000
+"Sigurd Amandus",Helgesen,1,27,3,1916,NULL,NULL
+Margrethe,Olsen,2,2,3,1916,NULL,NULL
+"Louis Oscar",Jensen,1,22,3,1916,NULL,NULL
+"Margrethe Louise",Larsen,2,25,3,1916,NULL,NULL
+Marguerita,Larsen,2,13,3,1916,NULL,NULL
+"Sofie Marie",Lausen,2,13,3,1916,NULL,NULL
+"Marie Jacobine",Larsen,2,6,3,1916,NULL,NULL
+"Marie Jacobine",Larsen,2,28,3,1916,NULL,NULL
+Kaj,Larsen,1,13,3,1916,NULL,NULL
+Gustav,Larsen,1,8,3,1916,NULL,NULL
+"Hans Alfred",Larsen,1,10,3,1916,NULL,NULL
+"Johan Enock",Johansson,1,13,3,1916,NULL,NULL
+"Nielsine Mathilde Dorthea",Olsen,2,2,3,1916,NULL,NULL
+"Mary Christiane Vilhelmine",Jørgensen,2,23,3,1916,NULL,NULL
+"Mary Christiane Vilhelmine",Jørgensen,2,31,3,1916,NULL,NULL
+"Martha Margrethe",Larsen,2,13,3,1916,NULL,NULL
+"Meta Oline Sørine",Larsen,2,13,3,1916,NULL,NULL
+"Niels Emil Henning",Larsen,1,10,3,1916,55.671797500000,12.561999300000
+"Edvard peter Petersen",Meyer,1,8,3,1916,NULL,NULL
+"Lars Peter",Johansen,1,22,3,1916,55.691508800000,12.559006400000
+"Emmely Marie Antoinette",Mortensen,2,21,3,1916,NULL,NULL
+"Ove Emil",Larsen,1,6,3,1916,NULL,NULL
+"Anders Marius",Nielsen,1,20,3,1916,NULL,NULL
+"Poula Anna",Madsen,2,6,3,1916,NULL,NULL
+Jesajas,Oberbach,1,31,3,1916,NULL,NULL
+"Hans Peter",Mortensen,1,6,3,1916,NULL,NULL
+Severin,Madsen,1,10,3,1916,55.670937500000,12.542541000000
+"Thorvald Fridtzoft",Lorentsen,1,24,3,1916,NULL,NULL
+"Arnold Holm",Petersen,1,8,3,1916,NULL,NULL
+"Niels Peter Christian",Nielsen,1,1,3,1916,55.668986300000,12.546238000000
+Therese,Larsen,2,17,3,1916,55.670685500000,12.554499000000
+"Leander Abel Henning",Nielsen,1,15,3,1916,NULL,NULL
+"Caroline Vilhelmine Bertha",Lembke,2,20,3,1916,NULL,NULL
+"Signe Constance",Olsen,2,29,3,1916,55.671382500000,12.559903000000
+"Ingeborg Mary",Nielsen,2,3,3,1916,NULL,NULL
+Ellen,Fredskilde,2,4,3,1916,NULL,NULL
+"Otto Emil",Pahlke,1,3,3,1916,NULL,NULL
+Peilach,Paikin,1,7,3,1916,55.689647000000,12.572837800000
+"Ejner Severin A.",Frendrup,1,1,3,1916,NULL,NULL
+"Blenda Marie Christine",Bengtsson,2,4,3,1916,NULL,NULL
+"Holger Valdemar Otto",Palner,1,27,3,1916,NULL,NULL
+"Holger Valdemar Otto",Palner,1,27,3,1916,NULL,NULL
+"Ida Camilla",Andersen,2,21,3,1916,NULL,NULL
+"Hulda Elisabeth",Meyer,2,2,3,1916,NULL,NULL
+"Gunnar Bjørn",Ernst,1,13,3,1916,NULL,NULL
+"Carl Fritz Vilhelm",Lythcke,1,7,3,1916,NULL,NULL
+Carl,Andersson,1,17,3,1916,NULL,NULL
+"Aage Klarskov",Petersen,1,27,3,1916,NULL,NULL
+"William Ejner",Andersen,1,1,3,1916,NULL,NULL
+"Carl Sofus Hans",Petersen,1,8,3,1916,NULL,NULL
+"Agnes Alma Frederikke",Bach,2,7,3,1916,NULL,NULL
+"Johannes August Christian",Nielsen,1,3,3,1916,NULL,NULL
+"Charles Alfred",Petersen,1,1,3,1916,NULL,NULL
+"Charles Osvald",Petersen,1,11,3,1916,NULL,NULL
+"Else Rigmor Dagny",Løsekrug,2,13,3,1916,55.671647000000,12.562394300000
+"Ellen Cathrine",Petersen,2,3,3,1916,NULL,NULL
+"Ellen Terese",Pehrsson,2,8,3,1916,55.686360100000,12.566263000000
+"Agnes Vilhelmine Kirstine",Petersen,2,2,3,1916,NULL,NULL
+"Nora Dusine",Jørgensen,2,9,3,1916,NULL,NULL
+Johan,Olsson,1,21,3,1916,55.669084500000,12.549779200000
+Christoffer,Petersen,1,3,3,1916,55.670111900000,12.555172800000
+"Emilie Victoria",Petersen,2,4,3,1916,NULL,NULL
+"Chrilles Carl Henrik",Madsen,1,14,3,1916,NULL,NULL
+"August Alexander",Carlstedt,1,23,3,1916,55.678812000000,12.570307500000
+"Christian Peter",Madsen,1,8,3,1916,NULL,NULL
+"Esther Christine",Petersen,2,7,3,1916,NULL,NULL
+"Esther Olivia Harriet",Petersen,2,10,3,1916,NULL,NULL
+"Ane Cathrine",Mejsler,2,15,3,1916,NULL,NULL
+"Carl Bering",Essemann,1,2,3,1916,NULL,NULL
+"Hansine Knudsen",Kochspang,2,3,3,1916,NULL,NULL
+"Petra Karen",Jørgensen,2,11,3,1916,NULL,NULL
+Rasmus,Jørgensen,1,9,3,1916,NULL,NULL
+"Mary Caroline",Nielsen,2,14,3,1916,NULL,NULL
+"Mary Kirstine",Nielsen,2,3,3,1916,NULL,NULL
+"Peter Ove",Andersen,1,8,3,1916,NULL,NULL
+"Dorthea Kirstine Elisabeth",Madsen,2,16,3,1916,NULL,NULL
+"Dorthea Marie",Madsen,2,6,3,1916,NULL,NULL
+"Karen Marie",Nielsen,2,8,3,1916,NULL,NULL
+"Axel Emanuel Josef",Melskens,1,9,3,1916,NULL,NULL
+Heinrich,Mendelsohn,1,2,3,1916,NULL,NULL
+"Nelly Ellen Christine",Nielsen,2,21,3,1916,NULL,NULL
+"Nielsine Christine",Nielsen,2,14,3,1916,NULL,NULL
+"Olga Margrethe",Nielsen,2,3,3,1916,NULL,NULL
+"Emanuel Heenerik",Madsen,1,31,3,1916,NULL,NULL
+"Jens Peter",Evang,1,8,3,1916,NULL,NULL
+"Aage Brandt",Clausen,1,14,3,1916,55.688850900000,12.572738600000
+"Axel Theodor",Clausen,1,9,3,1916,NULL,NULL
+"Anna Margrethe",Petersen,2,8,3,1916,NULL,NULL
+"Aage Gunildus",Lund,1,3,3,1916,NULL,NULL
+"Helge Martinius Jens Vilhelm",Krause,1,6,3,1916,NULL,NULL
+"Isac Herman van",Kreefeltz,1,20,3,1916,NULL,NULL
+"Anna Marie Cathrine",Petersen,2,1,3,1916,NULL,NULL
+"Anna Mathilde",Petersen,2,20,3,1916,NULL,NULL
+Niels,Nielsen,1,8,3,1916,55.672220200000,12.563547300000
+Charles,Andersen,1,9,3,1916,NULL,NULL
+"Leon Alm",Panitsch,1,21,3,1916,NULL,NULL
+"Asta Marie Kirstine",Andersen,2,4,3,1916,NULL,NULL
+Hilda,Christensen,2,22,3,1916,55.708456700000,12.570823700000
+Hilda,Christensen,2,15,3,1916,NULL,NULL
+"Christian Edvard",Andersen,1,18,3,1916,NULL,NULL
+"Hilding Valfred",Andersson,1,21,3,1916,55.713202800000,12.574707300000
+"Niels Christian",Nielsen,1,23,3,1916,NULL,NULL
+"Anna Margrethe Hansine",Larsen,2,3,3,1916,NULL,NULL
+"Niels Lauritz",Nielsen,1,27,3,1916,NULL,NULL
+"Edith Christine Margrethe",Eriksen,2,24,3,1916,NULL,NULL
+"August Theodor",Larsen,1,16,3,1916,NULL,NULL
+"Peter Johansen Petersen",Merløe,1,4,3,1916,NULL,NULL
+Carl,Christensen,1,23,3,1916,NULL,NULL
+Christian,Christensen,1,3,3,1916,55.704950600000,12.578027400000
+"Jensine Kirstine",Andersen,2,7,3,1916,NULL,NULL
+"Ritha Iris",Nielsen,2,2,3,1916,NULL,NULL
+"Steen Vinther",Keil,1,6,3,1916,NULL,NULL
+"Willie Edvard Macely",Clausen,1,13,3,1916,NULL,NULL
+"Anna Alvida",Christiansen,2,7,3,1916,NULL,NULL
+"Frederik Theodor Andreas Arngaard",Bendixen,1,20,3,1916,NULL,NULL
+Vilhelm,Brønnum,1,4,3,1916,55.713781000000,12.575576500000
+"Sidsel Marie",Nielsen,2,2,3,1916,NULL,NULL
+"Niels Frederik",Nielsen,1,23,3,1916,NULL,NULL
+"Bodil Jensigne",Bagge,2,9,3,1916,NULL,NULL
+"Dorthea Petrea Jensine",Nielsen,2,9,3,1916,NULL,NULL
+"Julius Thomas August",Mielow,1,16,3,1916,NULL,NULL
+"Oscar Henrik Emanuel",Ketelsen,1,1,3,1916,NULL,NULL
+"Johan Jacob Ferdinand Adi",Kirchheiner,1,29,3,1916,NULL,NULL
+"Søren Carl August",Nielsen,1,30,3,1916,NULL,NULL
+"Hans Christian",Andersen,1,15,3,1916,NULL,NULL
+Viggo,Kristensen,1,24,3,1916,NULL,NULL
+"Kirstine Cathinka",Christiansen,2,2,3,1916,NULL,NULL
+"Erna Helene",Loges,2,2,3,1916,NULL,NULL
+"Jørgen Jørgensen",Fallesen,1,8,3,1916,NULL,NULL
+Martin,Fallesen,1,15,3,1916,NULL,NULL
+"Gunner Michael",Falslev,1,2,3,1916,55.696755300000,12.581341000000
+Peter,Christiansen,1,3,3,1916,NULL,NULL
+"Carl Gordon",Frandsen,1,4,3,1916,NULL,NULL
+Frithiof,Bohner,1,9,3,1916,55.708918500000,12.581591800000
+"Erna Elisabeth",Andresen,2,2,3,1916,NULL,NULL
+"Erna Elisabeth",Andresen,2,17,3,1916,NULL,NULL
+"Thyra Elise",Nielsen,2,1,3,1916,NULL,NULL
+Valborg,Nielsen,2,13,3,1916,NULL,NULL
+"Valborg Vilhelmine",Nielsen,2,31,3,1916,NULL,NULL
+"Magnus Hermann Jens",Andreasen,1,9,3,1916,NULL,NULL
+"Petra Juliane Olsen",Christensen,2,2,3,1916,NULL,NULL
+"Dagmar Jensine le",Fevre,2,25,3,1916,NULL,NULL
+"Martha Christine",Fich,2,4,3,1916,NULL,NULL
+"Signe Nora Amalie Andrea",Christensen,2,1,3,1916,NULL,NULL
+"Thomassine Christina",Christensen,2,11,3,1916,NULL,NULL
+Sofus,Kruse,1,10,3,1916,NULL,NULL
+"Ingeborg Mathilde",Lundberg,2,22,3,1916,NULL,NULL
+"Jensine Caroline Kirstine Jensen",Fillenberg,2,7,3,1916,NULL,NULL
+"Hjalmar Eugen",Brodd,1,18,3,1916,55.713384600000,12.574230600000
+"Magda Gunhild",Frandsen,2,3,3,1916,NULL,NULL
+"Stella Pauline",Boiesen,2,20,3,1916,55.687551800000,12.562074000000
+"Frederikke Hilma",Lund,2,21,3,1916,NULL,NULL
+"Karen Marie",Madsen,2,31,3,1916,NULL,NULL
+"Karen Marie Olga",Carlsen,2,8,3,1916,NULL,NULL
+Andreas,Olsson,1,2,3,1916,55.673721000000,12.559979000000
+"Josef Henry",Lindestrøm,1,24,3,1916,55.688726000000,12.563028900000
+"Laura Kirstine",Madsen,2,15,3,1916,NULL,NULL
+"Anna Bertha Emmy",Olsen,2,27,3,1916,NULL,NULL
+Andreas,Kubstrup,1,13,3,1916,NULL,NULL
+"Johan Adam Andersen",Kudsk,1,1,3,1916,NULL,NULL
+"Theodora Florine T.",Frandsen,2,1,3,1916,NULL,NULL
+Berek,Kupfer,1,8,3,1916,NULL,NULL
+"Olga Andrea",Bonfils,2,2,3,1916,NULL,NULL
+"Ingeborg Cathrine",Frederiksen,2,1,3,1916,NULL,NULL
+"Lauritz Peter Bernstof",Brynsø,1,29,3,1916,NULL,NULL
+"Håkon Frederik Emil",Brædstrup,1,4,3,1916,NULL,NULL
+"Jørgen Carl Gottfried",Bredstrup,1,2,3,1916,NULL,NULL
+"Magdalene Christiane Marie",Madsen,2,22,3,1916,NULL,NULL
+"Camilla Vilhelmine",Christensen,2,9,3,1916,55.703609200000,12.579354000000
+"Maren Kristiane",Madsen,2,4,3,1916,NULL,NULL
+"Axel Emil",Olesen,1,11,3,1916,NULL,NULL
+"Laurits Chr.",Hansen,1,31,3,1916,55.696369200000,12.574587600000
+"Niels Christian William",Kyhl,1,8,3,1916,NULL,NULL
+"Inger Amalie",Borch,2,23,3,1916,55.714190900000,12.572241100000
+"Aurelie Johanne",Michelsen,2,12,3,1916,NULL,NULL
+Charles,Picard,1,4,3,1916,NULL,NULL
+"Ebba Johanne",Frederiksen,2,3,3,1916,55.686310000000,12.587249000000
+"Valdemar Peter Kofoed",Lund,1,16,3,1916,NULL,NULL
+"Ella Garde",Hansen,2,3,3,1916,55.698802900000,12.582695200000
+"Johannes Nicolaj",Hansen,1,25,3,1916,55.674728700000,12.598662300000
+"Margrethe Johanne Bruun",Hansen,2,3,3,1916,55.695486400000,12.579023500000
+"Martha Johanne",Frikke,2,4,3,1916,55.708118500000,12.563932300000
+"Andrea Kirstine",Hansen,2,2,3,1916,NULL,NULL
+"Svend Jørgen",Knudsen,1,28,3,1916,55.672161800000,12.557375100000
+Marie,Hansen,2,9,3,1916,55.697745600000,12.576326200000
+"Knud Axel",Lambaa,1,29,3,1916,55.670714200000,12.558673000000
+Lion,Peynitz,1,6,3,1916,NULL,NULL
+"Anders Peter",Larsen,1,6,3,1916,NULL,NULL
+"Marie Regine Margrethe",Hansen,2,31,3,1916,55.698260000000,12.577472700000
+"Andrea Elisa Juliane kl. Haandbæk",Larsen,2,28,3,1916,NULL,NULL
+"Alfred John Erik",Philipsen,1,20,3,1916,NULL,NULL
+"Niels Christian",Munck,1,22,3,1916,NULL,NULL
+"Mary Olavia Cathrine",Hansen,2,1,3,1916,NULL,NULL
+"Hans Edvard Helmuth Riis",Mikkelsen,1,8,3,1916,55.671841400000,12.563155600000
+"Hilda Bolette Petrine",Mikkelsen,2,29,3,1916,NULL,NULL
+"Johannes Andreas Jensenius",Plinius,1,9,3,1916,NULL,NULL
+"Jørgen Lars Henrik",Michaelsen,1,31,3,1916,NULL,NULL
+"Martin Ramus",Mikkelsen,1,6,3,1916,NULL,NULL
+"Oda Dagmar Sofie Emilie",Hansen,2,9,3,1916,NULL,NULL
+"Anna Louise Nicoline",Hansen,2,15,3,1916,NULL,NULL
+"Karen Margrethe",Hansen,2,6,3,1916,55.698124700000,12.582139300000
+"Ingeborg Karen",Hansen,2,3,3,1916,NULL,NULL
+"Martha Johanne",Popp,2,1,3,1916,NULL,NULL
+"Helene Nicoline Christine Louise",Hansen,2,6,3,1916,NULL,NULL
+"Anna Margrethe Hansine",Hansen,2,21,3,1916,NULL,NULL
+"Laura Margrethe",Hansen,2,10,3,1916,55.697970600000,12.579092900000
+"Lauridz Sigvald",Laursen,1,20,3,1916,NULL,NULL
+Karl,Potuzak,1,7,3,1916,NULL,NULL
+"Helga Marie",Frølich,2,1,3,1916,NULL,NULL
+Georg,Frömann,1,28,3,1916,55.704950600000,12.578027400000
+"Lery Ole",Hansen,1,9,3,1916,55.705542600000,12.584015700000
+"Lilly Henriette",Hansen,2,23,3,1916,55.695431100000,12.571866200000
+"Signe Hornbæk",Laursen,2,5,3,1916,NULL,NULL
+"Gustav Hjalmar",Pravetz,1,31,3,1916,55.671647000000,12.562394300000
+Valdemar,Laursen,1,24,3,1916,NULL,NULL
+"Emil Efraim Hedelin",Magnussen,1,4,3,1916,NULL,NULL
+"Johan Frederik Philip",Minch,1,21,3,1916,NULL,NULL
+"Kitti Anna Hansen",Breest,2,1,3,1916,NULL,NULL
+"Emil Peter",Hansen,1,10,3,1916,NULL,NULL
+"Emil Peter",Hansen,1,10,3,1916,NULL,NULL
+"Søren Rasmussen",Moeskjær,1,6,3,1916,NULL,NULL
+"Margrethe Constance",Hagren,2,1,3,1916,NULL,NULL
+"Werner Georg",Magnussen,1,7,3,1916,NULL,NULL
+"Emil Louis Carl Christian",Hallberg,1,20,3,1916,NULL,NULL
+Arthur,Rinne,1,21,3,1916,NULL,NULL
+"Arthur Viggo",Mogensen,1,8,3,1916,NULL,NULL
+"Carl Christian",Gedde,1,10,3,1916,NULL,NULL
+"Axel Emil",Martinsen,1,15,3,1916,NULL,NULL
+"Miljan Noel",Nathanson,1,9,3,1916,NULL,NULL
+"Edvard Theodor Ferdinand",Møller,1,29,3,1916,NULL,NULL
+Frantz,Møller,1,13,3,1916,NULL,NULL
+"Kaj Ejlert Reventlow",Ginge,1,11,3,1916,55.671484600000,12.552439500000
+"Henrik Anton Vilhelm",Mogensen,1,3,3,1916,NULL,NULL
+"Holger Johannes Julius Christian",Møller,1,18,3,1916,NULL,NULL
+"Søren Jensen",Møller,1,30,3,1916,NULL,NULL
+"Tage Ejnar",Buhl,1,6,3,1916,55.694088800000,12.577630700000
+Carl,Neue,1,3,3,1916,NULL,NULL
+"Carsten Christian",Nissen,1,3,3,1916,NULL,NULL
+"Hervor Lorentzen",Bjørkmann,3,11,3,1916,NULL,NULL
+"Karl Petersson",Bergstrøm,1,9,3,1916,NULL,NULL
+"Thora Marie",Hansen,2,2,3,1916,55.698373700000,12.579544000000
+"Thyra Marie",Hansen,2,1,3,1916,55.697482800000,12.587269100000
+"Otto Erhardt Alfred",Hansen,1,3,3,1916,55.702233300000,12.581861100000
+"Adolf Jens Albrechtsen",Grejø,1,1,3,1916,NULL,NULL
+"Karen Elvira",Hein,2,2,3,1916,NULL,NULL
+"Ragnhild Margueritte",Hansen,2,1,3,1916,55.697020400000,12.582551000000
+"Carl Henrik",Henriksen,1,6,3,1916,55.694754900000,12.570810800000
+"Marie Louise",Hassing,2,3,3,1916,NULL,NULL
+"Ida Louise",Hauberg,2,2,3,1916,NULL,NULL
+"Kjeld Steenstrup",Ipsen,1,3,3,1916,NULL,NULL
+"Tage Mynster",Illum,1,9,3,1916,NULL,NULL
+"Olga Henriette",Henriksen,2,11,3,1916,NULL,NULL
+"Hans Valdemar Oluf",Nielsen,1,22,3,1916,NULL,NULL
+"Harald Folmer",Gross,1,3,3,1916,55.698837400000,12.587880800000
+Niels,Nielsen,1,4,3,1916,NULL,NULL
+"Ellen Victoria Charlotte",Holst,2,13,3,1916,55.700127000000,12.582420000000
+Hans,Bülov,1,29,3,1916,NULL,NULL
+"Mathilde Axeline",Holst,2,2,3,1916,NULL,NULL
+"Dines Pontoppidan Hans Møller",Byr,1,18,3,1916,NULL,NULL
+"Niels Christian",Nielsen,1,1,3,1916,NULL,NULL
+"Valborg Emilie Christine",Jansen,2,10,3,1916,NULL,NULL
+"Einar Johannes",Jart,1,8,3,1916,55.685247200000,12.570128200000
+Roman,Jasinski,1,3,3,1916,55.703629100000,12.588980300000
+Marie,Nielsen,2,2,3,1916,NULL,NULL
+"Signe Marie",Hansen,2,6,3,1916,55.713897000000,12.568955600000
+Christen,Jensen,1,24,3,1916,NULL,NULL
+"Aage Julius Frits",Jespersen,1,23,3,1916,55.700907600000,12.580279600000
+Christian,Jensen,1,20,3,1916,55.690024800000,12.559385600000
+Christian,Jensen,1,21,3,1916,55.700814800000,12.579549700000
+"Thure Valdemar",Grönkvist,1,10,3,1916,NULL,NULL
+"Olga Elisabeth",Nielsen,2,14,3,1916,NULL,NULL
+Felix,Nielsen,1,14,3,1916,NULL,NULL
+"Dagmar Thomine",Jensen,2,4,3,1916,55.696518300000,12.587313400000
+"Ebba Beate",Jensen,2,7,3,1916,55.698571100000,12.581639400000
+"Einar Viggo",Jensen,1,21,3,1916,55.715062600000,12.574535100000
+"Christian Frederik",Jensen,1,1,3,1916,NULL,NULL
+"Einar Vilhelm",Jessen,1,31,3,1916,NULL,NULL
+Henriette,Jensen,2,7,3,1916,55.728732000000,12.570559800000
+"Stella Christine",Hansen,2,1,3,1916,NULL,NULL
+"Johanne Sofie",Nielsen,2,8,3,1916,55.685437000000,12.591398300000
+Charles,Høj,1,1,3,1916,NULL,NULL
+"Haakon Johannes Saxdorf",Biilmann,1,25,3,1916,NULL,NULL
+Johannes,Juul,1,4,3,1916,55.696480400000,12.574800800000
+"Maren Boline",Jacobsen,2,2,3,1916,NULL,NULL
+"Clara Anna Agnes",Jensen,2,20,3,1916,55.686816700000,12.589266800000
+"Marie Kathrine",Jacobsen,2,1,3,1916,55.678321800000,12.587632100000
+"Jens Lauritz",Nielsen,1,25,3,1916,NULL,NULL
+"Jens Peter Jacob",Nielsen,1,8,3,1916,NULL,NULL
+"Eleonora Christine",Jensen,2,27,3,1916,55.655279000000,12.610436700000
+"Petra Cathrine",Nielsen,2,4,3,1916,NULL,NULL
+Camilla,Jensen,2,2,3,1916,55.703481800000,12.577698000000
+"Poula Kirstine",Nielsen,2,17,3,1916,NULL,NULL
+"Valdemar Emil",Børgesen,1,17,3,1916,NULL,NULL
+"Metha Cathrine",Nielsen,2,24,3,1916,NULL,NULL
+"Ernst Augustinus",Björkqvist,1,28,3,1916,55.685416300000,12.553364600000
+"Mette Cathrine",Nielsen,2,1,3,1916,NULL,NULL
+"Meta Elly Marie",Nielsen,2,2,3,1916,NULL,NULL
+"Johanne Camilla Ingrid",Nielsen,2,1,3,1916,NULL,NULL
+Jens,Olesen,1,18,3,1916,NULL,NULL
+"Ane Margrethe",Blæsbjerg,2,3,3,1916,NULL,NULL
+"Angela Betty",Jacobsen,2,8,3,1916,55.714206000000,12.572416700000
+"Dagmar Hulda Cathinca",Jensen,2,2,3,1916,NULL,NULL
+Peter,Jensen,1,14,3,1916,55.707263300000,12.586760100000
+"Sofie Marie",Nielsen,2,31,3,1916,NULL,NULL
+Sofie,Jensen,2,3,3,1916,55.708326300000,12.577740200000
+"Karen Marie",Nielsen,2,6,3,1916,NULL,NULL
+Marie,Jørgensen,2,6,3,1916,55.691136600000,12.560711700000
+"Carl Gustav Elof",Jacobsen,1,10,3,1916,NULL,NULL
+"Maren Johanne",Jensen,2,1,3,1916,NULL,NULL
+"Anna Dorthea Hansine Nielsine",Guldfeldt,2,8,3,1916,NULL,NULL
+"Mariane Elvira Charlotte",Jensen,2,2,3,1916,NULL,NULL
+"Carlo Frithiof Simon Bernhard",Jacobsen,1,14,3,1916,55.678798400000,12.569129300000
+"Jørgen Marius",Jensen,1,16,3,1916,55.666655900000,12.549834800000
+"Ellen Margrethe",Jensen,2,2,3,1916,55.698169900000,12.578315900000
+"Nils Thorvald",Olsson,1,16,3,1916,NULL,NULL
+"Ellen Thora",Jacobsen,2,9,3,1916,55.707492100000,12.577737400000
+"Niels Anders Emil",Jørgensen,1,31,3,1916,55.694866100000,12.570969400000
+"Elise Christine",Jacobsen,2,2,3,1916,NULL,NULL
+"Niels Marius Charles",Jørgensen,1,20,3,1916,55.698062200000,12.539586000000
+"Marie Sofie",Jensen,2,6,3,1916,NULL,NULL
+"Sofie Frederikke",Jørgensen,2,4,3,1916,55.703667400000,12.578969300000
+"Frederih Louis",Leonhardt,1,22,3,1916,NULL,NULL
+"Helvig Christiane Frederikke Marie",Gundersen,2,4,3,1916,NULL,NULL
+"Mathilde Magdalene",Olsen,2,2,3,1916,NULL,NULL
+"Bro Frithjof",Kjeldsen,1,15,3,1916,55.671955600000,12.563500500000
+"Bro Frithjof",Kjeldsen,1,27,3,1916,55.673693600000,12.551568400000
+Tamine,Jørgensen,2,1,3,1916,55.681476600000,12.572622300000
+"Otto Theodor Michael",Kjeldsen,1,10,3,1916,NULL,NULL
+"Jenny Mathile Birthine Kristine",Jacobsen,2,2,3,1916,55.672220200000,12.563547300000
+"Anna Margrethe Emilie Dorthea",Jensen,2,29,3,1916,NULL,NULL
+Georg,Kirkegaard,1,8,3,1916,55.697985100000,12.582853100000
+"Emannuel Sigfred",Jensen,1,15,3,1916,NULL,NULL
+"Oluf Peder",Olsen,1,1,3,1916,NULL,NULL
+"Oluf Peter Niels",Olsen,1,13,3,1916,NULL,NULL
+"Hilda Otthilia",Jensen,2,2,3,1916,55.696765200000,12.588888000000
+Rigmor,Olsen,2,18,3,1916,NULL,NULL
+"Valborg Margrethe",Olsen,2,25,3,1916,NULL,NULL
+"Olga Agnete",Jensen,2,16,3,1916,55.703371400000,12.579229300000
+"David Leopold",Gustafsson,1,17,3,1916,55.698802900000,12.582695200000
+"Oline Martha Cecilie",Larsen,2,11,3,1916,55.698299000000,12.543101200000
+"Lars Christian Thomsen",Kjær,1,10,3,1916,NULL,NULL
+"Fransiska Sophie Marie",Clante,2,29,3,1916,55.686610000000,12.595110600000
+"Fransiska Sophie Marie",Clante,2,1,3,1916,55.703755300000,12.578601900000
+"Harald Johannes Nielsen",Helt,1,6,3,1916,55.670408800000,12.549698700000
+"Emma Vilhelmine",Jensen,2,6,3,1916,55.697368900000,12.584026300000
+"Johan Arvid",Gustafsson,1,17,3,1916,55.698802900000,12.582695200000
+"Axel Stephan",Ove,1,2,3,1916,NULL,NULL
+"Albert Richard",Jensen,1,31,3,1916,NULL,NULL
+"Karen Elisabeth Margrethe",Larsen,2,2,3,1916,55.696214000000,12.574777400000
+"Gudrun Berthe Alfride",Jensen,2,15,3,1916,NULL,NULL
+"Otto Carl",Heering,1,18,3,1916,NULL,NULL
+"Lauritz Michael",Larsen,1,8,3,1916,55.699665900000,12.583875700000
+Agnes,Larsen,2,2,3,1916,NULL,NULL
+"Margrethe Elisabeth",Larsen,2,31,3,1916,55.698356700000,12.584626000000
+"Harry Alfred",Jensen,1,25,3,1916,NULL,NULL
+"Harry Oluf",Jensen,1,25,3,1916,NULL,NULL
+"Anna Dorthea",Larsen,2,6,3,1916,NULL,NULL
+"Helfride Margrethe Julie",Pamp,2,4,3,1916,NULL,NULL
+"Aron Poul",Jensen,1,29,3,1916,NULL,NULL
+"Anna Marie Christine Magdalene",Larsen,2,17,3,1916,NULL,NULL
+Augusta,Jensen,2,15,3,1916,NULL,NULL
+Svanhild,Heyerdahl,2,1,3,1916,NULL,NULL
+"Olga Hansine Camilla",Larsen,2,1,3,1916,55.700124900000,12.578252200000
+Poul,Lauritzen,1,4,3,1916,NULL,NULL
+Poul,Lauritzen,1,31,3,1916,NULL,NULL
+"Oscar Hjalmar",Carlsen,1,21,3,1916,55.700547600000,12.588038800000
+"Svendine Ingine Ulrikke",Jensen,2,10,3,1916,55.730098500000,12.563648500000
+"Jens Christian",Jensen,1,8,3,1916,55.695657300000,12.571283600000
+"Bodil Margrethe",Larsen,2,6,3,1916,NULL,NULL
+"Bodil Margrethe",Larsen,2,7,3,1916,55.698046000000,12.584287800000
+"Carl Christian Franciscus de Paula",Jensen,1,21,3,1916,55.684000900000,12.567564800000
+"Ellen Olivia","Peckson eller Jensen",2,1,3,1916,NULL,NULL
+"Erna Metha Kirsten Smith",Hoff,2,11,3,1916,NULL,NULL
+"Amanda Marie Sofie",Crawack,2,3,3,1916,NULL,NULL
+"Jens Christian Georg",Larsen,1,3,3,1916,NULL,NULL
+"Frederikke Marie",Madsen,2,1,3,1916,NULL,NULL
+"Anna Else Marie",Madsen,2,23,3,1916,NULL,NULL
+Ernst,Peranard,1,2,3,1916,NULL,NULL
+"Anna Oline",Christoffersen,2,9,3,1916,NULL,NULL
+"Iris Caroline Christine Faldgaard",Holdt,2,27,3,1916,NULL,NULL
+"Ester Marie Chrine",Olsen,2,1,3,1916,NULL,NULL
+"Camilla Christensen",Maj,2,6,3,1916,NULL,NULL
+"Agnete Kirstine Victoria",Leismann,2,19,3,1916,NULL,NULL
+"Hans Peter Lauritz",Larsen,1,1,3,1916,NULL,NULL
+"Agnete Margrethe",Rasmussen,2,1,3,1916,NULL,NULL
+"Sophie Magdalene Christine",Jensen,2,6,3,1916,55.698143500000,12.584782900000
+"Jørgen Peter",Madsen,1,21,3,1916,NULL,NULL
+"Astrid Marie Ludvika",Petersen,2,2,3,1916,NULL,NULL
+"Henry Runholdt",Christoffersen,1,2,3,1916,NULL,NULL
+"Axel Georg Emil",Rasmussen,1,15,3,1916,NULL,NULL
+"Selma Linnea",Jønsson,2,16,3,1916,NULL,NULL
+"Albert Vigant",Nielsen,1,14,3,1916,NULL,NULL
+"Tekla Alvine Conradine Betty",Jensen,2,16,3,1916,55.670786200000,12.563763200000
+"Hansine Christine Johanne",Münniche,2,6,3,1916,55.677160500000,12.589258800000
+"Nanna Overgaard",Madsen,2,10,3,1916,NULL,NULL
+"Ane Birtha",Jørgensen,2,10,3,1916,NULL,NULL
+"Anna Dorthea",Jørgensen,2,14,3,1916,NULL,NULL
+"Anna Dorthea",Jørgensen,2,3,3,1916,NULL,NULL
+"Anna Elisabeth",Jørgensen,2,3,3,1916,55.698080800000,12.581465300000
+"Meta Laurine",Schou,1,1,3,1916,NULL,NULL
+"Carl Tromberg",Rasmussen,1,6,3,1916,55.685363500000,12.567689300000
+"Carla Marie",Rasmussen,2,6,3,1916,NULL,NULL
+Christian,Rasmussen,1,22,3,1916,NULL,NULL
+"Elly Rosalie Cathrine",Simonsen,2,1,3,1916,55.708701000000,12.570258600000
+"Louise Caroline",Mortensen,2,9,3,1916,NULL,NULL
+"Victor Martin",Jeppesen,1,1,3,1916,55.673728500000,12.559056200000
+"Mette Johanne",Johnsen,2,6,3,1916,55.697201400000,12.580448900000
+"Andreas Hansen",Møller,1,6,3,1916,55.703657600000,12.586673600000
+Gregor,Sinelnikoff,1,27,3,1916,NULL,NULL
+"Johanne Christine",Olsen,2,7,3,1916,NULL,NULL
+"Carl Christian Frederik",Johansen,1,28,3,1916,55.675356600000,12.596810900000
+"Rasmus Julian",Mortensen,1,29,3,1916,NULL,NULL
+"Sørine Kirstine",Mortensen,2,31,3,1916,NULL,NULL
+"Kirsten Marie Jensine (kaldet Nielsen)",Mikkelsen,2,1,3,1916,NULL,NULL
+"Frederikke Marie",Rasmussen,2,22,3,1916,55.694614800000,12.571043100000
+"Hans Christian",Rasmussen,1,21,3,1916,NULL,NULL
+"Hans Christian",Rasmussen,1,29,3,1916,NULL,NULL
+"Ellen Marie",Røen-Petersen,2,11,3,1916,NULL,NULL
+"Eleonora Johanne Marie",Johannesen,2,2,3,1916,55.698366700000,12.575665400000
+"Ellen Wang",Sørensen,2,1,3,1916,55.683405100000,12.570098200000
+Elva,Sørensen,2,6,3,1916,55.714211100000,12.577139100000
+Aage,Nielsen,1,31,3,1916,NULL,NULL
+"Emilie Christiane Rigmor",Sørensen,2,1,3,1916,NULL,NULL
+"Emilie Marie",Sørensen,2,1,3,1916,NULL,NULL
+"Richard Johannes",Rasmussen,1,2,3,1916,NULL,NULL
+"Mary Marie",Petersen,2,20,3,1916,NULL,NULL
+"Anna Mette Marie Hansine",Nielsen,2,31,3,1916,NULL,NULL
+"Peter Jensen",Petersen,1,1,3,1916,NULL,NULL
+"Alfrida Eleonora Mathilde",Nørring,2,3,3,1916,NULL,NULL
+"Hanne Jensine Christine",Petersen,2,1,3,1916,NULL,NULL
+"Anna Kirstine",Petersen,2,4,3,1916,NULL,NULL
+"Sidse Marie",Rasmussen,2,6,3,1916,NULL,NULL
+"Ida Amanda",Wiinblad,2,21,3,1916,55.697745800000,12.586613000000
+"Karen Marie Johanne",Pedersen,2,3,3,1916,55.684219200000,12.573835700000
+"Hedvig Vilhelmine Valborg",Johansen,2,28,3,1916,NULL,NULL
+"Mariane Sanderhoff",Olsen,2,16,3,1916,NULL,NULL
+"Mathilde Hansine",Vejler,2,3,3,1916,NULL,NULL
+"Otto Jens Christian",Petersen,1,24,3,1916,NULL,NULL
+"Gjertrud Sørine Ingvardine",Sørensen,2,2,3,1916,NULL,NULL
+"Hans Christian",Sørensen,1,11,3,1916,55.690651400000,12.572693900000
+"Hans Christian Johannes",Sørensen,1,14,3,1916,55.707982200000,12.563262900000
+Anton,Nilsson,1,15,3,1916,55.698366700000,12.575665400000
+"Astrid Marie",Nielsen,2,8,3,1916,NULL,NULL
+"Asta Emmy Helga Karen",Nielsen,2,31,3,1916,NULL,NULL
+"Anna Sophie",Pedersen,2,8,3,1916,NULL,NULL
+"Thora Kristiane Albertha",Pedersen,2,1,3,1916,55.692212400000,12.580650900000
+"Hedvig Caroline Marie",Petersen,2,8,3,1916,NULL,NULL
+"Agnes Mary",Petersen,2,4,3,1916,NULL,NULL
+"Hertha Ingeborg Erna",Pedersen,2,1,3,1916,NULL,NULL
+"Carl Ludvig",Svensson,1,17,3,1916,55.700547600000,12.588038800000
+Kaare,Thomsen,1,22,3,1916,55.699473100000,12.579314500000
+Gerda,Petersen,2,22,3,1916,55.676080100000,12.573083300000
+Ingeborg,Petersen,2,3,3,1916,NULL,NULL
+"Andrea Elise",Jørgensen,2,6,3,1916,NULL,NULL
+"Holger Julius",Sørensen,1,9,3,1916,55.702800500000,12.584730700000
+Indiane,Svendsen,2,7,3,1916,NULL,NULL
+"Carl Alfred Eduard",Petersen,1,1,3,1916,NULL,NULL
+"Olly Gunhild Elvira",Petersen,3,3,3,1916,NULL,NULL
+"Christiane Sofie Marthine",Uth,2,14,3,1916,NULL,NULL
+"Vilfred Sigvald August",Lassen,1,16,3,1916,NULL,NULL
+"Marie Lilly Iris Skyldfri",Persson,2,3,3,1916,NULL,NULL
+"Harry Oskar Engelbrecht",Petersen,1,24,3,1916,55.670160200000,12.548111200000
+"Peter Christian",Weinrich,1,8,3,1916,55.698514200000,12.587676000000
+"Herman Emil",Petersen,1,16,3,1916,NULL,NULL
+"Heinrich Jørgen Franskisko",Jørgensen,1,6,3,1916,55.698054700000,12.575084600000
+"Caroline Petrine",Petersen,2,2,3,1916,NULL,NULL
+"Hans Harald Valdemar",Persson,1,8,3,1916,NULL,NULL
+"Jens Peter",Sørensen,1,4,3,1916,NULL,NULL
+"Anna Johanne",Nielsen,2,1,3,1916,NULL,NULL
+"Peter Nyrup",Thomsen,1,9,3,1916,55.683110500000,12.575677300000
+"Hjalmer Harry",Pedersen,1,18,3,1916,NULL,NULL
+"Thomasine Anna Cathrine",Thomsen,2,10,3,1916,NULL,NULL
+Karen,Wengel,2,7,3,1916,NULL,NULL
+"Eleonora Ingeborg",Laursen,2,7,3,1916,NULL,NULL
+Jens,Jørgensen,1,8,3,1916,NULL,NULL
+"Lars Peter",Jørgensen,1,10,3,1916,55.703485000000,12.584756900000
+Ove,Phil,1,24,3,1916,55.697368900000,12.584026300000
+Jens,Petersen,1,25,3,1916,55.669714800000,12.555536400000
+"Johannes Josef Nilausen",Petersen,1,10,3,1916,55.664752300000,12.548265500000
+"Emilie Caroline",Puls,2,15,3,1916,NULL,NULL
+"Olga Emilie",Lauersen,2,4,3,1916,55.701948100000,12.577852100000
+"Anna Sepht",Sørensen,2,15,3,1916,NULL,NULL
+"Louis Carl",Werner,1,3,3,1916,NULL,NULL
+"Olufine Christine Erna",Lautrup,2,1,3,1916,NULL,NULL
+"Maren Nielsine",Jørgensen,2,20,3,1916,55.704147400000,12.586884700000
+"Anna Marie",Thøgersen,2,1,3,1916,55.701964600000,12.578161900000
+"Lilian Grace Street",Jørgensen,2,4,3,1916,55.698367000000,12.583694200000
+"Christian William",Kragh,1,1,3,1916,NULL,NULL
+Julius,Pedersen,1,18,3,1916,NULL,NULL
+Julius,Pedersen,1,28,3,1916,NULL,NULL
+"Hulda Marie",Petersen,2,25,3,1916,55.670994200000,12.554310600000
+"Hans Hørlyk",Toft,1,16,3,1916,NULL,NULL
+"Emma Emilie",Longhi,2,1,3,1916,NULL,NULL
+Viggo,Kraunsøe,1,10,3,1916,55.697247100000,12.586289600000
+"Georg Vilhelm Theodor",Thorsteinsson,1,28,3,1916,55.677117100000,12.587997900000
+"Hugo Frederik",Thorstensen,1,14,3,1916,55.698644400000,12.551974200000
+"Amalie Svensson",Wahlquist,2,3,3,1916,55.684662600000,12.567605700000
+"Nicolas Peter",Krebs,1,10,3,1916,55.670272900000,12.549714300000
+"Marie Thomsen",Vestergaard,2,11,3,1916,55.684481600000,12.566543900000
+Ida,Kuntze,2,13,3,1916,NULL,NULL
+"John Artur",Trægaard,1,26,3,1916,55.701014000000,12.577694200000
+Amalie,Thrane,2,1,3,1916,NULL,NULL
+"Christen Svend",Nielsen,1,16,3,1916,NULL,NULL
+"Christian Vilhelm",Nielsen,1,13,3,1916,NULL,NULL
+"Anna Marie Hansine",Nielsen,2,1,3,1916,NULL,NULL
+"Jens Peter",Petersen,1,8,3,1916,55.670530300000,12.559343900000
+Johan,Petersen,1,21,3,1916,55.666213600000,12.547377700000
+"Johanne Mariane",Petersen,2,25,3,1916,NULL,NULL
+"Kai Hjalmar",Petersen,1,8,3,1916,55.670432500000,12.554656300000
+Yngve,Wictorin,1,1,3,1916,55.698260000000,12.577472700000
+"Olrikka Abeline Pedersen",Theilade,2,10,3,1916,NULL,NULL
+"Niels Johan",Sørensen,1,4,3,1916,NULL,NULL
+Christian,Poulsen,1,11,3,1916,55.671797500000,12.561999300000
+"Alfred Julius",Rosengren,1,7,3,1916,55.707827000000,12.484703500000
+"Kirsten Marie Nedergaard",Pedersen,2,15,3,1916,NULL,NULL
+Knud,Sørensen,1,10,3,1916,NULL,NULL
+"Carl Vinther",Sølling,1,6,3,1916,NULL,NULL
+"Frithiof Teodor",Rosenthal,1,29,3,1916,55.681309300000,12.581045700000
+"Hans Carl",Rasmussen,1,3,3,1916,55.667625900000,12.549299400000
+"Niels Christian",Villadsen,1,17,3,1916,NULL,NULL
+"Magdalene Marie Krogh",Pedersen,2,16,3,1916,55.669961200000,12.550037300000
+Dorthea,Villadsen,2,2,3,1916,55.697494200000,12.584505600000
+"Rasmus Kristen",Tving,1,18,3,1916,NULL,NULL
+"Georg Alex Martinus",Møller,1,16,3,1916,NULL,NULL
+Mariane,Petersen,2,31,3,1916,55.688222600000,12.554171700000
+"Gustav Adolf",Møller,1,18,3,1916,55.665995000000,12.552574600000
+"Martin Christoffer",Petersen,1,23,3,1916,55.692004100000,12.559646600000
+"Mette Cathrine Elisabeth",Petersen,2,1,3,1916,55.686413200000,12.561282700000
+Søren,Pedersen,1,6,3,1916,NULL,NULL
+Margrethe,Petersen,2,9,3,1916,55.667197400000,12.549922600000
+Ingeborg,Rasmussen,2,1,3,1916,55.671999800000,12.562631300000
+"Julius Valdemar",Rasmussen,1,4,3,1916,55.671920700000,12.545164900000
+"Justus Efraim",Rasmussen,1,15,3,1916,55.670856600000,12.552533400000
+Ingvard,Lange,1,14,3,1916,NULL,NULL
+"Michael Otto Holm",Wismer,1,8,3,1916,NULL,NULL
+Evander,Lorentzon,1,2,3,1916,55.696310200000,12.571751300000
+"Ida Kirstine",Sørensen,2,3,3,1916,55.667822400000,12.538518500000
+"Otthard Hilfred Emil",Schütte,1,4,3,1916,NULL,NULL
+"Otthard Hilfred Emil",Schütte,1,8,3,1916,NULL,NULL
+"Carl Olfert Heinrich",Poulsen,1,24,3,1916,NULL,NULL
+"Nora Nanna",Rugaard,2,8,3,1916,NULL,NULL
+"Peter Axel Christian",Petersen,1,3,3,1916,55.670826800000,12.554402500000
+"Ingvard Henry Georg",Scheltz,1,8,3,1916,55.697624300000,12.582273600000
+"Olga Marie",Petersen,2,4,3,1916,NULL,NULL
+Charles,Steffensen,1,7,3,1916,NULL,NULL
+"Otto Christian",Pedersen,1,18,3,1916,55.667380900000,12.537628000000
+"Hedevig Rasmine Chrestine",Møller,2,1,3,1916,NULL,NULL
+"Ove Jens Carl",Petersen,1,14,3,1916,55.669214900000,12.555393800000
+"Ellen Petrea Kirstine",Steffensen,2,7,3,1916,NULL,NULL
+Marie,Rasmussen,2,2,3,1916,NULL,NULL
+"Petrine Severine Haahr",Petersen,2,3,3,1916,55.699666200000,12.577082400000
+Niels,Rasmussen,1,16,3,1916,55.672720200000,12.563121100000
+Abraham,Reisenstadt,1,22,3,1916,NULL,NULL
+"Anna Chirstine Caroline",Sivertsen,2,23,3,1916,55.668335500000,12.555807500000
+"Kirstine Ingeborg Elisabeth",Vium,2,1,3,1916,55.703667400000,12.578969300000
+"Osvald Eli Marvig",Rasmussen,1,1,3,1916,55.671691100000,12.552725000000
+"Charlotte Sofie",Lindstrup,2,1,3,1916,NULL,NULL
+"Peder marinus",Pedersen,1,14,3,1916,55.670639800000,12.558860700000
+"Anton Vilhelm",Thulin,1,1,3,1916,55.678117400000,12.583056400000
+Rudolf,Metzon,1,10,3,1916,NULL,NULL
+"Sofie Elisabeth",Petersen,2,16,3,1916,NULL,NULL
+"Nadegrekta Erna",Schwab,2,8,3,1916,NULL,NULL
+William,Persson,1,11,3,1916,55.671484600000,12.552439500000
+Villiam,Petersen,1,23,3,1916,55.672016200000,12.561057100000
+Johanne,Poulsen,2,27,3,1916,55.671018400000,12.563476800000
+"Karen Frederikke Dorthea",Poulsen,2,20,3,1916,55.681874700000,12.559145500000
+"Georg Carl Theodor",Povelsen,1,17,3,1916,NULL,NULL
+"Elvira Theodora",Stenkildson,2,4,3,1916,55.684492000000,12.572964000000
+"Elvira Theodora",Stenkildson,2,6,3,1916,NULL,NULL
+"John Lemberg",Møller,1,14,3,1916,NULL,NULL
+"Michael Osvaldus",Sørensen,1,13,3,1916,NULL,NULL
+"Poul Krause",Spadoni,1,23,3,1916,55.678127400000,12.566945400000
+"Alma M.",Spangenberg,2,6,3,1916,55.672646000000,12.557887400000
+"Hansine Juliane",Nielsen,2,1,3,1916,NULL,NULL
+"Victor Emanuel",Poulsen,1,29,3,1916,55.667934800000,12.548672900000
+"Angelica Veronica Philomine",Raith,2,21,3,1916,55.671647000000,12.562394300000
+"Johan Viktor",Radilsky,1,30,3,1916,55.667501500000,12.549907900000
+"Ellen Hansine Knudsine",Randlev,2,7,3,1916,55.690396400000,12.573308900000
+"Gerner Lauritz",Schouv,1,29,3,1916,NULL,NULL
+"Betty Christine",Sørensen,2,6,3,1916,NULL,NULL
+"Frederik Michael Vincentius",Reuther,1,18,3,1916,NULL,NULL
+"Laurits Christian Gøhlmann",Staal,1,16,3,1916,55.671533400000,12.562512800000
+"Søren Lorenzen",Sørensen,1,7,3,1916,NULL,NULL
+"Emil Nielsen",Stade,1,16,3,1916,55.671773700000,12.563651500000
+Vilhelm,Sørensen,1,20,3,1916,NULL,NULL
+Josef,Schlossemann,1,20,3,1916,55.670388700000,12.541450500000
+"Robert Marius Vilhelm",Pierri,1,18,3,1916,NULL,NULL
+Svend,Thorsen,1,16,3,1916,NULL,NULL
+"Vilhelm Alfred",Øhrstrøm,1,29,3,1916,55.713763300000,12.574236100000
+"Nanna Andrea",Willumsen,2,10,3,1916,55.681705200000,12.585313600000
+"Markus Leib",Stieglitz,1,8,3,1916,55.671294100000,12.558530900000
+"Astrid Emilie Augusta",Wiegardt,2,17,3,1916,NULL,NULL
+"Birthe Jacobine",Nicolajsen,2,28,3,1916,NULL,NULL
+"Hans Christian Blom",Salomonsen,1,2,3,1916,NULL,NULL
+Theodor,Rohde,1,21,3,1916,NULL,NULL
+Theodor,Rohde,1,31,3,1916,55.665793100000,12.545724000000
+Anna,Simonsen,2,9,3,1916,NULL,NULL
+"Charles Knud",Tassi,1,16,3,1916,NULL,NULL
+"Christian Zachæus",Mikkelsen,1,7,3,1916,NULL,NULL
+"Harry Andersen",Vildmose,1,13,3,1916,NULL,NULL
+"Laura Magdah Höberg",Wildt,2,11,3,1916,55.670119400000,12.540401300000
+Edvard,Tessin,1,6,3,1916,NULL,NULL
+"Erik Emanuel",Tiderman,1,8,3,1916,NULL,NULL
+"Erik Emanuel",Tiderman,1,4,3,1916,NULL,NULL
+"Agnes Emilie",Wahl,2,2,3,1916,55.688083800000,12.559771200000
+"Maud Marie Vilhelmine",Timm,2,10,3,1916,NULL,NULL
+"Christen Petersen",Schmidt,1,16,3,1916,NULL,NULL
+"Johannes Frederik",Straarup,1,1,3,1916,NULL,NULL
+"Hans Christian Julius",Sigersted,1,4,3,1916,55.690720600000,12.555078800000
+"Aage Erik",Rasch,1,9,3,1916,55.693371900000,12.575961600000
+"Otto Heinrich",Rohbrahn,1,1,3,1916,55.668072600000,12.552811500000
+"Martin Carl",Bendixen,1,31,3,1916,NULL,NULL
+Ernst,Sandell,1,2,3,1916,55.671280900000,12.554125900000
+"Gudrun Eugenia Victoria",Hansen,2,4,3,1916,55.693142000000,12.542653500000
+"Christian Henrik Valdemar",Søtoft,1,15,3,1916,NULL,NULL
+"Georg Vilhelm",Tommerup,1,10,3,1916,NULL,NULL
+"Ellen Ragnhild",Tonagel,2,3,3,1916,NULL,NULL
+"Valdemar Christian",Classen,1,10,3,1916,NULL,NULL
+"Elna Cathrine",Jacobsen,2,4,3,1916,55.696562200000,12.545215800000
+Vaclava,Brezina,1,16,3,1916,NULL,NULL
+"Hans Arnold",Hansen,1,17,3,1916,55.691297500000,12.574981500000
+"Gustav Adolf",Rothenborg,1,18,3,1916,55.671647000000,12.562394300000
+Sophie,Sujagintzen,2,11,3,1916,NULL,NULL
+"Walter Emil Heinrich",Bryggemann,1,9,3,1916,55.700815800000,12.549647900000
+"Hans Emil Andersen",Schou,1,3,3,1916,NULL,NULL
+"Magda Elisabeth Marie",Andersen,2,15,3,1916,NULL,NULL
+"Hans Christian Bjerring",Hansen,1,23,3,1916,55.666114100000,12.548663400000
+"Axel Ewald Edmund",Petersen,1,9,3,1916,NULL,NULL
+"Valdemar Edvard",Mikkelsen,1,29,3,1916,NULL,NULL
+Gunder,Tronier,1,4,3,1916,55.673237000000,12.562800700000
+Gunder,Tronier,1,4,3,1916,55.673237000000,12.562800700000
+Frank,Milner,1,30,3,1916,NULL,NULL
+"Victor Emanuel Josef",Samuelsen,1,15,3,1916,NULL,NULL
+Helene,Vedø,2,20,3,1916,NULL,NULL
+"Emilie Johanne",Jensen,2,20,3,1916,NULL,NULL
+"Emma Caroline Mette Cathrine",Jensen,2,1,3,1916,NULL,NULL
+"Alexius Henry",Andersen,1,2,3,1916,NULL,NULL
+"Marta Hansine Margrete",Corneliussen,2,3,3,1916,NULL,NULL
+"Niels Marius",Jacobsen,1,8,3,1916,NULL,NULL
+"Agnes Mery",Tøpholm,2,16,3,1916,NULL,NULL
+"Orla Manfred",Jacobsen,1,10,3,1916,NULL,NULL
+Pall,Skulason,1,20,3,1916,NULL,NULL
+"Arthur Moritz",Hansen,1,10,3,1916,NULL,NULL
+"Oscar Harald",Törner,1,29,3,1916,55.669374200000,12.555295200000
+"Frans Alfred",Jønson,1,18,3,1916,NULL,NULL
+"Frans Alfred",Jønson,1,27,3,1916,NULL,NULL
+Birger,Quick,1,27,3,1916,55.667501500000,12.549907900000
+"Ernst Oluf",Bjørkmann,1,21,3,1916,55.699237300000,12.541176900000
+"Amanda Albertine",Winther,2,13,3,1916,NULL,NULL
+"Ingeborg Augusta",Jensen,2,4,3,1916,NULL,NULL
+"Carl Volmer",Christensen,1,10,3,1916,55.698766700000,12.542408800000
+Johan,Unterkrenter,1,30,3,1916,NULL,NULL
+Gabriel,Schapiro,1,8,3,1916,55.689247800000,12.559947500000
+"Anna Marie",Jensen,2,6,3,1916,55.697802200000,12.580870700000
+"Knud Valdemar",Jensen,1,6,3,1916,NULL,NULL
+Mads,Petersen,1,16,3,1916,NULL,NULL
+"Anna Mathilde",Jensen,2,3,3,1916,NULL,NULL
+Axel,Andersen,1,6,3,1916,55.701456800000,12.547915600000
+"Aksel Chr",Andersen,1,20,3,1916,NULL,NULL
+"Axel Ferdinand",Andersen,1,4,3,1916,NULL,NULL
+"Ingeborg Eleonora Augusta",Ravn,2,24,3,1916,NULL,NULL
+"Ingenius Andreas",Hansen,1,21,3,1916,NULL,NULL
+"Peter Axel Jacob",Hansen,1,1,3,1916,NULL,NULL
+"Dagny Marie Johanne  Elisabeth",Sommer,2,3,3,1916,NULL,NULL
+"Anna Dorthea Frederikke",Hansen,2,3,3,1916,NULL,NULL
+"Ane Kirstine",Hansen,2,10,3,1916,NULL,NULL
+"Anna Magdalene",Hansen,2,3,3,1916,55.704777900000,12.504829800000
+"Anne Marie",Hansen,2,2,3,1916,NULL,NULL
+"Ole Christian",Hansen,1,16,3,1916,NULL,NULL
+"Ole Christian",Hansen,1,3,3,1916,NULL,NULL
+"Jørgen Andreas",Hansen,1,16,3,1916,55.682483800000,12.577427200000
+"Søren Peter",Svendstrup,1,28,3,1916,55.670994200000,12.554310600000
+"Karen Marie",Hansen,2,21,3,1916,NULL,NULL
+"Carl Christian",Hansen,1,10,3,1916,NULL,NULL
+"Bertha Eleonora Christine",Andersen,2,21,3,1916,55.692182700000,12.544380000000
+"Nikolai Johannes",Andersen,1,24,3,1916,NULL,NULL
+"Hans Magnus",Valstrøm,1,1,3,1916,NULL,NULL
+"Hans Laurits",Wange,1,4,3,1916,55.678812000000,12.570307500000
+"Hans Laurits",Wange,1,17,3,1916,55.672692500000,12.549441100000
+Alexander,Svitensson,1,20,3,1916,55.671124300000,12.544324900000
+Balthazar,Wambach,1,16,3,1916,55.669193600000,12.553788500000
+"Otto Osvald",Rösner,1,1,3,1916,NULL,NULL
+"Emil Donatz",Brasch,1,1,3,1916,55.693720000000,12.546785300000
+"Otto Emil",Bryde,1,10,3,1916,NULL,NULL
+"Carl Frederik Valdemar",Hansen,1,17,3,1916,NULL,NULL
+"Clara Marie",Jensen,2,6,3,1916,NULL,NULL
+"Carl Manly",Hansen,1,7,3,1916,55.705777300000,12.584014000000
+"Maren Emma Elisabeth",Hansen,2,8,3,1916,NULL,NULL
+"Christian Olof",Hansen,1,21,3,1916,NULL,NULL
+"Anna Elise",Rex,2,28,3,1916,NULL,NULL
+"Peter Christian",Rolsted,1,18,3,1916,55.696267600000,12.573707900000
+"Anna Marie",Riis,2,1,3,1916,NULL,NULL
+"Emil Bertel",Hansen,1,28,3,1916,NULL,NULL
+"Ingrid Andersen",Riis,2,4,3,1916,NULL,NULL
+"Julius Emil",Christensen,1,17,3,1916,55.693095700000,12.543615400000
+"Ejner Osvald",Hulstrøm,1,9,3,1916,NULL,NULL
+"Ejner Osvald",Hulstrøm,1,22,3,1916,NULL,NULL
+"Carl Ivar",Johnsson,1,1,3,1916,NULL,NULL
+Simon,Hobert,1,23,3,1916,55.670574500000,12.559976300000
+"Jenny Margrethe",Andersen,2,27,3,1916,55.697588100000,12.542022300000
+"Jens Hjalmar Richard",Andersen,1,14,3,1916,NULL,NULL
+"Carit Adolf Søren",Eriksen,1,25,3,1916,NULL,NULL
+"Elly Edith",Hansen,2,29,3,1916,55.710846300000,12.561194200000
+"Jens Peter Jacob",Odmar,1,14,3,1916,55.672751100000,12.558429000000
+"Ingeborg Meta Elisabeth",Andersen,2,25,3,1916,55.700160700000,12.541693200000
+"Carl Valdemar",Hansen,1,7,3,1916,NULL,NULL
+Villiam,Hansen,1,2,3,1916,55.698704300000,12.540280000000
+"Amanda Theodora Frederikke",Heinze,2,7,3,1916,NULL,NULL
+"Viggo Johannes",Zobbe,1,3,3,1916,55.672033500000,12.545066100000
+"Louise Henriette",Buss,2,10,3,1916,NULL,NULL
+"Johannes Emil Valdemar",Andersen,1,8,3,1916,55.702110900000,12.531899000000
+"Julie Augusta",Andersen,2,23,3,1916,NULL,NULL
+"Karen Benedicte Brask",Andersen,2,5,3,1916,NULL,NULL
+"Alfred Julius",Hansen,1,29,3,1916,NULL,NULL
+"Carl Osvald Vilhelm",Ankersted,1,3,3,1916,55.684858300000,12.564305100000
+"Viola Lilly Agnethe",Henriksen,2,10,3,1916,55.698261500000,12.552313600000
+"Charles Poul Nicolai",Hellerie,1,24,3,1916,NULL,NULL
+Johannes,Nielsen,1,14,3,1916,55.697422600000,12.539193500000
+"Morten Villiam",Ellefsen,1,15,3,1916,NULL,NULL
+Niels,Nielsen,1,24,3,1916,55.688415100000,12.553989500000
+Nils,Nilsson,1,28,3,1916,55.698354500000,12.552109700000
+"Adelheid Caroline",Pedersen,2,6,3,1916,55.700955500000,12.548630900000
+"Agnes Katharine",Pedersen,2,14,3,1916,NULL,NULL
+"Agnes Helene Milling",Petersen,2,17,3,1916,NULL,NULL
+"Frederik Oluf Henrik",Emborg,1,11,3,1916,NULL,NULL
+"Vilhelm Valdemar Henry",Meyer,1,1,3,1916,NULL,NULL
+"Niels Henrik",Nielsen,1,4,3,1916,NULL,NULL
+"Eigil Frederik Bähr",Meyer,1,10,3,1916,NULL,NULL
+"Eigil Frederik Bähr",Meyer,1,21,3,1916,NULL,NULL
+"Niels Møller",Nielsen,1,15,3,1916,NULL,NULL
+"Meta Christine",Olsen,2,1,3,1916,NULL,NULL
+"Jørgen Christian",Nielsen,1,1,3,1916,NULL,NULL
+"Niels Oluf Hermann",Olsen,1,7,3,1916,55.694291900000,12.545050800000
+"Carl Albin",Larsson,1,29,3,1916,55.697194800000,12.548204600000
+"Hugo Lamberd",Johansson,1,22,3,1916,55.698519100000,12.551744800000
+"Jens Christian Mathias",Nielsen,1,7,3,1916,55.681474600000,12.583175000000
+"Svend Aage",Nielsen,1,9,3,1916,55.678093200000,12.569610600000
+"Karoline Kristine",Hansen,2,3,3,1916,NULL,NULL
+"Emil Arthur Marius",Christensen,1,20,3,1916,55.689085400000,12.542056200000
+"Ove Arthur Hakon",Jørgensen,1,14,3,1916,NULL,NULL
+"Ada Didi",Møller,2,25,3,1916,NULL,NULL
+"Oschar Carl",Johansen,1,13,3,1916,55.670421300000,12.555651100000
+Christian,Larsen,1,3,3,1916,55.698869600000,12.544689700000
+"Eleonora Margrethe",Hansen,2,2,3,1916,55.700138000000,12.580381300000
+"Karen Marie Louise",Nielsen,2,8,3,1916,55.683724900000,12.565592700000
+"Herdis Jenny",Larsen,2,3,3,1916,55.708647400000,12.569848100000
+"Jenny Caroline Amalie Frederikke",Larsen,2,3,3,1916,NULL,NULL
+"Einer Oluf Jørgen",Larsen,1,7,3,1916,NULL,NULL
+"Søren Hansen",Nielsen,1,1,3,1916,NULL,NULL
+"Knud Laurits",Nielsen,1,6,3,1916,NULL,NULL
+"Johannes Christoffer",Ørting,1,13,3,1916,NULL,NULL
+"Anna Margrethe",Hansen,2,3,3,1916,NULL,NULL
+"Anna Margrethe Hansine",Hansen,2,21,3,1916,NULL,NULL
+"Anton Marius",Petersen,1,22,3,1916,NULL,NULL
+"Vilhelm Siegfred",Nielsen,1,7,3,1916,55.685424600000,12.490854200000
+"Niels Anton Vilhelm",Lorentzen,1,9,3,1916,NULL,NULL
+"Emilie Karen Margrethe",Larsen,2,8,3,1916,NULL,NULL
+"Axel Peter Alfred",Nielsen,1,24,3,1916,NULL,NULL
+"Niels Nielsen",Ørum,1,1,3,1916,NULL,NULL
+"Lauritz Emil",Nielsen,1,1,3,1916,NULL,NULL
+Axel,Petersen,1,3,3,1916,55.697737100000,12.546883900000
+"Hans Peter",Larsen,1,3,3,1916,NULL,NULL
+"Carl Vilhelm Hekkert Teofiluis",Hansen,1,14,3,1916,55.680966700000,12.574056200000
+"Otto Viller",Ludvigsen,1,6,3,1916,NULL,NULL
+"Mads Peter",Eriksen,1,14,3,1916,NULL,NULL
+"Ingeborg Nikoline",Larsson,2,24,3,1916,NULL,NULL
+"Carl Christian",Nielsen,1,22,3,1916,NULL,NULL
+"Charles Martin Frederik",Hansen,1,28,3,1916,NULL,NULL
+"Karen Marie",Larsen,2,1,3,1916,NULL,NULL
+"Johannes Henrik",Jørgensen,1,8,3,1916,NULL,NULL
+"Marie Nielsine",Nielsen,2,11,3,1916,NULL,NULL
+"Dagny Augusta",Jørgensen,2,22,3,1916,55.698436900000,12.551921600000
+"Christine ?",Hansen,2,1,3,1916,55.696484700000,12.586893400000
+"Anna Marie Ingeborg",Oksen,2,14,3,1916,NULL,NULL
+Johanne,Olufsson,2,17,3,1916,NULL,NULL
+"Martha Marie",Nielsen,2,12,3,1916,NULL,NULL
+"Søren Lars",Mortensen,1,1,3,1916,NULL,NULL
+"Michael Ludvig",Orsleff,1,6,3,1916,NULL,NULL
+Peter,Orfard,1,9,3,1916,55.680744100000,12.582941900000
+"Christian Thorvald",Mogensen,1,28,3,1916,NULL,NULL
+"Laurits Zøfting",Larsen,1,8,3,1916,55.694103100000,12.545845700000
+"Christian Johannes",Jensen,1,7,3,1916,NULL,NULL
+Edvard,Christensen,1,16,3,1916,NULL,NULL
+Christian,Nielsen,1,11,3,1916,NULL,NULL
+"Christian Peter Marius",Jensen,1,7,3,1916,NULL,NULL
+"Oda Elvira",Feldborg,2,1,3,1916,NULL,NULL
+"Christian Vilhelm Petersen",Jensen,1,1,3,1916,NULL,NULL
+"Johannes Valdemar",Christensen,1,8,3,1916,NULL,NULL
+"Didrick Didriksen",Overgaard,1,31,3,1916,55.708206700000,12.562593900000
+"Edith Ingeborg Margrethe",Hansen,2,3,3,1916,NULL,NULL
+"Laurits Axel Peter",Corell,1,21,3,1916,NULL,NULL
+Peder,Larsen,1,10,3,1916,55.701895800000,12.531674800000
+"Christen Jørgen",Christensen,1,23,3,1916,NULL,NULL
+"Carl Ludvig",Fiala,1,4,3,1916,55.687503300000,12.557994700000
+Poula,Larsen,2,1,3,1916,NULL,NULL
+"Ole Nørgaard",Olesen,1,18,3,1916,55.674248300000,12.550584200000
+"Martha Marie",Jensen,2,6,3,1916,NULL,NULL
+"Edith Marie",Nielsen,2,2,3,1916,55.688867500000,12.541705200000
+"Olga Olivia",Olsen,2,21,3,1916,NULL,NULL
+"Thorkild Møller",Larsen,1,30,3,1916,NULL,NULL
+"Anna Marie Camilla",Olsen,2,3,3,1916,NULL,NULL
+"Engelhardt Harry",Melby,1,2,3,1916,NULL,NULL
+Oscar,Svendsen,1,28,3,1916,NULL,NULL
+"Johannes Ove",Maegaard,1,12,3,1916,NULL,NULL
+"Tage Emil",Petersen,1,22,3,1916,55.693980800000,12.544684100000
+Anton,Melin,1,13,3,1916,55.685424600000,12.490854200000
+"Edith Henrikka Petra Bathildio",Hansen,2,31,3,1916,NULL,NULL
+"Niilo Oskar",Nøsanen,1,9,3,1916,55.689345300000,12.560402300000
+Carl,Andersen,1,22,3,1916,55.653022600000,12.538135400000
+"Ella Helene",Rasmussen,2,18,3,1916,NULL,NULL
+Poula,Marcher,2,24,3,1916,NULL,NULL
+"Carl August Vilhelm",Svensson,1,7,3,1916,55.700240400000,12.545765600000
+"Aage Axel",Sørensen,1,3,3,1916,NULL,NULL
+Emil,Rasmussen,1,10,3,1916,55.671533400000,12.562512800000
+Dini,Natale,2,10,3,1916,55.671366500000,12.559311100000
+"Frederik Albert Georg",Baltoft,1,1,3,1916,NULL,NULL
+"Hans Axel",Frandsen,1,20,3,1916,NULL,NULL
+"Magnus Jensen",Petersen,1,9,3,1916,55.700330300000,12.535086800000
+"Camilla Dorthea Jenny",Sørensen,2,6,3,1916,NULL,NULL
+"Johanne Katty",Petersen,2,8,3,1916,55.693417600000,12.545509900000
+"Johanne Marie",Petersen,2,1,3,1916,NULL,NULL
+"Georg Peter Christian",Nielsen,1,24,3,1916,55.694916800000,12.547694600000
+"Christian Jørgen",Knudsen,1,15,3,1916,NULL,NULL
+"Valdemar Sofus",Mathiesen,1,9,3,1916,NULL,NULL
+"Vilhelmine Kristine",Bauer,2,22,3,1916,55.698395400000,12.582914700000
+"Lars Johan Oscar",Bergsten,1,25,3,1916,55.665043100000,12.519263100000
+"Hans Peter",Rasmussen,1,1,3,1916,NULL,NULL
+"Einer Christian",Olsen,1,4,3,1916,NULL,NULL
+"Ella Amalie Vilhelmine",Olsen,2,15,3,1916,NULL,NULL
+"Valborg Christine",Petersen,2,4,3,1916,55.672699800000,12.553288500000
+"Ingeborg Marie Charlotte",Carlsen,2,31,3,1916,NULL,NULL
+"Kaj Emil Vilhelm",Wissenberg,1,21,3,1916,55.696201100000,12.546288300000
+Christine,Petersen,2,8,3,1916,NULL,NULL
+"Ida Amalie Caroline",Nilausen,2,3,3,1916,55.700006700000,12.585436700000
+"Betty Johanne",Winther,2,25,3,1916,55.695378100000,12.547510300000
+"Gerner Pedersen",Møller,1,3,3,1916,NULL,NULL
+"Henry Martinus",Rasmussen,1,14,3,1916,NULL,NULL
+"Edmund Marius Frederik",Witt,1,7,3,1916,NULL,NULL
+Charles,Priskorn,1,10,3,1916,NULL,NULL
+"Gerda Gudrun Charlotte",Hansen,2,14,3,1916,NULL,NULL
+Merry,Witting,2,14,3,1916,NULL,NULL
+"Villy Edvard Brorson",Petersen,1,1,3,1916,55.696124900000,12.544317800000
+"Sophie Caroline",Olsen,2,6,3,1916,NULL,NULL
+"Johan Niels",Poulsen,1,28,3,1916,55.705715700000,12.532289400000
+"Hans Peter",Olsen,1,8,3,1916,55.699612100000,12.541182400000
+"Knud Robert",Rasmussen,1,18,3,1916,55.674248300000,12.550584200000
+"Vilhelmine Marie",Løhde,2,1,3,1916,NULL,NULL
+"Emil Constantin Kofoed",Sørensen,1,8,3,1916,NULL,NULL
+Gudrun,Jensen,2,4,3,1916,NULL,NULL
+"Hans Jørgen",Jensen,1,12,3,1916,NULL,NULL
+"Niels Frederik",Willumsen,1,9,3,1916,55.708657500000,12.580752000000
+"Ingeborg Sophie Nicoline",Knudsen,2,8,3,1916,NULL,NULL
+"Karen Kirstine",Petersen,2,16,3,1916,NULL,NULL
+"Georg Vilhelm Juul",Frankel,1,2,3,1916,55.681848400000,12.570919900000
+"Holger Veidek",Jensen,1,25,3,1916,NULL,NULL
+Ingeman,Kvistgaard,1,21,3,1916,NULL,NULL
+"Poul Holger",Poulsen,1,22,3,1916,NULL,NULL
+Agnes,Nielsen,2,3,3,1916,NULL,NULL
+"Marius Carl Sophus",Ramholt,1,11,3,1916,NULL,NULL
+"Carl Gunnar",Andersson,1,4,3,1916,NULL,NULL
+"Thorvald Juul",Poulsen,1,11,3,1916,55.696201100000,12.546288300000
+"Victoria Alexandra",Nagel,2,3,3,1916,55.692453700000,12.544574200000
+"Jens Peter",Sørensen,1,10,3,1916,55.701895800000,12.531674800000
+"Gerda Magdalene",Ziebe,2,8,3,1916,55.697735900000,12.544330900000
+"Jens Peter",Riff,1,15,3,1916,55.696201100000,12.546288300000
+"Agnes Thora",Roggenkamp,2,16,3,1916,NULL,NULL
+"Marguerite Marie de",Blanch,2,22,3,1916,NULL,NULL
+"Poula Cornelie",Jensen,1,7,3,1916,55.714355600000,12.575414700000
+"Frederik Oluf",Frederiksen,1,7,3,1916,55.685780900000,12.585646600000
+"Carl Christian",Pedersen,1,21,3,1916,NULL,NULL
+"Christian Albert",Christensen,1,9,3,1916,55.681797900000,12.561889100000
+"Axel Anders",Larsen,1,21,3,1916,55.668942900000,12.550111100000
+"Birthe Petrea",Rasmussen,2,1,3,1916,NULL,NULL
+"Kaj Valdemar",Sehested,1,2,3,1916,55.665120400000,12.497422200000
+Otto,Ørum,1,10,3,1916,55.691319600000,12.543685500000
+"Carl Vilhelm Georg",Seidenberg,1,1,3,1916,NULL,NULL
+Jenny,Andersen,2,1,3,1916,NULL,NULL
+"Frieda Ida Clara",Seiler,2,20,3,1916,NULL,NULL
+"Hother Martin",Henriksen,1,8,3,1916,55.674116800000,12.559159000000
+"Hjalmar Charles",Mortensen,1,4,3,1916,55.655524600000,12.518536600000
+"Iver Erik Kono",Ohlsson,1,16,3,1916,55.705656400000,12.490668900000
+"Jens Frede Evald Nicolaj",Pedersen,1,8,3,1916,NULL,NULL
+"Anna Petrea Rudolphine",Lindgreen,2,1,3,1916,55.698545800000,12.585574600000
+"Ingrid Isabella Carla Margrethe",Andersen,2,2,3,1916,55.664412300000,12.501118600000
+"Jens Peter",Pedersen,1,28,3,1916,55.697110700000,12.548333100000
+"Jens Valdemar",Petersen,1,13,3,1916,NULL,NULL
+"Karen Mathilde",Olsen,2,3,3,1916,NULL,NULL
+"Carl Vilhelm",Holmstrøm,1,16,3,1916,NULL,NULL
+"Hedvig Jensine",Svendsen,2,25,3,1916,NULL,NULL
+"Henning Albert",Svensson,1,10,3,1916,NULL,NULL
+"Ernst Oskar",Levin,1,31,3,1916,NULL,NULL
+Niels,Bengtsson,1,16,3,1916,55.705656400000,12.490668900000
+"Aage Ludvig",Helmersen,1,13,3,1916,55.678908800000,12.589713100000
+Ole,Andersen,1,23,3,1916,55.651757700000,12.612145200000
+"Andreas Ferdinand Reinholdt",Thomsen,1,2,3,1916,55.693037700000,12.542901100000
+"Augusta Jensine Marie",Nielsen,2,27,3,1916,NULL,NULL
+"Astrid Helene",Thomsen,2,3,3,1916,NULL,NULL
+"Laura Toradis Pouline",Torsteinson,2,28,3,1916,NULL,NULL
+"Hilma Marie Vilhelmine",Svendsen,2,22,3,1916,NULL,NULL
+"Axel Rudolf",Møller,1,8,3,1916,NULL,NULL
+"Niels Sofus Emil Nielsen",Barlebo,1,28,3,1916,55.689726500000,12.558471200000
+Nicolaus,Bartoschewsky,1,29,3,1916,NULL,NULL
+"Marie Christine",Jensen,2,3,3,1916,NULL,NULL
+"Hartvig Marcus",Frisch,1,6,3,1916,NULL,NULL
+Niels,Madsen,1,23,3,1916,NULL,NULL
+"Christian Theodor",Petersen,1,9,3,1916,55.671366500000,12.559311100000
+"Anders Jørgen",Simonsen,1,8,3,1916,NULL,NULL
+"Hother Boisen Fritz",Rasmussen,1,8,3,1916,NULL,NULL
+"Emilie Christine Martine",Nielsen,2,8,3,1916,55.666271600000,12.520798700000
+"Herbert Holck",Nielsen,1,25,3,1916,NULL,NULL
+"Alex Gunnar Lauritz",Rasmussen,1,1,3,1916,55.697162400000,12.544817000000
+"Eskild Peter",Mortensen,1,15,3,1916,NULL,NULL
+Peter,Jensen,1,1,3,1916,NULL,NULL
+"Vernet Adolf Verner",Johnsson,1,4,3,1916,NULL,NULL
+"Gunnar Valdemar Ververs",Villumsen,1,11,3,1916,55.653006400000,12.536558700000
+"Aage Carl Bernhardt",Petersen,1,15,3,1916,NULL,NULL
+"Maria Lovisa",Pettersson,2,8,3,1916,NULL,NULL
+"Johan August",Norell,1,9,3,1916,NULL,NULL
+"Rigmor Augusta",Elmsøe,2,13,3,1916,55.703813000000,12.577703300000
+Helga,Nielsen,2,25,3,1916,NULL,NULL
+"Harry Ernst Christian",Brødholt,1,30,3,1916,NULL,NULL
+"Elisabeth Jacobine",Petersen,2,6,3,1916,NULL,NULL
+"Jens Carl",Nielsen,1,9,3,1916,55.689871000000,12.573687700000
+"Elise Marie",Petersen,2,9,3,1916,55.691973400000,12.543841900000
+"Anton August Martinius",Svensson,1,20,3,1916,55.671617300000,12.546279700000
+"Carl Frithiof",Randell,1,29,3,1916,NULL,NULL
+Mathilda,Svensson,2,1,3,1916,NULL,NULL
+Emilie,Svendsen,2,3,3,1916,55.665636200000,12.502599900000
+"Vilhelm Emil Theodor",Sørensen,1,22,3,1916,NULL,NULL
+"Peter Ludvig",Nielsen,1,29,3,1916,NULL,NULL
+"Petronelly Cathrine",Nielsen,2,1,3,1916,55.657165500000,12.522120800000
+"Villiam Richardt Haubart",Sørensen,1,14,3,1916,NULL,NULL
+Anna,Thomsen,2,18,3,1916,NULL,NULL
+"Anna Margrethe",Thomsen,2,2,3,1916,NULL,NULL
+"Carl peter Rasmus",Sørensen,1,10,3,1916,55.666387000000,12.550290300000
+"Anna Marie Ida",Madsen,2,6,3,1916,NULL,NULL
+"Knud Axel",Nielsen,1,22,3,1916,NULL,NULL
+"Asmus Hansen",Jensen,1,13,3,1916,55.686645200000,12.561148300000
+"Maren Hansine",Rasmussen,2,1,3,1916,NULL,NULL
+"Laura Nielsine",Nielsen,2,1,3,1916,NULL,NULL
+"Niels Vilhelm Johannes",Petersen,1,23,3,1916,NULL,NULL
+"August Valdemar",Jensen,1,1,3,1916,55.687797000000,12.557218100000
+"Sofus Albert",Herholtz,1,12,3,1916,55.689828000000,12.563774000000
+"Emmy Gustava Ludviga",Vantzin,2,7,3,1916,NULL,NULL
+Christine,Jensen,2,8,3,1916,55.708602700000,12.586080200000
+"Carl Johannes",Mikkelsen,1,NULL,3,1916,55.697839900000,12.542289400000
+"Esther Augusta",Rasmussen,2,20,3,1916,NULL,NULL
+"Dagny Laurence",Jensen,2,16,3,1916,NULL,NULL
+Marie,Nilsson,2,1,3,1916,55.684476100000,12.569958100000
+"Fredy Edgar Ervin",Hoff,1,12,3,1916,55.699326100000,12.540844500000
+"Else Cathrine",Jensen,2,2,3,1916,NULL,NULL
+"Jørgen Nissen",Hübschmann,1,29,3,1916,NULL,NULL
+"Alfred Johannes",Hyldahl,1,14,3,1916,55.684264300000,12.587482700000
+"Anna Karen Magdalene",Hansen,2,3,3,1916,55.680566800000,12.592242200000
+"Mary Ida",Olsen,2,7,3,1916,55.664757300000,12.515680100000
+"Johanne Vilhelmine Amalie",Rasmussen,2,9,3,1916,NULL,NULL
+"Jens Peter Gustav Adolf",Thomsen,1,11,3,1916,NULL,NULL
+"Harriet Martha Elisabeth",Petersen,2,23,3,1916,NULL,NULL
+"Helga Marie Alexie",Pedersen,2,1,3,1916,55.672306400000,12.548098700000
+"Jenny Ingeborg",Petersen,2,8,3,1916,55.668986700000,12.553953200000
+"Valdemar Theodor",Johansen,1,10,3,1916,55.669327200000,12.557858000000
+"Mary Kirstine",Rasmussen,2,2,3,1916,55.699666200000,12.577082400000
+"Helga Margrethe",Olsen,2,1,3,1916,NULL,NULL
+"Holger Peter",Olsen,1,23,3,1916,55.668198400000,12.548855500000
+"Hjalmar Aage",Sørensen,1,6,3,1916,NULL,NULL
+Peter,Petersen,1,18,3,1916,NULL,NULL
+"Petra Sørine",Pedersen,2,11,3,1916,NULL,NULL
+"Poul Hjalmar",Jørgensen,1,8,3,1916,55.670836400000,12.591784800000
+"Thorkild Gunnar",Petersen,1,29,3,1916,55.669359600000,12.549767200000
+"Peter Anton Carl",Petersen,1,14,3,1916,55.670628900000,12.554857400000
+"Lovise Alma Stefanie Sørensen Knudsen",Kempf,2,11,3,1916,55.671344200000,12.554712300000
+"Carl Knud Adolf",Wengel,1,22,3,1916,NULL,NULL
+"Christian Johannes Emil",Mikkelsen,1,23,3,1916,NULL,NULL
+"Carl Martin Lorens",Theander,1,1,3,1916,55.684009300000,12.586136100000
+"Laura Edvardine Hansine",Therkelsen,2,2,3,1916,NULL,NULL
+"Fanny Margrethe",Petersen,2,3,3,1916,NULL,NULL
+"Kirsten Marie",Sørensen,2,13,3,1916,NULL,NULL
+"Thora Alexandra",Olsen,2,20,3,1916,55.671477900000,12.562973000000
+"Thora Alexandra",Olsen,2,23,3,1916,55.666734200000,12.505240600000
+"Marie Magdalene",Mathiasen,2,8,3,1916,NULL,NULL
+"Peter Martin",Petersen,1,29,3,1916,NULL,NULL
+Alfred,Vendrup,1,20,3,1916,NULL,NULL
+"Bror Alexander",Nordhavn,1,20,3,1916,55.663112200000,12.613403400000
+"Peter Vilhelm",Schmidt,1,17,3,1916,55.708206700000,12.562593900000
+"Johanne Kirstine Emilie",Rungwald,2,3,3,1916,55.665672500000,12.515889500000
+"Johanne Henriette Christiane",Witt,2,26,3,1916,55.665138900000,12.518534200000
+"Ellen Hanefeldt",Møller,2,2,3,1916,NULL,NULL
+Axel,Johannessen,1,3,3,1916,55.695027500000,12.548031500000
+"Nicolaj Nissen",Schmidt,1,22,3,1916,NULL,NULL
+Axel,Vichmann,1,8,3,1916,NULL,NULL
+"Harry Ludvig Emanuel",Møller,1,24,3,1916,NULL,NULL
+"Valdemar Theodor Georg",Mouritzen,1,13,3,1916,55.688163400000,12.552861500000
+"Vilhelm Axel Harry",Zabell,1,10,3,1916,55.670516900000,12.541932500000
+"Heinrich Christian Sapo August Thorvald",Wiegell,1,6,3,1916,55.690857200000,12.556197300000
+"Georg Harry Valdemar",Petersen,1,6,3,1916,NULL,NULL
+"Edmund Harry Villiam",Nielsen,1,28,3,1916,55.692680700000,12.555987900000
+"Emil Hans Snydstrup",Schumacher,1,7,3,1916,NULL,NULL
+"Jens Edvard Nielsen",Moselund,1,2,3,1916,NULL,NULL
+"Harald Alfred",Petersen,1,8,3,1916,55.691727600000,12.544176500000
+"Eli Vilhelm",Madsen,3,21,3,1916,NULL,NULL
+Johann,Grümmer,1,4,3,1916,NULL,NULL
+"Sofus Emil",Jensen,1,3,3,1916,NULL,NULL
+"Helge Jensen",Grøn,1,9,3,1916,55.692740000000,12.545999600000
+"Stelle Helene",Jensen,2,1,3,1916,55.693104200000,12.543061500000
+"Johan Birger",Johansson,1,7,3,1916,NULL,NULL
+"Thora Vilhelmine",Sivertsen,2,3,3,1916,NULL,NULL
+"Marie Christine Nielsen",Munk,2,2,3,1916,NULL,NULL
+"Jens Hendrik",Møldrup,1,1,3,1916,NULL,NULL
+Søren,Petersen,1,3,3,1916,55.695378100000,12.547510300000
+"Friedrich Rülof",Petersen,1,27,3,1916,NULL,NULL
+Valborg,Norup,2,3,3,1916,NULL,NULL
+"Ane Margrethe",Lassen,2,2,3,1916,NULL,NULL
+"Harriet Johanne Marie",Lassen,2,22,3,1916,NULL,NULL
+"Kirsten Antoinette",Lassen,2,1,3,1916,NULL,NULL
+"Anders Carl Christian",Nilausen,1,7,3,1916,NULL,NULL
+"Thorvald Marius",Christiansen,1,1,3,1916,NULL,NULL
+"Holger Danske",Ebbesen,1,7,3,1916,55.683931800000,12.556938600000
+"Poula Andrea",Petersen,2,4,3,1916,NULL,NULL
+"Carl Adolf Vilhelm",Sivertsen,1,10,3,1916,55.669594900000,12.554265200000
+"Elida Amalie",Eilertsen,2,18,3,1916,55.695468600000,12.543600700000
+"Julie Augusta Cecilie",Nygren,2,6,3,1916,NULL,NULL
+Sissi,Nyström,2,20,3,1916,55.699237300000,12.541176900000
+"Wilhelmine Christiane Henriette",Nøhrmann,2,10,3,1916,NULL,NULL
+"Svend Ove Etlar",Christiansen,1,10,3,1916,NULL,NULL
+"Simon Carl",Hummel,1,3,3,1916,55.677749700000,12.575979900000
+"Oscar Juul",Madsen,1,14,3,1916,NULL,NULL
+"Anna Sofie",Nielsen,2,29,3,1916,55.693613800000,12.543370000000
+"Anna Sofie Margrethe",Nielsen,2,9,3,1916,55.695378100000,12.547510300000
+"Anna Valborg Dorthea",Nielsen,2,1,3,1916,NULL,NULL
+"Axel Harry",Sand,1,5,3,1916,NULL,NULL
+"Niels Christian",Larsen,1,10,3,1916,55.698299000000,12.543101200000
+"Gustav Adolf",Hundertmarh,1,23,3,1916,NULL,NULL
+"Bror Simon",Rükmann,1,8,3,1916,NULL,NULL
+"Villy Ernst",Runge,1,29,3,1916,NULL,NULL
+"Louis Carl Georg",Steffensen,1,31,3,1916,NULL,NULL
+"Julie Henriette Marie",Hammeleff,2,27,3,1916,55.685194200000,12.570692700000
+Erik,Larsson,1,13,3,1916,NULL,NULL
+"Peter August",Sørensen,1,17,3,1916,NULL,NULL
+"Rasmus Knud Arnold",Madsen,1,20,3,1916,NULL,NULL
+"Laurits Frølund",Laursen,1,1,3,1916,NULL,NULL
+"Astrid Johanne Frederikke Marie","Lehne kl. Nielsen",2,3,3,1916,NULL,NULL
+"Marie Helene",Hübenbecher,2,15,3,1916,NULL,NULL
+"Betty Emilie",Rasmussen,2,7,3,1916,NULL,NULL
+"Carl Christian",Rasmussen,1,15,3,1916,NULL,NULL
+"Magnus Peter",Steensen,1,30,3,1916,55.698963100000,12.545031100000
+"Magnus Peter",Steensen,1,6,3,1916,55.689465900000,12.564273100000
+"Oluf Helgin",Larsen,1,23,3,1916,NULL,NULL
+"Ella Julie Frederikke",Storm,2,15,3,1916,55.698642900000,12.540145500000
+"Alfred Christian Kaj",Højgaard,1,3,3,1916,55.671647000000,12.562394300000
+Emil,Schmuntzsch,1,8,3,1916,55.699612100000,12.541182400000
+"Carl Peder Vilhelm",Pedersen,1,31,3,1916,NULL,NULL
+"Ernst August",Schnell,1,7,3,1916,NULL,NULL
+"Valdemar Emil",Schock,1,4,3,1916,NULL,NULL
+"Minna Elisabeth Margrethe",Hemmingsen,2,13,3,1916,NULL,NULL
+Christian,Petersen,1,22,3,1916,NULL,NULL
+"Axel Vilhelm",Lilliegren,1,29,3,1916,55.700815800000,12.549647900000
+"Axel Einer",Schuldt,1,10,3,1916,55.672820500000,12.589671700000
+"Dagmar Elise",Petersen,2,7,3,1916,NULL,NULL
+"Doris Mathilde",Petersen,2,30,3,1916,55.696954700000,12.547180300000
+"Dorthea Marie Petrea",Petersen,2,21,3,1916,55.695414300000,12.545849200000
+"Einer Hjalmer",Jørgensen,1,8,3,1916,NULL,NULL
+August,Sundorf,1,21,3,1916,55.690762700000,12.544523100000
+"Johannes Alfred",Sydow,1,20,3,1916,NULL,NULL
+"Søren Peter",Sørensen,1,14,3,1916,NULL,NULL
+"Jens Michael Jensen",Hørning,1,10,3,1916,NULL,NULL
+"Carl Villiam Julius",Lund,1,5,3,1916,55.686343400000,12.588796900000
+"Hans Christian Anders",Petersen,1,17,3,1916,55.683388400000,12.565797300000
+"Christian Frederik",Lund,1,22,3,1916,NULL,NULL
+Juliane,Lund,2,31,3,1916,55.692903500000,12.545759700000
+Oscar,Jensen,1,6,3,1916,NULL,NULL
+"Ella Maria",Gerild,2,3,3,1916,NULL,NULL
+Johannes,Gravengaard,1,13,3,1916,NULL,NULL
+"Emil Otto",Godtfredsen,1,6,3,1916,NULL,NULL
+"Emil Otto",Godtfredsen,1,6,3,1916,NULL,NULL
+"Johan Knud Helding",Ganvig,1,31,3,1916,NULL,NULL
+"Arild Evald Sørensen",Ebbe,1,10,3,1916,NULL,NULL
+Botilla,Aakesdotter,2,21,3,1916,NULL,NULL
+Ane,Andersdotter,2,31,3,1916,NULL,NULL
+"Carl Thorvald August",Andersen,1,13,3,1916,NULL,NULL
+"Einar Viggo",Andersen,1,31,3,1916,55.665590400000,12.577747900000
+Emilie,Andersen,2,23,3,1916,NULL,NULL
+Christine,Andresen,2,23,3,1916,NULL,NULL
+"Christian August Victor",Backe,1,2,3,1916,NULL,NULL
+"Lars Christian Hansen",Bech,1,22,3,1916,55.689807800000,12.554798000000
+"Jens Christian Titus",Beissenhertz,1,31,3,1916,NULL,NULL
+"Emanuel Axel",Berendt,1,14,3,1916,NULL,NULL
+Hjalmar,Bjerring,1,21,3,1916,55.671743000000,12.562716800000
+"Svend Nielsen",Björklund,1,9,3,1916,NULL,NULL
+"Johanne Marie Christiane",Boesen,2,16,3,1916,55.688476400000,12.585009700000
+"Vilhelm Ludvig Christian",Boye,1,5,3,1916,NULL,NULL
+"Viggo Johannes",Carlsen,1,24,3,1916,NULL,NULL
+"Hans Louis Bill",Christensen,1,8,3,1916,55.705179500000,12.580060600000
+"Martha Lovise",Christensen,2,1,3,1916,55.706926500000,12.581879500000
+"Martin Peter",Christensen,1,14,3,1916,NULL,NULL
+"Mette Sofie",Christensen,2,10,3,1916,NULL,NULL
+"Ragna Otilia",Christiansen,2,8,3,1916,NULL,NULL
+"Ane Margrethe",Clausen,2,1,3,1916,NULL,NULL
+Augusta,Cohn,2,2,3,1916,NULL,NULL
+"Holger Olaf",Conradsen,1,29,3,1916,NULL,NULL
+"Jens Ferdinand",Crane,1,28,3,1916,NULL,NULL
+Juliane,Crone,2,27,3,1916,NULL,NULL
+Vilhelm,Dalby,1,28,3,1916,55.659595100000,12.607513100000
+"Catharine Louise Vilhelmine",Danielsen,2,29,3,1916,NULL,NULL
+"Carl Frederik",Distler,1,1,3,1916,55.667370300000,12.549917400000
+"Jenny Petrea",Eilert,2,18,3,1916,55.659084400000,12.608410900000
+"Agnes Veronika",Eltong,2,1,3,1916,NULL,NULL
+"Elisabeth Mariane",Enevoldsen,2,6,3,1916,55.704008100000,12.581348800000
+Ludovica,Enzio,2,29,3,1916,55.678373600000,12.569589100000
+"Niels Emilius",Eskildsen,1,13,3,1916,NULL,NULL
+Kirsten,Espensen,2,20,3,1916,55.657939300000,12.602963600000
+Jens,Frederiksen,1,8,3,1916,NULL,NULL
+Moritz,Frederiksen,1,14,3,1916,NULL,NULL
+"Knud Ove Børge",Gammelgaard,1,4,3,1916,55.671813100000,12.555055400000
+Hans,Gregorius,1,1,3,1916,55.679840900000,12.589322200000
+"Nils Albin",Gullstrand,1,7,3,1916,55.665597100000,12.609646800000
+Margrethe,Gylcke,2,6,3,1916,NULL,NULL
+"Elin Marie",Håkansson,2,26,3,1916,55.659318400000,12.608447400000
+"Albert Oscar",Haas,1,23,3,1916,NULL,NULL
+"Georgine Bodine",Haglund,2,20,3,1916,NULL,NULL
+Harald,Hallas,1,14,3,1916,55.683915600000,12.583050300000
+Aage,Hansen,1,6,3,1916,55.697613400000,12.539559700000
+"Carl Vilhelm",Hansen,1,19,3,1916,NULL,NULL
+Hans,Hansen,1,15,3,1916,55.699525400000,12.540733600000
+"Hans Ejler",Hansen,1,21,3,1916,NULL,NULL
+"Hans Jørgen",Hansen,1,4,3,1916,55.681926900000,12.573613000000
+"Johannes Christian Nicolaj",Hansen,1,28,3,1916,NULL,NULL
+"Julius Edvard",Hansen,1,18,3,1916,NULL,NULL
+"Marie Henriette",Hansen,2,29,3,1916,NULL,NULL
+"Holger Emil",Henriksen,1,22,3,1916,55.685947000000,12.551538300000
+"Sara Florentine",Henriksen,2,10,3,1916,NULL,NULL
+"Niels Anton Julius",Jacobsen,1,14,3,1916,NULL,NULL
+"Bertheline Marie",Jahn,2,8,3,1916,NULL,NULL
+"Agnes Eleonora Vilhelmine",Jensen,2,26,3,1916,NULL,NULL
+"Anders Peter",Jensen,1,11,3,1916,55.694916800000,12.547694600000
+Jacob,Jensen,1,14,3,1916,NULL,NULL
+"Jens Peter Henrik",Jensen,1,27,3,1916,55.667949900000,12.551097000000
+"Lars Peter",Jensen,1,20,3,1916,NULL,NULL
+Maren,Jensen,2,23,3,1916,NULL,NULL
+"Ole Andreas Emil",Jensen,1,31,3,1916,55.688359700000,12.581447800000
+"Samuel Elias Nestby",Jensen,1,13,3,1916,55.687952400000,12.553288100000
+"Sofie Caroline Marie",Jensen,2,14,3,1916,55.672016200000,12.561057100000
+"Vilhelm Christian Emilius",Jensen,1,16,3,1916,55.686645000000,12.588461800000
+"William Joseph",Jensen,1,7,3,1916,NULL,NULL
+Jens,Jeppesen,1,10,3,1916,55.672033500000,12.545066100000
+Johanne,Johansen,2,6,3,1916,NULL,NULL
+"Annike Marie",Jørgensen,2,29,3,1916,55.668151700000,12.553259500000
+"Dagmar Mathilde Caroline",Jørgensen,2,1,3,1916,NULL,NULL
+"Ejner Lauritz Christen",Jørgensen,1,21,3,1916,55.668760400000,12.553928600000
+"Lars Christian Valdemar",Jørgensen,1,28,3,1916,NULL,NULL
+"Peter Julius Napoleon",Jørgensen,1,28,3,1916,55.691319600000,12.543685500000
+"Poul Svane",Kirkeskov,1,9,3,1916,55.689791100000,12.571262000000
+"Sigurd Viggo",Knudsen,1,5,3,1916,NULL,NULL
+"Caroline Rosine Frederikke",Kømler,2,3,3,1916,55.681736000000,12.563247600000
+Anders,Larsen,1,19,3,1916,NULL,NULL
+"Ida Dorthea",Larsen,2,30,3,1916,NULL,NULL
+"Ida Dorthea",Larsen,2,30,3,1916,NULL,NULL
+Jørgen,Larsen,1,16,3,1916,NULL,NULL
+Lars,Larsen,1,21,3,1916,NULL,NULL
+"Frederik Valdemar",Laulund,1,28,3,1916,55.694614800000,12.571043100000
+Kirstine,Lauritsen,2,10,3,1916,NULL,NULL
+"Carl Thorvald",Leonhard,1,1,3,1916,NULL,NULL
+"August Henriksson",Lindblad,1,14,3,1916,55.667310800000,12.554748800000
+"Olaf Edvard",Lindqvist,1,4,3,1916,NULL,NULL
+"Seth Emanuel",Lundin,1,3,3,1916,55.687218200000,12.558770100000
+"Christian Valdemar",Madsen,1,16,3,1916,NULL,NULL
+"Anna Kristine",Magnussen,2,23,3,1916,NULL,NULL
+"Mine Magdalene",Martinsen,2,4,3,1916,NULL,NULL
+"Mathias Eilert Christian",Mathiasen,1,18,3,1916,NULL,NULL
+"Carl Einer Asmus",Misfeldt,1,17,3,1916,NULL,NULL
+"Carl Einer Asmus",Misfeldt,1,3,3,1916,55.691334400000,12.553660100000
+"Jensine Christine",Mogensen,2,7,3,1916,NULL,NULL
+"Anna Margrethe",Momme,2,4,3,1916,NULL,NULL
+Jørgen,Mortensen,1,18,3,1916,NULL,NULL
+"Jørgen Peter",Mortensen,1,4,3,1916,NULL,NULL
+"Edith Manley",Müller,2,5,3,1916,NULL,NULL
+"Hans Christian Egon Hansen",Münter,1,14,3,1916,55.696265700000,12.574230600000
+"Albert Lauritz Andreas",Møller,1,13,3,1916,55.667903600000,12.549872200000
+"Johan Theodor",Møller,1,24,3,1916,NULL,NULL
+"Amanda Nielsine Carla",Nielsen,2,16,3,1916,NULL,NULL
+Helene,Nielsen,2,22,3,1916,NULL,NULL
+"Jens Christian",Nielsen,1,25,3,1916,55.688980600000,12.553946900000
+"Maren Christine Christiansen",Nielsen,2,3,3,1916,NULL,NULL
+"Nicoline Jensine",Nielsen,2,7,3,1916,55.680394200000,12.575614400000
+Ole,Nielsen,1,24,3,1916,NULL,NULL
+"Jens Peter",Nissen,1,30,3,1916,NULL,NULL
+"Holger Christian",Olesen,1,21,3,1916,NULL,NULL
+"Hans Christian",Olsen,1,21,3,1916,55.686544600000,12.549864900000
+"Carl Edvard",Persson-Petersen,1,4,3,1916,55.682351800000,12.576725400000
+"Carl Edvard",Persson-Petersen,1,1,3,1916,55.682351800000,12.576725400000
+"Arthur Edvard",Petersen,1,14,3,1916,55.678088000000,12.581507600000
+"Fanny Vilhelmine",Petersen,2,3,3,1916,55.688359700000,12.581447800000
+Frederik,Petersen,1,5,3,1916,55.686718900000,12.588918400000
+"Jens Vilhelm",Petersen,1,30,3,1916,NULL,NULL
+"Josefine Oline",Petersen,2,30,3,1916,55.693900200000,12.545669400000
+"Thora Margrethe",Pihl,2,3,3,1916,55.700305100000,12.580443900000
+"Villiam Evald",Plæhn,1,26,3,1916,NULL,NULL
+Carl,Rasch,1,7,3,1916,55.671712700000,12.573833200000
+"Ejnar Lauritz",Rasmussen,1,7,3,1916,55.689027700000,12.572349000000
+Lars,Rasmussen,1,17,3,1916,NULL,NULL
+"Rasmus Peter",Rasmussen,1,23,3,1916,NULL,NULL
+"Valdemar Alvind",Rasmussen,1,15,3,1916,NULL,NULL
+"Heinrich Fritz Julius Johannes Josef",Reimers,1,11,3,1916,NULL,NULL
+"Carl Theodor",Restorff,1,31,3,1916,NULL,NULL
+Sofie,Rolapp,2,18,3,1916,NULL,NULL
+"Niels Peter Hansen",Rosberg,1,30,3,1916,NULL,NULL
+"Emil Edvard",Rudnitski,1,6,3,1916,55.689247800000,12.559947500000
+"Andreas Martin Villiam",Rønne,1,1,3,1916,NULL,NULL
+"Aage From",Schiønning,1,22,3,1916,55.696926400000,12.553008200000
+"Christoffer Lauritz",Schmidt,1,4,3,1916,NULL,NULL
+"Maren Cathrine",Schmidt,2,14,3,1916,55.691499500000,12.578052500000
+"Hans Frederik",Sik,1,2,3,1916,NULL,NULL
+Mads,Slange,1,16,3,1916,NULL,NULL
+"Oline Hansine",Sommer,2,20,3,1916,NULL,NULL
+Ellen,Steffensen,2,7,3,1916,NULL,NULL
+Franz,Stika,1,14,3,1916,55.688799900000,12.556629100000
+"Jens Mathias",Svenningsen,1,25,3,1916,NULL,NULL
+"Sven William A.",Svensson,1,6,3,1916,NULL,NULL
+"Aage Svend Richardt",Sørensen,1,10,3,1916,55.693655100000,12.545167400000
+Kirsten,Sørensen,2,12,3,1916,NULL,NULL
+"Susanne Marie Birgitte W.",Sørensen,2,29,3,1916,NULL,NULL
+"Christian Valdemar",Terkelsen,1,17,3,1916,NULL,NULL
+"Karen Kirstine Magdalene",Therkildsen,2,27,3,1916,NULL,NULL
+"Caroline Amalie",Thaysen,2,13,3,1916,55.698260000000,12.577472700000
+"Olga Helene",Thielsen,2,20,3,1916,55.691213700000,12.578774200000
+"Hans Frederik",Thomsen,1,6,3,1916,NULL,NULL
+"Louis Julius",Tofte,1,15,3,1916,NULL,NULL
+"Asmine Cecilie Marie",Topp,2,1,3,1916,NULL,NULL
+"Christen Mauritsen",Ulriksen,1,3,3,1916,55.699140200000,12.540540300000
+"Anna Marie",Uttenthal,2,8,3,1916,NULL,NULL
+"Charles Frederik Jensen",Westergaard,1,4,3,1916,55.685722700000,12.566767500000
+"Svend Aage",Villestofte,1,1,3,1916,55.668787300000,12.554458500000
+"Albert Johan",Wismann,1,6,3,1916,55.684777500000,12.564938500000
+"Petronelle Edvardine",Woer,2,11,3,1916,NULL,NULL
+"Otto Valdemar",Voigt,1,22,3,1916,NULL,NULL
+"Carl Julius",Rasmussen,1,2,3,1916,55.688501700000,12.561708500000
+"Harald Anton",Gottschalck,1,4,3,1916,55.684477100000,12.570973400000
+Holger,Rasch,1,1,3,1916,NULL,NULL
+"Ingeborg Johanne Kirstine",Petersen,2,6,3,1916,NULL,NULL
+"Christian Alfred",Pedersen,1,8,3,1916,NULL,NULL
+"Christian Marius Peter",Larsen,1,14,3,1916,55.697803600000,12.584186000000
+"Ernst Sofus",Nielsen,1,7,3,1916,NULL,NULL
+"Johannes Andreas",Andersen,1,30,3,1916,NULL,NULL
+"Arthur Christian",Christensen,1,6,3,1916,NULL,NULL
+"Adolf Wilhelm",Zeunert,1,25,3,1916,NULL,NULL
+"Augusta Charlotte Caroline",Bredberg,2,24,3,1916,NULL,NULL
+"Carl Viggo",Vitzansky,1,2,3,1916,NULL,NULL
+"Frederik Ferdinand",Nielsen,1,14,3,1916,55.666539300000,12.550666000000
+"Villy Emil Carl Stemann",Hagdrup,1,27,3,1916,NULL,NULL
+"Christian Carl Ole Julius",Breiting,1,16,3,1916,NULL,NULL
+"Einar Thorvald",Gross,1,3,3,1916,NULL,NULL
+"Axel Emanuel",Sørensen,1,25,3,1916,55.688163400000,12.552861500000
+"Jensine Jacobine Vilhelmine",Sørensen,2,1,3,1916,NULL,NULL
+BodilMariane,Thellefsen,2,4,3,1916,NULL,NULL
+"Harald Christian",Serritzlev,1,3,3,1916,55.705608500000,12.584138600000
+"Ellen Marie Edith",Seest,2,1,3,1916,55.703854100000,12.578908200000
+"Karoline Jensine",Knudsen,2,22,3,1916,55.678908800000,12.589713100000
+"Niels Johnsson",Strandberg,1,17,3,1916,55.700719200000,12.579354900000
+"Max Meier",Strassman,1,6,3,1916,55.687407500000,12.558256700000
+"Thyra Johanne",Madsen,2,2,3,1916,55.689493400000,12.556784700000
+"Dagmar Marie",Lindberg,2,2,3,1916,55.696755300000,12.581341000000
+"Anna Caroline",Strid,2,28,3,1916,NULL,NULL
+"Lauritz Oluf",Mortensen,1,1,3,1916,NULL,NULL
+Peter,Johnsen,1,21,3,1916,NULL,NULL
+Niels,Nielsen,1,1,3,1916,NULL,NULL
+"Sophus Nielsen",Bonde,1,4,3,1916,55.689351200000,12.563075300000
+"Niels Christian",Bramsen,1,15,3,1916,NULL,NULL
+Svend,Væber,1,24,3,1916,55.714786600000,12.572632100000
+"Victor Herman Georg",Thorstenson,1,14,3,1916,NULL,NULL
+"Johannes Carl Vilhelm Oscar",Christiansen,1,17,3,1916,NULL,NULL
+"Lars Peter",Olsen,1,7,3,1916,NULL,NULL
+Martin,Olsen,1,2,3,1916,55.691207300000,12.555840500000
+"Johannes Otto",Pistarius,1,13,3,1916,NULL,NULL
+"Emmy Eleonora Kirstine",Poppe,2,1,3,1916,NULL,NULL
+"Theodora Vilhelmine",Christensen,2,6,3,1916,NULL,NULL
+"Paulus Johannes",Rossing,1,23,3,1916,55.704533300000,12.585488900000
+"Anna Ingeborg Alexandra",Eriksen,2,6,3,1916,NULL,NULL
+"Axel Ditlev",Eriksen,1,21,3,1916,55.671955600000,12.563500500000
+"Jens Christian",Frederiksen,1,14,3,1916,NULL,NULL
+"Jens Christian",Frederiksen,1,23,3,1916,NULL,NULL
+"Carla Marie Poulsen",Greve,2,2,3,1916,55.708090100000,12.570820100000
+"Gjertine Rasmine",Rasmussen,2,7,3,1916,NULL,NULL
+"Helmuth Ulrik",Olsen,1,15,3,1916,NULL,NULL
+"Helmuth Ulrik",Olsen,1,24,3,1916,NULL,NULL
+"Marie Christine Vilhelmine",Zimmermann,2,8,3,1916,NULL,NULL
+"Christian Thorvald",Johansen,1,15,3,1916,NULL,NULL
+Peter,Hansen,1,13,3,1916,55.677520800000,12.576457400000
+"Emil Gerhardt",Jacobsen,1,23,3,1916,NULL,NULL
+Marie,Hansen,2,10,3,1916,55.683515300000,12.577139900000
+"Carl Martel",Rusborg,1,2,3,1916,NULL,NULL
+Allan,Edling,1,7,3,1916,55.700240400000,12.545765600000
+"Peter Vilhelm",Hansen,1,6,3,1916,55.682941200000,12.576074500000
+"Valdemar Georg",Hansen,1,8,3,1916,55.662437800000,12.503157100000
+"Axel Edvard",Jørgensen,1,6,3,1916,55.679372500000,12.569538800000
+"Hans Peter",Jensen,1,21,3,1916,55.696201100000,12.546288300000
+Ingeborg,Jensen,2,25,3,1916,55.700240400000,12.545765600000
+"Margrethe Magdalene",Johansen,2,11,3,1916,NULL,NULL
+"Ebba Ingeborg Magda",Transø,2,14,3,1916,55.698642900000,12.540145500000
+Severin,Rasmussen,1,21,3,1916,55.670911500000,12.554678700000
+"Louis Theodor Henri",Lind,1,1,3,1916,NULL,NULL
+"Cathinca Kirstine",Mortensen,2,16,3,1916,55.685424600000,12.490854200000
+Elisa,Schellenbaum,2,1,3,1916,55.671822400000,12.558557900000
+"Peter Emil",Andersen,1,4,3,1916,55.664525900000,12.606628500000
+"Peter Emil",Andersen,1,9,3,1916,NULL,NULL
+"Thorkild Jægel Frode Rasmus",Simonsen,1,14,3,1916,55.671647000000,12.562394300000
+"Jenny Christine",Stenby,2,2,3,1916,NULL,NULL
+"Christian Sørensen",Boye,1,6,3,1916,NULL,NULL
+Charles,Nielsen,1,21,3,1916,NULL,NULL
+Charles,Nielsen,1,30,3,1916,NULL,NULL
+"Frantz Carl",Woltzmann,1,31,3,1916,55.669370500000,12.554381100000
+Carl,Aagesen,1,10,3,1916,NULL,NULL
+Johannes,Clausen,1,30,3,1916,55.685542900000,12.548613600000
+Johannes,Clausen,1,3,3,1916,NULL,NULL
+Viggo,Erbs,1,8,3,1916,NULL,NULL
+Christian,Bernhoef,1,28,3,1916,NULL,NULL
+"Frode Bernhard Emanuel",Clemmensen,1,6,3,1916,NULL,NULL
+"Ferdinandine Johanne Paludan",Petersen,2,6,3,1916,55.693552000000,12.542974700000
+"Hans Feldo",Randrup,1,30,3,1916,NULL,NULL
+"Anna Johanne Camilla",Rasmussen,2,6,3,1916,NULL,NULL
+"Niels August Theodor",Jensen,1,10,3,1916,NULL,NULL
+"Ernst Ludvig Heinrik",Westphal,1,31,3,1916,NULL,NULL
+"Axel Julius Nicolai",Rundé,1,27,3,1916,NULL,NULL
+Sidney,Olsen,1,17,3,1916,NULL,NULL
+"Ture Ferdinand",Arnell,1,9,3,1916,NULL,NULL
+"Hans Niels Lauritz",Hansen,1,29,3,1916,55.673266900000,12.589392000000
+"Gerda Alfrida",Carlsson,2,17,3,1916,NULL,NULL
+Karen,Hansen,2,14,3,1916,55.694237500000,12.570014200000
+"Frida Victoria",Klewe,2,8,3,1916,55.672173900000,12.550436900000
+"Agnes Thomine",Frederiksen,2,6,3,1916,55.687068500000,12.566610700000
+"Antonia Viola Leontina",Frederiksson,2,1,3,1916,NULL,NULL
+"Niceline Jensine",Frederiksen,2,1,3,1916,NULL,NULL
+"Otto Jørgen",Frederiksen,1,4,3,1916,55.678034600000,12.580396600000
+Hjalmar,Frandsen,1,2,3,1916,55.686000100000,12.567632600000
+Ragnar,Eriksson,1,30,3,1916,NULL,NULL
+Louise,Feilberg,2,1,3,1916,55.682537500000,12.569023700000
+Haim,Estrine,1,10,3,1916,NULL,NULL
+"Poul Bruno",Eriksen,1,31,3,1916,55.682291600000,12.581789500000
+"Gunda Nielsine",Erdmann,2,16,3,1916,NULL,NULL
+Erhardt,Christoffersen,1,1,3,1916,55.681657300000,12.573805200000
+Bjarni,Engelbrecht,1,9,3,1916,55.677984000000,12.566553100000
+"Esta Petra Eugenie",Eis,2,25,3,1916,55.682806900000,12.564072300000
+Anna,Elander,2,20,3,1916,NULL,NULL
+"Ove Aron",Jørgensen,1,10,3,1916,NULL,NULL
+"Erik Gregers",Juel,1,15,3,1916,NULL,NULL
+"Alfred Lauritz Victorius",Larsen,1,31,3,1916,NULL,NULL
+"Torvald Robert",Jørgensen,1,17,3,1916,NULL,NULL
+"Antonii Leo August Maximillian",Jøncke,1,17,3,1916,NULL,NULL
+"Carl Albert",Jørgensen,1,24,3,1916,NULL,NULL
+"Ellen Kristine Elisabeth",Jørgensen,2,29,3,1916,NULL,NULL
+"Ane Cathrine",Petersen,2,10,3,1916,NULL,NULL
+"Anna Johanne",Petersen,2,16,3,1916,NULL,NULL
+"Anna Marie",Petersen,2,1,3,1916,NULL,NULL
+"Anna Marie Cathrine",Petersen,2,1,3,1916,NULL,NULL
+"Hans Lauritz",Jørgensen,1,21,3,1916,NULL,NULL
+"Knud Christian",Jacobsen,1,9,3,1916,NULL,NULL
+"Florenza Edith",Price,2,9,3,1916,NULL,NULL
+"Richard Alexander",Pukorv,1,30,3,1916,NULL,NULL
+"Niels Madsen",Rasmussen,1,8,3,1916,NULL,NULL
+"Emil Peter Søren",Olsson,1,29,3,1916,NULL,NULL
+Niels,Kastberg,1,23,3,1916,NULL,NULL
+"Else Marie Andersen",Kjelde,2,3,3,1916,NULL,NULL
+"Aagot Marie",Kjølner,2,8,3,1916,NULL,NULL
+"Anna Frederikke",Holst,2,11,3,1916,NULL,NULL
+Niels,Christensen,1,3,3,1916,NULL,NULL
+"Niels Oluf",Christensen,1,9,3,1916,NULL,NULL
+"Otto Johannes",Christensen,1,4,3,1916,NULL,NULL
+"Søren Jensen",Christensen,1,17,3,1916,NULL,NULL
+"Kai Philip",Hammer,1,27,3,1916,NULL,NULL
+"Alexander Johan Disedor",Lisberg,1,30,3,1916,NULL,NULL
+"Henrik Theodor",Lau,1,20,3,1916,NULL,NULL
+"Carl Christian",Petersen,1,25,3,1916,NULL,NULL
+Sara,Jepsen,2,16,3,1916,NULL,NULL
+"Einar Grundvig Armann",Jensen,1,15,3,1916,NULL,NULL
+"Elisabeth Marie Johanne Kirstine",Jensen,2,3,3,1916,NULL,NULL
+"Fridtja Fokline",Laurentz,2,2,3,1916,NULL,NULL
+"Leonard Julius Frederik Wilhelm",Lorenzen,1,16,3,1916,NULL,NULL
+"Christiane Caroline",Nielsen,2,18,3,1916,NULL,NULL
+"Carla Kirstine",Olsen,2,18,3,1916,NULL,NULL
+"Kirstine Christine Sidse",Sørensen,2,2,3,1916,NULL,NULL
+"Jens Peter",Hansen,1,4,3,1916,NULL,NULL
+"Johan Emanuel",Hansen,1,3,3,1916,NULL,NULL
+Johannes,Hansen,1,3,3,1916,NULL,NULL
+"Ole Torben",Nielsen,1,17,3,1916,NULL,NULL
+"Hansine Sofie",Hansen,2,9,3,1916,NULL,NULL
+"Hilma Petrea",Hansen,2,4,3,1916,NULL,NULL
+Anna,Nielsen,2,21,3,1916,NULL,NULL
+"Jens Viggo",Andersen,1,3,3,1916,NULL,NULL
+"Johan Sofus",Lange,1,8,3,1916,NULL,NULL
+"Anders Jacob",Larsen,1,16,3,1916,NULL,NULL
+Vera,Nielson,2,21,3,1916,NULL,NULL
+"Carl Valdemar",Petersen,1,17,3,1916,NULL,NULL
+"Carl Valdemar",Petersen,1,8,3,1916,NULL,NULL
+"Albert Edvard",Petersen,1,14,3,1916,NULL,NULL
+"Niels Peter",Jensen,1,7,3,1916,NULL,NULL
+"Carl Emil Niels",Stenberg,1,10,3,1916,NULL,NULL
+"Henrikke Nielsine",Jensen,2,13,3,1916,NULL,NULL
+"Eline Marie",Jensen,2,2,3,1916,55.700627800000,12.579920900000
+Esben,Hansen,1,21,3,1916,NULL,NULL
+"Alexandra Theodora Ludovica Constantina Selchau",Lund,2,1,3,1916,NULL,NULL
+"Gunda Josefine",Christiansen,2,7,3,1916,NULL,NULL
+"Laurentius Rasmus",Offenberg,3,15,3,1916,NULL,NULL
+"Anna Amalie Snedler",Sørensen,3,16,3,1916,NULL,NULL

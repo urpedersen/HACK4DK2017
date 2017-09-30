@@ -1,0 +1,9 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Conrad Bille",Hansen,1,11,7,1890,55.670609300000,12.589901200000
+"Cathrine Anna Elisabeth",Mulvad,2,1,7,1890,55.680935700000,12.573919700000
+"Søren Peter",Christensen,1,1,7,1890,55.681110300000,12.574002900000
+"Guido Henry",Hellqvist,1,6,7,1890,55.688306300000,12.561484800000
+Camilla,Johansen,2,1,7,1890,NULL,NULL
+"Jensine Helene",Petersen,2,7,7,1890,NULL,NULL
+Christen,Madsen,1,14,7,1890,NULL,NULL
+"Carl Harald Frederik",Sussemeihl,1,7,7,1890,55.690993400000,12.563832100000

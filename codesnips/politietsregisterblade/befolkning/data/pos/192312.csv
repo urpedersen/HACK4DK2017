@@ -1,0 +1,103 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Christian Georg Vilhelm",Haagensen,1,1,12,1923,NULL,NULL
+"Svend Aage",Andersen,1,4,12,1923,55.666560600000,12.578336100000
+"Stephan Andreas Peter Janus",Hansen,1,13,12,1923,55.674461600000,12.590255800000
+"Jens Peter",Andersen,1,7,12,1923,55.663337600000,12.581620600000
+"Anna Johanne",Petersen,2,4,12,1923,NULL,NULL
+"Gerhardt Emanuel",Christoffersen,1,19,12,1923,NULL,NULL
+"Peter Christian Martinus",Larsen,1,1,12,1923,NULL,NULL
+"Anna marie Vilhelmine",Hansen,2,15,12,1923,55.660700400000,12.615708500000
+"Marius Bernhard Alexander",Schwerdfeger,1,10,12,1923,NULL,NULL
+"Erna Marie",Jørgensen,2,13,12,1923,55.673825400000,12.591452000000
+"Frida Rigmor",Jørgensen,2,20,12,1923,NULL,NULL
+"Robert Albert",Nielsen,1,6,12,1923,NULL,NULL
+"Sofus Arnold",Nørring,1,4,12,1923,NULL,NULL
+"Ingeborg Ulrikka",Grünwaldt,2,18,12,1923,55.683578400000,12.574037900000
+"Hans Christian",Madsen,1,22,12,1923,NULL,NULL
+"Johanne Marie",Thrige,2,1,12,1923,NULL,NULL
+"Evy Viola",Leth,2,1,12,1923,55.689377400000,12.572853700000
+"Carl Elo",Henriksen,1,16,12,1923,NULL,NULL
+"Hans Andreas",Kastrup,1,7,12,1923,55.694916800000,12.547694600000
+"Emanuel Johannes",Davidsen,1,17,12,1923,NULL,NULL
+"Poul Heinrich Ludvig",Dopheide,1,1,12,1923,55.672220200000,12.563547300000
+"Vilhelm Ernst Sofus",Grandt,1,5,12,1923,NULL,NULL
+"Carl Georg Valdemar",Hansen,1,30,12,1923,NULL,NULL
+"Georg Sofus",Ljungback,1,14,12,1923,NULL,NULL
+"Holmer Andreas",Hansen,3,1,12,1923,NULL,NULL
+"John Andrew",Henningsen,1,20,12,1923,55.678647200000,12.582382900000
+"Marie Karolina",Hernborg,2,19,12,1923,55.679738500000,12.584526400000
+"Ellen Margrethe Arnds",Wistisen,2,1,12,1923,NULL,NULL
+"Agnes Johanne",Nyby,2,1,12,1923,NULL,NULL
+"Frederikke Caroline",Hansen,2,4,12,1923,55.692016400000,12.557927400000
+"Carl Andras Edvard",Mink,1,1,12,1923,NULL,NULL
+"Hjalmar Sigfred",Frid,1,3,12,1923,NULL,NULL
+"Sigrid Christine",Baltzersen,2,1,12,1923,NULL,NULL
+"Carl Julius",Christensen,1,3,12,1923,NULL,NULL
+"Jens Peter",Nielsen,1,31,12,1923,NULL,NULL
+"Hans Echardt",Lindberg,1,31,12,1923,NULL,NULL
+"Einer Frits",Johnsen,1,1,12,1923,55.681101700000,12.590118400000
+"Ove Carl",Elboth,1,10,12,1923,55.686877800000,12.589035300000
+"Holger Emanuel",Andersson,1,1,12,1923,55.687952200000,12.583609600000
+Jens,Jensen,1,5,12,1923,NULL,NULL
+Martin,Christensen,1,13,12,1923,55.690715400000,12.573642100000
+"Marie Johanne",Reimers,2,29,12,1923,NULL,NULL
+"Nielsine Sofie",Rafn,2,17,12,1923,NULL,NULL
+"Hans Erik Carl",Rasmussen,1,1,12,1923,NULL,NULL
+"Oscar Valdemar",Rudberg,1,14,12,1923,NULL,NULL
+"Johanne Petrine",Mohr,2,19,12,1923,55.684993900000,12.594278800000
+"Albert Gotfred",Petersen,1,19,12,1923,NULL,NULL
+"Ulla Asta Lynetta",Petersen,2,1,12,1923,NULL,NULL
+"Anker Alfred",Thybo,1,14,12,1923,NULL,NULL
+"Olga Johanne Cecilie",Rasmussen,2,3,12,1923,NULL,NULL
+"Hans Peter",Andersen,1,2,12,1923,NULL,NULL
+"Christian Hjalmar Ejnar",Andersen,1,1,12,1923,NULL,NULL
+"Sigfred Hjalmar",Brohze,1,2,12,1923,55.672646000000,12.557887400000
+"Bernth Otto",Berling,1,2,12,1923,NULL,NULL
+Hertha,Christensen,2,1,12,1923,NULL,NULL
+"Lars Ewald",Christiansen,1,27,12,1923,NULL,NULL
+"Ejner Antony Engell",Nielsen,1,17,12,1923,NULL,NULL
+"Rosa Jonna Ella",Klamer,2,18,12,1923,NULL,NULL
+Jørgen,Jørgensen,1,22,12,1923,NULL,NULL
+Carl,Madsen,1,1,12,1923,NULL,NULL
+"Svend Jens Hjalmar Johannes",Ottosen,1,5,12,1923,NULL,NULL
+"Valborg Johanne",Hansen,2,24,12,1923,NULL,NULL
+"Alma Christine Henriette",Hansen,2,3,12,1923,NULL,NULL
+"Christian Johan Ludvig",Ingerslev,1,5,12,1923,NULL,NULL
+"Svend Aage",Jensen,1,8,12,1923,55.700100800000,12.578748600000
+"Harald Sylvest",Larsen,1,7,12,1923,55.671841200000,12.572843100000
+"Thyra Constance",Jönsson,2,12,12,1923,55.728398900000,12.572995700000
+"Gustav Aron",Persson,1,20,12,1923,NULL,NULL
+"Holger Ove Hans",Sørensen,1,15,12,1923,NULL,NULL
+"Amalie Svensson",Wahlquist,2,1,12,1923,NULL,NULL
+"Carl Lauritz",Rosekamp,1,1,12,1923,NULL,NULL
+"Ottilia Anna",Lagoni,2,8,12,1923,55.697319500000,12.573659200000
+"Hertha Marie",Lindgren,2,16,12,1923,NULL,NULL
+"Svend Kronborg",Svendsen,1,15,12,1923,NULL,NULL
+"Hans Edvard",Varbæk,1,25,12,1923,55.668910000000,12.555584000000
+"Hans Edvard",Varbæk,1,30,12,1923,NULL,NULL
+"Henrik Christen Ove Alf",Christensen,1,2,12,1923,NULL,NULL
+"Carl Viggo Andreas",Hansen,1,1,12,1923,NULL,NULL
+"Carl Viggo Andreas",Hansen,1,1,12,1923,NULL,NULL
+"Niels Erik",Larsen,1,1,12,1923,NULL,NULL
+"Peter Hartvig Bernhard",Nielsen,1,3,12,1923,NULL,NULL
+"Hans Jørgen",Pors,1,24,12,1923,55.708310300000,12.571934700000
+"Hugo Rasmus",Post,1,9,12,1923,NULL,NULL
+"Hugo Rasmus",Post,1,12,12,1923,NULL,NULL
+"Olga Christine",Jørgensen,2,18,12,1923,NULL,NULL
+"Johannes Carl",Hansen,1,1,12,1923,55.677211200000,12.575469400000
+Helene,Ratner,2,21,12,1923,NULL,NULL
+Hans,Larsen,1,1,12,1923,NULL,NULL
+Hans,Larsen,1,5,12,1923,NULL,NULL
+"Thyra Helene Metha",Bartroff,2,10,12,1923,NULL,NULL
+"Niels Christian",Hansen,1,1,12,1923,55.663141600000,12.501004300000
+"Henning Carl",Olsen,1,1,12,1923,55.664757300000,12.515680100000
+"Rasmus Frimodt Ballermann",Petersen,1,19,12,1923,55.655934500000,12.519941400000
+"Niels Arnold (kl. Lindeberg)",Nielsson,1,1,12,1923,55.668534400000,12.505951000000
+"Frederik Christian",Petersen,1,4,12,1923,55.689460800000,12.488549400000
+"Einar Theodor",Hjorth,1,18,12,1923,55.698011800000,12.521558600000
+Kirstine,Hansen,2,1,12,1923,NULL,NULL
+"Hans Christian",Johansen,1,31,12,1923,55.679002500000,12.589369200000
+Theodor,Jensen,1,1,12,1923,NULL,NULL
+"Kai Philip",Hammer,1,24,12,1923,NULL,NULL
+"Georg Harry Valdemar",Petersen,1,15,12,1923,NULL,NULL
+"Abraham David",Schiftelowitz,3,15,12,1923,NULL,NULL

@@ -1,0 +1,19 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Poul Edgar",Johansen,1,1,2,1927,NULL,NULL
+"Hugo Gustav",Glaser,1,1,2,1927,55.664492500000,12.582467000000
+"Valdemar Peter",Kallehauge,1,3,2,1927,NULL,NULL
+"Philip Edvard",Olsen,1,1,2,1927,NULL,NULL
+"Axel Hans Orla",Jørgensen,1,5,2,1927,NULL,NULL
+"Niels Peder",Varrild,1,1,2,1927,55.690066200000,12.565649600000
+Mendel,Gutmacher,1,25,2,1927,NULL,NULL
+"Karl Bernhard Florentius",Carlsson,1,16,2,1927,55.689162000000,12.572056800000
+"Emil Dorff",Petersen,1,20,2,1927,NULL,NULL
+"Peter August",Rasmussen,1,1,2,1927,NULL,NULL
+"Søren Christian Henrik",Rasmussen,1,1,2,1927,NULL,NULL
+"Hermann Hans Peter",Bentzen,1,1,2,1927,NULL,NULL
+"Laurits Peter Oscar",Larsen,1,20,2,1927,55.701082100000,12.576542800000
+Christian,Josephsen,1,1,2,1927,NULL,NULL
+"Jens Emil Georg",Cassé,1,1,2,1927,NULL,NULL
+"Søren Christian",Rasmussen,1,3,2,1927,NULL,NULL
+"Arne Sparre",Petersen,1,1,2,1927,NULL,NULL
+"Emil Johan Andreas",Thomsen,1,2,2,1927,55.664995300000,12.599380400000

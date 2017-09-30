@@ -1,0 +1,36 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Erik Jens Frederik",Andersen,1,7,3,1925,55.663544300000,12.581120400000
+"Poul Edgar",Johansen,1,24,3,1925,NULL,NULL
+"Mariane Emilie Magdalene Hansine Pedersen",Hartzum,2,19,3,1925,NULL,NULL
+"Inger Marie",Jørgensen,2,1,3,1925,NULL,NULL
+"Kai Hugo Martin",Petersen,1,15,3,1925,NULL,NULL
+"Samuel Johannes Martin Andersen",Aller,1,1,3,1925,NULL,NULL
+"Marie Kristine",Almy,2,1,3,1925,NULL,NULL
+"Niels Anton",Nielsen,1,17,3,1925,NULL,NULL
+Anna,Petersen,2,23,3,1925,NULL,NULL
+"Carl Frederik",Hansen,1,5,3,1925,NULL,NULL
+"Harald Valdemar Rudolf",Andersen,1,1,3,1925,55.695298600000,12.552793400000
+"Ernst Marius Sigfred",Erichsen,1,1,3,1925,NULL,NULL
+"Holger Emanuel",Andersson,1,7,3,1925,55.685828400000,12.585094300000
+"Thekla Mathilde Christine",Jensen,2,27,3,1925,NULL,NULL
+"Carl Oscar",Johansen,1,15,3,1925,NULL,NULL
+"Bruno Herberth",Paltoft,1,26,3,1925,NULL,NULL
+"Johanne Petrine",Mohr,2,1,3,1925,NULL,NULL
+"Selma Amalie",Nielsen,2,2,3,1925,NULL,NULL
+"Frederik Christen",Nielsen,1,25,3,1925,NULL,NULL
+Stephan,Rasmussen,1,7,3,1925,NULL,NULL
+Peter,Jensen,1,3,3,1925,NULL,NULL
+"Carl Johan",Jørgensen,1,24,3,1925,NULL,NULL
+"Carl Oluf",Nielsen,1,1,3,1925,NULL,NULL
+"Knud Helmuth Adelhardt",Larsen,1,1,3,1925,NULL,NULL
+"Anders Christian",Petersen,1,5,3,1925,NULL,NULL
+Sofie,Jensen,2,1,3,1925,55.709648100000,12.510109800000
+"Arthur Johannes Ludvig",Klintborg,1,17,3,1925,55.694416200000,12.569851300000
+"Vilhelm Theobald",Jensen,1,1,3,1925,NULL,NULL
+"Hans Jørgen Vilhelm",Petersen,1,14,3,1925,NULL,NULL
+"Anna Marie",Petersen,2,1,3,1925,NULL,NULL
+"Harald Villiam",Pohlig,1,25,3,1925,NULL,NULL
+"Niels Georg",Windeløv,1,1,3,1925,55.669142800000,12.553892700000
+"Jens Jacobsen",Bjerring,1,7,3,1925,NULL,NULL
+"Johan Ludvig",Petersen,1,7,3,1925,NULL,NULL
+Otto,Knudsen,1,15,3,1925,NULL,NULL

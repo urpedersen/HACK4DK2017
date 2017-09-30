@@ -1,0 +1,14 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Jens Christian Lauritz",Jacobsen,1,5,9,1929,NULL,NULL
+"Johannes Vilhelm Oluf",Christensen,1,15,9,1929,55.685428200000,12.566633900000
+"Charles Vilhelm Ove",Lund,1,16,9,1929,NULL,NULL
+"Jens Christian",Jensen,1,15,9,1929,NULL,NULL
+"Anton Lange Michael",Schmidt,1,1,9,1929,NULL,NULL
+"Svend Aage",Hansen,1,21,9,1929,NULL,NULL
+"Christine Louise",Lund,2,15,9,1929,NULL,NULL
+"Ernst Richardt",Hansen,1,11,9,1929,NULL,NULL
+"Andrea Louise",Holst,2,19,9,1929,55.703227600000,12.587075400000
+"Wilhelm Alexander",Kihlgast,1,7,9,1929,NULL,NULL
+"Karen Dorthea",Hansen,2,5,9,1929,NULL,NULL
+"Svend Otto",Petersen,1,1,9,1929,55.665625000000,12.512531800000
+"Rudolf Leopold Emanuel",Jensen,1,15,9,1929,NULL,NULL

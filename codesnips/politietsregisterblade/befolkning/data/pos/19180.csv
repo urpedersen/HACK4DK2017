@@ -1,0 +1,6 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Jacob Peter",Christensen,1,0,0,1918,NULL,NULL
+"Hansine Marie",Petersen,2,1,0,1918,55.679479000000,12.574546400000
+"Peter Nicolaj",Nielsen,1,0,0,1918,NULL,NULL
+"Ludvig Godtfred",Ursin,1,0,0,1918,55.659231800000,12.608993300000
+"Thomas Vilhelm Valdemar",Mürer,1,0,0,1918,NULL,NULL

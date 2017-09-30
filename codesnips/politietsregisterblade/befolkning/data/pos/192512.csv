@@ -1,0 +1,36 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+Ole,Petersen,1,1,12,1925,NULL,NULL
+"Harry Edvin Victor",Bengtsen,1,15,12,1925,55.665496500000,12.615575800000
+"Gerhardt Mads",Petersen,1,6,12,1925,NULL,NULL
+"Jens Theodor",Jeppesen,1,27,12,1925,NULL,NULL
+Georg,Kryger,1,22,12,1925,NULL,NULL
+Holger,Petersen,1,4,12,1925,NULL,NULL
+"Carl Julius",Jacobsen,1,12,12,1925,NULL,NULL
+"Jens Jacob Christian",Jensen,1,2,12,1925,55.668256800000,12.550615500000
+"Emma Jensine Frederikke",Rosing,2,30,12,1925,NULL,NULL
+"Gustav Albert",Svendsen,1,2,12,1925,NULL,NULL
+Elna,Hansen,2,3,12,1925,55.702216700000,12.580969900000
+Anton,Hemmingsen,1,1,12,1925,55.678735800000,12.570092100000
+"Valdemar Johan Gotlieb",Almind,1,11,12,1925,NULL,NULL
+"Robert Heinrich Hermann",Hitzinger,1,11,12,1925,55.677986800000,12.576606100000
+"Alma Margrethe Sofie",Hansen,2,9,12,1925,NULL,NULL
+"Henry Jacob",Falck,1,1,12,1925,55.687874700000,12.553735700000
+"Poul Henry",Jensen,1,21,12,1925,55.664659000000,12.540621900000
+August,Knudsen,1,25,12,1925,NULL,NULL
+"Rigmor Lilly",Petersen,2,15,12,1925,NULL,NULL
+"Carl Johan",Jørgensen,1,28,12,1925,NULL,NULL
+Valdemar,Jørgensen,1,29,12,1925,NULL,NULL
+"Maren Sophie",Nielsen,2,5,12,1925,NULL,NULL
+"Carl Christian Alexander",Olsen,1,20,12,1925,NULL,NULL
+"Georg Andreas Alexander",Møller,1,16,12,1925,NULL,NULL
+"Steffen Ludvig Christian Løvenborg-",Møller,1,28,12,1925,NULL,NULL
+"Jens Peter",Nielsen,1,14,12,1925,NULL,NULL
+"Christen Jensen",Larsen,1,28,12,1925,NULL,NULL
+"Viggo Oluf",Olsen,1,18,12,1925,NULL,NULL
+"Gottlieb Emil",Stöckel,1,2,12,1925,NULL,NULL
+"Jens Michael Rasmus",Jensen,1,11,12,1925,NULL,NULL
+"Niels Christian",Hansen,1,27,12,1925,NULL,NULL
+"Ingeborg Ulrikka",Scharff,2,5,12,1925,NULL,NULL
+Aage,Bentsen,1,1,12,1925,55.663687400000,12.545610600000
+"Anna Fernanda",Wehl,2,18,12,1925,55.671533400000,12.562512800000
+"Alfred Emil Carlson",Evander,1,8,12,1925,55.679131900000,12.575280900000

@@ -1,0 +1,9 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+Christen,Christensen,1,1,11,1889,NULL,NULL
+Aage,Kiær,1,1,11,1889,NULL,NULL
+"Amalie Louise",Andersen,2,17,11,1889,55.668072600000,12.552811500000
+"Johan Ludvig",Faulenborg,1,1,11,1889,NULL,NULL
+Eugen,Rupent,1,1,11,1889,55.695867500000,12.572963500000
+Kirstine,Carlsen,2,1,11,1889,NULL,NULL
+"Karen Marie",Jørgensen,2,1,11,1889,55.678134200000,12.571209600000
+"Henry Niels Peter",Hansen,1,23,11,1889,NULL,NULL

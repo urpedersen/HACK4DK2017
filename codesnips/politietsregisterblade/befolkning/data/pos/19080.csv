@@ -1,0 +1,13 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Aksel Valdemar Henning Niels",Borg,1,1,0,1908,55.680685500000,12.573099100000
+"Carl Frederik Villiam",Sørensen,1,0,0,1908,55.679073400000,12.569000700000
+Karen,Jørgensen,2,0,0,1908,NULL,NULL
+"Hjalmar Vilhelm",Jensen,1,0,0,1908,NULL,NULL
+"Niels Christian",Nielsen,1,0,0,1908,NULL,NULL
+"Anders Peter",Hansen,1,0,0,1908,NULL,NULL
+"Olga Bertha",Nielsen,2,0,0,1908,NULL,NULL
+"Rose Alvine Lovika",Petersen,2,2,0,1908,NULL,NULL
+"Niels Peter Olsen",Stevns,1,0,0,1908,NULL,NULL
+"Julie Dagmar Ingeborg",Franck,2,12,0,1908,NULL,NULL
+"Peter Jørgensen",Møller,1,0,0,1908,NULL,NULL
+"Christine Josefine",Aagesen,2,1,0,1908,NULL,NULL

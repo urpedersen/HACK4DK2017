@@ -1,0 +1,12 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+Harald,Jensen,1,0,0,1917,NULL,NULL
+"Louis Frederik Christian",Andersen,1,15,0,1917,55.678705000000,12.572753800000
+"Henry Viggo",Nielsen,1,1,0,1917,55.686011500000,12.585833900000
+"Ludvig Dines",Thrane,1,0,0,1917,NULL,NULL
+"Johanne Katharina",Witschas,2,1,0,1917,NULL,NULL
+"Olaf Gejsler",Petersen,1,NULL,0,1917,55.671797500000,12.561999300000
+"Carla Marie Margueritha",Steffen,2,0,0,1917,55.666141100000,12.546445800000
+"August Vilfred",Petersen,1,1,0,1917,NULL,NULL
+Henrik,Gottlieb,1,0,0,1917,NULL,NULL
+"Hans Bülow",Treschow,1,0,0,1917,NULL,NULL
+"Sørine Kirstine",Andersen,2,0,0,1917,NULL,NULL

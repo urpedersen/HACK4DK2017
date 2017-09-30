@@ -1,0 +1,13 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Anna Marie Josefine",Jeppesen,2,4,0,1920,55.696518300000,12.587313400000
+"Metha Nethera",Aller,2,0,0,1920,NULL,NULL
+"Petra Christine",Petersen,2,1,0,1920,55.686650700000,12.549576400000
+"Else Johanne",Benneballe,2,0,0,1920,NULL,NULL
+"Christian Henry Emil",Nielsen,1,30,0,1920,NULL,NULL
+"Margrethe Adolfine",Christensen,2,0,0,1920,NULL,NULL
+"Otto Niels Viggo",Sørensen,1,0,0,1920,NULL,NULL
+"Niels Markussen",Markvordsen,1,0,0,1920,NULL,NULL
+Andreas,Nielsen,1,0,0,1920,55.665815300000,12.520003800000
+"Carl Erenrich",Petersen,1,0,0,1920,NULL,NULL
+"Johanne Ki",Bærentsen,2,0,0,1920,NULL,NULL
+"Ernst Henry",Palme,3,0,0,1920,NULL,NULL

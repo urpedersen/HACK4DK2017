@@ -1,0 +1,13 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Nicoline Henriette",Hammelev,2,0,0,1900,NULL,NULL
+"Marie Dorthea",Hansen,2,0,0,1900,NULL,NULL
+"Ingeborg Conradine",Larsen,2,14,0,1900,55.691499500000,12.578052500000
+"Axel Vilhelm Ebbe",Andresen,1,0,0,1900,55.670208700000,12.563674900000
+"Henrik Carl August",Carlsen,1,0,0,1900,NULL,NULL
+Johann,Moll,1,10,0,1900,NULL,NULL
+"Anna Caroline Christine",Andersen,2,0,0,1900,NULL,NULL
+"Poul Anders",Andersen,1,0,0,1900,NULL,NULL
+"Axel Christian",Jørgensen,3,0,0,1900,NULL,NULL
+"Laura Andreane Nicoline",Nielsen,2,0,0,1900,NULL,NULL
+"Frederik Krag Juel",Vind-Friis,1,0,0,1900,55.679288500000,12.572208200000
+"Sidse Marie",Olsen,2,5,0,1900,NULL,NULL

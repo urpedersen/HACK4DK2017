@@ -1,0 +1,809 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Carl Vilhelm",Sørensen,1,5,11,1929,55.659158600000,12.600453000000
+"Lauritz Emil",Svendsen,1,5,11,1929,NULL,NULL
+Hugo,Wahl,1,5,11,1929,NULL,NULL
+"Lauritz Christian",Waltersdorff,1,5,11,1929,NULL,NULL
+Erikka,Strand,2,5,11,1929,55.672649700000,12.593477600000
+"Carl Valdemar",Nielsen,1,5,11,1929,NULL,NULL
+"Villiam Sophus Carl Christian",Petersen,1,5,11,1929,NULL,NULL
+"Olga Augusta",Sandberg,2,5,11,1929,NULL,NULL
+"Andreas Peter",Palm,1,5,11,1929,NULL,NULL
+"Albert Camilius",Jensen,1,5,11,1929,55.655730300000,12.610761300000
+Gustava,Hansen,2,5,11,1929,55.665236400000,12.607755000000
+"Thora Johanne Louise",Wichmann,2,5,11,1929,NULL,NULL
+"Carl Johan Gotfred",Bohnsted,1,5,11,1929,NULL,NULL
+"Axel Hans Peter",Lund,1,5,11,1929,NULL,NULL
+"Svend Peter",Førsterling,1,5,11,1929,NULL,NULL
+"Anna Maria",Larsson,2,5,11,1929,NULL,NULL
+"Dagmar Alexandra Gustava",Olsen,2,5,11,1929,NULL,NULL
+"Lars Villiam",Andersen,1,5,11,1929,55.664808600000,12.605690100000
+"Karen Sofie",Eilertsen,2,5,11,1929,55.659274100000,12.601270100000
+"Thorvald Oscar",Bach,1,5,11,1929,55.662771700000,12.599148500000
+"Jens Henrik",Jensen,1,5,11,1929,55.660137300000,12.614098900000
+"Albert Sofus Valdemar",Andersen,1,5,11,1929,55.659541500000,12.607238200000
+"Alman Emil Madsen",Andersen,1,5,11,1929,NULL,NULL
+"Anders Peter",Nielsen,1,5,11,1929,NULL,NULL
+"Axel Peter",Andersen,1,5,11,1929,NULL,NULL
+"Anders Peter",Andersen,1,5,11,1929,NULL,NULL
+"Hans Holger",Larsen,1,5,11,1929,NULL,NULL
+"Carl Marius",Andersen,1,5,11,1929,55.671380300000,12.590764400000
+"Carl Peter",Andersen,1,5,11,1929,55.674995100000,12.599045000000
+"Lars Christian",Petersen,1,5,11,1929,55.664852600000,12.612716800000
+"Hans Valdemar",Hansen,1,5,11,1929,55.661135800000,12.598671700000
+"Ejner Vilhelm",Andersen,1,5,11,1929,55.662365300000,12.595798800000
+"Michael Christian",Petersen,1,5,11,1929,NULL,NULL
+"Emil Georg Martin",Andersen,1,5,11,1929,55.663014200000,12.594523000000
+"Niels Peter",Nielsen,1,5,11,1929,NULL,NULL
+"Niels Peter Martin",Petersen,1,5,11,1929,NULL,NULL
+"Nielsine Marie",Petersen,2,5,11,1929,NULL,NULL
+"Barbara Elisabeth",Hansen,2,5,11,1929,55.656360500000,12.609621600000
+"Peter Thorvald",Petersen,1,5,11,1929,NULL,NULL
+"Henrik Christian",Andersen,1,5,11,1929,NULL,NULL
+Jacob,Andersen,1,5,11,1929,NULL,NULL
+Jens,Andersson,1,5,11,1929,NULL,NULL
+"Jens Martin",Jensen,1,5,11,1929,NULL,NULL
+"Mads Vilhelm",Lohse,1,5,11,1929,55.654138800000,12.611044200000
+Niels,Nielsen,1,5,11,1929,NULL,NULL
+"Alfred Henry",Jensen,1,5,11,1929,55.656636100000,12.608979600000
+"Cecilie Marie",Brinkmann,2,5,11,1929,NULL,NULL
+"Peter Andreasen",Lundberg,1,5,11,1929,55.656613500000,12.610651600000
+"Carl August",Lyck,1,5,11,1929,55.666193200000,12.577017900000
+"Marie Christina",Rasmussen,2,5,11,1929,NULL,NULL
+Marius,Hansen,1,5,11,1929,NULL,NULL
+"Lars Peter Carl Christian",Madsen,1,5,11,1929,NULL,NULL
+"Ellen Johanne Vilhelmine",Hansen,2,5,11,1929,NULL,NULL
+"Mette Kirstine Hansine",Madsen,2,5,11,1929,NULL,NULL
+"Carl Vilhelm",Nielsen,1,5,11,1929,NULL,NULL
+Rasmus,Rasmussen,1,5,11,1929,NULL,NULL
+"Johanne Marie",Johansen,2,5,11,1929,NULL,NULL
+"Christian Frederik",Nielsen,1,5,11,1929,NULL,NULL
+"Niels Christian",Hansen,1,5,11,1929,NULL,NULL
+"John Lauritz",Johansen,1,5,11,1929,NULL,NULL
+"Niels Christoffer",Hansen,1,5,11,1929,NULL,NULL
+"Henry Edvard Johannes",Holm,1,5,11,1929,NULL,NULL
+"Jørgen Oluf",Johansen,1,1,11,1929,NULL,NULL
+"Alfred Daniel",Henriksen,1,5,11,1929,NULL,NULL
+"Hans Christian Johansen",Berg,1,5,11,1929,55.659587100000,12.604090400000
+"Martin Heinrich",Johansen,1,5,11,1929,NULL,NULL
+"Hans Christoffer Niels",Jørgensen,1,5,11,1929,NULL,NULL
+"Elisabeth Boline",Nielsen,2,5,11,1929,NULL,NULL
+"Villum Jakobsen",Buur,1,5,11,1929,NULL,NULL
+Søren,Sørensen,1,5,11,1929,NULL,NULL
+Ernst,Birch,1,5,11,1929,55.651061100000,12.617175400000
+"Marius Johan Frederik",Schmidt,1,5,11,1929,NULL,NULL
+"Gerda Elisabeth Agnes",Nielsen,2,5,11,1929,NULL,NULL
+"Anton Marius Oskar",Hedemann,1,5,11,1929,NULL,NULL
+Hans,Nielsen,1,5,11,1929,NULL,NULL
+"William Oscar",Hansen,1,5,11,1929,NULL,NULL
+"Villiam Thorvald",Hansen,1,5,11,1929,NULL,NULL
+"Ella Caroline",Mortensen,2,5,11,1929,NULL,NULL
+"Fritz Daniel",Blom,1,5,11,1929,55.660801700000,12.603042600000
+Mathilde,Willumsen,2,4,11,1929,NULL,NULL
+Mathilde,Willumsen,2,5,11,1929,NULL,NULL
+"Nielsine Christine",Mortensen,2,1,11,1929,NULL,NULL
+"Carl Frederik",Christiansen,1,5,11,1929,NULL,NULL
+"Valdemar Christian Johannes",Høitbjerg,1,5,11,1929,NULL,NULL
+"Edvin Stanley Georg",Møller,1,5,11,1929,NULL,NULL
+"Jens Peter",Nikolajsen,1,5,11,1929,NULL,NULL
+"Emil Frederik",Christiansen,1,5,11,1929,NULL,NULL
+"Hans Christian",Jacobsen,1,5,11,1929,NULL,NULL
+"Jens Christian Lauritz",Jacobsen,1,5,11,1929,NULL,NULL
+Hans,Carlsson,1,5,11,1929,55.670619400000,12.592450900000
+"Fritz Johan Gotfred",Bremer,1,5,11,1929,NULL,NULL
+"Johan Julius",Werner,1,5,11,1929,NULL,NULL
+"Bertha Marie",Jørgensen,2,5,11,1929,NULL,NULL
+"Per Anton",Carlsson,1,5,11,1929,NULL,NULL
+"Gunhild Christine",Westermann,2,5,11,1929,NULL,NULL
+"Alfred Berthold Andreas",Fich,1,5,11,1929,55.668151800000,12.578807500000
+"Hugo Gustav",Glaser,1,5,11,1929,55.664492500000,12.582467000000
+"Lauritz Peter",Larsen,1,5,11,1929,NULL,NULL
+"Christian Marius Viggo",Petersen,1,5,11,1929,55.664286300000,12.599800000000
+"Thorvald Henrik",Eriksen,1,5,11,1929,55.664453600000,12.581872300000
+"Johan Heinrich",Iversen,1,5,11,1929,55.656186900000,12.609252800000
+"Sigurd Tage",Christoffersen,1,5,11,1929,55.666937500000,12.600983400000
+"Fritz Julius Mouritz",Flemmer,1,5,11,1929,55.665808800000,12.596788000000
+"Anna Marie",Jensen,2,5,11,1929,NULL,NULL
+"Villiam August",Knudsen,1,5,11,1929,NULL,NULL
+Jens,Nielsen,1,5,11,1929,NULL,NULL
+"Anna Flora Vilhelmine",Ursin,2,5,11,1929,NULL,NULL
+"Christine Mathilde Marie Harder",Clausen,2,5,11,1929,NULL,NULL
+"Svend Aage Harry",Clausen,1,5,11,1929,55.647527500000,12.621394500000
+"Carl Friederik",Korte,1,5,11,1929,NULL,NULL
+Aage,Kragh,1,5,11,1929,NULL,NULL
+"Lauritz Vilhelm",Christensen,1,5,11,1929,55.659717300000,12.610395200000
+"Ane Laurine",Gronemann,2,5,11,1929,NULL,NULL
+"Adolf Gottlieb",Gøthler,1,5,11,1929,NULL,NULL
+"Carl Alfred",Jensen,1,5,11,1929,NULL,NULL
+August,Collin,1,1,11,1929,NULL,NULL
+"Julius August",Herløvsen,1,5,11,1929,NULL,NULL
+"Peter Vilhelm",Christensen,1,5,11,1929,55.650595700000,12.616620600000
+"Ludvig Aage Georg",Christiansen,1,5,11,1929,NULL,NULL
+Peter,Frederiksen,1,5,11,1929,NULL,NULL
+Albert,Wulf,1,5,11,1929,NULL,NULL
+Johan,Nilsson,1,5,11,1929,NULL,NULL
+"Robert Carl",Frederiksen,1,5,11,1929,55.670680600000,12.584202500000
+"Christian Adolf",Schmidt,1,5,11,1929,NULL,NULL
+"Anker Louis",Kreutz,1,5,11,1929,NULL,NULL
+"Johanna Erika",Friberg,2,5,11,1929,55.681541500000,12.590687800000
+"Georg Valdemar",Marcussen,1,5,11,1929,55.659206600000,12.601165600000
+"Carl Christian",Petersen,1,5,11,1929,NULL,NULL
+"Gustav Frederik Ferdinand",Geisskirt,1,5,11,1929,NULL,NULL
+"Carl Frederik Vilhelm",Boysen,1,5,11,1929,55.681737300000,12.571248400000
+"Carl Viggo",Christensen,1,5,11,1929,NULL,NULL
+"Hanna Carla",Petersen,2,5,11,1929,NULL,NULL
+Otto,Jønsson,1,5,11,1929,55.667597000000,12.614929700000
+"Peter Albrecht Julius",Jensen,1,5,11,1929,NULL,NULL
+"Julius Otto",Jeppesen,1,5,11,1929,NULL,NULL
+"Lauritz Vilhelm Joachim",Giessing,1,5,11,1929,55.665684900000,12.613478200000
+Richardt,Jönsson,1,5,11,1929,55.649498700000,12.615777200000
+"Sophie Emilie",Jeppesen,2,5,11,1929,NULL,NULL
+Methinus,Kjeldsen,1,5,11,1929,NULL,NULL
+"Anna Kirstine",Hagedorn,2,5,11,1929,NULL,NULL
+Norman,Halvorsen,1,5,11,1929,NULL,NULL
+"Eduard Georg Hans",Struve,1,5,11,1929,NULL,NULL
+"Carl Ferdinand",Hammerlund,1,5,11,1929,NULL,NULL
+"Johanne Marie",Handrick,2,5,11,1929,NULL,NULL
+"Alfred Henrik Peter",Rasmussen,1,5,11,1929,NULL,NULL
+"Edvin Henry",Harding,1,5,11,1929,NULL,NULL
+"Carl Anders",Hansen,1,5,11,1929,55.664218200000,12.597249900000
+"Christian Severin",Jensen,1,5,11,1929,55.682960300000,12.562462700000
+"Holger Frederik von Støcken",Tillge,1,5,11,1929,55.666551600000,12.595544000000
+"Louis Julius Hermann",Grüner,1,5,11,1929,55.651061100000,12.617175400000
+"Niels Chr.",Hasselstrøm,1,5,11,1929,NULL,NULL
+"Theodora Christine Engelbrecht",Radich,2,5,11,1929,55.678639400000,12.569283600000
+"Carl Alexander",Torp,1,5,11,1929,NULL,NULL
+"Carl Severin",Thorsen,1,5,11,1929,NULL,NULL
+"Ludvig Emil",Møller,1,5,11,1929,NULL,NULL
+"Laura Kristine Elisabeth",Børgesen,2,5,11,1929,55.680074100000,12.574524100000
+"Larsenius Peter Christian Petersen",Tønder,1,5,11,1929,NULL,NULL
+"Gotfred Theodor Martin",Søderhamm,1,5,11,1929,55.664872400000,12.596095900000
+"Florentine Caroline Amalie",Hansen,2,5,11,1929,NULL,NULL
+"Johanne Petra",Heise,2,5,11,1929,NULL,NULL
+"Emanuel Juul",Petersen,1,5,11,1929,NULL,NULL
+"Janus Anders",Olesen,1,5,11,1929,55.663305200000,12.613917400000
+Jens,Olsen,1,5,11,1929,NULL,NULL
+"Fransine Christina",Jensen,2,5,11,1929,NULL,NULL
+Karen,Sørensen,2,5,11,1929,55.665023900000,12.602657100000
+"Karen Kirstine",Sørensen,2,5,11,1929,55.663357900000,12.600635900000
+"Niels Knud",Sørensen,1,5,11,1929,NULL,NULL
+"Niels Peter",Sørensen,1,5,11,1929,55.658560800000,12.607511100000
+"Cecilie Dorthea",Jacobsen,2,5,11,1929,NULL,NULL
+Ida,Petersen,2,5,11,1929,55.667144400000,12.616940100000
+"Carl Christian",Segebrecht,1,5,11,1929,NULL,NULL
+"Bernhard August Martin",Sick,1,5,11,1929,NULL,NULL
+Betzy,Kalweit,2,5,11,1929,55.654591400000,12.613093400000
+"Poul Christian",Langkjær,1,5,11,1929,NULL,NULL
+Samuel,Nielsen,1,5,11,1929,NULL,NULL
+"Cathrine Vilhelmine",Lauritzen,2,5,11,1929,NULL,NULL
+"Svend Axel",Nielsen,1,5,11,1929,NULL,NULL
+Agnes,Nøhr,2,5,11,1929,NULL,NULL
+Marie,Lieder,2,5,11,1929,55.665155400000,12.556928800000
+Marie,Lieder,2,20,11,1929,55.681235900000,12.584196600000
+"Maren Andreasen",Skov,2,5,11,1929,NULL,NULL
+"Hans Walter",Spiegelhauer,1,5,11,1929,NULL,NULL
+"Jens Mogens",Pedersen,1,5,11,1929,NULL,NULL
+"Gundorf Helmuth",Ring,1,5,11,1929,NULL,NULL
+"Anna Marie Sofie",Larsen,2,5,11,1929,NULL,NULL
+"Niels Christian",Olsen,1,5,11,1929,NULL,NULL
+"Max Hugo Johannes",Michaelsen,1,5,11,1929,NULL,NULL
+"Hans Peter",Poulsen,1,5,11,1929,NULL,NULL
+"Peter Christian",Olesen,1,5,11,1929,NULL,NULL
+"Philip Edvard",Olsen,1,5,11,1929,NULL,NULL
+Maren,Christensen,2,5,11,1929,55.678035400000,12.576782800000
+"Vilhelm Christian",Larsen,1,5,11,1929,55.687397400000,12.556336300000
+Anna,Möllerström,2,5,11,1929,NULL,NULL
+"Waldemar Oscar",Johansen,1,5,11,1929,55.681399500000,12.572402900000
+"Vilhelm Herman",Johansen,1,5,11,1929,NULL,NULL
+Andreas,Petersen,1,5,11,1929,NULL,NULL
+"Christian Carl Heinrich",Rügge,1,5,11,1929,NULL,NULL
+"Peter Hansen",Lenander,1,5,11,1929,55.683018900000,12.570079000000
+Algren,Rasmussen,1,5,11,1929,NULL,NULL
+Carl,Rasmussen,1,5,11,1929,NULL,NULL
+"Helga Ingeborg (Kl. Michalis)",Michaelsen,2,5,11,1929,55.679274600000,12.575055900000
+"Tonny Emil",Clemmensen,1,5,11,1929,NULL,NULL
+"Oskar Mølsted",Møller,1,5,11,1929,55.683724900000,12.565592700000
+"Julius Peter Theodor",Petersen,1,5,11,1929,NULL,NULL
+Poul,Reichel,1,5,11,1929,NULL,NULL
+"Charles Laurits",Madsen,1,5,11,1929,NULL,NULL
+"Hedvig Hansine",Schultz,2,5,11,1929,55.678146900000,12.577798300000
+"Inge Elisabeth Petra",Jensen,2,5,11,1929,NULL,NULL
+"Niels Peter Nicolaj",Michelsen,1,5,11,1929,55.683010800000,12.565836000000
+"Ingolf Viktor",Jensen,1,5,11,1929,NULL,NULL
+"Johanne Jacobine",Jensen,2,5,11,1929,55.677211200000,12.575469400000
+"Rasmine Maren Stine",Rasmussen,2,5,11,1929,55.682224000000,12.564514100000
+"Elise Sofie",Hansen,2,5,11,1929,55.712151600000,12.567776600000
+"Lars Peter",Larsen,1,5,11,1929,55.680677400000,12.574810900000
+"Else Marie",Sørensen,2,5,11,1929,55.678872100000,12.573218200000
+"Gustav Odert",Peter,1,5,11,1929,NULL,NULL
+Frederik,Hansen,1,5,11,1929,NULL,NULL
+Nils,Nelander,1,5,11,1929,55.681926900000,12.573613000000
+"Lauritz Peter",Nielsen,1,5,11,1929,NULL,NULL
+"Sidse Marie",Jørgensen,2,5,11,1929,55.683793000000,12.566611200000
+"Johannes Vilhelm Oluf",Christensen,1,5,11,1929,55.685428200000,12.566633900000
+"Karen Marie",Hansen,2,5,11,1929,55.682021500000,12.571960900000
+"Niels Vilhelm",Hansen,1,5,11,1929,55.685070700000,12.565486500000
+"Anna Margrethe Christine",Schmidt,2,5,11,1929,55.681226600000,12.572775800000
+"Johan Frederik",Nissen,1,5,11,1929,55.679372500000,12.569538800000
+"Elise Julie Dorthea Bekker",Nielsen,2,5,11,1929,55.682117200000,12.564139700000
+"Augusta Emilie Margrethe",Liljedahl,2,5,11,1929,NULL,NULL
+"Axel Hans Orla",Jørgensen,1,5,11,1929,55.697839900000,12.542289400000
+"Nielsine Marie",Nielsen,2,5,11,1929,55.672296000000,12.553999600000
+"Adine Frederikke",Søberg,2,5,11,1929,55.676870900000,12.575113500000
+"Christiane Adine",Søberg,2,5,11,1929,55.676870900000,12.575113500000
+"Carl Sophus",Christoffersen,1,5,11,1929,NULL,NULL
+"Franciska Vilhelmine",Otto,2,5,11,1929,NULL,NULL
+"Hans Andreas",Kastrup,1,5,11,1929,55.694916800000,12.547694600000
+"Arthur Henry Hans Ferdinand",Amfeldt,1,5,11,1929,55.666174800000,12.595629600000
+"Niels Marius Georg",Bang,1,5,11,1929,55.684827300000,12.569066400000
+"Carl Oluf",Schlichting,1,5,11,1929,55.678072100000,12.569919800000
+"Ingeborg Vilhelmine",Andersen,2,5,11,1929,55.683876700000,12.573339700000
+"Lars Peter",Antonsen,1,5,11,1929,55.694134900000,12.567738500000
+Måns,Abrahamsen,1,5,11,1929,55.714975100000,12.575912400000
+Hansine,Davidsen,2,5,11,1929,NULL,NULL
+"Rasmus Hansen",Aastrup,1,5,11,1929,NULL,NULL
+"Hans Peter Lauritz",Arildsen,1,5,11,1929,NULL,NULL
+"Anna Elisabeth",Didriksen,2,5,11,1929,55.701659200000,12.581650800000
+"Carl Peter Christian",Andreasen,1,5,11,1929,55.658074900000,12.610922600000
+"Hans Julius",Didriksen,1,5,11,1929,NULL,NULL
+"Niels Peter",Danielsen,1,1,11,1929,NULL,NULL
+Franciska,Dombrowski,2,5,11,1929,55.682104200000,12.577789800000
+Sara,Donde,2,5,11,1929,NULL,NULL
+Niels,Axelsen,1,5,11,1929,55.716174300000,12.574328400000
+"Kirstine Amalie",Andersen,2,5,11,1929,NULL,NULL
+"Lars Peter",Christensen,1,5,11,1929,NULL,NULL
+"Otto Bernhardt",Arvidsen,1,5,11,1929,NULL,NULL
+"Benthine Sophie Ane Margrethe",Jensen,2,5,11,1929,55.683729000000,12.574161500000
+"Jens Peter Carl",Andersen,1,5,11,1929,55.683237400000,12.573938500000
+"Niels Peter",Andersen,1,5,11,1929,NULL,NULL
+Jens,Jensen,1,5,11,1929,NULL,NULL
+"Maren Cathrine Laura",Jensen,2,5,11,1929,NULL,NULL
+"Olaus Georg Brøns",Høeg,1,5,11,1929,55.681459700000,12.563263100000
+"Jacobine Caroline",Albinussen,2,5,11,1929,NULL,NULL
+Fanny,Chaitkin,2,5,11,1929,NULL,NULL
+"Arthur Ferdinand Thorvald",Christophersen,1,5,11,1929,NULL,NULL
+"Arthur Ferdinand Thorvald",Christophersen,1,5,11,1929,NULL,NULL
+"Niels Herman Otto",Jensen,1,5,11,1929,NULL,NULL
+Oline,Jensen,2,5,11,1929,NULL,NULL
+"Aline Christiane",Hofmann,2,5,11,1929,55.681305400000,12.579180500000
+Karen,Larsen,2,5,11,1929,NULL,NULL
+"Hans Christian",Christensen,1,5,11,1929,NULL,NULL
+Søren,Larsen,1,5,11,1929,NULL,NULL
+Jens,Jessen,1,5,11,1929,NULL,NULL
+"Karen Marie",Horndrup,2,5,11,1929,NULL,NULL
+"Christian Vilhelm",Gaaser,1,5,11,1929,NULL,NULL
+"Isak Christian kl. Coll",Guldbrandsen,1,5,11,1929,NULL,NULL
+Caroline,Levin,2,5,11,1929,NULL,NULL
+"Axel Fritiof Nilsson",Lindqvist,1,5,11,1929,55.679060900000,12.591112900000
+"Niels Ragnar Lindkvist",Fagerberg,1,5,11,1929,55.683150700000,12.577969200000
+"Charles Vilhelm Ove",Lund,1,5,11,1929,NULL,NULL
+"Nielsine Signe Petronella",Madsen,2,5,11,1929,NULL,NULL
+"Alvine Frederikke Herta",Feuerstein,2,5,11,1929,NULL,NULL
+"Carl Frederik Severius",Löwenham,1,5,11,1929,NULL,NULL
+"Hugo Alfred Peter",Hansen,1,5,11,1929,NULL,NULL
+"Niels Mårtensson",Wahlgren,1,5,11,1929,55.682941200000,12.576074500000
+"Gustaf Valfrid",Svensson,1,5,11,1929,55.678107200000,12.582446200000
+"Carl Christian",Sørensen,1,5,11,1929,NULL,NULL
+"Jensine Christine",Hansen,2,5,11,1929,NULL,NULL
+"Mads Peter",Sørensen,1,5,11,1929,NULL,NULL
+Jørgen,Nielsen,1,5,11,1929,NULL,NULL
+"Oskar Vilhelm",Videll,1,5,11,1929,NULL,NULL
+"Svend Hermann",Thomasen,1,5,11,1929,NULL,NULL
+"Gerda Elvira",Wiezell,2,5,11,1929,NULL,NULL
+"Anna Frederikke",Petersen,2,5,11,1929,NULL,NULL
+"Carl Friedrich Wilhelm",Mehnke,1,5,11,1929,NULL,NULL
+Antoni,Tomasewski,1,5,11,1929,NULL,NULL
+"Poul  Vilhelm Edvard",Tonø,1,5,11,1929,NULL,NULL
+"Angelika Viktoria Elisabeth",Hansen,2,1,11,1929,NULL,NULL
+"Ane Gretrude Kirstine",Bünger,2,5,11,1929,NULL,NULL
+Ane,Andersen,2,5,11,1929,NULL,NULL
+Benedikte,Fyrsterling,2,5,11,1929,55.688415100000,12.553989500000
+"Elof Johannes",Carlsen,1,5,11,1929,NULL,NULL
+"Anna Johanne Alvine",Christensen,2,5,11,1929,NULL,NULL
+"Henry Georg",Carlsen,1,5,11,1929,NULL,NULL
+Bernhardt,Sandstrøm,1,5,11,1929,NULL,NULL
+Dorthea,Andersen,2,5,11,1929,NULL,NULL
+Mendel,Scheftelovitz,1,5,11,1929,NULL,NULL
+"Anders Villiam Clausen",Eriksen,1,5,11,1929,NULL,NULL
+"Ernst Marius Sigfred",Erichsen,1,5,11,1929,NULL,NULL
+Marie,Christensen,2,5,11,1929,NULL,NULL
+"Jacob Emil",Henriksen,1,5,11,1929,55.685774900000,12.549023700000
+"Peter Thomas",Henriksen,1,5,11,1929,NULL,NULL
+"Oscar Frans Gustaf",Flodin,1,5,11,1929,55.686696700000,12.554264500000
+Ellen,Johansen,2,5,11,1929,NULL,NULL
+"Ingeborg Karen Emilie",Hansen,2,5,11,1929,NULL,NULL
+"Jens Christian",Jensen,1,5,11,1929,NULL,NULL
+"Svend Henry Charles Elvin",Jensen,1,5,11,1929,55.664607100000,12.542888600000
+"Johannes Peter",Hansen,1,5,11,1929,NULL,NULL
+"Alfred Villiam",Jensen,1,5,11,1929,NULL,NULL
+"Jens Peter",Jensen,1,5,11,1929,NULL,NULL
+"Jakob Moses",Schulmann,1,5,11,1929,NULL,NULL
+"Bodil Christine",Jacobsen,2,5,11,1929,NULL,NULL
+"Emil Waldemar",Jensen,1,5,11,1929,NULL,NULL
+"Juliane Laurine Nicoline",Jensen,2,5,11,1929,NULL,NULL
+"Ejnar Vilhelm",Jakobsen,1,5,11,1929,NULL,NULL
+"Caroline Mathilde",Jensen,2,5,11,1929,55.688211200000,12.555656400000
+Vilhelmine,Hansen,2,5,11,1929,NULL,NULL
+Andreas,Jensen,1,5,11,1929,NULL,NULL
+Frederik,Larsen,1,5,11,1929,NULL,NULL
+"Robert Louis",Marcussen,1,5,11,1929,NULL,NULL
+"Villiam Sophus Jacob",Sibbern,1,5,11,1929,NULL,NULL
+"Julius Peter",Madsen,1,5,11,1929,NULL,NULL
+"Carlo Franz",Larsen,1,5,11,1929,55.692109100000,12.554801800000
+"Nils P.",Sjöstrand,1,5,11,1929,NULL,NULL
+"Poula Elsa Elisabeth",Stege,2,5,11,1929,NULL,NULL
+Christian,Mikkelsen,1,5,11,1929,55.690377600000,12.555473100000
+"Emil Andreas",Michaelsen,1,5,11,1929,55.708697200000,12.568853500000
+"Magnus Victor",Lundgren,1,5,11,1929,55.691800300000,12.556732000000
+Hans,Mortensen,1,5,11,1929,55.691938600000,12.557057100000
+Axel,Olsson,1,5,11,1929,NULL,NULL
+"Arnold Kai",Nielsen,1,5,11,1929,NULL,NULL
+"Maren Sofie Mogesine",Knudsen,2,5,11,1929,NULL,NULL
+"Olga Hansine",Knudsen,2,5,11,1929,55.689442500000,12.562801100000
+"Axel Christian",Nielsen,1,5,11,1929,NULL,NULL
+"Maren Kirstine",Nielsen,2,5,11,1929,NULL,NULL
+"Nanny Marie Christine",Lemming,2,5,11,1929,NULL,NULL
+"Johannes Harald",Drachmann,1,5,11,1929,NULL,NULL
+"Morten Elias",Nielsen,1,5,11,1929,NULL,NULL
+"Adolf Emanuel Cornelius",Nielsen,1,5,11,1929,55.698949300000,12.535740600000
+"Kirstine Marie",Huus,2,5,11,1929,NULL,NULL
+Selma,Brandt,2,5,11,1929,55.682066700000,12.590429800000
+"Frans Emil",Lind,1,5,11,1929,NULL,NULL
+"Carl August",Kossmann,1,5,11,1929,NULL,NULL
+"Inger Kirstine Stina",Carlsson,2,5,11,1929,NULL,NULL
+"Johan Alfred Vald.",Hammer,1,5,11,1929,NULL,NULL
+"Ingeborg Emilie Oxholm",Christensen,2,5,11,1929,55.685870500000,12.588396800000
+"Carl Edvard",Castberg,1,5,11,1929,55.680195500000,12.591934100000
+"Axel Bernhardt",Josefsen,1,5,11,1929,NULL,NULL
+Niels,Hansen,1,5,11,1929,NULL,NULL
+"Nils Bruno",Hansson,1,5,11,1929,55.691627600000,12.574746500000
+"Marius Christian Thorvald",Andersen,1,5,11,1929,NULL,NULL
+"Anders Jørgensen",Hansen,1,5,11,1929,NULL,NULL
+"Ove Carl",Elboth,1,5,11,1929,55.687300000000,12.595643900000
+"Christian Oscar",Hansen,1,5,11,1929,NULL,NULL
+"Carl Ferdinand Frederik",Andersen,1,5,11,1929,NULL,NULL
+"Niels Hansen",Bang,1,5,11,1929,NULL,NULL
+"Oscar Oluf",Hansen,1,5,11,1929,NULL,NULL
+"Hans Edvard",Jensen,1,5,11,1929,55.686011500000,12.585833900000
+"Jørgen Michael Marius",Jensen,1,5,11,1929,55.684570200000,12.588135800000
+"Dagmar Nicoline Nielsine",Birch,2,5,11,1929,55.688823400000,12.584098600000
+"Hans Peter Edvard Jørgen",Andersen,1,5,11,1929,NULL,NULL
+Anna,Johannessen,2,5,11,1929,NULL,NULL
+Pouline,Jørgensen,2,5,11,1929,NULL,NULL
+"Sofie Lovise Petrine Klarskov",Jørgensen,2,5,11,1929,NULL,NULL
+"Conrad Thorvald",Knudsen,1,5,11,1929,NULL,NULL
+"Anders Oluf Vilhelm",Johansson,1,5,11,1929,NULL,NULL
+"Maren Kirstine",Haarløv,2,5,11,1929,NULL,NULL
+"Carl Oscar",Johansen,1,5,11,1929,NULL,NULL
+"Caroline Amalie",Petersen,2,5,11,1929,NULL,NULL
+"Hans Christian",Petersen,1,5,11,1929,NULL,NULL
+"Louise Anna Marie",Petersen,2,5,11,1929,NULL,NULL
+"Hans Marius Gerhard",Pedersen,1,5,11,1929,NULL,NULL
+Oluf,Rudolph,1,5,11,1929,NULL,NULL
+"Olga Henriette",Petersen,2,5,11,1929,NULL,NULL
+"Niels Albert",Olsson,1,5,11,1929,55.686993800000,12.589318000000
+"Hans Christian Julius",Larsen,1,5,11,1929,55.686697500000,12.586717900000
+"Anna Emilie Christiane",Moritz,2,5,11,1929,55.690831300000,12.572276200000
+"Amalie Georgine",Petersen,2,5,11,1929,NULL,NULL
+"Carl Johannes",Nielsen,1,5,11,1929,NULL,NULL
+"Peter Valdemar",Larsen,1,5,11,1929,55.680136500000,12.581283400000
+"James Julius",Maag,1,5,11,1929,NULL,NULL
+"Peter Ditlev",Petersen,1,5,11,1929,NULL,NULL
+"Hermandine Petrea",Møller,2,5,11,1929,NULL,NULL
+Johannes,Larsen,1,5,11,1929,NULL,NULL
+"Emma Margrethe Sofie",Madsen,2,1,11,1929,55.695857600000,12.555871100000
+"Ole Peter",Olsen,1,5,11,1929,NULL,NULL
+"Ole Peter",Olsen,1,12,11,1929,55.671204000000,12.485775300000
+"Frank Oluf",Nielsen,1,5,11,1929,NULL,NULL
+"Ejner Vilhelm",Olsen,1,5,11,1929,55.687509400000,12.589353700000
+"Oskar Florentin",Olsen,1,5,11,1929,NULL,NULL
+Johanna,Persson,2,5,11,1929,NULL,NULL
+"Knud Møgelberg",Petersen,1,5,11,1929,NULL,NULL
+Hanna,Persson,2,5,11,1929,55.686082100000,12.585024800000
+"Hans Emil",Petersen,1,5,11,1929,NULL,NULL
+"Hedvig Johanne",Petersen,2,5,11,1929,NULL,NULL
+"Helma Emma",Petersen,2,5,11,1929,NULL,NULL
+"Robert Charles Theobald",Mortensen,1,5,11,1929,NULL,NULL
+"Osvald Edmund",Petersen,1,5,11,1929,NULL,NULL
+"Olivia Hansine Vilhelmine",Vontilius,2,5,11,1929,NULL,NULL
+"Per Emil",Persson,1,5,11,1929,NULL,NULL
+"Ludvig August",Sørensen,1,5,11,1929,NULL,NULL
+"Svend Aage Jens Præstmark",Petersen,1,5,11,1929,NULL,NULL
+"Claus Clas Aron Emanuelsson",Ulander,1,5,11,1929,NULL,NULL
+"Thorvald Albertus",Wadum,1,1,11,1929,NULL,NULL
+"Anton Julius",Wallin,1,5,11,1929,NULL,NULL
+Thorkild,Sørensen,1,5,11,1929,NULL,NULL
+"Anton Lange Michael",Schmidt,1,5,11,1929,NULL,NULL
+"Chaim Heiman",Miedzinsky,1,5,11,1929,NULL,NULL
+Caroline,Sjøqvist,2,5,11,1929,NULL,NULL
+"Sanne Helene",Sørensen,2,5,11,1929,NULL,NULL
+Isak,Jaffe,1,5,11,1929,NULL,NULL
+"Johanne Albertine",Bölke,2,5,11,1929,55.689126600000,12.583977800000
+Lebek,Gritzmann,1,5,11,1929,NULL,NULL
+"Holger Bruno Ernst Carl",Zarss,1,5,11,1929,55.684509700000,12.585370400000
+"Christen Harpøth",Zilstorf,1,5,11,1929,NULL,NULL
+Smerke,Merklin,1,5,11,1929,55.686381900000,12.584929300000
+"Thorvald Anders",Michelsen,1,5,11,1929,NULL,NULL
+"Georg Peter Hjalmar",Andersen,1,5,11,1929,NULL,NULL
+"Anton Mølgaard",Andersen,1,5,11,1929,55.673693600000,12.551568400000
+"Carl Julius Orsted",Bagger,1,5,11,1929,NULL,NULL
+"Anna Maria",Andersdotter,2,5,11,1929,55.669066600000,12.555485300000
+"Viggo Henrik",Hansen,1,5,11,1929,NULL,NULL
+"Carl Christian",Andersen,1,5,11,1929,NULL,NULL
+"Heinrich Francke Dabelstein",Hansen,1,5,11,1929,NULL,NULL
+"Hans Carl",Hansen,1,5,11,1929,NULL,NULL
+"Christine Nicoline",Brandt,2,5,11,1929,NULL,NULL
+"Christine Juliane Christensen",Bade,2,5,11,1929,NULL,NULL
+"Svend Aage",Hansen,1,5,11,1929,NULL,NULL
+"maren Christine",Andersen,2,5,11,1929,NULL,NULL
+"Niels Peter",Hansen,1,5,11,1929,NULL,NULL
+"Niels Peter",Hansen,1,5,11,1929,NULL,NULL
+Mette,Brøndkilde,2,5,11,1929,55.666853600000,12.537504700000
+Ole,Hanson,1,5,11,1929,55.669379700000,12.553539000000
+Anton,Christensen,1,5,11,1929,NULL,NULL
+"Jens Peter Vilhelm",Hansen,1,5,11,1929,NULL,NULL
+"Carl Osvald",Christensen,1,5,11,1929,55.668904800000,12.548073400000
+Nils,Andersen,1,5,11,1929,NULL,NULL
+"Christian Frederik",Frost,1,5,11,1929,NULL,NULL
+"Georg Emil",Friis,1,5,11,1929,NULL,NULL
+"Martha Albertine",Christensen,2,5,11,1929,NULL,NULL
+"Henry Peter",Egesborg,1,5,11,1929,NULL,NULL
+"Louis Daniel Segato",Hansen,1,5,11,1929,NULL,NULL
+"Niels Christian",Christensen,1,5,11,1929,NULL,NULL
+"Jens Hermann",Christoffersen,1,5,11,1929,NULL,NULL
+Anton,Fischer,1,5,11,1929,NULL,NULL
+"Agnes Elvira Misiella",Bülow,2,5,11,1929,NULL,NULL
+"Tage Gustav Helmer",Boesen,1,1,11,1929,NULL,NULL
+Anton,Florman,1,5,11,1929,55.667197400000,12.549922600000
+"Sigvald Dubrik",Christensen,1,5,11,1929,NULL,NULL
+"August Christian",Berg,1,5,11,1929,NULL,NULL
+Axel,Holm,1,5,11,1929,NULL,NULL
+Harry,Christensen,1,5,11,1929,NULL,NULL
+"Anna Marie",Hansen,2,5,11,1929,NULL,NULL
+"Valentin Godtfred",Horn,1,5,11,1929,NULL,NULL
+"Axel Peter Edvard",Christiansen,1,5,11,1929,NULL,NULL
+"Ebba Laura Mathilde",Bruhn,2,5,11,1929,NULL,NULL
+"Camilla Christine",Hansen,2,5,11,1929,NULL,NULL
+"Niels Poul",Frederiksen,1,5,11,1929,55.649781500000,12.536521300000
+"Peter Theodor",Frederiksen,1,5,11,1929,NULL,NULL
+"Charles Hugo",Ehlers,1,5,11,1929,55.670426900000,12.564262100000
+"Henriette Margrethe Christiansen",Carlsen,2,5,11,1929,NULL,NULL
+"Henry Hjalmar Alfred Thomas",Godtfredsen,1,5,11,1929,NULL,NULL
+"Oluf Simony",Jensen,1,5,11,1929,55.665188700000,12.544898500000
+"Agda Olga Johanne",Jensen,2,5,11,1929,NULL,NULL
+"Jens Peter",Jensen,1,5,11,1929,55.670128600000,12.547595100000
+Karen,Christensen,2,5,11,1929,NULL,NULL
+"Rasmus Christian Bernhard",Jensen,1,5,11,1929,NULL,NULL
+"Elise Jørgine Mathilde",Bergstrøm,2,5,11,1929,NULL,NULL
+"Sofie Aurine Cathrine",Jensen,2,5,11,1929,NULL,NULL
+"Ernst Julius Albert",Haack,1,5,11,1929,NULL,NULL
+"Albert Vilhelm",Jeppesen,1,5,11,1929,NULL,NULL
+"Ove Michael",Corell,1,3,11,1929,NULL,NULL
+"Heinrich Lorentz Ditlev",Herzberg,1,5,11,1929,55.670516900000,12.541932500000
+"Ane Christine",Jensen,2,5,11,1929,NULL,NULL
+"Edelhardt Villum",Jensen,1,5,11,1929,NULL,NULL
+"Sofus Christian",Ifversen,1,5,11,1929,NULL,NULL
+"Svend Sippel",Henriksen,1,5,11,1929,NULL,NULL
+Else,Larsen,2,5,11,1929,55.666539300000,12.550666000000
+"Albert Johannes",Nielsen,1,5,11,1929,NULL,NULL
+"Carl Hermann",Nielsen,1,5,11,1929,55.671203500000,12.560556000000
+Ole,Larsen,1,5,11,1929,NULL,NULL
+Laura,Olsen,2,5,11,1929,NULL,NULL
+"Axel Georg",Nielsen,1,5,11,1929,NULL,NULL
+"Axel Hans Peter",Nielsen,1,5,11,1929,NULL,NULL
+"Viggo Herluf Peter",Mortensen,1,5,11,1929,NULL,NULL
+"Augusta Sofie",Hansen,2,5,11,1929,NULL,NULL
+"Erik Christian Hougaard",Nielsen,1,5,11,1929,NULL,NULL
+"Frederik Valdemar",Nielsen,1,5,11,1929,NULL,NULL
+"Augusta Caroline Christine",Madsen,2,5,11,1929,NULL,NULL
+"Hans Peter",Nielsen,1,5,11,1929,NULL,NULL
+"Johanne Nielsine",Larsen,2,5,11,1929,NULL,NULL
+"Johannes Ingemann",Larsen,1,1,11,1929,NULL,NULL
+"Thomine Cathrine",Nyrup,2,5,11,1929,NULL,NULL
+Svend,Hede,1,5,11,1929,NULL,NULL
+Ingrid,Olsson,2,5,11,1929,NULL,NULL
+"Jørgen Peter",Olsen,1,5,11,1929,NULL,NULL
+"Johannes Stryhn",Jørgensen,1,5,11,1929,NULL,NULL
+Frida,Karke,2,1,11,1929,55.672220200000,12.563547300000
+"Emil Marius William",Larsen,1,5,11,1929,NULL,NULL
+"Lauritz Martin August",Larsen,1,5,11,1929,NULL,NULL
+Nils,Olsson,1,5,11,1929,NULL,NULL
+"Lauritz Christian Frederik",Wisbech,1,5,11,1929,NULL,NULL
+"Alfred Theodor",Nielsen,1,5,11,1929,NULL,NULL
+"Olga Hakonine Mariane",Olsen,2,1,11,1929,NULL,NULL
+"Oline Kristine",Olsen,2,5,11,1929,NULL,NULL
+"Carl Einer",Lerche,1,5,11,1929,NULL,NULL
+"Sigfred Aspmann",Larsen,1,5,11,1929,NULL,NULL
+Carl,Ersholt,1,5,11,1929,NULL,NULL
+"Otto Edvard",Ersholt,1,5,11,1929,NULL,NULL
+"Christian Vilhelm Munthe",Fog,1,5,11,1929,NULL,NULL
+"Anders Persson",Løwen,1,5,11,1929,55.669611700000,12.544062400000
+"Carl Henrik",Madsen,1,5,11,1929,NULL,NULL
+"Rosalie Mathilde",Andersen,2,5,11,1929,NULL,NULL
+"Thorkild Andreas",Andersen,1,1,11,1929,NULL,NULL
+"Vilhelm Idor Sofus",Meyer,1,5,11,1929,NULL,NULL
+"Julius Emil Peter",Nielsen,1,5,11,1929,NULL,NULL
+"Niels Christian",Andersen,1,5,11,1929,NULL,NULL
+"Alma Mathilde",Koch,2,5,11,1929,NULL,NULL
+"Jørgen Ferdinand Charles Peter",Nielsen,1,5,11,1929,NULL,NULL
+"Jørgen Peter Eskild",Nielsen,1,5,11,1929,NULL,NULL
+"Gustav Andreas",Lieb,1,5,11,1929,NULL,NULL
+"Ellen Christine",Bøgh,2,5,11,1929,NULL,NULL
+"Olivia Christine",Hansen,2,5,11,1929,NULL,NULL
+"Anders Peter Nergaard",Petersen,1,5,11,1929,NULL,NULL
+"Marie Rosaline",Andersen,2,5,11,1929,NULL,NULL
+"Henriette Louise",Andersen,2,5,11,1929,NULL,NULL
+"Niels Edvard",Nielsen,1,5,11,1929,NULL,NULL
+"Carl Christian Axel Alfred",Petersen,1,5,11,1929,NULL,NULL
+"Knud Børge Johannes",Ketelsen,1,5,11,1929,NULL,NULL
+Jacob,Christiansen,1,5,11,1929,NULL,NULL
+"Carl Theodor",Petersen,1,27,11,1929,NULL,NULL
+"Niels Peter Per Nilsson",Ljungstrøm,1,5,11,1929,NULL,NULL
+"Auning Tidemand Aagard",Andersen,1,5,11,1929,NULL,NULL
+"Lars Christian",Christensen,1,5,11,1929,NULL,NULL
+"Anna Oline Kirstine",Olsen,2,5,11,1929,NULL,NULL
+"Christine Louise",Lund,2,5,11,1929,NULL,NULL
+"Carl Marius",Bentzen,1,5,11,1929,NULL,NULL
+"Valborg Olivia",Nielsen,2,5,11,1929,NULL,NULL
+"Olof Lars",Christensen,1,5,11,1929,NULL,NULL
+"Alma Hedvig Olga",Eiby,2,5,11,1929,NULL,NULL
+"Mads Christian",Madsen,1,5,11,1929,NULL,NULL
+"Axel Peter Marius",Olsen,1,5,11,1929,NULL,NULL
+Johannes,Hansen,1,5,11,1929,55.699379900000,12.581446000000
+"Nils Andersson",Borgmann,1,5,11,1929,NULL,NULL
+"Hans Christian",Hansen,1,5,11,1929,NULL,NULL
+"Hans Christian",Hansen,1,5,11,1929,NULL,NULL
+"Cathinka Louise Henriette",Larsen,2,5,11,1929,55.670111900000,12.555172800000
+"Ole Gregorius",Hansen,1,5,11,1929,NULL,NULL
+"Hans Niels Constantin",Hansen,1,5,11,1929,NULL,NULL
+"Hans Gregorius",Hansen,1,5,11,1929,55.708918500000,12.581591800000
+"Else Anna Victoria",Bech,2,5,11,1929,NULL,NULL
+"Søren Peter",Godtfredsen,1,5,11,1929,55.704258100000,12.585291000000
+"Anna Louise Christine",Neuman,2,5,11,1929,NULL,NULL
+"Axel Valdemar",Norberg,1,5,11,1929,NULL,NULL
+"Ingrid Maria",Nordström,2,5,11,1929,55.664821800000,12.548558000000
+Lave,Brock,1,5,11,1929,NULL,NULL
+"Lars Peter",Henriksen,1,5,11,1929,NULL,NULL
+"Agnes Frederikke",Mortensen,2,5,11,1929,NULL,NULL
+"Julius Frederik Alfred",Hein,1,3,11,1929,55.703676000000,12.589491900000
+"Anna Ane",Høesch,2,5,11,1929,55.706512800000,12.581028600000
+"Marius Rasmussen",Offenberg,1,5,11,1929,NULL,NULL
+"Emma Margrethe Elisabeth",Nilsson,2,5,11,1929,NULL,NULL
+"Anders Thorvald",Jakobsen,1,5,11,1929,55.712879100000,12.573955400000
+Carl,Olsen,1,5,11,1929,55.693073700000,12.569001400000
+"Carl Lautitz Jensen",Olsen,1,5,11,1929,NULL,NULL
+"Svend Aage",Nielsen,1,5,11,1929,NULL,NULL
+"Oscar Mazanti Alexandrovitz Reitzel",Jensen,1,5,11,1929,NULL,NULL
+"Søren Peter",Nielsen,1,5,11,1929,NULL,NULL
+"Ludvig Friis",Jensen,1,5,11,1929,55.695582800000,12.570403900000
+"Lars Peter",Nielsen,1,5,11,1929,NULL,NULL
+"Wilhelm Alexander",Kihlgast,1,5,11,1929,NULL,NULL
+"Sofus Peter Christian",Jørgensen,1,5,11,1929,55.698845700000,12.586673100000
+"Ole Nielsen",Olsen,1,5,11,1929,NULL,NULL
+"Alexandra Georgine Ingeborg",Lund,2,5,11,1929,NULL,NULL
+Karen,Larsen,2,5,11,1929,NULL,NULL
+"Agnes Frederikke",Larsen,2,5,11,1929,55.696807500000,12.483294500000
+"Laura Nicoline Marie",Larsen,2,5,11,1929,55.697757400000,12.582901400000
+"Carl Christian",Larsen,1,5,11,1929,NULL,NULL
+"Christen Anders Henrik",Henriksen,1,5,11,1929,55.705713300000,12.583340400000
+"Henrich David Schneekloth",Cortzen,1,5,11,1929,NULL,NULL
+"Ellen Marie",Holck,2,5,11,1929,NULL,NULL
+"Knud Lauritz",Madsen,1,5,11,1929,NULL,NULL
+"Johanne Andrea",Madsen,2,5,11,1929,NULL,NULL
+Margrethe,Petersen,2,5,11,1929,NULL,NULL
+"Valdemar Andreas",Jensen,1,5,11,1929,NULL,NULL
+"Carl Aage Georg",Johansen,1,5,11,1929,55.693867900000,12.569901600000
+"Julius Vilhelm",Mikkelsen,1,5,11,1929,NULL,NULL
+"Laura Marie",Mouritzen,2,5,11,1929,NULL,NULL
+"Hans Frederik",Rasmussen,1,5,11,1929,NULL,NULL
+"Orla Christian Nielsen",Rasmussen,1,5,11,1929,NULL,NULL
+"John Martin",Olsen,1,5,11,1929,NULL,NULL
+"Georg Henrik",Jørgensen,1,5,11,1929,NULL,NULL
+Peter,Petersen,1,5,11,1929,NULL,NULL
+"Christiane Johanne",Mortensen,2,5,11,1929,NULL,NULL
+"Peter Jensen",Petersen,1,5,11,1929,NULL,NULL
+"Karen Sofie",Petersen,2,5,11,1929,NULL,NULL
+"Hans Jørgen Vilhelm",Petersen,1,5,11,1929,NULL,NULL
+"Hans Martinus",Petersen,1,5,11,1929,NULL,NULL
+"Hedvig Sofie Marie",Petersen,2,5,11,1929,NULL,NULL
+"Albert Victor",Petersen,1,5,11,1929,NULL,NULL
+Simon,Petersen,1,5,11,1929,NULL,NULL
+Axel,Nielsen,1,5,11,1929,NULL,NULL
+"Niels Christian Larsen",Petersen,1,5,11,1929,NULL,NULL
+"Betty Charlotte",Pedersen,2,5,11,1929,NULL,NULL
+"Gunnar Sven Aage",Petersen,1,5,11,1929,55.671320100000,12.549931500000
+"Anna Kirstine",Sørensen,2,5,11,1929,NULL,NULL
+"Karen Jensen",Thor,2,5,11,1929,55.694991800000,12.571624700000
+"Johannes Friedrich Arnold",Jürgensen,1,1,11,1929,55.707859900000,12.583352600000
+"Johannes Vilhelm",Brøndberg-Jørgensen,1,5,11,1929,NULL,NULL
+"Jørgen Laurtitz",Jørgensen,1,5,11,1929,55.694237500000,12.570014200000
+"Niels Oskar",Philipsen,1,5,11,1929,NULL,NULL
+Jens,Petersen,1,5,11,1929,55.664493300000,12.545313700000
+"Jørgen Christian Vendelbo",Petersen,1,5,11,1929,NULL,NULL
+"Charles Victor",Petersen,1,5,11,1929,NULL,NULL
+"Harald Villiam",Pohlig,1,5,11,1929,NULL,NULL
+"Marie Sofie Emilie",Rose,2,5,11,1929,NULL,NULL
+"Christian Frederik",Nielsen,1,5,11,1929,NULL,NULL
+"Hans Villiam Thorstein",Petersen,1,5,11,1929,55.668982600000,12.546796700000
+"Einer Victor",Traulsen,1,5,11,1929,NULL,NULL
+"Peter Christian",Viben,1,5,11,1929,55.716393400000,12.574598700000
+"Anna Marie Meta",Winther,2,5,11,1929,55.659793600000,12.622719500000
+"Herman Hans Christian",Theill,1,5,11,1929,NULL,NULL
+"Hermann Andreas",Sørensen,1,5,11,1929,NULL,NULL
+"Lars Peter Ole",Petersen,1,5,11,1929,55.669247000000,12.541806200000
+"Lauritz Petersen",Landtved,1,5,11,1929,NULL,NULL
+"Paul Valdemar",Mollerup,1,5,11,1929,NULL,NULL
+"Carl Johan Martin",Sandell,1,5,11,1929,NULL,NULL
+"Thorvald Julius Valdemar",Salling,1,5,11,1929,NULL,NULL
+"Per Frittjof",Petersson,1,5,11,1929,NULL,NULL
+"Valdemar Diner",Petersen,1,5,11,1929,55.678005200000,12.568096100000
+"Carl Sigfred",Svendson,1,5,11,1929,55.668549000000,12.552888800000
+"Vilhelm Edvard",Petersen,1,5,11,1929,NULL,NULL
+"Knud Albert",Poulsen,1,5,11,1929,55.671067200000,12.560406700000
+"Axel Vilhelm",Lindblom,1,5,11,1929,NULL,NULL
+"Arne Christian",Nielsen,1,5,11,1929,NULL,NULL
+"Niels Peter",Sørensen,1,5,11,1929,55.671840600000,12.549905900000
+"Peter Vessel",Sørensen,1,5,11,1929,NULL,NULL
+Johan,Lindstrøm,1,5,11,1929,55.706275100000,12.579127600000
+"Kaj Ferdinand",Lublin,1,5,11,1929,NULL,NULL
+"Andreas Jensen",Stagaard,1,5,11,1929,55.669176600000,12.555777700000
+"Peter Christian",Sørensen,1,5,11,1929,55.672161800000,12.557375100000
+"Ejner Verner",Sillemann,1,5,11,1929,NULL,NULL
+"Thomas Peter",Ring,1,15,11,1929,NULL,NULL
+"Georg Ferdinand Emanuel",Wulff,1,5,11,1929,NULL,NULL
+"Svend Kronborg",Svendsen,1,5,11,1929,NULL,NULL
+"Edmund Einar Alfred",Lundstrøm,1,5,11,1929,NULL,NULL
+Peter,Thomsen,1,5,11,1929,NULL,NULL
+"Karen Marie",Wiinberg,2,5,11,1929,55.667316100000,12.553653100000
+"Georg Frederik",Timm,1,5,11,1929,NULL,NULL
+"Ida Marie",Wahl,2,5,11,1929,NULL,NULL
+Abraham,Stenberg,1,5,11,1929,NULL,NULL
+Hans,Hansen,1,5,11,1929,NULL,NULL
+"Heinrich Asmus",Micke,1,5,11,1929,NULL,NULL
+"Axel Richardt",Petersen,1,5,11,1929,NULL,NULL
+"Hans Oluf",Hansen,1,5,11,1929,NULL,NULL
+"Alfred Julius",Andersen,1,5,11,1929,NULL,NULL
+"Niels Andreas",Ubbe,1,5,11,1929,NULL,NULL
+"Axel Julius Richard Evald",Hansen,1,5,11,1929,55.705183900000,12.494816100000
+"Caroline Augusta",Puls,2,5,11,1929,NULL,NULL
+"Amalia Vilhelmine",Arnecke,2,5,11,1929,55.669979300000,12.491752600000
+"Niels Viliam Theobald",Mogensen,1,5,11,1929,NULL,NULL
+"Anna Petronelle",Hansen,2,5,11,1929,55.695813000000,12.547188600000
+"Christian Gerardus",Sanderse,1,5,11,1929,55.665895700000,12.549532200000
+"Josef Adolf August",Schilling,1,5,11,1929,NULL,NULL
+"Rudolf Magnus",Andersen,1,5,11,1929,55.696298000000,12.550755500000
+"Einer Richard",Andersen,1,5,11,1929,55.690067600000,12.539365600000
+Sofie,Andersen,2,5,11,1929,55.699995800000,12.548235400000
+"Carl Frederik Christian Christensen",Schleimann,1,5,11,1929,NULL,NULL
+"Emil Orla",Hansen,1,5,11,1929,NULL,NULL
+"Svend Otto",Hansen,1,5,11,1929,55.700922300000,12.529661300000
+"Frederik Louis",Hansen,1,5,11,1929,55.700265200000,12.533951000000
+Frits,Hansen,1,5,11,1929,NULL,NULL
+"Edvard Alfred Carolius",Heiberg,1,5,11,1929,NULL,NULL
+"Jens Alfred",Andersen,1,5,11,1929,55.695848800000,12.556765300000
+"Jørgen Christian",Christiansen,1,5,11,1929,55.694970100000,12.549260100000
+"Jenny Terecia",Andersson,2,5,11,1929,NULL,NULL
+"Anna Christine",Carlsen,2,5,11,1929,NULL,NULL
+Henrik,Jansen,1,5,11,1929,NULL,NULL
+"Johannes Emil",Andersen,1,5,11,1929,NULL,NULL
+"Alfred Andreas Lauritz",Hellemann,1,5,11,1929,NULL,NULL
+"Hans Peter Frederik",Elisiussen,1,5,11,1929,NULL,NULL
+"Anna Christine Petra",Mortensen,2,5,11,1929,NULL,NULL
+"Jens Einer",Nielsen,1,5,11,1929,NULL,NULL
+"Svend Aage Alex",Nielsen,1,5,11,1929,55.697706100000,12.549669100000
+"Jens Peter",Nielsen,1,5,11,1929,55.690992200000,12.539603400000
+Poul,Mortensen,1,19,11,1929,NULL,NULL
+Poul,Mortensen,1,19,11,1929,NULL,NULL
+"Gideon Wilhelm Svend",Jørgensen,1,5,11,1929,55.697562300000,12.550806500000
+"Anna Margrethe Christine",Hansen,2,5,11,1929,NULL,NULL
+"Andrea Marie",Nielsen,2,5,11,1929,NULL,NULL
+"Carl Henrik Peter",Hansen,1,5,11,1929,NULL,NULL
+"Morten Christian",Mortensen,1,5,11,1929,NULL,NULL
+"Anna Emilie",Møller,2,5,11,1929,55.698623100000,12.542668100000
+Magnus,Jensen,1,5,11,1929,NULL,NULL
+"Oluf Christian Eriksen",Hovmann,1,5,11,1929,NULL,NULL
+"Alfred Johan",Magnussen,1,5,11,1929,55.706425700000,12.506891000000
+Bolette,Johansen,2,5,11,1929,55.656079100000,12.519916600000
+"Agnes Emilie Laurine",Sørensen,2,5,11,1929,NULL,NULL
+"August Frederik Vilhelm",Franck,1,5,11,1929,NULL,NULL
+"Florian Marius",Lagermann,1,5,11,1929,NULL,NULL
+"Thora Margot",Petersen,2,5,11,1929,55.691973400000,12.543841900000
+"Charles Emil",Sørensen,1,5,11,1929,55.690992200000,12.539603400000
+Christian,Sørensen,1,5,11,1929,NULL,NULL
+Arne,Beyerholm,1,5,11,1929,NULL,NULL
+"Poul Nicolai Sørensen",Krogh,1,5,11,1929,55.662427300000,12.515939500000
+"Ernst Christian Andreas",Wistoft,1,5,11,1929,55.693305700000,12.543947600000
+"Hans Robert Marius",Hansen,1,5,11,1929,NULL,NULL
+Ludvig,Christensen,1,5,11,1929,55.654368500000,12.495283700000
+Hans,Madsen,1,1,11,1929,55.678185100000,12.583838400000
+"Karen Dorthea",Hansen,2,1,11,1929,55.666271600000,12.520798700000
+"Karen Dorthea",Hansen,2,5,11,1929,55.666271600000,12.520798700000
+"Robert Carl",Poulsen,1,5,11,1929,NULL,NULL
+Edvard,Landgreen,1,5,11,1929,55.662821900000,12.503167300000
+Anna,Christensen,2,5,11,1929,NULL,NULL
+"Harry Charles",Bloch,1,5,11,1929,55.671414400000,12.559135700000
+Emma,Christensen,2,5,11,1929,55.666957000000,12.520474800000
+Hans,Larsen,1,5,11,1929,NULL,NULL
+"Oluf Johan Hjalmar",Frieberg,1,5,11,1929,55.696201100000,12.546288300000
+Friderich,Lentge,3,5,11,1929,55.663697200000,12.499259300000
+"Christian Johannes",Christensen,1,1,11,1929,NULL,NULL
+"Carl Jens",Frimann,1,5,11,1929,55.666862700000,12.513951400000
+"Peter Villiam",Larsen,1,5,11,1929,55.641646000000,12.614490900000
+"August Villiam Emil",Breuning,1,5,11,1929,55.696778800000,12.504729300000
+"Meta Henriette Christine",Carlsen,2,5,11,1929,NULL,NULL
+"Poul Andreas",Nielsen,1,5,11,1929,55.670895400000,12.560968300000
+"Axel Emil",Petersen,1,5,11,1929,55.641646000000,12.614490900000
+"Rasmus Emil",Nielsen,1,5,11,1929,NULL,NULL
+"Lars Marius Hou",Vangsaa,1,5,11,1929,NULL,NULL
+"Ole Bendix",Petersen,1,1,11,1929,55.660482300000,12.519217400000
+"Otto Christian",Hansen,1,5,11,1929,NULL,NULL
+"Frederikke Nielsine Floribella",Høltzel,2,5,11,1929,NULL,NULL
+"Marie Petroline",Rasmussen,2,5,11,1929,NULL,NULL
+"Marinus Ove",Rasmussen,1,5,11,1929,NULL,NULL
+"Marinus Ove",Rasmussen,1,5,11,1929,NULL,NULL
+Martha,Rasmussen,2,5,11,1929,55.700510100000,12.575771300000
+"Carl Christian",Hansen,1,5,11,1929,55.665043100000,12.519263100000
+"Niels Peter",Jensen,1,5,11,1929,NULL,NULL
+"Svend Lauritz",Petersen,1,5,11,1929,55.662366900000,12.514809400000
+"Rolf Orla Arna",Rohrmann,1,5,11,1929,NULL,NULL
+"Gustav Adolf",Robsahm,1,5,11,1929,NULL,NULL
+"Christian Godthard",Mortensen,1,1,11,1929,NULL,NULL
+"Johanne Jensine",Phillipsen,2,5,11,1929,55.665898800000,12.513379600000
+"Fritz Valdemar",Molin,1,5,11,1929,NULL,NULL
+"Rudolf Leopold Emanuel",Jensen,1,5,11,1929,NULL,NULL
+"Jens Christian Martin",Hetoft,1,5,11,1929,NULL,NULL
+Anna,Nielsen,2,5,11,1929,NULL,NULL
+"Bernhardt Ove Christian",Lauritzen,1,5,11,1929,NULL,NULL
+"Oscar Emil",Lauritzen,1,5,11,1929,NULL,NULL
+"Christian Sofus",Sørensen,1,5,11,1929,NULL,NULL
+"Oluf Hans Peter Østergaard",Larsen,1,5,11,1929,NULL,NULL
+"Fritz Christian",Hønike,1,5,11,1929,55.692828100000,12.545869900000
+"Henrik Ferdinand",Sundstrøm,1,5,11,1929,NULL,NULL
+Elvinius,Jørgensen,1,5,11,1929,NULL,NULL
+"Christian Christoffer",Petersen,1,5,11,1929,NULL,NULL
+"Marie Helene",Petersen,2,5,11,1929,55.663344900000,12.494398100000
+Niels,Larsen,1,5,11,1929,NULL,NULL
+"Sara Sofie Emilie",Ovi,2,5,11,1929,55.705185200000,12.578598100000
+"Jens Julius Ludevig",Sørensen,1,5,11,1929,NULL,NULL
+"Dorthe Marie",Larsen,2,5,11,1929,55.711353500000,12.574652900000
+"Ludvig Emil",Haldbæk,1,5,11,1929,NULL,NULL
+Anton,Thomassen,1,5,11,1929,NULL,NULL
+"Søren Peter",Jørgensen,1,5,11,1929,55.716432200000,12.574394200000
+"Jens Hansen",Tarp,1,5,11,1929,NULL,NULL
+"Christian Lorentz",Thiel,1,5,11,1929,NULL,NULL
+"Johan Henrik",Klamer,1,5,11,1929,NULL,NULL
+"Anna Christine",Madsen,2,5,11,1929,NULL,NULL
+"Hans Christian Johannes",Nielsen,1,5,11,1929,55.708305500000,12.571258900000
+Svend,Nielsen,1,5,11,1929,55.697978000000,12.581540500000
+"Viggo Anders",Pallesen,1,5,11,1929,55.704403500000,12.585251100000
+"Rudolf Christian",Jacobsen,1,5,11,1929,NULL,NULL
+"Alma Elfrida Marie",Rasch,2,5,11,1929,55.678812000000,12.570307500000
+"Carl Peter",Ravndam,1,5,11,1929,NULL,NULL
+"Peter Julius",Hansen,1,5,11,1929,NULL,NULL
+"Alexius Frederik",Rasmussen,1,5,11,1929,55.691814300000,12.476952200000
+Viggo,Lindeman,1,5,11,1929,NULL,NULL
+Anders,Larsen,1,5,11,1929,55.706631300000,12.518459300000
+"Rasmus Pedersen",Wej,1,5,11,1929,55.670073800000,12.544568800000
+"Hans August Peter Martin",Jensen,1,5,11,1929,NULL,NULL
+"Johanne Sofie",Larsen,2,1,11,1929,NULL,NULL
+Niels,Sørensen,1,5,11,1929,NULL,NULL
+"Erik Andreas",Andersen,1,5,11,1929,NULL,NULL
+"Leonhardt Carl",Rasmussen,1,5,11,1929,NULL,NULL
+Holger,Svendsen,1,5,11,1929,NULL,NULL
+"August Oliver",Richter,1,5,11,1929,NULL,NULL
+"Marie Caroline",Davidsen,2,5,11,1929,55.652458000000,12.620200500000
+"Jens Christian",Frederiksen,1,5,11,1929,55.678857700000,12.568171800000
+"Ingrid Marie",Jonasson,2,5,11,1929,NULL,NULL
+"Søren Peter",Frandsen,1,5,11,1929,55.659810100000,12.605995200000
+"Niels Kaj",Jørgensen,1,5,11,1929,NULL,NULL
+Markus,Kosteljanetz,1,5,11,1929,NULL,NULL
+Simon,Koppel,1,5,11,1929,NULL,NULL
+Gorm,Hansen,1,5,11,1929,NULL,NULL
+"Holger Adolf Theodor",Hansen,1,5,11,1929,NULL,NULL
+Laura,Reder,2,5,11,1929,NULL,NULL
+"Christine Oline",Løvbom,2,5,11,1929,NULL,NULL
+"Niels Peter",Madsen,1,5,11,1929,NULL,NULL
+"Harald Peter",Jørgensen,1,5,11,1929,NULL,NULL
+"Anna Margrethe Ophelia",Olsen,2,5,11,1929,NULL,NULL
+"Ernst Tommy Adolf",Wisbom,1,5,11,1929,NULL,NULL
+"Ingeborg Margrethe",Petersen,3,5,11,1929,NULL,NULL
+"Laurentius Rasmus",Offenberg,3,5,11,1929,NULL,NULL

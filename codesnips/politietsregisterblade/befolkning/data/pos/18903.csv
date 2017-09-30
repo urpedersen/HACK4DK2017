@@ -1,0 +1,9 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Lars Peter",Nielsen,1,2,3,1890,NULL,NULL
+"Carl Frederik Gottfred",Marcher,1,1,3,1890,NULL,NULL
+Nicolai,Hansen,1,8,3,1890,NULL,NULL
+"Alma Eline Alfrida",Andersen,2,1,3,1890,NULL,NULL
+"Svend Emil Hans Søren",Hansen,1,21,3,1890,NULL,NULL
+"Frantz Carl",Prucker,1,29,3,1890,55.683464700000,12.567950800000
+"Olaf Asser Cecilius",Rosenberg,1,19,3,1890,NULL,NULL
+"Andrea Sophie",Serritzlev,2,21,3,1890,55.678787600000,12.568875400000

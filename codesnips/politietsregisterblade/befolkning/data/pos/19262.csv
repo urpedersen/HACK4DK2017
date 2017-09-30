@@ -1,0 +1,41 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Axel Peter",Andersen,1,1,2,1926,NULL,NULL
+"Hans Valdemar",Hansen,1,1,2,1926,55.666543200000,12.601359000000
+"Jens Viggo",Andersen,1,2,2,1926,NULL,NULL
+"Theodor August Mylius",Loll,1,1,2,1926,NULL,NULL
+Hans,Clausen,1,3,2,1926,55.668740300000,12.553737800000
+"Louis Albert",Jensen,1,1,2,1926,NULL,NULL
+Oluf,Jensen,1,12,2,1926,NULL,NULL
+"Jørgen Christian",Jørgensen,1,1,2,1926,55.678051700000,12.568239100000
+Aage,Schnell,1,1,2,1926,NULL,NULL
+"Niels Peter Osvald",Nielsen,1,20,2,1926,NULL,NULL
+"Jens Christian",Olsen,1,8,2,1926,NULL,NULL
+Bertel,Glistrup,1,1,2,1926,NULL,NULL
+Martin,Petersen,1,24,2,1926,NULL,NULL
+Knud,Larsen,1,1,2,1926,NULL,NULL
+Peter,Poulsen,1,1,2,1926,55.678730100000,12.574982500000
+"Alex Bernhard Sylvester",Andersen,1,15,2,1926,55.668459300000,12.555870500000
+"Niels Peter",Hansen,1,22,2,1926,NULL,NULL
+"Otto Edvard",Ersholt,1,1,2,1926,NULL,NULL
+"Peter Christian",Nielsen,1,4,2,1926,NULL,NULL
+"Niels Holger",Madsen,1,23,2,1926,NULL,NULL
+"Niels Holger",Madsen,1,26,2,1926,NULL,NULL
+"Steffen Ludvig Christian Løvenborg-",Møller,1,1,2,1926,NULL,NULL
+"Jørgen Peter",Jensen,1,17,2,1926,NULL,NULL
+"Jørgen Peter",Jensen,1,17,2,1926,55.711776800000,12.574151700000
+"Ernst Martinus Jens",Oversø,1,12,2,1926,NULL,NULL
+"Ida Kjeldine",Thygesen,2,11,2,1926,NULL,NULL
+"Lilli Elfrida Margrethe",Petersen,2,25,2,1926,NULL,NULL
+"Peter Aage",Andersen,1,1,2,1926,55.693481900000,12.547627200000
+"Oda Harriet",Nielsen,2,25,2,1926,NULL,NULL
+"Alfred Evin Eiberg Ferdinand",Jørgensen,1,1,2,1926,55.687137200000,12.589927900000
+"Laura Marie",Petersen,2,1,2,1926,NULL,NULL
+"Christian Johannes",Christensen,1,1,2,1926,NULL,NULL
+Frederik,Frøhlke,1,15,2,1926,55.693881400000,12.539014100000
+"Otto Christian",Hansen,1,5,2,1926,NULL,NULL
+"Jens Frede Knud",Mølnitz,1,1,2,1926,55.689731000000,12.561556100000
+"Villiam Anders",Carlsen,1,2,2,1926,NULL,NULL
+"Emil Johan Andreas",Thomsen,1,5,2,1926,55.698997800000,12.577563700000
+"Valdemar Carl Frederik August",Leth,1,1,2,1926,NULL,NULL
+"Jens Christian",Christiansen,1,6,2,1926,NULL,NULL
+Johannes,Jacobsen,1,16,2,1926,NULL,NULL

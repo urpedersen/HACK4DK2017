@@ -1,0 +1,41 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+Michael,Matz,1,21,9,1925,55.658821900000,12.599449200000
+"Hans Christian",Nielsen,1,15,9,1925,NULL,NULL
+"Anders Valdemar Alfred",Jørgensen,1,1,9,1925,NULL,NULL
+"Frederik Vilhelm Enevold",Nielsen,1,1,9,1925,55.681693900000,12.574048100000
+"Peter Carl Vilhelm",Andersen,1,28,9,1925,NULL,NULL
+"Ane Christine Nielsen",Damgaard,2,1,9,1925,NULL,NULL
+"Christian Ingemann",Andreassen,1,8,9,1925,55.667361800000,12.553396400000
+"Dagny Elvira Margaritte",Berentzen,2,6,9,1925,55.678433700000,12.587561300000
+"Axel Nicolai",Johansen,1,18,9,1925,NULL,NULL
+"Christian Thorvald",Nielsen,1,1,9,1925,NULL,NULL
+"Ove Johannes",Offenberg,1,19,9,1925,NULL,NULL
+"Carl August Rasmussen",Nørring,1,1,9,1925,NULL,NULL
+"Marius Christian Thorvald",Andersen,1,1,9,1925,NULL,NULL
+"Carl Wittrup",Rasmussen,1,20,9,1925,55.697139800000,12.553065100000
+"Emma Margrethe Sofie",Madsen,2,10,9,1925,55.699959000000,12.589317300000
+"Johan Carl",Schmidt,1,15,9,1925,NULL,NULL
+"Anders Johannes",Steinmüller,1,30,9,1925,NULL,NULL
+"Vilhelm Mathias Thor",Hansen,1,20,9,1925,NULL,NULL
+"Jens Peter Vilhelm",Hansen,1,1,9,1925,NULL,NULL
+"Mariane Kirstine",Hansen,2,7,9,1925,NULL,NULL
+"Victor Lars",Corneliussen,1,11,9,1925,NULL,NULL
+"Alfred Hansen",Grambo,1,9,9,1925,55.665329500000,12.544563000000
+"Ane Marie",Jensen,2,30,9,1925,NULL,NULL
+"Carl Johannes",Jensen,1,9,9,1925,NULL,NULL
+Valdemar,Jørgensen,1,28,9,1925,NULL,NULL
+"Anna Cathrine",Petersen,2,1,9,1925,NULL,NULL
+"Nils Andersson",Borgmann,1,20,9,1925,NULL,NULL
+"Niels Holger",Madsen,1,27,9,1925,NULL,NULL
+"Hans Peter",Nielsen,1,7,9,1925,NULL,NULL
+"Ernst Martinus Jens",Oversø,1,1,9,1925,NULL,NULL
+"Henry Emanuel",Petersen,1,15,9,1925,55.670762600000,12.560133100000
+"Doris Olga",Waldorff,2,5,9,1925,NULL,NULL
+"Ove Haugaard",Simonsen,1,2,9,1925,NULL,NULL
+"Johan Frederik Samuel Dyrhof",Nygaard,1,1,9,1925,NULL,NULL
+"Kirstine Sofie Rasmine",Rasmussen,2,23,9,1925,NULL,NULL
+"Niels Peter Petersen",Vesterkær,1,11,9,1925,55.656392900000,12.623338200000
+"Jens Poulli",Schultz,1,24,9,1925,NULL,NULL
+"Niels Christian",Madsen,1,1,9,1925,NULL,NULL
+"Carlo Robert Fritjof",Andersen,1,4,9,1925,55.663660100000,12.580839800000
+"Augusta Eleonora",Petersen,2,1,9,1925,NULL,NULL

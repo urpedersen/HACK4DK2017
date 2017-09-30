@@ -1,0 +1,19 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Niels Peter",Johansen,1,1,5,1930,NULL,NULL
+"Hugo Gustav",Glaser,1,1,5,1930,55.664492500000,12.582467000000
+"Axel Adolf",Hansen,1,1,5,1930,55.693552000000,12.542974700000
+"Jens Mogens",Pedersen,1,1,5,1930,NULL,NULL
+"Thyra Emilie Alice Olga",Holmblad,2,1,5,1930,55.680596600000,12.584671000000
+"Charles Vilhelm Ove",Lund,1,28,5,1930,NULL,NULL
+Otto,Joelsson,1,1,5,1930,NULL,NULL
+"Else Karen Gudrun",Bakke,2,1,5,1930,NULL,NULL
+Guiseppe,Follina,1,NULL,5,1930,NULL,NULL
+Harry,Christensen,1,20,5,1930,NULL,NULL
+"Anders Peter Nergaard",Petersen,1,15,5,1930,NULL,NULL
+"Johannes Friedrich Arnold",Jürgensen,1,1,5,1930,55.707859900000,12.583352600000
+"Valdemar Diner",Petersen,1,1,5,1930,NULL,NULL
+"Otto Wernike",Linstow,1,1,5,1930,NULL,NULL
+"Johannes Emil",Andersen,1,15,5,1930,55.671412100000,12.544467900000
+"Rudolf Leopold Emanuel",Jensen,1,1,5,1930,NULL,NULL
+"Jens Christian Martin",Hetoft,1,6,5,1930,NULL,NULL
+"Arne Sparre",Petersen,1,23,5,1930,NULL,NULL

@@ -1,0 +1,13 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Otto Valdemar",Hulgren,1,14,7,1928,55.654059300000,12.613343900000
+Nils,Nelander,1,1,7,1928,55.681926900000,12.573613000000
+"Emil Dorff",Petersen,1,2,7,1928,NULL,NULL
+"Oscar Valdemar",Rudberg,1,10,7,1928,NULL,NULL
+"Hans Christian",Hansen,1,15,7,1928,NULL,NULL
+"Ernst Richardt",Hansen,1,23,7,1928,NULL,NULL
+"Peter Emilius",Nielsen,1,1,7,1928,NULL,NULL
+"Svend Aage Ejnar Myrhøj",Machon,1,27,7,1928,NULL,NULL
+"Anker Herman",Jørgensen,1,7,7,1928,NULL,NULL
+"Carlo Eigil Svend Aage",Sørensen,1,20,7,1928,NULL,NULL
+"Albert Oluf",Jensen,1,15,7,1928,NULL,NULL
+"Peter Julius Sørensen",Holdt,1,26,7,1928,55.673460200000,12.590695600000

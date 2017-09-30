@@ -1,0 +1,45 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+Ole,Petersen,1,1,5,1927,NULL,NULL
+"Karen Marie",Hansen,2,1,5,1927,NULL,NULL
+"Poul Edgar",Johansen,1,24,5,1927,NULL,NULL
+"Fritz Hjalmar",Mathiesen,1,27,5,1927,NULL,NULL
+Ketty,Olsen,2,1,5,1927,55.679228800000,12.577839100000
+Oluf,Jensen,1,8,5,1927,NULL,NULL
+"Bettus Viggo Holger Molinus",Ulvskov,1,1,5,1927,NULL,NULL
+"Jens Søren",Sørensen,1,1,5,1927,55.663123600000,12.619050500000
+"Carlo Ernst Henning",Jensen,1,5,5,1927,NULL,NULL
+Alrik,Jørgensen,1,1,5,1927,NULL,NULL
+Nicoline,Mikkelsen,2,27,5,1927,55.691683600000,12.540960400000
+"Laurits Christian",Jensen,1,5,5,1927,NULL,NULL
+"Sofie Lovise Petrine Klarskov",Jørgensen,2,1,5,1927,NULL,NULL
+"Louise Anna Marie",Petersen,2,2,5,1927,NULL,NULL
+"Laura Caroline",Larsen,2,1,5,1927,NULL,NULL
+Marie,Olsen,2,1,5,1927,55.685251600000,12.590266100000
+"Johanne Christine",Thomsen,2,1,5,1927,55.661661300000,12.512917400000
+"Ellen Ingeborg Helene",Bodholdt,2,1,5,1927,NULL,NULL
+"Holger Christian",Hansen,1,1,5,1927,NULL,NULL
+"Hans Jensen",Hansen,1,1,5,1927,NULL,NULL
+"Victor Lars",Corneliussen,1,1,5,1927,NULL,NULL
+"Ane Marie",Jensen,2,6,5,1927,NULL,NULL
+Richardt,Jensen,1,1,5,1927,NULL,NULL
+"Albert Vilhelm",Jeppesen,1,6,5,1927,NULL,NULL
+"Carl Johan",Jørgensen,1,21,5,1927,NULL,NULL
+"Carl Otto",Arvidsson,1,1,5,1927,55.666303200000,12.549128500000
+"Marie Christiane",Jørgensen,2,1,5,1927,NULL,NULL
+"Svend Chr. Alexander",Melander,1,1,5,1927,NULL,NULL
+"Amalie Louise",Lund,2,1,5,1927,NULL,NULL
+"Lars Peter",Christensen,1,1,5,1927,NULL,NULL
+"Johannes Rudolf",Eiberg,1,1,5,1927,NULL,NULL
+"Harry Arthur",Philipp,1,1,5,1927,NULL,NULL
+"Nicoline Ulrika Christine",Hansen,2,1,5,1927,NULL,NULL
+"Elvira Larsine Frederikke",Nielsen,2,3,5,1927,NULL,NULL
+"Madsine Marie Magdalne",Madsen,2,1,5,1927,NULL,NULL
+"Orla Christian Nielsen",Rasmussen,1,17,5,1927,NULL,NULL
+"Johannes Friedrich Arnold",Jürgensen,1,1,5,1927,55.707859900000,12.583352600000
+"Jens Laurits Lønberg",Jensen,1,1,5,1927,NULL,NULL
+"Thora Caroline",Witzansky,2,15,5,1927,NULL,NULL
+"Carl Sophus",Andersen,1,1,5,1927,NULL,NULL
+"Peter Villiam",Larsen,1,15,5,1927,55.641646000000,12.614490900000
+"Ole Bendix",Petersen,1,1,5,1927,55.660482300000,12.519217400000
+Aage,Hyllested,1,31,5,1927,NULL,NULL
+"Karen Marie",Nielsen,2,12,5,1927,NULL,NULL

@@ -1,0 +1,10 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Larsenius Peter Christian Petersen",Tønder,1,24,3,1930,NULL,NULL
+"Svend Axel",Nielsen,1,12,3,1930,NULL,NULL
+"Niels Peter",Hansen,1,24,3,1930,NULL,NULL
+"Ove Michael",Corell,1,29,3,1930,NULL,NULL
+"Oluf Axel",Sørensen,1,31,3,1930,NULL,NULL
+Poul,Mortensen,1,6,3,1930,NULL,NULL
+"Agnes Emilie Laurine",Sørensen,2,22,3,1930,NULL,NULL
+"Otto Christian",Hansen,1,29,3,1930,55.665803900000,12.483373800000
+"Rasmus Pedersen",Wej,1,15,3,1930,55.678122500000,12.590481900000

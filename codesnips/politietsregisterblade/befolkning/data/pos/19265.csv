@@ -1,0 +1,54 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Johanne Petrine",Lorentzen,2,1,5,1926,NULL,NULL
+"Niels Peter",Johansen,1,1,5,1926,NULL,NULL
+"Carl Vilhelm",Petersen,1,1,5,1926,NULL,NULL
+"Christian Frederik Georg Valdemar",Neuschwang,1,1,5,1926,NULL,NULL
+"Carl Bernhard",Frederiksen,1,1,5,1926,55.651910400000,12.617915800000
+"Axel Adolf",Hansen,1,1,5,1926,55.693552000000,12.542974700000
+"Sofus Alfred",Jensen,1,25,5,1926,NULL,NULL
+"Edvard Rasmus Raahauge",Jensen,1,1,5,1926,NULL,NULL
+"Larsenius Peter Christian Petersen",Tønder,1,15,5,1926,NULL,NULL
+Kirstine,Petersen,2,1,5,1926,55.681366700000,12.562808000000
+"Einer Michael",Mikkelsen,1,2,5,1926,NULL,NULL
+Caroline,Larsen,2,1,5,1926,55.669179600000,12.550847400000
+"Peter Emil",Hansen,1,1,5,1926,NULL,NULL
+"Christian Rudolf Anton",Dørge,1,1,5,1926,NULL,NULL
+"August Hendrik Peter",Larsen,1,4,5,1926,NULL,NULL
+"Jens Georg Martinus",Nielsen,1,1,5,1926,55.678179400000,12.589437200000
+"Karl Marius Jensen",Tholstrup,1,1,5,1926,NULL,NULL
+"Margrethe Eleonora v.",Gerstorff,2,1,5,1926,NULL,NULL
+"Vanda Marie",Deleuran,2,3,5,1926,NULL,NULL
+"Fillip Andreas",Jensen,1,5,5,1926,NULL,NULL
+"Niels Peter Osvald",Nielsen,1,1,5,1926,NULL,NULL
+Holger,Münster,1,4,5,1926,NULL,NULL
+"Laurits Christian",Jensen,1,5,5,1926,NULL,NULL
+"Anders Rostrup",Christensen,1,19,5,1926,NULL,NULL
+"Louise Anna Marie",Petersen,2,2,5,1926,NULL,NULL
+"Carl Gunnar",Rasmussen,1,1,5,1926,NULL,NULL
+"Ludvig Andreas",Poulsen,1,1,5,1926,55.691568500000,12.575435500000
+"Alex Bernhard Sylvester",Andersen,1,20,5,1926,NULL,NULL
+"Carl Sofus",Frandsen,1,11,5,1926,NULL,NULL
+"Emilie Laura Caroline",Hansen,2,11,5,1926,NULL,NULL
+"Niels Poul",Frederiksen,1,15,5,1926,55.649781500000,12.536521300000
+"Henry Hjalmar Alfred Thomas",Godtfredsen,1,1,5,1926,NULL,NULL
+"Ove Michael",Corell,1,11,5,1926,NULL,NULL
+"Peter Johannes Alexander",Johansen,1,1,5,1926,NULL,NULL
+"Alfred Viggo",Petersen,1,21,5,1926,NULL,NULL
+"Hans Christian",Nicolaisen,1,1,5,1926,NULL,NULL
+"Jens Peter",Nielsen,1,8,5,1926,NULL,NULL
+"Hans Edvard Victor",Petersen,1,15,5,1926,NULL,NULL
+"Søren Christian",Simonsen,1,1,5,1926,NULL,NULL
+"Poul Christian",Petersen,1,1,5,1926,55.669355200000,12.550080000000
+"Vilhelm Johan",Sivertsen,1,1,5,1926,NULL,NULL
+"Charles Victor",Jensen,1,24,5,1926,NULL,NULL
+"Alfred Peter",Svendsen,1,21,5,1926,55.660309600000,12.520498500000
+"Svend Dupont",Olsen,1,27,5,1926,55.699095400000,12.522368500000
+Hans,Madsen,1,5,5,1926,55.665251000000,12.614814700000
+"Oluf Michael",Ulriksen,1,1,5,1926,NULL,NULL
+Thorvald,Jacobsen,1,2,5,1926,NULL,NULL
+Gudrun,Nielsen,2,25,5,1926,NULL,NULL
+"Ole Bendix",Petersen,1,1,5,1926,55.660482300000,12.519217400000
+Johannes,Mikkelsen,1,7,5,1926,NULL,NULL
+"Valdemar Carl Frederik August",Leth,1,15,5,1926,NULL,NULL
+"Emmy Christine",Hansen,2,15,5,1926,NULL,NULL
+"Thora Terese",Christensen,2,3,5,1926,NULL,NULL

@@ -1,0 +1,23 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Haldor Marinus",Møller,1,6,10,1928,NULL,NULL
+"Sophie Emilie",Jeppesen,2,1,10,1928,NULL,NULL
+Christian,Thorndahl,1,17,10,1928,NULL,NULL
+"Jens Peter Vilhelm",Petersen,1,24,10,1928,NULL,NULL
+"Carla Sofie",Christensen,2,1,10,1928,55.675157600000,12.547723900000
+"Carl Jacob",Didrichsen,1,16,10,1928,NULL,NULL
+"Niels Ivan Juul Holst",Dalvang,1,27,10,1928,55.665769800000,12.556407900000
+"Poul Jacobsen",Klokmann,1,1,10,1928,NULL,NULL
+"Sofie Lovise Petrine Klarskov",Jørgensen,2,19,10,1928,NULL,NULL
+"Jens Frederik",Nielsen,1,28,10,1928,NULL,NULL
+"Alter Aldo",Prudinsky,1,20,10,1928,NULL,NULL
+"Axel Hans Peter",Nielsen,1,29,10,1928,NULL,NULL
+"Gerda Cecilie",Nielsen,2,1,10,1928,55.663990000000,12.547744300000
+Harald,Ewaldsen,1,17,10,1928,NULL,NULL
+"Laurits Peter Albert",Hansen,1,22,10,1928,NULL,NULL
+"Carlo Peter Thorvald",Christensen,1,15,10,1928,NULL,NULL
+Emanuel,Raasø,1,15,10,1928,55.670715300000,12.555358400000
+"Hans Christian William",Jensen,1,3,10,1928,55.704486500000,12.480544200000
+"Carl Viktor Olausson",Tornberg,1,16,10,1928,NULL,NULL
+"Lars Haagen",Petersen,1,18,10,1928,55.663325600000,12.580869700000
+"Karen Marie",Pedersen,2,2,10,1928,55.671813200000,12.485575700000
+"Alexius Frederik",Rasmussen,1,6,10,1928,NULL,NULL

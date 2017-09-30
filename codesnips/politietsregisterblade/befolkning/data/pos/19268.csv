@@ -1,0 +1,29 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Jens Viggo",Andersen,1,19,8,1926,55.666664900000,12.614825300000
+"Albert Niels",Johansen,1,5,8,1926,NULL,NULL
+"Axel Peter",Nielsen,1,1,8,1926,NULL,NULL
+"Camilla Marie Christiane",Hansen,2,17,8,1926,NULL,NULL
+"Carl Sophus",Christoffersen,1,8,8,1926,NULL,NULL
+"Frederik Johan",Barnstein,1,28,8,1926,55.681658800000,12.562589200000
+"Mads Peter",Sørensen,1,15,8,1926,NULL,NULL
+Alexander,Larsen,1,17,8,1926,NULL,NULL
+"Maren Kirstine",Haarløv,2,15,8,1926,NULL,NULL
+Knud,Larsen,1,9,8,1926,55.702650000000,12.477569900000
+"Rasmus Frederik",Rasmussen,1,20,8,1926,NULL,NULL
+"Anna Marie",Jensen,2,24,8,1926,NULL,NULL
+"Harry Thorkild",Nielsen,1,7,8,1926,NULL,NULL
+"Hans Harald",Johansen,1,26,8,1926,NULL,NULL
+"Tore Anders",Heinricy,1,12,8,1926,55.670426900000,12.564262100000
+"Henry Emil Christian",Hall,1,21,8,1926,55.709638200000,12.581012700000
+"Oluf Johannes Emil",Olsen,1,19,8,1926,NULL,NULL
+"Hedvig Rosalie",Petersen,2,15,8,1926,NULL,NULL
+"Anders Georg Robert",Nielsen,1,5,8,1926,55.692035200000,12.545089600000
+"Alfred Evin Eiberg Ferdinand",Jørgensen,1,1,8,1926,55.667601700000,12.492759200000
+"Christian Christoffer",Jensen,1,20,8,1926,NULL,NULL
+Ludvig,Christensen,1,9,8,1926,55.654368500000,12.495283700000
+Gudrun,Nielsen,2,20,8,1926,55.645193500000,12.501383200000
+"Herbert Holck",Nielsen,1,2,8,1926,NULL,NULL
+"Kristian Peter",Thomsen,1,1,8,1926,NULL,NULL
+"Valdemar Bernhardt",Mathiesen,1,22,8,1926,55.666085300000,12.512075300000
+"Axel Edmund",Petersen,1,24,8,1926,55.663273100000,12.542702500000
+"Niels Henry",Jørgensen,1,20,8,1926,NULL,NULL

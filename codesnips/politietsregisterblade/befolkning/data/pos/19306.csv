@@ -1,0 +1,8 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Emma Margrethe",Svendsen,2,25,6,1930,NULL,NULL
+"Charles Vilhelm Ove",Lund,1,20,6,1930,NULL,NULL
+"Jacob Emil",Henriksen,1,26,6,1930,NULL,NULL
+"Harry Valdemar",Jacobsen,1,12,6,1930,NULL,NULL
+"Emma Margrethe Sofie",Madsen,2,2,6,1930,55.699685700000,12.535328700000
+"Ernst Richardt",Hansen,1,30,6,1930,NULL,NULL
+"Dorthe Marie",Larsen,2,4,6,1930,55.704305400000,12.590706000000

@@ -1,0 +1,28 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Hans Peter Broge",Hansen,1,4,3,1927,55.675792200000,12.600013300000
+"Karen Emilie Dagny",Andersen,2,5,3,1927,NULL,NULL
+Hans,Clausen,1,1,3,1927,NULL,NULL
+"Osvaldine Christine",Schiødt,3,1,3,1927,NULL,NULL
+"Cathrine Jubeline Christine Sofie",Rasmussen,2,1,3,1927,NULL,NULL
+"Johanne Mathilde",Larsen,2,15,3,1927,55.681644500000,12.572494400000
+"Vanda Marie",Deleuran,2,5,3,1927,55.670810700000,12.533006700000
+Henriette,Jensen,2,1,3,1927,55.671436700000,12.546010800000
+Vilhelmine,Hansen,2,1,3,1927,NULL,NULL
+"Karen Marie",Jørgensen,2,19,3,1927,NULL,NULL
+"Jens Madsen",Gram,1,12,3,1927,NULL,NULL
+"Oskar Florentin",Olsen,1,25,3,1927,NULL,NULL
+"Søren Christian Henrik",Rasmussen,1,4,3,1927,NULL,NULL
+"Tage Ingolf",Schultz,1,15,3,1927,NULL,NULL
+"Carl Johannes",Jensen,1,26,3,1927,NULL,NULL
+"Carl Richard",Nielsen,1,5,3,1927,NULL,NULL
+"Johannes Rudolf",Eiberg,1,17,3,1927,NULL,NULL
+"Jørgen Peter",Jensen,1,1,3,1927,55.712467100000,12.573276100000
+"Oda Cecilie",Olsen,2,14,3,1927,NULL,NULL
+"Oluf Frederik",Hansen,1,11,3,1927,NULL,NULL
+"Amalia Vilhelmine",Arnecke,2,1,3,1927,55.669979300000,12.491752600000
+"Axel Otto Oscar",Emme,1,20,3,1927,NULL,NULL
+"Oda Harriet",Nielsen,2,12,3,1927,NULL,NULL
+"Jacob Emanuel",Jørgensen,1,27,3,1927,NULL,NULL
+"Magnus Viggo",Moebius,1,16,3,1927,NULL,NULL
+"Maren Cathrine Christine",Rasmussen,2,1,3,1927,NULL,NULL
+"Holger Adolf Theodor",Hansen,1,7,3,1927,NULL,NULL

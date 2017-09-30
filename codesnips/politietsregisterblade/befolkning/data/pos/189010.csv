@@ -1,0 +1,23 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Jens Valdemar",Nielsen,1,6,10,1890,NULL,NULL
+"Meta Kirstine Nielsine",Jensen,2,5,10,1890,55.669222700000,12.550093800000
+Søren,Andersen,1,1,10,1890,55.676224000000,12.571714200000
+"Hansine Marie",Dahl,2,13,10,1890,55.694260500000,12.577242900000
+"Johannes Martin Emil",Graumann,1,7,10,1890,NULL,NULL
+"Otto Alfred",Madsen,1,9,10,1890,NULL,NULL
+"Anna Eleonora Christine",Hansen,2,6,10,1890,NULL,NULL
+Thorvald,Becher,1,1,10,1890,55.678748200000,12.569646700000
+Thorvald,Becher,1,1,10,1890,55.681154200000,12.564068900000
+"Hans Peter",Frandsen,1,7,10,1890,NULL,NULL
+"Inger Johanne Kirstine",Jørgensen,2,10,10,1890,NULL,NULL
+"Jensine Helene",Petersen,2,8,10,1890,NULL,NULL
+"Ane Kirstine",Nielsen,2,1,10,1890,NULL,NULL
+Christian,Nielsen,1,12,10,1890,NULL,NULL
+"Christiane Jakobine Petrea",Jensen,2,6,10,1890,55.670359700000,12.586472100000
+Niels,Olsen,1,1,10,1890,55.676657800000,12.571996300000
+"Emil Peter",Danielsen,1,1,10,1890,NULL,NULL
+"Jens Harald Aage",Jensen,1,12,10,1890,NULL,NULL
+Kirstine,Jensen,2,1,10,1890,55.676314200000,12.571827400000
+Amalie,Jørgensen,2,6,10,1890,NULL,NULL
+"Peter Christian",Lauritzen,1,6,10,1890,NULL,NULL
+Rasmus,Jeppesen,1,1,10,1890,NULL,NULL

@@ -1,0 +1,53 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Svend Sophus",Svendsen,1,12,10,1924,55.679228800000,12.577839100000
+"Knud Jens Christian",Løvgreen,1,1,10,1924,NULL,NULL
+"Carl Ludvig",Bantz,1,15,10,1924,NULL,NULL
+"Johanne Nielsine",Andersen,2,15,10,1924,NULL,NULL
+"Hans Christian",Nielsen,1,29,10,1924,NULL,NULL
+"Gerhardt Mads",Petersen,1,1,10,1924,NULL,NULL
+"Andreas Vilhelm",Friis,1,12,10,1924,NULL,NULL
+"Valdemar Peter",Kallehauge,1,15,10,1924,NULL,NULL
+"Niels Christian",Olsen,1,15,10,1924,NULL,NULL
+"Axel Georg Valdemar",Mortensen,1,22,10,1924,NULL,NULL
+"Emilie Eleonora",Nielsen,2,13,10,1924,NULL,NULL
+"Carl Frederik Søren",Schiøler,1,1,10,1924,55.682128200000,12.563708800000
+"Poul  Vilhelm Edvard",Tonø,1,1,10,1924,NULL,NULL
+"Henrik Christian",Johansen,1,5,10,1924,NULL,NULL
+"Iver Peter",Olsen,1,1,10,1924,NULL,NULL
+"Bruno Herberth",Paltoft,1,6,10,1924,NULL,NULL
+"Carl Alfred Julius",Møller,1,11,10,1924,NULL,NULL
+"Emma Margrethe Sofie",Madsen,2,20,10,1924,55.664465700000,12.600132500000
+"Johan Peter",Wolffram,1,8,10,1924,NULL,NULL
+"Sofie Adele",Thorstensson,2,16,10,1924,55.673517300000,12.575976700000
+Peter,Jensen,1,5,10,1924,NULL,NULL
+"Aage Thorvald",Jensen,1,15,10,1924,NULL,NULL
+"Asmus Christian Uldall",Jensen,1,1,10,1924,55.671435100000,12.550860100000
+"Axel Ejnar",Madsen,1,15,10,1924,NULL,NULL
+Viggo,Nielsen,1,20,10,1924,NULL,NULL
+"Carl Johan",Jacobsen,1,1,10,1924,NULL,NULL
+"Søren Alberth",Larsen,1,1,10,1924,NULL,NULL
+"Carl Christian",Larsen,1,23,10,1924,NULL,NULL
+"Henrietta Gormgine Agathe Victoria",Olesen,2,9,10,1924,NULL,NULL
+"Hans Peder Carl",Petersen,1,20,10,1924,55.668740300000,12.553737800000
+"Dorthea Marie",Pedersen,2,1,10,1924,NULL,NULL
+"Johannes Albert",Petersen,1,1,10,1924,NULL,NULL
+Martinus,Poulsen,1,10,10,1924,55.666169300000,12.549142500000
+"Harry Carl Georg",Wrangel,1,20,10,1924,55.699485900000,12.587309000000
+"Helga Sofie Carla",Sundby,2,1,10,1924,NULL,NULL
+"Erland Bruno Othello Rudkjøbing",Truelsen,1,15,10,1924,NULL,NULL
+"Echard Arne Johannes",Andersen,1,22,10,1924,NULL,NULL
+"Jens Jacobsen",Bjerring,1,4,10,1924,NULL,NULL
+"Hans Peter Christian",Christensen,1,17,10,1924,55.693071900000,12.539204500000
+"Kaj Vilhelm Bresemann",Nielsen,1,10,10,1924,55.691104700000,12.542599300000
+"Marinus Kai",Christensen,1,22,10,1924,NULL,NULL
+Anna,Hansen,2,25,10,1924,NULL,NULL
+"Henry Aage",Jørgensen,1,23,10,1924,NULL,NULL
+"Carl Theodor",Hansen,1,5,10,1924,NULL,NULL
+Otto,Knudsen,1,4,10,1924,NULL,NULL
+"Christen Christensen",Møller,1,22,10,1924,NULL,NULL
+"Aage Halvor Georg Valdemar",Lauritzen,1,15,10,1924,NULL,NULL
+"Valdemar Jensen",Gerster,1,5,10,1924,NULL,NULL
+"Erland Christen Julius",Bølling,1,15,10,1924,NULL,NULL
+"Hans Christian Julius",Nielsen,1,17,10,1924,55.692759900000,12.539209100000
+Sofie,Sørensen,2,27,10,1924,NULL,NULL
+"Frederik Peter",Nielsen,1,28,10,1924,NULL,NULL

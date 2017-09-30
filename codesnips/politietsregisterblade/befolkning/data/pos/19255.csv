@@ -1,0 +1,107 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Leo Peter Henrik",Svenstrup,1,1,5,1925,55.673350400000,12.590088300000
+"Sofus Julius",Jensen,1,26,5,1925,NULL,NULL
+"Christian Georg Vilhelm",Haagensen,1,1,5,1925,NULL,NULL
+"Carl Axel Johan",Bøhm,1,27,5,1925,55.664314400000,12.549176400000
+"Peder Christian",Pedersen,1,6,5,1925,NULL,NULL
+"Poul Edgar",Johansen,1,15,5,1925,NULL,NULL
+Michael,Matz,1,17,5,1925,NULL,NULL
+"Else Gandrup",Nielsen,2,1,5,1925,NULL,NULL
+"Thorvald Carl Frits",Eriksen,1,1,5,1925,55.660384300000,12.614367900000
+"Cornelius Carl",Petersen,1,1,5,1925,NULL,NULL
+Helene,Hallstein,2,1,5,1925,NULL,NULL
+"Jens Jacob Christian",Jensen,1,19,5,1925,55.672016800000,12.550461100000
+"Vilhelm Niels",Nielsen,1,1,5,1925,NULL,NULL
+Ove,Mørk,1,25,5,1925,55.683781000000,12.563438100000
+"Fritz Sofus vilhelm","Minden Madsen",1,1,5,1925,NULL,NULL
+"Edith Hedvig",Jensen,2,1,5,1925,55.672438900000,12.548638300000
+"Jens Peter Johann",Christensen,1,1,5,1925,NULL,NULL
+"Ejnar Axel Otto",Jensen,1,15,5,1925,NULL,NULL
+"Dagny Elvira Margaritte",Berentzen,2,1,5,1925,55.679765600000,12.589585500000
+"Lars Lauritz",Frost,1,20,5,1925,NULL,NULL
+"Niels Martinus",Berning,1,1,5,1925,NULL,NULL
+"Johannes Peter",Hansen,1,20,5,1925,NULL,NULL
+"Jens Peter",Jensen,1,1,5,1925,NULL,NULL
+"Carl Julius",Christensen,1,5,5,1925,NULL,NULL
+Sundel,Jappe,1,1,5,1925,NULL,NULL
+Marie,Mathisen,2,1,5,1925,NULL,NULL
+"Einar Otto",Mathisen,1,23,5,1925,NULL,NULL
+"Niels Christian",Mogensen,1,15,5,1925,55.708332800000,12.563497500000
+"Laurentze Margrethe",Olsen,2,7,5,1925,NULL,NULL
+"Ingolf Joachim",Nielsen,1,1,5,1925,NULL,NULL
+"Ane Christine Marie",Faaborg,2,1,5,1925,NULL,NULL
+"Viggo Christian Laurits Johansen",Bagge,1,30,5,1925,NULL,NULL
+"Anders Johannes",Jacobsen,1,15,5,1925,55.670720500000,12.590077500000
+"Laurits Christian",Jensen,1,5,5,1925,NULL,NULL
+"Anna Marie",Bruhn,2,31,5,1925,55.698462400000,12.583165900000
+"Carl Frederik Alexander",Knudsen,1,1,5,1925,NULL,NULL
+"Viggo Jørgen Gramkou",Petersen,1,1,5,1925,NULL,NULL
+"Niels Albert",Olsson,1,1,5,1925,55.686993800000,12.589318000000
+Mads,Nielsen,1,15,5,1925,NULL,NULL
+"Johanne Petrine",Mohr,2,12,5,1925,55.671377300000,12.491489500000
+"Jens Ludvig Oluf",Olsen,1,1,5,1925,NULL,NULL
+"Alexandra Clara",Petersen,2,1,5,1925,NULL,NULL
+"Anna Sofie Gundhild",Petersen,2,1,5,1925,NULL,NULL
+"Michael Marinus Stenstrup",Vogelius,1,1,5,1925,55.690606400000,12.529907400000
+"Viggo Peter Christian",Samsø,1,27,5,1925,NULL,NULL
+Ella,Svendsen,2,1,5,1925,NULL,NULL
+"Ellen Marie",Svendsen,2,1,5,1925,NULL,NULL
+Alrune,Spangenberg,2,1,5,1925,NULL,NULL
+Ragna,Warberg,2,10,5,1925,55.690837900000,12.575881800000
+"Valdemar Warming",Andersen,1,1,5,1925,NULL,NULL
+"Marius Alfred",Andersen,1,1,5,1925,NULL,NULL
+"Jens Peter Vilhelm",Hansen,1,24,5,1925,NULL,NULL
+"Erna Marie Christiane",Boese,2,1,5,1925,NULL,NULL
+"Villiam Edvard Rasmus",Breckwoldt,1,9,5,1925,55.666596900000,12.556311900000
+"Ellen Camilla",Jensen,2,1,5,1925,NULL,NULL
+"Sigurd Nyholm",Jensen,1,1,5,1925,NULL,NULL
+"Axel Hermann",Jensen,1,1,5,1925,NULL,NULL
+Volmer,Jensen,1,1,5,1925,NULL,NULL
+"Ejnar Edmund","Holst Jensen",1,18,5,1925,NULL,NULL
+"Viggo Edvard Martin",Klingenberg,1,1,5,1925,NULL,NULL
+"Christian Andreas",Larsen,1,5,5,1925,NULL,NULL
+"Einar Thomas",Larsen,1,1,5,1925,NULL,NULL
+"Knud Hjalmar",Larsen,1,1,5,1925,NULL,NULL
+"Lauritz Martin August",Larsen,1,26,5,1925,NULL,NULL
+"Vilfred Polykarpus Julius",Larsen,1,30,5,1925,NULL,NULL
+"Julius Emil Peter",Nielsen,1,29,5,1925,NULL,NULL
+Viggo,Jørgensen,1,1,5,1925,NULL,NULL
+"Charles Piil",Pedersen,1,25,5,1925,NULL,NULL
+"Margrethe Eleonora",Brandt,2,1,5,1925,55.698046000000,12.584287800000
+Margrethe,Bajer,2,10,5,1925,NULL,NULL
+"Svend Erik Helge Hall",Christensen,1,1,5,1925,NULL,NULL
+"Maren Kirstine",Hansen,2,1,5,1925,55.708010100000,12.563116200000
+"Johannes Bøye",Broager,1,1,5,1925,NULL,NULL
+"Maren Sophie",Hundertmark,2,1,5,1925,55.698685300000,12.576791600000
+Thora,Just,2,1,5,1925,55.706915900000,12.577069900000
+"Søren Jørgen",Jacobsen,1,15,5,1925,NULL,NULL
+Sidse,Olsen,2,18,5,1925,NULL,NULL
+"Hans Christian",Herloft,1,1,5,1925,55.703483300000,12.587310000000
+"Ernst Martinus Jens",Oversø,1,3,5,1925,NULL,NULL
+"Villy Robert Charles",Jensen,1,1,5,1925,55.705125100000,12.584706100000
+"Poul Oscar",Mathiesen,1,16,5,1925,NULL,NULL
+"Ida Lovise",Rosborg,2,1,5,1925,NULL,NULL
+"Julius Marius",Thyren,1,1,5,1925,NULL,NULL
+"Poul Christian",Petersen,1,1,5,1925,55.670562300000,12.554580000000
+"Ingeborg Christine",Poulsen,2,1,5,1925,NULL,NULL
+"Carlo Eigil Svend Aage",Sørensen,1,15,5,1925,NULL,NULL
+"Valdemar Johannes Charley André",Salomonsen,1,30,5,1925,55.672016800000,12.550461100000
+Abraham,Rosin,1,1,5,1925,55.671435100000,12.550860100000
+"Hansine Christine Mathilde",Sommer,2,5,5,1925,NULL,NULL
+"Kaj Arne Lauritz Christian",Nielsen,1,1,5,1925,55.697635400000,12.543033700000
+"Marinus Kai",Christensen,1,17,5,1925,NULL,NULL
+"Marinus Kai",Christensen,1,30,5,1925,NULL,NULL
+Erik,Eriksen,1,1,5,1925,NULL,NULL
+"Hugo Rasmus",Post,1,1,5,1925,55.707230100000,12.507215700000
+"Harald Bernhard",Nielsen,1,1,5,1925,55.697877800000,12.552553800000
+"Poul Martin",Rohnacker,1,1,5,1925,NULL,NULL
+"Henry Medor",Borring,1,1,5,1925,NULL,NULL
+"Otto Christian",Hansen,1,16,5,1925,NULL,NULL
+"Christian Martin Arnold",Momberg,1,1,5,1925,NULL,NULL
+"Anton Ludvig",Skau,1,1,5,1925,55.664849600000,12.518608500000
+"Niels Kjær",Simonsen,1,1,5,1925,NULL,NULL
+"Heinrich Frederich",Røigaard,1,16,5,1925,NULL,NULL
+"Carlo Robert Fritjof",Andersen,1,20,5,1925,NULL,NULL
+"Knud Albert",Blok,1,1,5,1925,NULL,NULL
+"Anna Christine",Eriksen,2,1,5,1925,NULL,NULL
+Maren,Qvist,2,1,5,1925,NULL,NULL

@@ -1,0 +1,11 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Hans Peter",Christiansen,1,1,4,1890,NULL,NULL
+"Bentine Eleonora",Frydenberg,2,6,4,1890,NULL,NULL
+Frederik,Jensen,1,21,4,1890,NULL,NULL
+Bodil,Sørensen,2,1,4,1890,55.675489800000,12.599649900000
+"Bernhard Otto",Mossin,1,1,4,1890,NULL,NULL
+"Hans Peter",Jacobsen,1,11,4,1890,NULL,NULL
+"Anna Sophie",Poulsen,2,1,4,1890,55.678394100000,12.579425600000
+"Peter Andreas Hans David",Bøttiger,1,4,4,1890,NULL,NULL
+"Emilie Henrica Dorthea",Hansen,2,6,4,1890,NULL,NULL
+"Jens Christian",Hansen,1,16,4,1890,55.668068100000,12.548878900000

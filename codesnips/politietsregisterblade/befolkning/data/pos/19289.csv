@@ -1,0 +1,18 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Carl Julius",Jacobsen,1,22,9,1928,55.678173500000,12.578429300000
+Mathias,Poulsen,1,15,9,1928,NULL,NULL
+"Hedvig Hansine",Schultz,2,1,9,1928,55.678146900000,12.577798300000
+Hilda,Jensen,2,15,9,1928,NULL,NULL
+Anton,Hemmingsen,1,15,9,1928,NULL,NULL
+"Peter Hans",Lindhe,1,14,9,1928,NULL,NULL
+"Inger Raalskov",Petersen,2,13,9,1928,55.672803200000,12.551909700000
+"Henry Hjalmar Alfred Thomas",Godtfredsen,1,1,9,1928,NULL,NULL
+"Else Anna Victoria",Bech,2,8,9,1928,NULL,NULL
+"Svend Aage Ejnar Myrhøj",Machon,1,1,9,1928,NULL,NULL
+"Svend Aage Ejnar Myrhøj",Machon,1,8,9,1928,NULL,NULL
+"Peter Oluf",Johansen,1,15,9,1928,55.694766700000,12.569733000000
+"Gunnar Sven Aage",Petersen,1,24,9,1928,NULL,NULL
+"Thomas Christian",Thomsen,1,23,9,1928,NULL,NULL
+Hans,Madsen,1,7,9,1928,55.678185100000,12.583838400000
+"Ella Alfrida",Larsen,2,1,9,1928,55.666522800000,12.554451800000
+"Albert Ejner Ernst",Johansen,1,13,9,1928,55.715749500000,12.574817700000

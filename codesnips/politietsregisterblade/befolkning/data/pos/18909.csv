@@ -1,0 +1,11 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+Dusine,Jensen,2,16,9,1890,55.677770000000,12.567378500000
+"Johan Oskar",Bruselius,1,2,9,1890,55.674963300000,12.575010300000
+"Peter Thorvald",Jørgensen,1,5,9,1890,NULL,NULL
+Birger,Olrik,1,6,9,1890,NULL,NULL
+Jens,Petersen,1,27,9,1890,NULL,NULL
+Johannes,Petersen,1,8,9,1890,NULL,NULL
+Anders,Svensson,1,1,9,1890,55.681489600000,12.563815900000
+"Anna Marie",Bang,2,23,9,1890,NULL,NULL
+"Jens Christian",Bølling,1,6,9,1890,55.671380300000,12.590764400000
+"Emma Henriette Vilhelmine",Thygesen,2,3,9,1890,NULL,NULL

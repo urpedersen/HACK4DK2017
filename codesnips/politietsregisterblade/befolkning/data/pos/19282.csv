@@ -1,0 +1,18 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+Jens,Hansen,1,15,2,1928,55.670412000000,12.590719700000
+"Josefine Vilhelmine",Lundstrøm,2,7,2,1928,NULL,NULL
+"Kai Hakon Salomon",Madsen,1,7,2,1928,NULL,NULL
+"Johanne Lovine",Larsen,2,25,2,1928,NULL,NULL
+"Gudrun Helga",Jørgensen,2,20,2,1928,NULL,NULL
+"Axel Hans Orla",Jørgensen,1,26,2,1928,55.697839900000,12.542289400000
+"Christian Peter Eggeriksen",Dam,1,3,2,1928,55.669022700000,12.541441900000
+"Niels Johannes Albertus",Hansen,1,7,2,1928,NULL,NULL
+"Poul Jacobsen",Klokmann,1,3,2,1928,NULL,NULL
+"Kaj Louis",Frydendahl,1,11,2,1928,NULL,NULL
+"Ernst Richardt",Hansen,1,15,2,1928,NULL,NULL
+"Ole Nielsen",Olsen,1,21,2,1928,NULL,NULL
+"Georg Albert Peter",Petersen,1,24,2,1928,55.667903600000,12.549872200000
+"Kaj Emil",Hansen,1,19,2,1928,NULL,NULL
+"Sara Sofie Emilie",Ovi,2,1,2,1928,55.705185200000,12.578598100000
+Ester,Larsson,2,18,2,1928,55.682135200000,12.564753200000
+"Carl Vilhelm",Olsen,1,15,2,1928,NULL,NULL

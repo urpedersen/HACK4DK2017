@@ -1,0 +1,11 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Jens Peter Christian",Lorentzen,1,1,8,1890,NULL,NULL
+Peter,Rasmussen,1,1,8,1890,55.677911900000,12.567275700000
+"Marie Christine",Jensen,2,31,8,1890,55.671841200000,12.572843100000
+"Emil Carl",Larsen,1,6,8,1890,55.674963300000,12.575010300000
+Hans,Jørgensen,1,1,8,1890,NULL,NULL
+Ane,Jensen,2,22,8,1890,NULL,NULL
+"Anders Peter",Nielsen,1,15,8,1890,NULL,NULL
+Frederik,Lindegaard,1,1,8,1890,55.678812000000,12.570307500000
+"Mathilde Frederikke",Hinrichsen,2,14,8,1890,55.683363100000,12.566166500000
+"Hans Rasmus",Petersen,1,27,8,1890,NULL,NULL

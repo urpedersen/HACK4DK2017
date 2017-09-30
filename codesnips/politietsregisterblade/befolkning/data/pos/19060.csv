@@ -1,0 +1,13 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Magnus Frederik",Andreasen,1,0,0,1906,NULL,NULL
+"Dagmar Valborg Rigmor",Hedenvall,2,0,0,1906,NULL,NULL
+"Inger Marie",Caspersen,2,0,0,1906,NULL,NULL
+"Ernst Gustav Adolf Niels",Brix,1,1,0,1906,55.692156300000,12.574104100000
+"Louise Amalie",Knudsen,2,1,0,1906,NULL,NULL
+"Carl Johan",Wamberg,1,1,0,1906,NULL,NULL
+"Marie Christine",Christiansen,2,0,0,1906,NULL,NULL
+"Niels Christian",Jørgensen,1,0,0,1906,55.714452100000,12.575102900000
+Johannes,Stavnberg,1,0,0,1906,NULL,NULL
+"Ellen Frederikke",Bentsen,2,0,0,1906,NULL,NULL
+"Leonhardt Axel",Wagenblast,1,0,0,1906,55.667742100000,12.536761300000
+"Sofie Henriette",Enghoff,2,0,0,1906,55.674971200000,12.573996300000

@@ -1,0 +1,42 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+Ejner,Thøgersen,1,10,4,1925,NULL,NULL
+"Hans Peter Broge",Hansen,1,28,4,1925,NULL,NULL
+"Carl August Adolf",Lassen,1,1,4,1925,NULL,NULL
+"Hermann Rudolph Victor",Meyer,1,3,4,1925,NULL,NULL
+"Aage Emil",Iversen,1,15,4,1925,NULL,NULL
+"Gerhardt Mads",Petersen,1,7,4,1925,NULL,NULL
+"Anders Jørgensen",Bøgh,1,22,4,1925,55.675074800000,12.591762900000
+"Valborg Emma",Jensen,2,2,4,1925,NULL,NULL
+"Marie Dorthea",Poulsen,2,21,4,1925,55.674828400000,12.584724900000
+"Frederik Vilhelm Enevold",Nielsen,1,14,4,1925,55.665186500000,12.557345500000
+"Marie Kristine",Almy,2,1,4,1925,NULL,NULL
+"Niels Peder",Varrild,1,21,4,1925,55.698321900000,12.581259700000
+"Louis Edvard",Nielsen,1,25,4,1925,NULL,NULL
+"Edvard Charles Anthon Leopold",Nielsen,1,1,4,1925,NULL,NULL
+Rasmus,Hansen,1,15,4,1925,NULL,NULL
+"Christine Henriette Margrethe",Hagemeister,2,1,4,1925,NULL,NULL
+"Rasmus Peter",Poulsen,1,18,4,1925,NULL,NULL
+"Willy Axel",Rathmann,1,6,4,1925,NULL,NULL
+Anton,Thomsen,1,1,4,1925,NULL,NULL
+Peter,Poulsen,1,1,4,1925,NULL,NULL
+"Per Emil",Persson,1,15,4,1925,55.678539900000,12.587499400000
+"Niels Peter Viggo",Hansen,1,28,4,1925,NULL,NULL
+"Ove Michael",Corell,1,27,4,1925,NULL,NULL
+"Carl Johan",Jørgensen,1,2,4,1925,NULL,NULL
+"Hans Harald",Johansen,1,3,4,1925,NULL,NULL
+"Alfred Theodor",Nielsen,1,15,4,1925,NULL,NULL
+Aage,Olsson,1,1,4,1925,NULL,NULL
+"Alfred Georg Tingedal",Mohrsen,1,9,4,1925,NULL,NULL
+"Christian Adolf Julius",Herholdt,1,2,4,1925,55.705132100000,12.579616900000
+"Einer Magnus",Petersen,1,1,4,1925,55.670706000000,12.563070100000
+"Ida Lovise",Rosborg,2,16,4,1925,55.697270900000,12.587901700000
+"Villy Thorvald",Sørensen,1,3,4,1925,NULL,NULL
+"Erhard Alfred Emanuel",Ravn,1,29,4,1925,NULL,NULL
+"Henry Aage",Jørgensen,1,18,4,1925,NULL,NULL
+"Anna Marie Nielsine",Bærnholt,2,15,4,1925,55.669687600000,12.557316700000
+Jacob,Jensen,1,15,4,1925,NULL,NULL
+"Knud Frandsen",Sørensen,1,19,4,1925,55.706343600000,12.560326000000
+"Christian Møller",Rasmussen,1,21,4,1925,55.663461400000,12.499243100000
+Oline,Petersen,2,24,4,1925,NULL,NULL
+"Hilda Caroline",Larsen,2,18,4,1925,NULL,NULL
+"Lars Petersen",Næsby,1,1,4,1925,55.690245100000,12.565282400000

@@ -1,0 +1,33 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Rasmus Peter",Petersen,1,1,4,1927,NULL,NULL
+"Hans Julius",Larsen,1,16,4,1927,NULL,NULL
+Hans,Jørgensen,1,1,4,1927,NULL,NULL
+"Jens Theodor",Jeppesen,1,26,4,1927,NULL,NULL
+"Anders Jørgensen",Bøgh,1,1,4,1927,55.675074800000,12.591762900000
+"Aage Axel Erik",Nielsen,1,30,4,1927,NULL,NULL
+"Charlotte Caroline Gunhilda",Hultberg,2,1,4,1927,55.658866900000,12.601847500000
+"Gudrun Victoria",Eiberg,2,30,4,1927,NULL,NULL
+"Hans Peter Johansen",Holtvig,1,15,4,1927,55.690434800000,12.542434900000
+"Gabrielle Henriette",Iversen,2,26,4,1927,55.699734800000,12.536403800000
+Einar,Christensen,1,5,4,1927,55.684780300000,12.583473800000
+"Niels Eduard Nicolaus",Hansen,1,9,4,1927,NULL,NULL
+"Carl Gunnar",Rasmussen,1,20,4,1927,NULL,NULL
+"Niels Peter Viggo",Hansen,1,1,4,1927,NULL,NULL
+"Christian Lauritz Emil",Hansen,1,23,4,1927,NULL,NULL
+Nathan,Lotinga,1,20,4,1927,55.679026500000,12.568234300000
+"Johannes Rudolf",Eiberg,1,7,4,1927,NULL,NULL
+"Fritz Theodor Marius",Lampe,1,1,4,1927,NULL,NULL
+"Enno Claudi Carl Jacob",Hinrichs,1,9,4,1927,55.663048700000,12.596044900000
+"Alexandra Georgine Ingeborg",Lund,2,30,4,1927,NULL,NULL
+"Agnes Gurli Amalie",Mortensen,2,21,4,1927,NULL,NULL
+"Niels Peter",Petersen,1,1,4,1927,NULL,NULL
+Martin,Petersen,1,1,4,1927,NULL,NULL
+"Birgitte Marie Cathrine",Pilgaard,2,1,4,1927,NULL,NULL
+"Jens Alfred",Andersen,1,15,4,1927,55.695848800000,12.556765300000
+"Anna Caroline Amalie Frederikke",Jensen,2,15,4,1927,NULL,NULL
+"Lars Markus",Nielsen,1,1,4,1927,NULL,NULL
+"Nicolai Elias",Jensen,1,1,4,1927,NULL,NULL
+"Svend Aage",Lundorff,1,25,4,1927,55.664294100000,12.597349000000
+"Harald Julius",Christensen,1,15,4,1927,NULL,NULL
+"Otto Carl",Walther,1,12,4,1927,NULL,NULL
+"Sophus Martinius Alexander Askania",Schou,1,14,4,1927,55.700600800000,12.580393200000

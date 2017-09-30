@@ -1,0 +1,48 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Fritz Hjalmar",Mathiesen,1,29,10,1926,NULL,NULL
+Hans,Clausen,1,8,10,1926,NULL,NULL
+"Anders Camillus Peter",Willumsen,1,12,10,1926,NULL,NULL
+"Richard Alexander Valdm Erik",Thomsen,1,25,10,1926,55.657879800000,12.607863000000
+"Theodora Christine Engelbrecht",Radich,2,16,10,1926,55.678639400000,12.569283600000
+Alfred,Thorsen,1,28,10,1926,55.681858600000,12.572060500000
+"Charles Vilhelm Ove",Lund,1,1,10,1926,NULL,NULL
+"Else Juliane",Westling,2,3,10,1926,55.677235500000,12.587903000000
+"Gudrun Victoria",Eiberg,2,1,10,1926,NULL,NULL
+"Thora Emlie",Gøtke,2,15,10,1926,55.680182500000,12.574721200000
+Anton,Truelsen,1,10,10,1926,NULL,NULL
+Nicoline,Hansen,2,8,10,1926,NULL,NULL
+"Axel Bernhard Sofus Nielsen",Boldt,1,8,10,1926,NULL,NULL
+"Johannes Peter",Hansen,1,25,10,1926,NULL,NULL
+"Johannes Harald",Drachmann,1,16,10,1926,NULL,NULL
+"Einar Otto Johannes",Christiansen,1,24,10,1926,NULL,NULL
+Bertel,Glistrup,1,17,10,1926,NULL,NULL
+"Laura Marie",Binzer,2,19,10,1926,NULL,NULL
+"Anders Rostrup",Christensen,1,3,10,1926,NULL,NULL
+"Anna Marie",Bruhn,2,1,10,1926,55.675554000000,12.550985200000
+"Peter Vilhelm Christian Petersen",Molin,1,28,10,1926,55.686645000000,12.588461800000
+"Niels Peter",Hansen,1,31,10,1926,NULL,NULL
+Anton,Buus,1,3,10,1926,NULL,NULL
+"Kaj Louis",Frydendahl,1,15,10,1926,NULL,NULL
+"Jens Peter",Jørgensen,1,15,10,1926,NULL,NULL
+"Hans Christian",Nielsen,1,1,10,1926,NULL,NULL
+Jacob,Christiansen,1,28,10,1926,NULL,NULL
+"Ida Johanne Marie",Frederiksen,2,30,10,1926,NULL,NULL
+"Fritz Theodor Marius",Lampe,1,15,10,1926,NULL,NULL
+"Hans Christian",Hansen,1,16,10,1926,NULL,NULL
+Marius,Madsen,1,5,10,1926,NULL,NULL
+"Johanne Cathrine",Petersen,2,24,10,1926,NULL,NULL
+"Einer Victor",Traulsen,1,19,10,1926,NULL,NULL
+"Poul Christian",Petersen,1,15,10,1926,NULL,NULL
+"Anna Margrethe",Nielsen,2,1,10,1926,NULL,NULL
+"Jensine Caroline",Wilms,2,2,10,1926,55.668459300000,12.555870500000
+"Jens Peter Erhardt",Hansen,1,24,10,1926,55.711977300000,12.558671800000
+"Kaj Emil",Hansen,1,1,10,1926,NULL,NULL
+Christian,Frederiksen,1,23,10,1926,NULL,NULL
+"Marinus Kai",Christensen,1,19,10,1926,NULL,NULL
+"Alfred Evin Eiberg Ferdinand",Jørgensen,1,15,10,1926,NULL,NULL
+"Morten Christian",Mortensen,1,19,10,1926,NULL,NULL
+"Christian Christoffer",Jensen,1,25,10,1926,NULL,NULL
+"Ella Elisabeth Henriksen",Olsen,2,18,10,1926,NULL,NULL
+"Svend Dupont",Olsen,1,9,10,1926,55.698812500000,12.517264200000
+"Albert Edvard Magnus",Lauritzen,1,9,10,1926,55.679002500000,12.589369200000
+Svend,Christensen,1,1,10,1926,NULL,NULL

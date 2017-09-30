@@ -1,0 +1,48 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Svend Emil",Olsen,1,25,5,0,NULL,NULL
+"Robert Christian Jørgen",Einfeldt,1,1,5,0,NULL,NULL
+"Jens Jensen",With,1,12,5,0,NULL,NULL
+"Agnes Sophie",Petersen,2,24,5,0,55.678812000000,12.570307500000
+"Anna Caroline",Andersen,2,1,5,0,NULL,NULL
+"Martha Andrea",Petersen,2,4,5,0,55.688501700000,12.561708500000
+Rasmus,Petersen,1,1,5,0,55.676867600000,12.576428000000
+"Oluf Johannes",Heindorff,1,27,5,0,55.677599100000,12.567469600000
+"August Johan Kulberg",Johansen,1,1,5,0,55.682530100000,12.565458500000
+"Hans Tygo Christian",Nielsen,1,0,5,0,55.668549000000,12.552888800000
+"Ingeborg Ragnhild",Dahl,2,10,5,0,NULL,NULL
+"Caroline von der",Recke,2,1,5,0,55.671617300000,12.546279700000
+Laura,Axelsen,2,1,5,0,55.671794300000,12.550470900000
+"Ebba Edith",Magnussen,2,1,5,0,55.689957400000,12.562764900000
+"Sofie Frederikke",Petersen,2,1,5,0,NULL,NULL
+"Anna Marie",Vedercantz,2,1,5,0,55.684485100000,12.559485800000
+"Christiane Nicoline",Vieth,2,1,5,0,55.688167200000,12.557520200000
+"Søren Vallentin",Sørensen,1,2,5,0,55.689377400000,12.572853700000
+August,Andersen,1,1,5,0,NULL,NULL
+"Carl Johan",Bergström,1,1,5,0,55.668789900000,12.544364200000
+"Carl Johan",Bergström,1,1,5,0,NULL,NULL
+"Marius Frederik",Andersen,1,0,5,0,NULL,NULL
+"Valborg Sørine Alexandra",Christensen,2,1,5,0,NULL,NULL
+"Lauritz Christian",Larsen,1,1,5,0,55.715387100000,12.575796800000
+"Søren Andersen",Petersen,1,1,5,0,NULL,NULL
+"Asger Marius",Thrane,1,3,5,0,NULL,NULL
+"Astrid Kristine Jensen",Weng,2,1,5,0,55.679126100000,12.569206400000
+"Andreas Hansen",Ringskov,1,1,5,0,55.700082900000,12.581626000000
+"Villemoes Edmund",Toborg,1,1,5,0,NULL,NULL
+"Edla Margrethe Hansine",Winther,2,1,5,0,55.681938600000,12.562282000000
+"Axel Julius Danneberg",Voss,1,1,5,0,55.668806200000,12.546824300000
+"Bertha Jensine Kathrine",Bertelsen,2,1,5,0,55.666854100000,12.514147900000
+"Viggo Alfred",Petersen,1,1,5,0,NULL,NULL
+"Viggo Alfred",Petersen,1,1,5,0,NULL,NULL
+"Hans Peter",Hansen,1,1,5,0,55.663980400000,12.601516100000
+"Larsine Nicoline Henrikke",Christensen,2,1,5,0,NULL,NULL
+Froim,Benjovitch,1,1,5,0,55.664849600000,12.518608500000
+"Thorvald Peter",Bentsen,1,1,5,0,NULL,NULL
+Viggo,Christiansen,1,0,5,0,55.707684300000,12.586540700000
+"Anders Peter",Rasmussen,1,NULL,5,0,55.669061100000,12.544963400000
+Niels,Christiansen,1,1,5,0,NULL,NULL
+"Carl Christian",Nielsen,1,22,5,0,NULL,NULL
+Poul,Pagh,1,1,5,0,NULL,NULL
+Volmer,Vielandt,1,1,5,0,NULL,NULL
+"William Marius Hill",Jørgensen,1,1,5,0,55.697211200000,12.585396200000
+"Marie Mathilde",Vestergaard,2,1,5,0,55.669126200000,12.548555100000
+"Julius Christian Carl",Friis,1,1,5,0,NULL,NULL

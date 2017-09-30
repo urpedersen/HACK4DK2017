@@ -1,0 +1,29 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Hans Jacob",Hansen,1,27,7,1926,NULL,NULL
+"Inger Dorthea Schandorff",Michelsen,2,3,7,1926,NULL,NULL
+"Niels Peter",Johansen,1,22,7,1926,NULL,NULL
+"Aage Erik",Riber,1,9,7,1926,NULL,NULL
+Andreas,Andersen,1,5,7,1926,NULL,NULL
+"Robert Heinrich Hermann",Hitzinger,1,27,7,1926,55.670864800000,12.552824500000
+"Karen Marie",Oldrup,2,17,7,1926,NULL,NULL
+Bertel,Glistrup,1,2,7,1926,NULL,NULL
+"Anders Rostrup",Christensen,1,9,7,1926,NULL,NULL
+"Anna Marie",Bruhn,2,30,7,1926,55.693567400000,12.577720700000
+"Rigmor Lilly",Petersen,2,5,7,1926,NULL,NULL
+Ragna,Warberg,2,15,7,1926,55.687095900000,12.557207400000
+"Carl Julius Orsted",Bagger,1,16,7,1926,NULL,NULL
+"Jørgen Peter",Jensen,1,1,7,1926,NULL,NULL
+"Oluf Johannes Emil",Olsen,1,13,7,1926,NULL,NULL
+"Svend Aage Ejnar Myrhøj",Machon,1,8,7,1926,NULL,NULL
+"Poul Oscar",Mathiesen,1,14,7,1926,NULL,NULL
+"Olaf Albert",Petersen,1,10,7,1926,NULL,NULL
+"Andrea Marie",Poulsen,2,1,7,1926,NULL,NULL
+"Dagmar Mathilde Vilhelmine",Møller,2,22,7,1926,55.695393500000,12.570059400000
+"Oda Harriet",Nielsen,2,3,7,1926,NULL,NULL
+"Kaj Arne Lauritz Christian",Nielsen,1,1,7,1926,NULL,NULL
+"Marinus Kai",Christensen,1,3,7,1926,NULL,NULL
+"Anker Johan",Bæk,1,13,7,1926,55.664314400000,12.549176400000
+"Cosmos Christian Vilhelm",Thomsen,1,5,7,1926,NULL,NULL
+"Søren Christian",Rasmussen,1,16,7,1926,NULL,NULL
+"Emanuel Marius",Nielsen,1,15,7,1926,NULL,NULL
+"Nils Gustav",Nilsson,1,1,7,1926,NULL,NULL

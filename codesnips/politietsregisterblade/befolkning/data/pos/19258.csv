@@ -1,0 +1,39 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Leo Peter Henrik",Svenstrup,1,15,8,1925,55.685663000000,12.594826600000
+"Leo Peter Henrik",Svenstrup,1,1,8,1925,NULL,NULL
+"Carl Peter Alfred",Christensen,1,18,8,1925,NULL,NULL
+"Hans Rasmus Louis",Jacobsen,1,25,8,1925,NULL,NULL
+"Albert Niels",Johansen,1,5,8,1925,NULL,NULL
+"Carl Ferdinand",Hammerlund,1,1,8,1925,NULL,NULL
+"Robert Hans Anker",Larsen,1,5,8,1925,NULL,NULL
+"Peter Jensen",Møller,1,5,8,1925,NULL,NULL
+"Francesco Giuseppe",Tessaro,1,27,8,1925,NULL,NULL
+"Charles Vilhelm Ove",Lund,1,31,8,1925,NULL,NULL
+"Johan Arndt",Nielsen,1,1,8,1925,NULL,NULL
+"Louis Edvard",Nielsen,1,20,8,1925,NULL,NULL
+"Frank August Valdemar",Jacobsen,1,15,8,1925,NULL,NULL
+Anders,Jeppsson,1,10,8,1925,55.700299100000,12.540024900000
+"Henrik Lauritz Christian",Larsen,1,15,8,1925,55.706761900000,12.555673100000
+"Carl Ludvig Harald",Landsvig,1,24,8,1925,NULL,NULL
+Stephan,Rasmussen,1,5,8,1925,NULL,NULL
+Christine,Rasmussen,2,13,8,1925,NULL,NULL
+"Povl Richardt",Bech,1,1,8,1925,NULL,NULL
+Laura,Olsen,2,5,8,1925,NULL,NULL
+"Ernst Ludvig",Olsen,1,27,8,1925,55.671038500000,12.550628600000
+"Charles Zampa",Larsen,1,19,8,1925,NULL,NULL
+"Kamma Roberta Ebba Mary",Nielsen,2,4,8,1925,55.669357600000,12.543873200000
+"Hedvig Hansine Margrethe",Kastrup,2,15,8,1925,NULL,NULL
+Reinholdt,Krogh,1,1,8,1925,55.703606600000,12.588712300000
+"Carlo Eigil Svend Aage",Sørensen,1,19,8,1925,NULL,NULL
+Arthur,Bilsenack,1,8,8,1925,NULL,NULL
+Christian,Frederiksen,1,25,8,1925,55.697650200000,12.521638200000
+Alfred,Petersen,1,15,8,1925,NULL,NULL
+"Josefine Henriette Petrea",Persson,2,7,8,1925,NULL,NULL
+"Niels Peter",Bergsvendsen,1,1,8,1925,55.701899100000,12.549243600000
+"Thorvald Bruno",Jørgensen,1,27,8,1925,NULL,NULL
+"Laura Petronella",Larsen,2,5,8,1925,NULL,NULL
+"Karen Marie",Pedersen,2,1,8,1925,55.665762700000,12.518613500000
+"Marie Helene",Petersen,2,4,8,1925,55.663344900000,12.494398100000
+Jakob,Larsen,1,26,8,1925,NULL,NULL
+Jørgen,Hansen,1,21,8,1925,NULL,NULL
+"Jens Peter Jensen",Krogh,1,13,8,1925,NULL,NULL

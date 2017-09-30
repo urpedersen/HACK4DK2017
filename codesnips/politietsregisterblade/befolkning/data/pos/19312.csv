@@ -1,0 +1,7 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Ludvig Carl Martin Spjald",Nielsen,1,1,2,1931,NULL,NULL
+"Hans Peter Edvard Jørgen",Andersen,1,2,2,1931,NULL,NULL
+"Magnus Elias",Larsen,1,1,2,1931,NULL,NULL
+Peter,Thomsen,1,10,2,1931,NULL,NULL
+"Hans Christian",Larsen,1,1,2,1931,55.670788300000,12.542975100000
+"Edvin Isidor Laurits",Jensen,1,1,2,1931,NULL,NULL

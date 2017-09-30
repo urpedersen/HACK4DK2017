@@ -1,0 +1,13 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Henry Edvard Johannes",Holm,1,27,2,1929,NULL,NULL
+Anton,Hemmingsen,1,1,2,1929,NULL,NULL
+"Oline Madsine",Olsen,2,1,2,1929,NULL,NULL
+"Sofie Lovise Petrine Klarskov",Jørgensen,2,1,2,1929,NULL,NULL
+"Rasmus Peter",Poulsen,1,28,2,1929,NULL,NULL
+"Emma Margrethe Sofie",Madsen,2,2,2,1929,55.695857600000,12.555871100000
+Emanuel,Raasø,1,15,2,1929,NULL,NULL
+"Jens Peter Erhardt",Hansen,1,1,2,1929,55.720959500000,12.551161300000
+Otto,Knudsen,1,27,2,1929,55.697112000000,12.538811100000
+"Valborg Helga",Thomsen,2,9,2,1929,NULL,NULL
+"Alma Elfrida Marie",Rasch,2,1,2,1929,55.678812000000,12.570307500000
+"Alfred Emil Carlson",Evander,1,1,2,1929,55.679131900000,12.575280900000

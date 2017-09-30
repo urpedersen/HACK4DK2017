@@ -1,0 +1,13 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Viggo Carl",Bresemann,1,24,0,1903,55.668355900000,12.551064200000
+"Anna Caroline",Hansen,2,0,0,1903,55.681942300000,12.570902600000
+"Carl Louis",Munck,1,18,0,1903,55.682075500000,12.564270200000
+"Poula Sofie Magdaline",Petersen,2,28,0,1903,NULL,NULL
+"Anna Ragnhild",Mikkelsen,2,0,0,1903,NULL,NULL
+"Peter Emil",Nielsen,1,0,0,1903,NULL,NULL
+"Lauritz Frederik Julius",Jensen,1,0,0,1903,55.705767400000,12.583749100000
+"Anders Peter",Hansen,1,0,0,1903,55.692032900000,12.544166500000
+"Johanne Marie",Yttesen,2,0,0,1903,NULL,NULL
+"Lauradine Frederikke",Hansen,2,1,0,1903,55.665226400000,12.519483600000
+"Casper Christian",Borup,1,0,0,1903,55.703462600000,12.581563500000
+"Sofus Peter Johannes",Bunch,1,0,0,1903,NULL,NULL

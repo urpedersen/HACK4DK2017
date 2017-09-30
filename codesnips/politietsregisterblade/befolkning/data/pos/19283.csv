@@ -1,0 +1,15 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Marie Christina",Rasmussen,2,3,3,1928,NULL,NULL
+"Adolf Gottlieb",Gøthler,1,31,3,1928,NULL,NULL
+"Emilie Cathrine",Jensen,2,1,3,1928,NULL,NULL
+"Gabrielle Henriette",Iversen,2,21,3,1928,55.669514000000,12.557365600000
+Hans,Simonsen,1,7,3,1928,NULL,NULL
+"Vilhelmine Marie Christine",Hansen,2,3,3,1928,NULL,NULL
+"Kaj Louis",Frydendahl,1,15,3,1928,NULL,NULL
+"Carl Edvin",Nielsen,1,7,3,1928,55.670715300000,12.555358400000
+"Alfred Theodor",Nielsen,1,12,3,1928,NULL,NULL
+"Johannes Rudolf",Eiberg,1,6,3,1928,NULL,NULL
+"Anna Elisabeth Abelone",Poulsen,2,15,3,1928,NULL,NULL
+"Carlo Eigil Svend Aage",Sørensen,1,5,3,1928,NULL,NULL
+"Oluf Hans Peter Østergaard",Larsen,1,15,3,1928,NULL,NULL
+"Christian Vilhelm Nicolaj",Olsen,1,19,3,1928,NULL,NULL

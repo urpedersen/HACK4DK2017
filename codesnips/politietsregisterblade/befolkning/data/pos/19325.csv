@@ -1,0 +1,6 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+Bernhard,Petersen,1,15,5,1932,55.664998000000,12.579816400000
+"Hans Peter",Hansen,1,1,5,1932,NULL,NULL
+Agnes,Frederiksen,2,1,5,1932,NULL,NULL
+"Johannes Friedrich Arnold",Jürgensen,1,1,5,1932,55.707859900000,12.583352600000
+Vilhelm,Bahder,1,1,5,1932,55.693642400000,12.540838100000

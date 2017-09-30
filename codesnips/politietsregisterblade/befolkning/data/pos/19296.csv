@@ -1,0 +1,11 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+Mathilde,Willumsen,2,28,6,1929,NULL,NULL
+Marie,Lieder,2,1,6,1929,55.665155400000,12.556928800000
+"Vilhelm Herman",Johansen,1,9,6,1929,NULL,NULL
+Casper,Jensen,1,18,6,1929,55.686258000000,12.589066500000
+"Per Emil",Persson,1,1,6,1929,NULL,NULL
+"Rudolf Villiam",Petersen,1,28,6,1929,NULL,NULL
+"Anders Vilhelm",Andersen,1,22,6,1929,NULL,NULL
+"Svend Otto",Hansen,1,4,6,1929,55.700922300000,12.529661300000
+"Karen Dorthea",Hansen,2,1,6,1929,NULL,NULL
+"Ingrid Marie",Jonasson,2,29,6,1929,NULL,NULL

@@ -1,0 +1,16 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Kai Sofus",Larsen,1,30,8,1928,NULL,NULL
+"Albert Niels",Johansen,1,5,8,1928,NULL,NULL
+"Vilhelm Herman",Johansen,1,1,8,1928,55.691390000000,12.539996400000
+"Marie Magdalene",Jensen,2,2,8,1928,55.677211200000,12.575469400000
+"Marie Magdalene",Jensen,2,5,8,1928,55.677211200000,12.575469400000
+Lars,Madsen,1,4,8,1928,NULL,NULL
+"Carl Christian",Hansen,1,4,8,1928,NULL,NULL
+"Povla Perla",Lipschitz,2,7,8,1928,NULL,NULL
+"Sofie Lovise Petrine Klarskov",Jørgensen,2,1,8,1928,NULL,NULL
+"Svend Aage",Hansen,1,1,8,1928,NULL,NULL
+"Poula Charlotte",Jensen,2,1,8,1928,NULL,NULL
+Maren,Høstergaard,2,3,8,1928,NULL,NULL
+Petra,Jensen,2,1,8,1928,55.703760900000,12.585614300000
+"Kirstine Elise",Sørensen,2,20,8,1928,55.705980500000,12.553659900000
+"Søren Johannes",Sørensen,1,10,8,1928,55.697282400000,12.543706500000

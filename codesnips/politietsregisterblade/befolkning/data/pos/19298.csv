@@ -1,0 +1,11 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+"Albert Niels",Johansen,1,5,8,1929,NULL,NULL
+"Poul  Vilhelm Edvard",Tonø,1,2,8,1929,NULL,NULL
+"Fillip Andreas",Jensen,1,25,8,1929,NULL,NULL
+"Oline Madsine",Olsen,2,1,8,1929,NULL,NULL
+Lebek,Gritzmann,1,1,8,1929,NULL,NULL
+"Ebba Laura Mathilde",Bruhn,2,1,8,1929,NULL,NULL
+"Agnes Frederikke",Larsen,2,15,8,1929,55.696807500000,12.483294500000
+"Charles Emil",Sørensen,1,1,8,1929,55.690992200000,12.539603400000
+"Hans Frederik",Petersen,1,15,8,1929,55.696286600000,12.544209200000
+"Christian Sofus",Sørensen,1,31,8,1929,55.699700200000,12.540474600000

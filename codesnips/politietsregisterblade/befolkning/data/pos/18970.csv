@@ -1,0 +1,15 @@
+firstnames,lastname,gender,day,month,year,latitude,longitude
+Petrus,Bülov,1,0,0,1897,NULL,NULL
+"Marie Alvilda",Christoffersen,2,0,0,1897,55.681268200000,12.563063000000
+"Kirstine Vilhelmine",Dancker,2,0,0,1897,NULL,NULL
+"Claudius Johanne",Rothe,1,0,0,1897,NULL,NULL
+"Karen Marie Jensine",Andersen,2,0,0,1897,55.677971100000,12.591606100000
+"Andreas Ludvig",Clausen,1,0,0,1897,NULL,NULL
+"Chr. Leonhard",Christiansen,1,0,0,1897,NULL,NULL
+"Jens Thorvald",Johansen,1,0,0,1897,NULL,NULL
+"Mathilde Ernestine Marie",Lundstrøm,2,0,0,1897,NULL,NULL
+"Vilhelm Ludvig",Hansen,1,0,0,1897,55.690908100000,12.576355500000
+"Niels Johnsen",Lindahl,1,0,0,1897,NULL,NULL
+Kirstine,Pedersen,2,15,0,1897,55.696876700000,12.581892100000
+"Emma Margrethe Hedevig",Bagger,2,0,0,1897,NULL,NULL
+"Elfrida Emilie Charlotte",Hansen,2,25,0,1897,NULL,NULL
