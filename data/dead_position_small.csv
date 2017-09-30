@@ -1,0 +1,1001 @@
+person_id,position,lastname,ageYears,dateOfDeath,yearOfBirth,civilstatus,sex,street,street_number,latitude,longitude
+473,NULL,Christensen,0,NULL,NULL,NULL,Ukendt,Knabrostræde,28,55.676727300000,12.575924900000
+497,Assuranceinspektør,Hansen,72,1879-12-29,1807,Gift,Mand,Amaliegade,26,55.685134500000,12.594396700000
+498,Assurandør,Marsburg,22,1879-01-01,1857,Ugift,Kvinde,NULL,NULL,NULL,NULL
+499,Asylbestyrerinde,Christensen,63,1879-12-30,1816,Gift,Mand,Lavendelstræde,13,55.676267200000,12.571671100000
+502,Auditør,Jensen,60,1909-09-29,1849,Gift,Mand,Hjørringgade,29,55.706263200000,12.588644400000
+505,Aviskone,Andersen,52,1880-03-04,1828,Enkestand,Mand,Amaliegade,26,55.685134500000,12.594396700000
+506,Avissælger,Kjærulff,60,1879-12-31,1819,NULL,Mand,Ryesgade,73,55.695055700000,12.571266200000
+506,Avissælger,Kjærulff,60,1879-12-31,1819,NULL,Mand,Ryesgade,73,55.695119400000,12.571362800000
+507,Avlsforvalter,Larsen,57,1879-12-23,1822,NULL,Mand,Rosengården,12,55.682352700000,12.572774600000
+507,Avlsforvalter,Larsen,57,1879-12-23,1822,NULL,Mand,Rosengården,12,55.682557100000,12.572790200000
+508,Badejomfru,Bröck,62,1879-12-29,1817,Enkestand,Mand,"Sankt Annæ Plads",3,55.682333700000,12.589457900000
+508,Badejomfru,Bröck,62,1879-12-29,1817,Enkestand,Mand,"Sankt Annæ Plads",3,55.682597300000,12.589567000000
+510,Bademester,Holst,NULL,1879-01-01,NULL,NULL,Kvinde,Borgergade,102,NULL,NULL
+511,Baderske,Friis,45,1879-12-29,1834,Gift,Mand,Nørrebrogade,88,55.692299200000,12.552208900000
+511,Baderske,Friis,45,1879-12-29,1834,Gift,Mand,Nørrebrogade,88,55.692445800000,12.552566100000
+511,Baderske,Friis,45,1879-12-29,1834,Gift,Mand,Nørrebrogade,88,55.692329300000,12.552440700000
+511,Baderske,Friis,45,1879-12-29,1834,Gift,Mand,Nørrebrogade,88,55.692264300000,12.552256000000
+511,Baderske,Friis,45,1879-12-29,1834,Gift,Mand,Nørrebrogade,88,55.692230800000,12.552303000000
+513,Bagerforbundter,Nielsen,48,1879-12-31,1831,Gift,Mand,Parcelvej,35,NULL,NULL
+519,Bagersvend,Nielsen,53,1889-05-28,1836,Gift,Mand,Ryesgade,36,NULL,NULL
+528,Bankbogholder,Rasmussen,72,1909-09-30,1837,Enkestand,Mand,NULL,NULL,NULL,NULL
+529,Bankbud,Thomsen,NULL,NULL,NULL,NULL,Mand,NULL,NULL,NULL,NULL
+531,Bankelev,Seidelin,38,1909-09-29,1871,Ugift,Kvinde,"Paludan Müllers Vej",9,55.672630500000,12.542527700000
+533,Bankier,Andersen,69,1909-09-28,1840,Ugift,Mand,NULL,NULL,NULL,NULL
+534,Bankkasserer,Øllgaard,64,1909-09-27,1845,Ugift,Kvinde,Ravnsborggade,13,55.688817600000,12.562070100000
+537,Barberlærling,Albrechtsen,26,1909-09-29,1883,Ugift,Mand,NULL,NULL,NULL,NULL
+540,Bardame,Østerbye,54,1909-09-28,1855,Gift,Mand,Willemoesgade,35,55.698156800000,12.583384900000
+541,NULL,Madsen,42,1909-09-29,1867,Ugift,Mand,Dronningensgade,79,55.673792000000,12.594731100000
+542,Barnefrøken,Sørensen,33,1909-09-29,1876,Ugift,Mand,Vesterbrogade,24,55.672963900000,12.558193900000
+542,Barnefrøken,Sørensen,33,1909-09-29,1876,Ugift,Mand,Vesterbrogade,24,55.673213100000,12.557960100000
+542,Barnefrøken,Sørensen,33,1909-09-29,1876,Ugift,Mand,Vesterbrogade,24,55.673236500000,12.558093100000
+551,Belysningsmester,Harreschou,39,1909-09-30,1870,Ugift,Mand,"Cort Adelers Gade",12,55.677582600000,12.590774700000
+551,Belysningsmester,Harreschou,39,1909-09-30,1870,Ugift,Mand,"Cort Adelers Gade",12,55.677672800000,12.590712100000
+556,Bestyrerinde,Hansen,31,1879-12-29,1848,Gift,Mand,Nørrebrogade,66,55.690886900000,12.554332300000
+556,Bestyrerinde,Hansen,31,1879-12-29,1848,Gift,Mand,Nørrebrogade,66,55.690965700000,12.554291500000
+556,Bestyrerinde,Hansen,31,1879-12-29,1848,Gift,Mand,Nørrebrogade,66,55.691089600000,12.554548300000
+556,Bestyrerinde,Hansen,31,1879-12-29,1848,Gift,Mand,Nørrebrogade,66,55.691179900000,12.554744800000
+556,Bestyrerinde,Hansen,31,1879-12-29,1848,Gift,Mand,Nørrebrogade,66,55.691356100000,12.554841400000
+556,Bestyrerinde,Hansen,31,1879-12-29,1848,Gift,Mand,Nørrebrogade,66,55.691587700000,12.554520900000
+561,Bibliotekar,Jensen,51,1909-10-01,1858,Enkestand,Mand,Ryesgade,11,NULL,NULL
+564,Billedhuggerinde,Møller,28,1909-10-01,1881,Gift,Mand,"Peter Fabers Gade",32,55.691473100000,12.556234700000
+565,Billedskærer,Andersen,57,1909-09-25,1852,Gift,Kvinde,Sundholmsvej,NULL,NULL,NULL
+571,Bladhandler,Jensen,53,1909-10-01,1856,Gift,Mand,Sankelmarksgade,19,55.665686800000,12.548750300000
+577,Blomsterforretning,Hansen,16,1879-12-30,1863,Ugift,Mand,Åbenrå,8,55.682974000000,12.577377900000
+578,Blomsterhandler,Jensen,41,1879-12-29,1838,NULL,Mand,Tjørnegade,6,55.688415100000,12.553989500000
+579,Blomsterhandlerske,Jensen,48,1879-12-31,1831,NULL,Mand,Skyttegade,5,55.687119700000,12.549315900000
+583,Bogbinderjomfru,Christensen,35,1879-12-24,1844,Gift,Mand,NULL,NULL,NULL,NULL
+585,Bogbindermester,Albrechtsen,NULL,NULL,NULL,NULL,Mand,NULL,NULL,NULL,NULL
+588,Boghandler,Hansen,NULL,NULL,NULL,NULL,Mand,NULL,NULL,NULL,NULL
+590,Boghandlerlærling,Andersen,NULL,NULL,NULL,NULL,Mand,NULL,NULL,NULL,NULL
+594,Bogholderske,Juncker,46,1889-06-27,1843,Gift,Mand,Krystalgade,17,NULL,NULL
+595,Bogtrykker,Andersen,60,1889-06-29,1829,Enkestand,Mand,Vendersgade,21,55.684481600000,12.566543900000
+599,Bonne,Bruun,49,1879-12-31,1830,Gift,Mand,Krystalgade,11,55.680935700000,12.573919700000
+599,Bonne,Bruun,49,1879-12-31,1830,Gift,Mand,Krystalgade,11,55.680790000000,12.574017100000
+619,Brændehandler,Sommerstedt,53,1879-12-26,1826,NULL,Mand,"Cort Adelers Gade",9,55.677801800000,12.591097000000
+625,Brødhandlerske,Nielsen,45,1909-10-01,1864,Gift,Kvinde,NULL,NULL,NULL,NULL
+628,Brøndborer,Andersen,69,1909-10-03,1840,Ugift,Kvinde,NULL,NULL,NULL,NULL
+629,Buffetdame,Budtz-Jørgensen,28,1909-10-03,1881,Ugift,Mand,Åboulevard,23,55.684441200000,12.554127200000
+632,Buffist,Thyrring,46,1909-09-30,1863,Separeret,Mand,Oehlenschlægersgade,49,55.668458800000,12.550135600000
+632,Buffistinde,Thyrring,46,1909-09-30,1863,Separeret,Mand,Oehlenschlægersgade,49,55.668458800000,12.550135600000
+633,Bundskærer,Jensen,23,1909-10-02,1886,Ugift,Mand,Frederiksborggade,18,55.683802100000,12.571681200000
+634,"Buntmager (Bundtmager)",Andersen,58,1909-10-03,1851,Gift,Mand,Burmeistersgade,30,55.675853900000,12.599244400000
+640,Bydreng,Wessel,46,1909-10-03,1863,Gift,Mand,Sankelmarksgade,1,55.666782400000,12.548542100000
+645,Bygningskonduktør,Petersen,32,1879-12-30,1847,Ugift,Mand,Løngangstræde,37,55.675243600000,12.572429200000
+645,Bygningskonduktør,Petersen,32,1879-12-30,1847,Ugift,Mand,Løngangstræde,37,55.675097100000,12.572853400000
+645,Bygningskonduktør,Petersen,32,1879-12-30,1847,Ugift,Mand,Løngangstræde,37,55.675064900000,12.572606700000
+645,Bygningskonduktør,Petersen,32,1879-12-30,1847,Ugift,Mand,Løngangstræde,37,55.675149600000,12.572509500000
+646,Bygningskonstruktør,Alstrup,60,1879-12-30,1819,Enkestand,Mand,NULL,NULL,NULL,NULL
+647,Bygningssnedker,Hartmann,35,1879-12-30,1844,NULL,Mand,Klerkegade,7,55.686381900000,12.584929300000
+648,Bygningstegner,Trasborg,79,1879-01-01,1800,Gift,Mand,Adelgade,27,NULL,NULL
+653,Bødkermester,Hein,61,1899-12-30,1838,Gift,Mand,Valkendorfsgade,16,NULL,NULL
+654,Bødkersvend,Rasmussen,NULL,NULL,NULL,NULL,Mand,NULL,NULL,NULL,NULL
+655,Børstenbinder,Maale,49,1910-03-29,1861,Gift,Mand,"Ny Åboulevard",2,NULL,NULL
+656,Børstenbinderske,Leismann,77,1910-03-28,1833,Ugift,Kvinde,Hindegade,9,55.685992700000,12.587947400000
+662,Båndhandler,Wesenberg,72,1879-12-30,1807,Enkestand,Mand,"Sankt Peders Stræde",27,55.679174500000,12.569376000000
+662,Båndhandler,Wesenberg,72,1879-12-30,1807,Enkestand,Mand,"Sankt Peders Stræde",27,55.679134800000,12.569450900000
+662,Båndhandler,Wesenberg,72,1879-12-30,1807,Enkestand,Mand,"Sankt Peders Stræde",27,55.679002000000,12.569443900000
+670,"Cigarfabrikant (Cigarfabrikør)",Larsen,NULL,NULL,NULL,NULL,Mand,NULL,NULL,NULL,NULL
+672,Cigarhandler,Larsen,24,1910-03-26,1886,Ugift,Kvinde,Gentofte,NULL,NULL,NULL
+676,Cigarmagerske,Østerberg,54,1910-03-28,1856,Gift,Mand,"Nørre Allé",41,55.694778200000,12.561043700000
+678,Cigarruller,Andersen,81,1910-03-29,1829,Enkestand,Mand,"Nørre Farimagsgade",63,55.685244600000,12.568321900000
+680,Cigarsortererske,Jensen,69,1910-03-30,1841,Gift,Mand,Tordenskjoldsgade,27,55.677228000000,12.588393800000
+680,Cigarsortererske,Jensen,69,1910-03-30,1841,Gift,Mand,Tordenskjoldsgade,27,55.677298900000,12.588363900000
+680,Cigarsortererske,Jensen,69,1910-03-30,1841,Gift,Mand,Tordenskjoldsgade,27,55.677338100000,12.588557200000
+682,Civilarbejder,Olsen,48,1900-12-29,1852,Gift,Mand,Istedgade,42,55.670407200000,12.556933300000
+682,Civilarbejder,Olsen,48,1900-12-29,1852,Gift,Mand,Istedgade,42,55.670369900000,12.556821500000
+682,Civilarbejder,Olsen,48,1900-12-29,1852,Gift,Mand,Istedgade,42,55.670431300000,12.556901900000
+684,Clerk,Petersen,58,1910-03-28,1852,Ugift,Kvinde,Åbenrå,12,55.683114000000,12.577075300000
+689,Daglejer,Reimer,72,1899-12-29,1827,Ugift,Mand,"Øster Farimagsgade",79,55.694589000000,12.578692700000
+691,Damefrisør,Christensen,77,1900-12-29,1823,Enkestand,Mand,Amaliegade,11,55.682781400000,12.591948100000
+691,Damefrisør,Christensen,77,1900-12-29,1823,Enkestand,Mand,Amaliegade,11,55.682861500000,12.591601200000
+691,Damefrisør,Christensen,77,1900-12-29,1823,Enkestand,Mand,Amaliegade,11,55.682946700000,12.591247800000
+691,Damefrisør,Christensen,77,1900-12-29,1823,Enkestand,Mand,Amaliegade,11,55.683045200000,12.590851500000
+691,Damefrisør,Christensen,77,1900-12-29,1823,Enkestand,Mand,Amaliegade,11,55.683104200000,12.590901900000
+699,Danselærer,Sønnichsen,34,1879-12-30,1845,Ugift,Kvinde,Korsgade,25,55.685683600000,12.556394900000
+710,Detailhandlerske,Østrup,32,1910-03-30,1878,Ugift,Mand,Adelgade,78,NULL,NULL
+711,Diakon,Nielsen,39,1910-03-28,1871,Ugift,Mand,Bangertsgade,3,NULL,NULL
+713,Diplomat,Rasmussen,63,1910-03-30,1847,Gift,Mand,Svanevej,31,55.698170400000,12.533910800000
+714,NULL,Jepsen,52,1910-03-28,1858,Gift,Mand,Absalonsgade,7,55.671869300000,12.554101100000
+714,NULL,Jepsen,52,1910-03-28,1858,Gift,Mand,Absalonsgade,7,55.671772600000,12.554154900000
+717,Disponent,Christiansen,63,1909-10-01,1846,Gift,Mand,"Lille Istedgade",13,NULL,NULL
+718,Distriktsforstander,Hansen,51,1909-10-01,1858,Ugift,Mand,Gernersgade,20,NULL,NULL
+724,Drejerlærling,Blume,70,1909-10-04,1839,Gift,Mand,"Sortedam Dossering (Østerbro Dossering)",45,NULL,NULL
+725,Drejermester,Lange,NULL,NULL,NULL,NULL,Ukendt,NULL,NULL,NULL,NULL
+731,Dykker,Petersen,59,1910-03-30,1851,Gift,Mand,NULL,NULL,NULL,NULL
+732,Dyrepasser,Lührss,79,1910-03-31,1831,Gift,Mand,Larslejsstræde,13,55.680342500000,12.569247000000
+734,Dækskonstabel,Jensen,63,1910-03-30,1847,Enkestand,Mand,Fredensgade,12,NULL,NULL
+735,Dæksmager,Hansen,24,1909-10-04,1885,Ugift,Mand,NULL,NULL,NULL,NULL
+737,Ejendomsmægler,Jørgensen,58,1909-10-03,1851,Gift,Mand,Blegdamsvej,126,55.698366700000,12.575665400000
+737,Ejendomsmægler,Jørgensen,58,1909-10-03,1851,Gift,Mand,Blegdamsvej,126,55.698307500000,12.575839300000
+737,Ejendomsmægler,Jørgensen,58,1909-10-03,1851,Gift,Mand,Blegdamsvej,126,55.698221200000,12.575960300000
+742,Eksportør,Petersen,78,1909-10-02,1831,Gift,Mand,Linnésgade,4,NULL,NULL
+743,Ekstramand,Andersen,60,1909-10-02,1849,Gift,Mand,Thorsgade,16,NULL,NULL
+744,Ekviperingshandler,Poulsen,63,1909-10-03,1846,Gift,Mand,"Nørre Allé",28,NULL,NULL
+750,Elektrotekniker,Nielsen,27,1909-10-03,1882,Separeret,Mand,Tingvej,23,55.658703600000,12.603642200000
+752,Elevatorfører,Fogh,39,1909-09-30,1870,Gift,Mand,NULL,NULL,NULL,NULL
+756,NULL,Pedersen,31,1910-03-29,1879,Ugift,Kvinde,Ravnsborggade,17,55.689139700000,12.562447900000
+756,NULL,Pedersen,31,1910-03-29,1879,Ugift,Kvinde,Ravnsborggade,17,55.689287200000,12.562244900000
+756,NULL,Pedersen,31,1910-03-29,1879,Ugift,Kvinde,Ravnsborggade,17,55.689182100000,12.562121400000
+756,NULL,Pedersen,31,1910-03-29,1879,Ugift,Kvinde,Ravnsborggade,17,55.689214900000,12.562424700000
+760,"Etatsråd (Etatsraad)",Göransson,49,1910-03-29,1861,Gift,Mand,Saxogade,32,NULL,NULL
+764,"Ekspeditionschef (Expeditionschef)",Jacobsen,62,NULL,NULL,Separeret,Mand,NULL,NULL,NULL,NULL
+775,Fajanceformer,Holmer,76,1910-04-01,1834,Ugift,Kvinde,Eskildsgade,62,55.669184800000,12.556922500000
+776,Faktor,Andersen,17,1910-03-31,1893,Ugift,Kvinde,Hveensvej,27,55.656910600000,12.612080900000
+777,NULL,Eriksen,52,1910-03-30,1858,Ugift,Mand,Prinsensgade,9,NULL,NULL
+780,Farvehandler,Andresen,20,1879-12-26,1859,Ugift,Kvinde,Badstuestræde,13,55.677822100000,12.575838400000
+782,Farveriarbejder,Holst,68,1879-01-01,1811,NULL,Kvinde,Vendersgade,19,55.684407900000,12.566658600000
+785,Figurmaler,Andreasen,NULL,NULL,NULL,NULL,Mand,NULL,NULL,NULL,NULL
+789,Filmsoperatør,Hansen,68,1910-03-31,1842,Gift,Mand,Woltersgade,14,55.664392700000,12.607778900000
+796,Fodermester,Hein,77,1910-04-02,1833,Enkestand,Mand,Reventlowsgade,24,55.671330300000,12.564396300000
+813,Fornikler,Jensen,54,1879-12-31,1825,Gift,Mand,Rigensgade,19,NULL,NULL
+816,Forretningsbestyrer,Steffensen,53,1863-01-13,1810,Enkestand,Mand,"Store Kongensgade",88,55.685559800000,12.588970500000
+817,Forretningsbestyrerinde,Belman,73,1909-10-01,1836,Ugift,Kvinde,"Nørre Allé",41,55.694778200000,12.561043700000
+824,Forretningsrejsende,Hansen,70,1909-10-04,1839,Gift,Mand,"Sankt Peders Stræde",43,55.678774900000,12.567735200000
+825,Forretter,Andersen,23,1909-10-04,1886,Gift,Mand,Vølundsgade,14,55.700488700000,12.549747000000
+825,Forretter,Andersen,23,1909-10-04,1886,Gift,Mand,Vølundsgade,14,55.700431900000,12.549847700000
+829,Forstassistent,Lund,39,NULL,NULL,Gift,Mand,Fredensgade,14,NULL,NULL
+833,Forststuderende,Johansen,26,1909-10-03,1883,Ugift,Mand,Jagtvej,29,55.690894300000,12.544676600000
+833,Forststuderende,Johansen,26,1909-10-03,1883,Ugift,Mand,Jagtvej,29,55.690878800000,12.544564000000
+833,Forststuderende,Johansen,26,1909-10-03,1883,Ugift,Mand,Jagtvej,29,55.690959400000,12.544660600000
+833,Forststuderende,Johansen,26,1909-10-03,1883,Ugift,Mand,Jagtvej,29,55.691027300000,12.544742000000
+834,Forsølver,Christoffersen,37,1909-10-03,1872,Gift,Mand,"Ravnsborg Tværgade",7,NULL,NULL
+834,Forvalter,Christoffersen,37,1909-10-03,1872,Gift,Mand,"Ravnsborg Tværgade",7,NULL,NULL
+835,Fotograf,Høffner,84,1909-10-04,1825,Ugift,Kvinde,"J.E. Ohlsens Gade",9,55.701714700000,12.579277300000
+837,Fotografmedhjælper,Eriksen,56,1909-10-05,1853,Gift,Mand,Vesterbrogade,31,55.672751100000,12.558429000000
+839,Fouragehandler,Jensen,60,1909-10-05,1849,Ugift,Mand,NULL,NULL,NULL,NULL
+840,Fragtmand,Andersen,68,1909-10-05,1841,Gift,Mand,Amagerbrogade,328,NULL,NULL
+841,Fraskilt,Amstrup,40,1909-10-02,1869,Ugift,Mand,Adelgade,96,NULL,NULL
+842,Frihavnsarbejder,Petersen,30,1909-10-03,1879,Ugift,Mand,Sofiegade,23,55.670552000000,12.591833500000
+845,Frisørelev,Thorning,7,1910-03-31,1903,NULL,Mand,"Mølle Allé",4,55.665075200000,12.518765300000
+849,Frue,Petersen,49,1910-04-02,1861,Gift,Mand,Revalsgade,28,NULL,NULL
+850,Frugthandler,Olsen,53,1910-04-02,1857,Ugift,Kvinde,Fredericiagade,88,55.687721600000,12.583795000000
+850,Frugthandler,Olsen,53,1910-04-02,1857,Ugift,Kvinde,Fredericiagade,88,55.687795500000,12.583750800000
+853,Frøkenpige,Persson,49,1910-03-31,1861,Ugift,Mand,NULL,65,NULL,NULL
+856,Funktionær,Hansen,48,1910-03-30,1862,Skilt,Kvinde,Øresundsvej,4,55.658116500000,12.608646500000
+857,Fyrassistent,Petersen,42,1910-03-31,1868,Gift,Mand,Brigadevej,6,55.662847600000,12.601170500000
+860,Fængselsbetjent,Christensen,52,1879-12-28,1827,Gift,Mand,Studiestræde,13,55.678812000000,12.570307500000
+860,Fængselsbetjent,Christensen,52,1879-12-28,1827,Gift,Mand,Studiestræde,13,55.678780600000,12.570205300000
+860,Fængselsbetjent,Christensen,52,1879-12-28,1827,Gift,Mand,Studiestræde,13,55.678709000000,12.570580500000
+860,Fængselsbetjent,Christensen,52,1879-12-28,1827,Gift,Mand,Studiestræde,13,55.678583200000,12.570529000000
+860,Fængselsbetjent,Christensen,52,1879-12-28,1827,Gift,Mand,Studiestræde,13,55.678615700000,12.570341900000
+861,Fængselsopsyn,Cohen,35,1910-03-20,1875,Ugift,Mand,Grundtvigsvej,39,55.678995200000,12.533962300000
+865,Galvanisør,Rasmussen,47,1879-12-31,1832,Gift,Mand,Charlottegade,1,NULL,NULL
+877,Gartnermedhjælper,Demant,55,1910-04-04,1855,Gift,Mand,Stenosgade,1,55.672867100000,12.557033900000
+884,Gasarbejder,Nielsen,41,1910-04-02,1869,Gift,Mand,Prinsessegade,20,55.671153300000,12.592311200000
+886,Gasmester,Clausen,NULL,NULL,NULL,NULL,Mand,NULL,NULL,NULL,NULL
+889,General,Clemensen,27,1909-10-04,1882,NULL,Kvinde,Åboulevard,34,55.684698000000,12.554693100000
+889,General,Clemensen,27,1909-10-04,1882,NULL,Kvinde,Åboulevard,34,55.684845800000,12.554814500000
+889,General,Clemensen,27,1909-10-04,1882,NULL,Kvinde,Åboulevard,34,55.684913300000,12.554904000000
+889,General,Clemensen,27,1909-10-04,1882,NULL,Kvinde,Åboulevard,34,55.684977300000,12.554991700000
+889,General,Clemensen,27,1909-10-04,1882,NULL,Kvinde,Åboulevard,34,55.685042900000,12.555085900000
+892,Generalkonsul,Andersen,58,1909-10-07,1851,Gift,Mand,"Sankt Pauls Gade",25,NULL,NULL
+898,NULL,Petersen,72,1910-04-03,1838,Gift,Mand,NULL,NULL,NULL,NULL
+900,Glarmesterlærling,Gørges,47,1909-10-07,1862,Ugift,Kvinde,NULL,NULL,NULL,NULL
+902,Glasarbejder,Hansen,30,1909-10-06,1879,Gift,Mand,Falkevej,9,55.698512100000,12.534698700000
+905,Glasmaler,Pedersen,73,1909-10-04,1836,Gift,Mand,Sverrigsgade,15,55.662771700000,12.599148500000
+905,Glasmaler,Pedersen,73,1909-10-04,1836,Gift,Mand,Sverrigsgade,15,55.662652200000,12.599333800000
+906,Glassliber,Petersen,45,1909-10-05,1864,Gift,Mand,"Steen Blichers Vej",1,55.679003900000,12.526315700000
+911,Gravør,Bornemann,23,1909-10-05,1886,Ugift,Kvinde,"Nordre Frihavnsgade",77,55.703427500000,12.586746700000
+912,Gravørlærling,Olsen,17,1909-10-04,1892,Ugift,Mand,NULL,NULL,NULL,NULL
+915,Grosserer,Nilsson,4,1910-04-02,1906,NULL,Kvinde,"Store Kongensgade",3,55.681908300000,12.585484600000
+943,Gæst,Nielsen,NULL,NULL,NULL,NULL,Mand,NULL,NULL,NULL,NULL
+945,"Gæstgiverske (Gjæstgiverske)",Andersen,53,1910-04-04,1857,Gift,Mand,NULL,NULL,NULL,NULL
+948,"Gørtlermester (Giørtlermester-Gjørtlermester)",Knight,49,1910-04-04,1861,Ugift,Kvinde,Borgergade,134,55.686700100000,12.587941900000
+949,"Gørtlersvend (Giørtlersvend-Gjørtlersvend)",Larsen,78,1910-04-03,1832,Enkestand,Mand,Tordenskjoldsgade,18,NULL,NULL
+972,Handlende,Palm,65,1910-03-30,1845,Gift,Mand,Drogdensgade,22,55.658367600000,12.608441300000
+991,Havnefoged,Nielsen,61,1880-06-02,1819,Gift,Mand,Grønnegade,25,NULL,NULL
+1019,Hofjægermesterinde,Hansen,51,1910-04-04,1859,Gift,Mand,"Overgaden Oven Vandet",28,55.671266600000,12.589396700000
+1019,Hofjægermesterinde,Hansen,51,1910-04-04,1859,Gift,Mand,"Overgaden Oven Vandet",28,55.671227200000,12.589425500000
+1020,Hornblæser,Siboni,21,1910-04-02,1889,Ugift,Mand,NULL,NULL,NULL,NULL
+1021,Hospitalsvagt,Henriksen,26,1910-04-03,1884,Ugift,Kvinde,"Abel Cathrines Gade",8,55.671489300000,12.558872400000
+1022,Hotelbestyrer,Købke,83,1910-04-02,1827,Ugift,Kvinde,"Madvigs Alle",10,55.675381700000,12.541328900000
+1059,"Håndgerning (Haandgerning)",Bjerregaard,49,1910-04-04,1861,Gift,Mand,Prinsensgade,53,NULL,NULL
+1068,Inspektrice,Plambæk,81,1900-12-31,1819,Enkestand,Mand,NULL,NULL,NULL,NULL
+1071,Institutbestyrerinde,Ipsen,48,1909-10-06,1861,Gift,Mand,Oehlenschlægersgade,17,55.670972600000,12.549967600000
+1074,Instrumentsliber,Damm,93,1909-10-06,1816,Gift,Mand,Vesterbrogade,127,55.670516900000,12.541932500000
+1074,Instrumentsliber,Damm,93,1909-10-06,1816,Gift,Mand,Vesterbrogade,127,55.670454000000,12.541667800000
+1074,Instrumentsliber,Damm,93,1909-10-06,1816,Gift,Mand,Vesterbrogade,127,55.670333400000,12.542139700000
+1074,Instrumentsliber,Damm,93,1909-10-06,1816,Gift,Mand,Vesterbrogade,127,55.670298300000,12.542006300000
+1074,Instrumentsliber,Damm,93,1909-10-06,1816,Gift,Mand,Vesterbrogade,127,55.670264800000,12.541868600000
+1074,Instrumentsliber,Damm,93,1909-10-06,1816,Gift,Mand,Vesterbrogade,127,55.670233900000,12.541743100000
+1076,Invalid,Barner,75,1909-10-08,1834,Enkestand,Mand,NULL,NULL,NULL,NULL
+1081,Isolatør,Mørck,56,1909-10-06,1853,Separeret,Mand,Nørrebrogade,49,55.689246400000,12.556704600000
+1081,Isolatør,Mørck,56,1909-10-06,1853,Separeret,Mand,Nørrebrogade,49,55.689229800000,12.556683000000
+1081,Isolatør,Mørck,56,1909-10-06,1853,Separeret,Mand,Nørrebrogade,49,55.689213900000,12.556666300000
+1081,Isolatør,Mørck,56,1909-10-06,1853,Separeret,Mand,Nørrebrogade,49,55.689063000000,12.556467600000
+1081,Isolatør,Mørck,56,1909-10-06,1853,Separeret,Mand,Nørrebrogade,49,55.689100000000,12.556358400000
+1084,Jernbaneassistent,Knudsen,46,1909-10-05,1863,Ugift,Mand,Borgergade,77,NULL,NULL
+1088,Jernbanekonduktør,Stoltenberg,64,1909-10-06,1845,Ugift,Mand,NULL,NULL,NULL,NULL
+1090,Jerndrejer,Strand,56,1909-10-04,1853,Gift,Mand,Sofiegade,32,NULL,NULL
+1097,Jordbruger,Bredgaard,30,1909-10-06,1879,Ugift,Mand,Adelgade,57,55.685969800000,12.584959100000
+1100,Journalist,Jensen,70,1900-01-01,1830,Enkestand,Mand,Frederiksborggade,21,NULL,NULL
+1117,Kagejomfru,Holm,48,1899-12-29,1851,Gift,Mand,Landskronagade,27,55.713089900000,12.573280900000
+1117,Kagejomfru,Holm,48,1899-12-29,1851,Gift,Mand,Landskronagade,27,55.713080400000,12.573159700000
+1122,Kammerherre,Persson,75,1899-12-25,1824,Enkestand,Mand,"Nørre Allé",41,55.694778200000,12.561043700000
+1124,Kammerjomfru,Nielsen,58,1899-12-30,1841,NULL,Mand,Vodroffsvej,2,55.674267100000,12.555199100000
+1124,Kammerjomfru,Nielsen,58,1899-12-30,1841,NULL,Mand,Vodroffsvej,2,55.674545600000,12.555077700000
+1126,Kammerjunkerinde,Olsson,65,1899-12-28,1834,Ugift,Mand,"Nørre Allé",41,55.694778200000,12.561043700000
+1127,Kammerjæger,Weyhe,74,1899-12-30,1825,Gift,Mand,Classensgade,13,55.696876700000,12.581892100000
+1128,"Kammerråd (Kammerraad)",Sørensen,61,1899-12-24,1838,Ugift,Mand,"Nørre Allé",41,55.694778200000,12.561043700000
+1131,"Kancelliråd (Kancelliraad/Cancelliraad)",Sand,31,1899-12-29,1868,Gift,Mand,Borgergade,10,55.682506300000,12.584504900000
+1134,Kantor,Therkeldsen,13,1899-12-30,1886,NULL,Kvinde,"Vestre Kirkegårdsvej",NULL,NULL,NULL
+1140,Karetmagermester,Thrane,61,1910-03-30,1849,Enkestand,Mand,Hellerup,NULL,NULL,NULL
+1142,Karl,Kreyenberg,47,1910-04-03,1863,Ugift,Kvinde,Boldhusgade,4,55.677491000000,12.581961800000
+1143,Kartoffelhandler,Bentsen,50,1910-04-13,1860,Enkestand,Mand,Bangertsgade,14,55.689397500000,12.553489900000
+1146,Kasserer,Pedersen,61,1910-04-04,1849,Gift,Mand,Lyngbyvej,25,55.709311500000,12.560851000000
+1148,Kateket,Andersen,55,NULL,NULL,Ugift,Mand,Adelgade,96,NULL,NULL
+1152,Kelner,Meyer,70,1876-12-29,1806,Gift,Mand,Holmensgade,24,NULL,NULL
+1154,Kelnerlærling,Steenberg,66,1876-12-28,1810,Gift,Mand,Fælledvej,17,55.689604400000,12.560120000000
+1154,Kelnerlærling,Steenberg,66,1876-12-28,1810,Gift,Mand,Fælledvej,17,55.689773400000,12.559740000000
+1155,Kemigraf,Paludan-Møller,67,1876-12-28,1809,NULL,Mand,"Ny Adelgade",4,55.681235900000,12.584196600000
+1155,Kemigraf,Paludan-Møller,67,1876-12-28,1809,NULL,Mand,"Ny Adelgade",4,55.681364400000,12.584328500000
+1175,Kludesamler,Agersborg,79,1910-04-04,1831,Ugift,Kvinde,Studiestræde,9,55.678920900000,12.570608700000
+1178,Kobbersmedesvend,Svensson,15,1910-04-03,1895,Ugift,Mand,Nansensgade,28,NULL,NULL
+1179,Kobberstikker,Jensen,61,1910-04-04,1849,Gift,Mand,Oehlenschlægersgade,33,55.669650500000,12.550049200000
+1181,Kogeelev,Frederiksen,59,1910-04-05,1851,Gift,Mand,Ahlefeldtsgade,24,55.683430600000,12.565691100000
+1186,Kokkepige,Hallin,55,1910-04-05,1855,Ugift,Mand,Istedgade,69,55.668792000000,12.552417600000
+1196,Kommissionær,Øland,40,1876-12-31,1836,Gift,Mand,Korsgade,30,55.686010700000,12.556422400000
+1198,Kommunelærer,Christensen,56,1876-12-31,1820,Ugift,Kvinde,"Store Regnegade",12,55.681490800000,12.582099600000
+1199,Kommunelærerinde,Petersen,66,1876-12-30,1810,Gift,Mand,"Lille Købmagergade",60,NULL,NULL
+1208,Konduktør,Mikkelsen,29,1899-12-30,1870,Ugift,Mand,"Nørre Allé",41,55.694778200000,12.561043700000
+1211,Konservator,Jensen,40,1899-12-30,1859,Gift,Mand,Nørrebrogade,223,55.699525400000,12.540733600000
+1212,Konstruktør,Andresen,70,1900-01-02,1830,Ugift,Mand,"Uden bopæl",NULL,NULL,NULL
+1215,Konsulinde,Erikson,32,1899-12-30,1867,Ugift,Mand,Løngangstræde,27,55.675377900000,12.572800900000
+1219,Kontorassistent,Werner,39,1900-01-02,1861,Gift,Mand,"H.C. Andersens Gade",8,NULL,NULL
+1220,Kontorbestyrer,Hansen,17,1899-12-29,1882,Ugift,Mand,Saxogade,24,NULL,NULL
+1223,Kontorchef,Dipo,28,1900-01-02,1872,Ugift,Mand,Jægersborggade,37,55.692883900000,12.543499900000
+1226,Kontorist,Woldum,0,1876-12-29,1876,NULL,Kvinde,Amaliegade,23,55.685265200000,12.594007700000
+1228,Kontormand,Madsen,40,1876-12-28,1836,Enkestand,Mand,Klerkegade,36,NULL,NULL
+1230,Kontrolassistent,Hansen,53,1876-12-28,1823,Gift,Mand,NULL,NULL,NULL,NULL
+1233,Konventualinde,Jørgensen,36,1910-04-09,1874,Gift,Mand,Ålekistevej,204,NULL,NULL
+1234,Kopist,Christensen,47,1910-04-08,1863,Ugift,Mand,"Dronningens Tværgade",54,55.684780300000,12.583473800000
+1242,Korrespondent,Ludvigsen,73,1900-01-03,1827,Gift,Mand,"Sortedam Dossering (Østerbro Dossering)",59,NULL,NULL
+1251,Kreaturkommissionær,Johansen,17,1910-04-01,1893,Ugift,Mand,Ægirsgade,45,55.699931300000,12.546667000000
+1258,Kuldrager,Galle,68,1910-04-06,1842,Gift,Mand,Vesterbrogade,69,55.672574600000,12.551243000000
+1258,Kuldrager,Galle,68,1910-04-06,1842,Gift,Mand,Vesterbrogade,69,55.672330700000,12.551170400000
+1258,Kuldrager,Galle,68,1910-04-06,1842,Gift,Mand,Vesterbrogade,69,55.671987700000,12.551227900000
+1264,Kunstmaler,Andersen,41,1877-01-07,1836,Enkestand,Mand,Amagergade,1,55.670485700000,12.592216900000
+1264,Kunstmaler,Andersen,41,1877-01-07,1836,Enkestand,Mand,Amagergade,1,55.670553800000,12.592337000000
+1264,Kunstmaler,Andersen,41,1877-01-07,1836,Enkestand,Mand,Amagergade,1,55.670468800000,12.592067500000
+1264,Kunstmaler,Andersen,41,1877-01-07,1836,Enkestand,Mand,Amagergade,1,55.670511700000,12.591966400000
+1264,Kunstmaler,Andersen,41,1877-01-07,1836,Enkestand,Mand,Amagergade,1,55.670616500000,12.592355700000
+1271,Kursist,Breum,82,1877-01-04,1795,Enkestand,Mand,Skvaldergade,7,NULL,NULL
+1279,Kurvemagerske,Nielsen,39,1877-01-01,1838,Gift,Mand,Prinsensgade,19,NULL,NULL
+1281,Kusk,Jensen,58,1910-03-10,1852,Gift,Mand,"Esbern Snares Gade",7,55.665522300000,12.554443700000
+1283,Kvartermester,Jespersen,30,1877-01-02,1847,Gift,Mand,Smedegade,12,NULL,NULL
+1288,"Købmand (Handelsmand)",Capozzi,76,1900-01-01,1824,Ugift,Kvinde,Griffenfeldsgade,42,55.686828600000,12.552998000000
+1298,Laboratorieforstander,Wegener,53,1900-01-01,1847,Gift,Mand,Kompagnistræde,22,55.676930500000,12.574864700000
+1299,Lagerarbejder,Bisserup,30,1877-01-02,1847,Gift,Mand,Holmensgade,34,NULL,NULL
+1301,Lagerassistent,Eklund,64,1900-01-04,1836,Enkestand,Mand,Åboulevard,34,55.684698000000,12.554693100000
+1301,Lagerassistent,Eklund,64,1900-01-04,1836,Enkestand,Mand,Åboulevard,34,55.684845800000,12.554814500000
+1301,Lagerassistent,Eklund,64,1900-01-04,1836,Enkestand,Mand,Åboulevard,34,55.684913300000,12.554904000000
+1301,Lagerassistent,Eklund,64,1900-01-04,1836,Enkestand,Mand,Åboulevard,34,55.684977300000,12.554991700000
+1301,Lagerassistent,Eklund,64,1900-01-04,1836,Enkestand,Mand,Åboulevard,34,55.685042900000,12.555085900000
+1303,Lagerekspedient,Nielsen,39,1876-12-30,1837,Enkestand,Mand,Hjertensfrydsgade,7,55.689686500000,12.585310100000
+1306,Lagerforvalter,Høy,20,1877-01-02,1857,Ugift,Mand,Blågårdsgade,7,55.687561500000,12.559727200000
+1306,Lagerforvalter,Høy,20,1877-01-02,1857,Ugift,Mand,Blågårdsgade,7,55.687501600000,12.559661200000
+1307,Lagermedhjælper,Jensen,50,1877-01-03,1827,Enkestand,Mand,Ladegårdsvej,9,NULL,NULL
+1323,Landstingsmand,Christensen,70,1876-12-31,1806,Gift,Mand,Baggesensgade,10,55.687025400000,12.560333000000
+1324,Landvæsenselev,Hansen,62,1877-01-02,1815,Gift,Mand,"Store Søndervoldstræde",3,NULL,NULL
+1331,Ligtorneoperatrice,Andersen,45,1877-01-01,1832,Ugift,Mand,Vognmagergade,18,NULL,NULL
+1332,Ligtorneoperatør,Jensen,48,1876-12-31,1828,Gift,Mand,Absalonsgade,34,55.669531800000,12.555204000000
+1334,Liniererske,Christiansen,39,1870-01-01,1831,Gift,Mand,Balsamgade,3,NULL,NULL
+1338,Litterat,Buch,51,1899-12-31,1848,Gift,Mand,"Store Kongensgade",31,NULL,NULL
+1344,Lokomotivfører,Simonsen,39,1900-01-01,1861,Gift,Mand,Saxogade,12,NULL,NULL
+1352,Lægbroder,Jensen,74,1900-01-04,1826,Enkestand,Mand,"Overgaden Oven Vandet",68,NULL,NULL
+1353,Læge,Petersen,21,1900-01-04,1879,Ugift,Kvinde,Klerkegade,36,NULL,NULL
+1354,Lærer,Hingelberg,56,1880-01-01,1824,Gift,Mand,Gothersgade,160,55.686585700000,12.566344700000
+1354,Lærer,Hingelberg,56,1880-01-01,1824,Gift,Mand,Gothersgade,160,55.686689600000,12.566568900000
+1356,Skolelærerinde,Rohde,32,1900-01-03,1868,Ugift,Kvinde,"Lille Brøndstræde",11,NULL,NULL
+1359,Læser,Petersen,42,1899-12-31,1857,Gift,Mand,"Gammel Mønt",26,NULL,NULL
+1362,Magasinbetjent,Drejer,NULL,NULL,NULL,NULL,Kvinde,NULL,NULL,NULL,NULL
+1366,Major,Petersen,NULL,NULL,NULL,NULL,Mand,NULL,NULL,NULL,NULL
+1369,Malerelev,Nilsson,29,1900-01-04,1871,Gift,Mand,"Gammel Mønt",7,NULL,NULL
+1370,Malerforbundter,Brandt,37,1900-01-03,1863,Gift,Mand,Klosterstræde,20,55.679323200000,12.575245900000
+1371,Malerinde,Paulsen,43,1899-06-28,1856,Gift,Mand,Sundbyvester,NULL,NULL,NULL
+1377,Malersvend,Ovesen,44,1899-06-29,1855,Gift,Mand,NULL,NULL,NULL,NULL
+1378,Maltgører,Strøm,60,1899-06-27,1839,Ugift,Mand,"Nørre Allé",41,55.694778200000,12.561043700000
+1382,Manufakturlærling,Jensen,80,1880-01-02,1800,Enkestand,Mand,Danmarksgade,17,NULL,NULL
+1383,Marineingeniør,Hansen,74,1880-01-02,1806,Enkestand,Mand,Vandkunsten,12,55.675921100000,12.573612000000
+1391,Marskandiserske,Henrichsen,51,1880-01-02,1829,Gift,Mand,"Lille Torvegade",10,NULL,NULL
+1400,Maskinfabrikant,Breil,0,1876-12-29,1876,NULL,Mand,Klerkegade,15,NULL,NULL
+1401,Maskinforbundter,Petersen,52,1877-01-01,1825,NULL,Mand,Amagergade,29,NULL,NULL
+1405,Maskininspektør,Nielsen,0,1876-12-26,1876,NULL,Mand,Amaliegade,26,55.685134500000,12.594396700000
+1418,Maskinstrikkerske,Johnsen,31,1877-01-03,1846,Ugift,Kvinde,Nyhavn,23,55.680378600000,12.589657400000
+1427,Massøse,Andreasen,53,1899-06-27,1846,Ugift,Mand,Saxogade,8,55.672016800000,12.550461100000
+1427,Massøse,Andreasen,53,1899-06-27,1846,Ugift,Mand,Saxogade,8,55.671940500000,12.550487800000
+1427,Massøse,Andreasen,53,1899-06-27,1846,Ugift,Mand,Saxogade,8,55.672034300000,12.550204000000
+1429,Materialforvalter,Meznickou,50,1880-01-02,1830,Gift,Mand,Salviegade,47,NULL,NULL
+1430,Materialist,Andresen,29,1880-01-01,1851,Ugift,Mand,Farvergade,17,55.675930400000,12.572714500000
+1432,Medhjælper,Jensen,24,1909-10-15,1885,NULL,Mand,NULL,NULL,NULL,NULL
+1434,Mejeriarbejder,Bostedt,50,1880-01-02,1830,NULL,Mand,Jægergade,7,55.686006000000,12.549517900000
+1439,Mejerske,Jensen,76,1877-01-03,1801,Ugift,Mand,"Overgaden Oven Vandet",48,55.673723700000,12.593481400000
+1440,"Mekaniker (Mekanikus)",Bentzen,44,1877-01-02,1833,Gift,Mand,"Øster Voldgade",20,55.689468000000,12.583183400000
+1446,Metalsliber,Svendsen,24,1909-10-14,1885,Gift,Mand,Burmeistersgade,19,55.675830100000,12.598764300000
+1458,Modepynt,Jørgensen,73,1909-10-17,1836,Enkestand,Mand,Dannebrogsgade,18,55.670992600000,12.552505300000
+1468,Murerarbejdsmand,Hansen,65,1909-10-17,1844,Gift,Mand,Thorupsgade,16,NULL,NULL
+1481,Musiklærerinde,Unger,41,1877-01-07,1836,Gift,Mand,Nyhavn,18,55.679582300000,12.590277900000
+1481,Musiklærerinde,Unger,41,1877-01-07,1836,Gift,Mand,Nyhavn,18,55.679425200000,12.590200000000
+1485,Mælkeforpagter,Mørch,73,1877-01-06,1804,Enkestand,Mand,"Peder Skrams Gade",2,55.679028700000,12.588030100000
+1488,Møbelfabrikant,Meyer,73,1877-01-07,1804,Gift,Mand,Vesterbrogade,30,55.672701400000,12.556945200000
+1492,Møllebygger,Christensen,60,1900-01-03,1840,Ugift,Mand,Saxogade,43,55.670145700000,12.551067500000
+1493,Møller,Gamborg,71,1900-01-03,1829,Gift,Mand,Bredgade,25,55.682114300000,12.588245800000
+1493,Møller,Gamborg,71,1900-01-03,1829,Gift,Mand,Bredgade,25,55.682143400000,12.588182000000
+1493,Møller,Gamborg,71,1900-01-03,1829,Gift,Mand,Bredgade,25,55.682284600000,12.587935400000
+1493,Møller,Gamborg,71,1900-01-03,1829,Gift,Mand,Bredgade,25,55.682372000000,12.587572800000
+1493,Møller,Gamborg,71,1900-01-03,1829,Gift,Mand,Bredgade,25,55.682535300000,12.587041400000
+1494,Møllerkusk,Olsen,32,1900-01-01,1868,Ugift,Mand,"Nørre Farimagsgade",42,NULL,NULL
+1498,Mønstertegner,Hanemann,44,1899-12-28,1855,NULL,Mand,"Nørre Allé",41,55.694778200000,12.561043700000
+1501,Nagelsmed,Jensen,36,1910-04-25,1874,Gift,Mand,Stengade,3,NULL,NULL
+1502,Natportier,Jensen,29,1900-01-02,1871,Ugift,Mand,Vognmagergade,18,NULL,NULL
+1505,Navigationselev,Thiersen,61,1910-04-25,1849,Gift,Mand,Nørrebrogade,50,55.689622700000,12.556451200000
+1505,Navigationselev,Thiersen,61,1910-04-25,1849,Gift,Mand,Nørrebrogade,50,55.689794300000,12.556733400000
+1505,Navigationselev,Thiersen,61,1910-04-25,1849,Gift,Mand,Nørrebrogade,50,55.689950300000,12.557024300000
+1507,Nitter,Olsen,28,1910-04-06,1882,Ugift,Kvinde,Collinsgade,4,55.694634800000,12.578400600000
+1513,Oberst,Johnson,41,1900-01-03,1859,Gift,Mand,NULL,NULL,NULL,NULL
+1514,Oberstinde,Olsen,30,1900-01-05,1870,Ugift,Mand,Fælledvej,20,55.690122800000,12.560817400000
+1514,Oberstinde,Olsen,30,1900-01-05,1870,Ugift,Mand,Fælledvej,20,55.690071900000,12.561315800000
+1517,Officersaspirant,Mann,39,1900-01-05,1861,Gift,Mand,Badstuestræde,13,55.677822100000,12.575838400000
+1536,Opvasker,Spang,53,1900-01-04,1847,Gift,Mand,Holsteinsgade,40,55.699156100000,12.585876700000
+1546,Overinspektør,Hansen,61,1910-04-25,1849,Ugift,Kvinde,Nørrebrogade,42,55.689281900000,12.557360000000
+1548,Overkanoner,Hansen,67,1910-04-27,1843,Gift,Mand,Dronningensgade,3,55.670232900000,12.588867000000
+1548,Overkanoner,Hansen,67,1910-04-27,1843,Gift,Mand,Dronningensgade,3,55.670271600000,12.588604800000
+1548,Overkanoner,Hansen,67,1910-04-27,1843,Gift,Mand,Dronningensgade,3,55.670437800000,12.588620400000
+1548,Overkanoner,Hansen,67,1910-04-27,1843,Gift,Mand,Dronningensgade,3,55.670260700000,12.588809400000
+1548,Overkanoner,Hansen,67,1910-04-27,1843,Gift,Mand,Dronningensgade,3,55.670338700000,12.588345900000
+1548,Overkanoner,Hansen,67,1910-04-27,1843,Gift,Mand,Dronningensgade,3,55.670363300000,12.588967200000
+1549,Overkelner,Ringberg,61,1877-01-03,1816,Gift,Mand,Pilestræde,4,NULL,NULL
+1556,Overpakmester,Steentoft,0,1877-01-02,1877,NULL,Kvinde,Tjørnegade,4,NULL,NULL
+1568,Oversøminør,Riege,23,1900-01-05,1877,Ugift,Kvinde,Korsgade,42,55.686388000000,12.555048900000
+1572,Ovnbygger,Jacobs,77,1900-01-04,1823,Gift,Mand,Løvstræde,9,NULL,NULL
+1573,Ovnsætter,Prammann,87,1900-01-05,1813,Enkestand,Mand,"Vester Voldgade",113,55.673549500000,12.575297100000
+1576,Pakhusformand,Ekberg,68,1900-01-05,1832,Gift,Mand,Sølvgade,11,55.685444600000,12.585152400000
+1582,Pakmester,Brenneke,NULL,1910-10-04,NULL,Gift,Mand,Kingosgade,6,55.672129400000,12.545316400000
+1585,Papdækker,Bendtsen,29,1910-04-25,1881,Gift,Mand,Saxogade,86,55.668355900000,12.551064200000
+1586,Papirarbejder,"Petersen (kaldet Valentin)",62,1910-04-25,1848,Enkestand,Kvinde,Nansensgade,58,55.683160000000,12.564928500000
+1586,Papirarbejder,"Petersen (kaldet Valentin)",62,1910-04-25,1848,Enkestand,Kvinde,Nansensgade,58,55.682980100000,12.565133800000
+1586,Papirarbejder,"Petersen (kaldet Valentin)",62,1910-04-25,1848,Enkestand,Kvinde,Nansensgade,58,55.683043700000,12.565221600000
+1586,Papirarbejder,"Petersen (kaldet Valentin)",62,1910-04-25,1848,Enkestand,Kvinde,Nansensgade,58,55.683105800000,12.565304000000
+1594,Parykmager,Rasmussen,53,1910-04-24,1857,Ugift,Mand,"Dronningens Tværgade",54,55.684780300000,12.583473800000
+1601,Pensionatejer,Jensen,60,1880-01-03,1820,Gift,Mand,Nørrebrogade,56,55.689883400000,12.555843700000
+1607,Pianistinde,Juul,47,1880-01-04,1833,NULL,Mand,Schønbergsgade,5,55.674931000000,12.551217100000
+1608,Pianoarbejder,Christiansen,16,1910-04-27,1894,Ugift,Kvinde,Dannebrogsgade,36,55.669433500000,12.552705500000
+1610,Pianofortearbejder,Eiler,59,1910-04-25,1851,Gift,Mand,Wildersgade,22,55.672780400000,12.589601100000
+1631,Politiinspektør,Jørgensen,60,1877-01-05,1817,Ugift,Mand,Hyskenstræde,14,55.677986800000,12.576606100000
+1635,Porcelænsmaler,Larsen,0,1877-01-08,1877,"Uægte barn",Kvinde,"Sankt Annæ Plads",10,55.681448900000,12.591031200000
+1635,Porcelænsmaler,Larsen,0,1877-01-08,1877,"Uægte barn",Kvinde,"Sankt Annæ Plads",10,55.681339800000,12.590952300000
+1635,Porcelænsmaler,Larsen,0,1877-01-08,1877,"Uægte barn",Kvinde,"Sankt Annæ Plads",10,55.681217200000,12.591083100000
+1636,Porcelænsmalerske,Piper,44,1877-01-08,1833,Gift,Mand,Kronprinsensgade,2,55.680475800000,12.578754200000
+1637,Portefeuillearbejder,Philipsen,20,1877-01-08,1857,Ugift,Mand,Frederiksborggade,29,55.684989800000,12.567749300000
+1645,Posetrykkerske,Johansen,60,1910-04-27,1850,Gift,Mand,Amaliegade,28,55.685267300000,12.594508100000
+1645,Posetrykkerske,Johansen,60,1910-04-27,1850,Gift,Mand,Amaliegade,28,55.685132200000,12.594642300000
+1645,Posetrykkerske,Johansen,60,1910-04-27,1850,Gift,Mand,Amaliegade,28,55.685184000000,12.594702500000
+1646,Positivspiller,Ljunggren,50,1910-04-28,1860,Gift,Mand,"Lille Strandstræde",18,55.681101700000,12.590118400000
+1647,Possementmager,Oppfeldt,54,1910-04-27,1856,Gift,Mand,Ullerupgade,6,55.668106900000,12.546503700000
+1653,Postfuldmægtig,Holm,45,1900-01-05,1855,Gift,Mand,Nørregade,25,NULL,NULL
+1656,Postkusk,Petersen,50,1900-01-05,1850,Gift,Mand,"Sankt Annæ Gade",20,55.673655400000,12.591755900000
+1659,Postpakmester,Wulff,22,1900-01-04,1878,Ugift,Mand,Nansensgade,30,55.681912000000,12.563457000000
+1660,Pottemager,Schou,63,1900-01-03,1837,Gift,Mand,Sundevedsgade,2,55.670874100000,12.543798400000
+1663,Preliminarist,Frisch,60,1910-04-26,1850,Gift,Mand,Hellerup,NULL,NULL,NULL
+1664,Premierløjtnant,Hansen,54,1910-04-25,1856,Enkestand,Mand,Prinsessegade,9,55.671172600000,12.591820500000
+1667,Presserske,Sørensen,47,1900-01-07,1853,Gift,Mand,NULL,NULL,NULL,NULL
+1674,Professorinde,Bønneløkke,65,1899-07-01,1834,Enkestand,Kvinde,Fiolstræde,50,NULL,NULL
+1676,"Prokurator (Procurator)",Bentzen,49,1899-06-29,1850,Gift,Mand,Eckersbergsgade,21,55.691558800000,12.574897200000
+1679,Proprietær,Andersen,19,1910-04-26,1891,Ugift,Kvinde,Krystalgade,11,55.680935700000,12.573919700000
+1679,Proprietær,Andersen,19,1910-04-26,1891,Ugift,Kvinde,Krystalgade,11,55.680790000000,12.574017100000
+1680,Prostitueret,Nielsen,76,1910-04-26,1834,Enkestand,Mand,Upsalagade,4,55.690907600000,12.577710900000
+1680,Protokolfører,Nielsen,76,1910-04-26,1834,Enkestand,Mand,Upsalagade,4,55.690907600000,12.577710900000
+1681,Provst,Eriksen,23,1910-04-27,1887,Ugift,Kvinde,Ågade,102,55.687286900000,12.542842300000
+1690,Pølsemager,Knudsen,69,1910-04-28,1841,Enkestand,Mand,Matthæusgade,6,55.669950500000,12.551781200000
+1695,Rangerformand,Olsen,20,1910-04-29,1890,Ugift,Mand,Slagelsegade,3,55.698373700000,12.579544000000
+1696,Realskolelærer,Fausing,62,1910-04-29,1848,Ugift,Mand,NULL,NULL,NULL,NULL
+1697,Rebslager,Petersen,55,1909-10-15,1854,Enkestand,Kvinde,"Sankt Annæ Gade",10,55.673825400000,12.591452000000
+1702,Regissør,Schumann,63,1877-01-10,1814,Ugift,Mand,Fælledvej,1,55.688587300000,12.559548600000
+1710,NULL,Thestrup,49,1877-01-04,1828,Ugift,Kvinde,Prinsessegade,16,55.671012600000,12.592073200000
+1715,Rentier,"Matthisen - Hansen",76,1909-10-14,1833,Gift,Mand,Åbenrå,31,55.683464000000,12.575232500000
+1715,Rentrice,"Matthisen - Hansen",76,1909-10-14,1833,Gift,Mand,Åbenrå,31,55.683464000000,12.575232500000
+1716,Reparatør,Nielsen,31,1909-10-15,1878,Gift,Mand,Kildevældsgade,36,55.714713000000,12.574338000000
+1719,Reservejordemoder,"Werner Lassen",43,1909-10-14,1866,Ugift,Kvinde,Istedgade,34,55.670877400000,12.558475800000
+1727,Retouchøse,Jakobsen,50,1909-10-15,1859,Ugift,Mand,"Gasværksvej (Gasvej)",13,NULL,NULL
+1728,Retsbud,Aamark,81,1900-01-05,1819,Gift,Mand,Pileallé,7,NULL,NULL
+1738,Rodemesterassistent,Bech,32,1900-01-07,1868,Ugift,Kvinde,"Sankt Peders Stræde",19,55.679297300000,12.569872700000
+1740,Rulle,Andersen,30,1900-01-05,1870,Gift,Mand,Korsgade,32,NULL,NULL
+1742,Rullekone,Plesner,45,1909-10-14,1864,Gift,Mand,"Nordre Røse Vej",4,55.658289700000,12.610781800000
+1743,Rullemand,Jørgensen,53,1900-01-06,1847,Gift,Mand,Nansensgade,17,NULL,NULL
+1744,Ruller,Madsen,47,1900-01-06,1853,Gift,Mand,Oehlenschlægersgade,14,55.671122500000,12.549650900000
+1746,Rullestue,Bistrup,71,1900-01-05,1829,Gift,Mand,Vimmelskaftet,47,55.678519800000,12.574401500000
+1751,NULL,Karlson,31,1910-04-07,1879,Ugift,Mand,Dannebrogsgade,54,NULL,NULL
+1753,Sadelmager,Larsen,21,1910-04-07,1889,Ugift,Kvinde,Thorsgade,46,55.696548000000,12.548929600000
+1753,Sadelmager,Larsen,21,1910-04-07,1889,Ugift,Kvinde,Thorsgade,46,55.696489600000,12.549042700000
+1753,Sadelmager,Larsen,21,1910-04-07,1889,Ugift,Kvinde,Thorsgade,46,55.696432400000,12.548974100000
+1753,Sadelmager,Larsen,21,1910-04-07,1889,Ugift,Kvinde,Thorsgade,46,55.696305000000,12.548819700000
+1753,Sadelmager,Larsen,21,1910-04-07,1889,Ugift,Kvinde,Thorsgade,46,55.696198600000,12.548692700000
+1755,Sadelmagermester,Wibe,72,1909-10-14,1837,Gift,Mand,Østerbrogade,62,55.698323600000,12.578839300000
+1760,Sandgraver,Stabell,43,1910-04-24,1867,Gift,Mand,NULL,NULL,NULL,NULL
+1761,Sandhandler,Heger,43,1910-04-28,1867,Gift,Mand,"Rosenvængets Allé",2,55.698659500000,12.578769500000
+1766,Sanglærer,Klæbel,65,1900-01-06,1835,Gift,Mand,Adelgade,7,55.682978800000,12.582596700000
+1769,Savskærer,Gotthjælpsen,31,1910-04-07,1879,Ugift,Mand,Prinsensgade,17,NULL,NULL
+1770,Savværksarbejder,Lübech,71,1900-01-03,1829,Enkestand,Mand,Sjællandsgade,7,55.693172900000,12.552198900000
+1771,Sejlmager,Pedersen,16,1900-01-07,1884,Ugift,Kvinde,NULL,NULL,NULL,NULL
+1772,Sejlmagermester,Høck,37,1900-01-07,1863,Ugift,Mand,"Christianshavns Voldgade",3,NULL,NULL
+1774,Sekretær,Thomsen,26,1900-01-06,1874,Gift,Mand,Absalonsgade,35,55.669176600000,12.555777700000
+1776,Seminarieelev,Andersen,28,1900-01-03,1872,Gift,Mand,Willemoesgade,52,55.698296700000,12.585474000000
+1780,Sergent,Hauch,NULL,NULL,NULL,NULL,Kvinde,NULL,NULL,NULL,NULL
+1796,Skibbygger,Kragh,48,1900-01-08,1852,Gift,Mand,Istedgade,36,55.670767900000,12.558117500000
+1798,Skibsbefragter,Pedersen,73,1900-01-06,1827,Gift,Mand,"Ny Carlsberg Vej",18,55.665854400000,12.545255500000
+1821,Skibsjomfru,Sørensen,65,NULL,NULL,NULL,Mand,Prinsessegade,10,55.670836400000,12.591784800000
+1824,Skibskonstruktør,Kolding,52,1910-04-07,1858,Ugift,Kvinde,Saxogade,37,55.670581400000,12.551019100000
+1833,Skibstømrerlærling,Thomasen,44,1910-04-08,1866,Gift,Mand,Flensborggade,41,55.666413100000,12.547763000000
+1834,Skibsværftsarbejder,Berg,0,1879-12-26,1879,NULL,Mand,Meriansgade,2,NULL,NULL
+1838,Skindfarver,Brandt,91,1910-04-29,1819,Ugift,Kvinde,Willemoesgade,56,55.698414000000,12.586058800000
+1848,Skolelærer,Dyhr,36,1909-10-18,1873,Ugift,Mand,Ålekistevej,93,NULL,NULL
+1851,Skolesøgende,Dansborg,57,1910-04-25,1853,Gift,Mand,Valdemarsgade,43,55.669013100000,12.549350600000
+1853,Skomagerlærling,Schneider,0,1880-01-04,1880,NULL,Kvinde,Gothersgade,105,55.683705400000,12.576422000000
+1856,Skomagersvend,Pfeiffert,71,1879-10-27,1808,Enkestand,Mand,Ladegårdsvej,9,NULL,NULL
+1857,Skopudser,Larsen,39,1879-11-27,1840,Ugift,Mand,Ladegårdsvej,9,NULL,NULL
+1858,Skorstensfejer,Larsen,49,1900-01-05,1851,Gift,Mand,Dronningensgade,47,55.671569500000,12.591065600000
+1860,Skorstensfejermester,Christensen,34,1900-01-06,1866,Ugift,Mand,Pilestræde,72,NULL,NULL
+1861,Skorstensfejersvend,Kiel,0,1879-12-26,1879,NULL,Mand,Amaliegade,26,55.685134500000,12.594396700000
+1862,Skotøjsarbejder,Pedersen,50,1910-04-30,1860,Gift,Mand,"Toftegårds Allé",7,55.665975700000,12.517441000000
+1864,Skotøjsfabrikant,Jensen,54,1910-04-28,1856,Enkestand,Kvinde,Turesensgade,22,55.681938600000,12.562282000000
+1867,Skriftstøber,Reisz,46,1900-01-09,1854,Ugift,Mand,NULL,NULL,NULL,NULL
+1868,Skriver,Blæhr,37,1900-01-03,1863,Gift,Mand,"Gammel Mønt",27,55.681513500000,12.580527000000
+1869,Skrædder,Hansen,52,1900-01-03,1848,Ugift,Mand,"Uden bopæl",NULL,NULL,NULL
+1869,Skrædderinde,Hansen,52,1900-01-03,1848,Ugift,Mand,"Uden bopæl",NULL,NULL,NULL
+1876,Skuespillerinde,Lundberg,76,1877-01-09,1801,Ugift,Kvinde,Amaliegade,26,55.685134500000,12.594396700000
+1880,Slagterlærling,Dahl,69,1877-01-04,1808,Gift,Mand,"Nørre Vold",60,NULL,NULL
+1887,Smedelærling,Borup,NULL,NULL,NULL,NULL,Mand,NULL,NULL,NULL,NULL
+1889,Smedesvend,Nordlander,57,1910-04-28,1853,Gift,Mand,"Nordre Frihavnsgade",17,55.700814800000,12.579549700000
+1889,Smedesvend,Nordlander,57,1910-04-28,1853,Gift,Mand,"Nordre Frihavnsgade",17,55.701170600000,12.579100000000
+1889,Smedesvend,Nordlander,57,1910-04-28,1853,Gift,Mand,"Nordre Frihavnsgade",17,55.701270100000,12.579085400000
+1889,Smedesvend,Nordlander,57,1910-04-28,1853,Gift,Mand,"Nordre Frihavnsgade",17,55.700979300000,12.579255400000
+1891,Smørhandler,Salomonsen,22,1908-07-29,1886,Ugift,Kvinde,NULL,NULL,NULL,NULL
+1896,Snedker,Severinsen,51,1910-04-08,1859,Gift,Mand,"Gammel Kongevej",47,55.674190100000,12.550852200000
+1896,Snedker,Severinsen,51,1910-04-08,1859,Gift,Mand,"Gammel Kongevej",47,55.674013200000,12.550724500000
+1896,Snedker,Severinsen,51,1910-04-08,1859,Gift,Mand,"Gammel Kongevej",47,55.673839700000,12.550591000000
+1898,Snedkerlærling,Sørensen,59,1910-04-06,1851,Gift,Mand,"Gammel Kongevej",33,55.673458700000,12.553877000000
+1898,Snedkerlærling,Sørensen,59,1910-04-06,1851,Gift,Mand,"Gammel Kongevej",33,55.673577400000,12.553575900000
+1898,Snedkerlærling,Sørensen,59,1910-04-06,1851,Gift,Mand,"Gammel Kongevej",33,55.673623600000,12.553351200000
+1905,Speditør,Hansen,59,1910-04-07,1851,Separeret,Kvinde,Stampesgade,3,NULL,NULL
+1907,Spillemand,Bentsen,NULL,NULL,NULL,NULL,Mand,NULL,NULL,NULL,NULL
+1912,Spolerske,Baggesen,61,1910-04-29,1849,Gift,Mand,Prinsessegade,10,55.670836400000,12.591784800000
+1915,Sporvejsfunktionær,Jørgensen,26,1910-04-29,1884,Gift,Mand,Nygårdsvej,21,55.712019600000,12.572970100000
+1917,Sporvognsfunktionær,Vinsenzen,76,1910-04-30,1834,Enkestand,Mand,NULL,NULL,NULL,NULL
+1923,Sprøjtefører,Jensen,66,1910-04-29,1844,NULL,Mand,"Nørre Allé",41,55.694778200000,12.561043700000
+1925,Stabslæge,Olsson,68,1910-04-30,1842,Ugift,Mand,Ahlefeldtsgade,22,55.683388400000,12.565797300000
+1932,Stationsforstander,Poulsen,75,1899-06-30,1824,Gift,Mand,"Gasværksvej (Gasvej)",22,NULL,NULL
+1940,Stemmer,Simonsen,39,1899-05-13,1860,Ugift,Kvinde,NULL,NULL,NULL,NULL
+1950,"Stereotypør (Stereotypist)",Sørensen,75,1910-05-01,1835,Gift,Mand,Møllegade,28,NULL,NULL
+1951,Steward,Møller,40,1863-01-07,1823,NULL,Kvinde,"Sankt Peders Stræde",49,55.678661800000,12.567141000000
+1951,Steward,Møller,40,1863-01-07,1823,NULL,Kvinde,"Sankt Peders Stræde",49,55.678569400000,12.567323500000
+1954,Stiverske,Jørgensen,45,1863-01-08,1818,Gift,Mand,NULL,NULL,NULL,NULL
+1956,Stolemager,Kempen,79,1910-05-01,1831,Gift,Mand,"Enghave Plads",13,55.666797400000,12.545779100000
+1960,Strygejomfru,Aakesdotter,56,1910-04-29,1854,Ugift,Kvinde,Reverdilsgade,5,55.671694800000,12.563423500000
+1963,Strygning,Andreasen,39,1910-04-27,1871,Ugift,Kvinde,NULL,NULL,NULL,NULL
+1969,Studine,Hansen,52,1910-05-01,1858,Gift,Mand,Frydendalsvej,15,55.672629700000,12.536080000000
+1971,Stuepige,Jensen,41,1899-07-01,1858,Ugift,Kvinde,"Lille Torvegade",22,NULL,NULL
+1972,Stukkatør,Godemann,27,1899-07-01,1872,Gift,Mand,Dannebrogsgade,35,55.669446600000,12.553040200000
+1974,Styrmandselev,Pedersen,52,1899-07-02,1847,Enkestand,Mand,Fiskergade,5,NULL,NULL
+1977,Støberiarbejder,Rasmussen,31,1910-04-30,1879,Gift,Mand,Dagmarsgade,8,55.697381200000,12.548359500000
+1980,Sukkerhusarbejderske,Nordberg,79,1910-04-30,1831,Ugift,Kvinde,Solitudevej,15,NULL,NULL
+1983,Sukkervarefabrikant,Knudsen,70,1862-12-30,1792,Gift,Mand,Adelgade,87,NULL,NULL
+1985,Syer,Rodskjær,61,1910-05-01,1849,Gift,Mand,NULL,NULL,NULL,NULL
+1986,Syerske,Nielsen,22,1910-04-29,1888,Ugift,Mand,NULL,NULL,NULL,NULL
+1989,Sygepasser,Andersen,68,1910-04-29,1842,Gift,Mand,Wesselsgade,16,55.685600100000,12.559670600000
+1994,Sygeplejerskeelev,"Hansen Semberg",73,1910-04-28,1837,Separeret,Mand,"Nørre Allé",41,55.694778200000,12.561043700000
+1998,Sypige,Søborg,74,1910-05-02,1836,Ugift,Kvinde,Klerkegade,25,55.686734800000,12.583721900000
+1998,Sypige,Søborg,74,1910-05-02,1836,Ugift,Kvinde,Klerkegade,25,55.686755200000,12.583640300000
+1998,Sypige,Søborg,74,1910-05-02,1836,Ugift,Kvinde,Klerkegade,25,55.686707700000,12.583694100000
+1998,Sypige,Søborg,74,1910-05-02,1836,Ugift,Kvinde,Klerkegade,25,55.686785900000,12.583423000000
+1998,Sypige,Søborg,74,1910-05-02,1836,Ugift,Kvinde,Klerkegade,25,55.686868600000,12.583164100000
+1998,Sypige,Søborg,74,1910-05-02,1836,Ugift,Kvinde,Klerkegade,25,55.686913600000,12.582971300000
+1998,Sypige,Søborg,74,1910-05-02,1836,Ugift,Kvinde,Klerkegade,25,55.686799400000,12.582861600000
+1998,Sypige,Søborg,74,1910-05-02,1836,Ugift,Kvinde,Klerkegade,25,55.686748900000,12.583054400000
+2000,Systue,Petersen,30,1910-05-03,1880,Gift,Mand,NULL,NULL,NULL,NULL
+2019,Sømand,Larsen,64,1880-01-01,1816,NULL,Mand,NULL,NULL,NULL,NULL
+2021,Sømmerske,Olsen,28,1880-01-06,1852,NULL,Mand,Studiestræde,39,55.678051700000,12.568239100000
+2027,Tandlægestuderende,Andersen,46,1910-09-27,1864,Gift,Mand,Klosterstræde,12,55.679087100000,12.575623800000
+2028,Tandtekniker,Hansen,57,1910-04-08,1853,Gift,Mand,Oehlenschlægersgade,10,55.671394300000,12.549636000000
+2028,Tandtekniker,Hansen,57,1910-04-08,1853,Gift,Mand,Oehlenschlægersgade,10,55.671424400000,12.549449300000
+2032,Tapettrykker,Schiørring,79,1863-01-07,1784,Ugift,Kvinde,Dyrkøb,3,55.679014700000,12.573112500000
+2033,Tarmrenser,Christensen,59,1910-05-04,1851,Enkestand,Kvinde,Ravnsborggade,16,55.689051800000,12.562726700000
+2033,Tarmrenser,Christensen,59,1910-05-04,1851,Enkestand,Kvinde,Ravnsborggade,16,55.688943100000,12.562598100000
+2034,"Teaterdirektør (Theaterdirektør)",Jørgensen,25,1899-07-03,1874,Ugift,Mand,NULL,NULL,NULL,NULL
+2038,Tegneelev,Lindhardt,41,1899-06-30,1858,Gift,Mand,Enghavevej,2,55.671385800000,12.545686500000
+2041,Tegner,Nielsen,80,1910-05-03,1830,Gift,Mand,"Nørre Allé",41,55.694778200000,12.561043700000
+2042,Tegnerske,Jørgensen,55,1910-05-02,1855,Ugift,Mand,Asylgade,14,NULL,NULL
+2049,Telefonelev,Mogensen,50,1899-07-04,1849,Ugift,Kvinde,Sortedamsgade,19,NULL,NULL
+2050,Telefonist,Petersen,41,1899-07-01,1858,Gift,Mand,"Nordre Frihavnsgade",34,55.701766500000,12.581844600000
+2050,Telefonist,Petersen,41,1899-07-01,1858,Gift,Mand,"Nordre Frihavnsgade",34,55.701826900000,12.581965000000
+2057,Telegrafbestyrer,Steenberg,49,1910-05-03,1861,Ugift,Kvinde,"H.C. Ørsteds Vej",18,55.677479300000,12.546854300000
+2058,Telegrafbud,Villumsen,75,1910-05-02,1835,Gift,Mand,Strandgade,16,NULL,NULL
+2059,Telegrafelev,From,36,1863-08-27,1827,Gift,Mand,"Store Brøndstræde",14,NULL,NULL
+2064,Telegrafmedhjælper,Petersen,66,1899-07-02,1833,Gift,Mand,Dannebrogsgade,2,55.672420200000,12.552346800000
+2064,Telegrafmedhjælper,Petersen,66,1899-07-02,1833,Gift,Mand,Dannebrogsgade,2,55.672302800000,12.552351700000
+2064,Telegrafmedhjælper,Petersen,66,1899-07-02,1833,Gift,Mand,Dannebrogsgade,2,55.672205100000,12.552369500000
+2068,Tilskærerske,Hammerstrøm,45,1910-04-10,1865,Gift,Mand,Blegdamsvej,NULL,NULL,NULL
+2072,Tjenerlærling,Christensen,71,NULL,NULL,Gift,Mand,Rigensgade,28,55.688540000000,12.583869700000
+2076,Tjenestetyende,Jensen,64,1899-07-02,1835,Gift,Mand,Nørrebrogade,156,55.695378100000,12.547510300000
+2077,Tobaksarbejder,Hansen,82,1910-04-09,1828,NULL,Mand,"Johnstrups Alle",1,55.681368200000,12.549856400000
+2078,Tobaksarbejderske,Andersen,59,1899-05-04,1840,Gift,Mand,Vesterbrogade,97,55.671675300000,12.546669500000
+2078,Tobaksarbejderske,Andersen,59,1899-05-04,1840,Gift,Mand,Vesterbrogade,97,55.671656500000,12.546597500000
+2078,Tobaksarbejderske,Andersen,59,1899-05-04,1840,Gift,Mand,Vesterbrogade,97,55.671624900000,12.546455700000
+2081,Tobakshandler,Sjøstad,39,1899-07-01,1860,Gift,Mand,"Uden bopæl",NULL,NULL,NULL
+2082,Tobaksspinder,Jönsson,28,1910-05-03,1882,Ugift,Mand,Sølvgade,101,55.690255500000,12.572217900000
+2083,Togbetjent,Rasmussen,34,1910-05-03,1876,Ugift,Kvinde,"Christianshavns Kanal",10,55.674870000000,12.593397000000
+2097,Trafikassistent,Larsen,59,1910-05-02,1851,Gift,Mand,Kingosgade,6,55.672129400000,12.545316400000
+2103,Transportarbejder,Larsen,64,1910-05-03,1846,Gift,Mand,Højdevej,12,55.654491700000,12.612591100000
+2106,Trompeter,Grøndahl,44,1899-12-31,1855,Ugift,Mand,Frederiksgade,21,55.684536100000,12.591738600000
+2112,Træarbejder,Martin,57,1900-01-07,1843,Ugift,Mand,Studiestræde,49,55.677770000000,12.567378500000
+2112,Træarbejder,Martin,57,1900-01-07,1843,Ugift,Mand,Studiestræde,49,55.677747500000,12.567421800000
+2117,Træner,Nielsen,74,1910-05-04,1836,Gift,Mand,Bangertsgade,12,55.689252100000,12.553809300000
+2120,Træskærer,Wagner,57,1880-01-04,1823,Ugift,Mand,Adelgade,57,55.685969800000,12.584959100000
+2122,"Trådhandlerske (Traadhandlerske)",Hansen,57,1880-01-07,1823,Gift,Mand,Sundby,NULL,NULL,NULL
+2123,Tyende,Christensen,42,1910-05-04,1868,Gift,Mand,Ahornsgade,10,NULL,NULL
+2127,Tøjhusarbejder,Sørensen,78,1910-05-03,1832,Gift,Mand,Løgstørgade,22,NULL,NULL
+2129,Tømmerhandler,Pingel,48,1910-05-04,1862,Gift,Mand,Vesterbrogade,24,55.672963900000,12.558193900000
+2129,Tømmerhandler,Pingel,48,1910-05-04,1862,Gift,Mand,Vesterbrogade,24,55.673213100000,12.557960100000
+2129,Tømmerhandler,Pingel,48,1910-05-04,1862,Gift,Mand,Vesterbrogade,24,55.673236500000,12.558093100000
+2134,Uddeler,Andersen,84,1910-05-03,1826,Ugift,Mand,NULL,NULL,NULL,NULL
+2140,Underdirektrice,Lauritsen,35,1909-10-16,1874,Gift,Mand,NULL,NULL,NULL,NULL
+2141,Underdirektør,Andersen,76,1910-03-30,1834,Gift,Mand,Havnegade,1,NULL,NULL
+2145,Underkanonér,Christensen,44,1899-07-01,1855,Skilt,Kvinde,Laksegade,21,NULL,NULL
+2146,Undermester,Kure,50,1862-12-31,1812,NULL,Kvinde,"Sankt Gertruds Stræde",1,55.682882500000,12.574302200000
+2146,Undermester,Kure,50,1862-12-31,1812,NULL,Kvinde,"Sankt Gertruds Stræde",1,55.682896000000,12.574161700000
+2149,Underskibsminør,Øckenholt,55,1910-09-29,1855,Enkestand,Mand,Odensegade,16,55.699821000000,12.579979700000
+2149,Underskibsminør,Øckenholt,55,1910-09-29,1855,Enkestand,Mand,Odensegade,16,55.699867100000,12.580149900000
+2149,Underskibsminør,Øckenholt,55,1910-09-29,1855,Enkestand,Mand,Odensegade,16,55.699688200000,12.580279200000
+2149,Underskibsminør,Øckenholt,55,1910-09-29,1855,Enkestand,Mand,Odensegade,16,55.699656800000,12.580117000000
+2151,Urmager,Brakle,78,1900-01-08,1822,Enkestand,Mand,Fælledvej,1,55.688587300000,12.559548600000
+2151,Urmagerlærling,Brakle,78,1900-01-08,1822,Enkestand,Mand,Fælledvej,1,55.688587300000,12.559548600000
+2154,Vaffelbager,Larsen,60,1900-01-09,1840,Enkestand,Mand,Prinsessegade,17,55.671416400000,12.592366400000
+2154,Vaffelbager,Larsen,60,1900-01-09,1840,Enkestand,Mand,Prinsessegade,17,55.671532500000,12.592550300000
+2160,Varmemester,Sørensen,53,1909-10-17,1856,Ugift,Mand,Larsbjørnsstræde,13,55.678286000000,12.569424700000
+2164,Vaskepige,Larsen,53,1899-07-03,1846,Enkestand,Mand,"Gammel Mønt",2,55.681018100000,12.581847200000
+2166,Vaskeriarbejder,Hansen,50,1889-07-03,1839,Gift,Mand,Havnegade,49,55.678163800000,12.591944300000
+2172,Vejer,Wengler,37,1900-01-07,1863,Gift,Mand,Vesterbrogade,42,55.672795300000,12.555653400000
+2174,Vejmand,Andersen,56,1900-01-08,1844,Gift,Mand,Landemærket,35,NULL,NULL
+2175,Vekselerer,Skeel,82,1900-01-06,1818,Enkestand,Mand,"Nørre Allé",41,55.694778200000,12.561043700000
+2177,Veterinær,Jacobs,NULL,NULL,NULL,NULL,Mand,NULL,NULL,NULL,NULL
+2178,Veterinærelev,Petersen,29,1900-01-09,1871,Gift,Mand,Solitudevej,6,55.689829800000,12.554469900000
+2179,Veterinærstuderende,Christophersen,38,1900-01-08,1862,Separeret,Kvinde,Helsingørsgade,6,NULL,NULL
+2184,Vicevært,Hansen,60,1899-06-30,1839,Gift,Mand,Oehlenschlægersgade,35,55.669508700000,12.550075700000
+2185,Viceværtinde,Jørgensen,59,1910-05-01,1851,Gift,Mand,NULL,NULL,NULL,NULL
+2186,Vikar,Hansen,53,1910-04-30,1857,Gift,Mand,"H.C. Andersens Gade",9,NULL,NULL
+2189,Vikler,Carlson,47,1909-10-18,1862,Ugift,Mand,Ryesgade,66,55.694614800000,12.571043100000
+2189,Vikler,Carlson,47,1909-10-18,1862,Ugift,Mand,Ryesgade,66,55.694621100000,12.571208200000
+2189,Vikler,Carlson,47,1909-10-18,1862,Ugift,Mand,Ryesgade,66,55.694563000000,12.571325200000
+2189,Vikler,Carlson,47,1909-10-18,1862,Ugift,Mand,Ryesgade,66,55.694513100000,12.571420800000
+2192,Vildthandler,Andersen,37,NULL,NULL,Ugift,Kvinde,Guldbergsgade,13,NULL,NULL
+2194,Vinduespudser,Hansen,64,1899-07-04,1835,Gift,Mand,"Jakob Dannefærds Vej",5,55.683564300000,12.554263400000
+2197,Vintapper,Keeman,28,1909-10-13,1881,Gift,Mand,NULL,NULL,NULL,NULL
+2198,Violinbygger,Hammershøj,75,1899-07-06,1824,Gift,Mand,Sofievej,25,NULL,NULL
+2202,Vognfører,Nielsen,66,1899-07-05,1833,Gift,Mand,Estlandsgade,3,NULL,NULL
+2207,Vognsmører,Sørensen,57,1899-07-03,1842,Gift,Mand,Larsbjørnsstræde,12,55.678306000000,12.569661700000
+2209,Volontør,Chramer,37,1899-07-05,1862,Gift,Mand,"L.I. Brandes Alle",3,55.684073000000,12.542262300000
+2212,Vægtsmed,Jensen,29,1899-07-03,1870,Separeret,Mand,Haraldsgade,107,55.709972000000,12.560410400000
+2226,"Xylograf (Zylograf)",Klein,75,1900-01-09,1825,Gift,Mand,"Ny Vestergade",12,NULL,NULL
+2230,Øltapper,Nielsen,39,1900-01-10,1861,Gift,Mand,Vestergade,22,55.677259300000,12.569284800000
+2231,Øltapperkarl,Jørgensen,79,1900-01-08,1821,Gift,Mand,Ewaldsgade,6,55.683278800000,12.557845200000
+2232,NULL,Petersen,44,1900-01-10,1856,Gift,Mand,Sankelmarksgade,5,55.666564100000,12.548575900000
+2238,NULL,Balgers-Jensen,42,1900-01-06,1858,Ugift,Mand,Carolinevej,10,NULL,NULL
+2243,NULL,Nielsen,18,1909-10-20,1891,Ugift,Kvinde,Hornemansgade,NULL,NULL,NULL
+2246,NULL,Johansen,45,1909-10-19,1864,Skilt,Mand,NULL,NULL,NULL,NULL
+2247,NULL,Eilersen,20,1909-10-19,1889,Ugift,Mand,NULL,NULL,NULL,NULL
+2252,NULL,Nielsen,17,1899-07-06,1882,Ugift,Mand,"Lille Istedgade",5,55.670762600000,12.560133100000
+2263,NULL,Jørgensen,64,1900-01-11,1836,Gift,Mand,"Prins Jørgens Gade",12,55.687911800000,12.554873600000
+2264,NULL,Olsen,25,1900-01-09,1875,Ugift,Mand,Murergade,12,55.684207100000,12.557399200000
+2266,NULL,Andersen,68,1900-01-09,1832,Gift,Mand,Wildersgade,38,55.673460200000,12.590695600000
+2272,NULL,Christoph,62,1909-10-18,1847,Gift,Mand,Istedgade,96,55.669035200000,12.552385600000
+2273,NULL,Munck,44,1900-01-11,1856,Gift,Mand,Laksegade,5,55.678208600000,12.585280600000
+2275,NULL,Hartvigsen,NULL,NULL,NULL,NULL,Mand,NULL,NULL,NULL,NULL
+2287,NULL,Christensen,54,1876-12-24,1822,Ugift,Mand,Adelgade,57,55.685969800000,12.584959100000
+2289,NULL,Randrup,0,1877-01-06,1877,NULL,Mand,Amaliegade,23,55.685265200000,12.594007700000
+2290,NULL,Petersen,0,1877-01-03,1877,NULL,Kvinde,Amaliegade,26,55.685134500000,12.594396700000
+2291,NULL,Hansen,74,1877-01-08,1803,Gift,Mand,Amaliegade,26,55.685134500000,12.594396700000
+2294,NULL,Hein,28,1877-01-08,1849,Gift,Mand,Bagergade,11,NULL,NULL
+2298,NULL,Richter,48,1877-01-10,1829,Ugift,Mand,Stormgade,29,NULL,NULL
+2306,NULL,Jensen,37,1909-10-21,1872,Gift,Mand,NULL,NULL,NULL,NULL
+2311,NULL,Nielsen,47,1909-10-20,1862,Gift,Mand,Rådmandsgade,40,55.700086800000,12.551507900000
+2311,NULL,Nielsen,47,1909-10-20,1862,Gift,Mand,Rådmandsgade,40,55.700035100000,12.551729200000
+2311,NULL,Nielsen,47,1909-10-20,1862,Gift,Mand,Rådmandsgade,40,55.699701900000,12.552483500000
+2311,NULL,Nielsen,47,1909-10-20,1862,Gift,Mand,Rådmandsgade,40,55.699491600000,12.552086500000
+2326,NULL,Nielsen,20,1899-07-03,1879,Ugift,Mand,Sølvgade,NULL,NULL,NULL
+2328,NULL,Meyer,63,1909-10-19,1846,Gift,Mand,Ryesgade,54,55.693867900000,12.569901600000
+2333,NULL,Andersen,63,1909-10-20,1846,Gift,Mand,Tingvej,87,NULL,NULL
+2336,NULL,Andersen,67,1899-07-06,1832,Ugift,Mand,Havnegade,45,55.677902200000,12.591496000000
+2337,NULL,Arfast,83,1899-07-03,1816,Ugift,Kvinde,NULL,NULL,NULL,NULL
+2338,NULL,Rasmussen,79,1899-07-04,1820,Gift,Mand,Badstuestræde,5,55.678263800000,12.575166500000
+2353,NULL,Jensen,46,1899-07-04,1853,Gift,Mand,Turesensgade,12,55.681558100000,12.563648700000
+2355,NULL,Rom,51,1899-07-06,1848,Gift,Mand,"Wagners Allé",2,NULL,NULL
+2358,NULL,Olsen,61,1899-07-04,1838,Ugift,Mand,Georgsvej,4,NULL,NULL
+2361,NULL,Andersen,46,1899-07-07,1853,Enkestand,Mand,Farvergade,15,55.676080100000,12.573083300000
+2377,NULL,Jensen,59,1884-06-29,1825,Enkestand,Mand,"Sankt Gertruds Stræde",6,55.683057600000,12.574411900000
+2377,NULL,Jensen,59,1884-06-29,1825,Enkestand,Mand,"Sankt Gertruds Stræde",6,55.683171300000,12.574431500000
+2377,NULL,Jensen,59,1884-06-29,1825,Enkestand,Mand,"Sankt Gertruds Stræde",6,55.683112300000,12.574450000000
+2377,NULL,Jensen,59,1884-06-29,1825,Enkestand,Mand,"Sankt Gertruds Stræde",6,55.683061700000,12.574467700000
+2377,NULL,Jensen,59,1884-06-29,1825,Enkestand,Mand,"Sankt Gertruds Stræde",6,55.683104500000,12.574644300000
+2381,NULL,Riis,50,1910-04-08,1860,Gift,Mand,NULL,NULL,NULL,NULL
+2385,NULL,Heinrichs,65,1910-04-08,1845,Gift,Mand,Baldersgade,72,55.701825600000,12.549100600000
+2386,NULL,Hansen,49,1910-04-08,1861,Gift,Mand,Birkegade,8,55.690454200000,12.558329400000
+2387,NULL,Petersen,85,1910-04-10,1825,Gift,Mand,NULL,NULL,NULL,NULL
+2394,NULL,Jacobsen,25,1884-06-27,1859,NULL,Mand,"Niels Juels Gade",10,NULL,NULL
+2397,NULL,Holst,59,1884-06-26,1825,Ugift,Mand,NULL,NULL,NULL,NULL
+2400,NULL,Olsen,48,1884-06-27,1836,Gift,Mand,Lorentzensgade,5,NULL,NULL
+2403,NULL,Bodi,58,1909-10-20,1851,Ugift,Mand,Meinungsgade,19,55.692901300000,12.555072300000
+2404,NULL,Felby,54,1909-10-22,1855,Gift,Mand,Hvalsøvej,36,55.704037900000,12.489051500000
+2408,NULL,Hansen,73,1884-06-26,1811,Enkestand,Mand,NULL,NULL,NULL,NULL
+2425,NULL,Madsen,85,1900-01-10,1815,Ugift,Mand,Linnésgade,37,55.684816800000,12.570967500000
+2425,NULL,Madsen,85,1900-01-10,1815,Ugift,Mand,Linnésgade,37,55.684717800000,12.571006900000
+2429,NULL,Jørgensen,42,1862-12-29,1820,Gift,Mand,Hausergade,24,NULL,NULL
+2434,NULL,Øehl,30,1884-06-30,1854,Ugift,Mand,Roskildevej,35,55.671884900000,12.516744700000
+2441,NULL,Jensen,36,1884-06-30,1848,Ugift,Mand,Toldbodgade,8,55.680195500000,12.591934100000
+2441,NULL,Jensen,36,1884-06-30,1848,Ugift,Mand,Toldbodgade,8,55.680238500000,12.591978700000
+2442,NULL,Bræmer,42,1884-07-01,1842,Gift,Mand,"Peder Skrams Gade",16,55.677762000000,12.588872200000
+2442,NULL,Bræmer,42,1884-07-01,1842,Gift,Mand,"Peder Skrams Gade",16,55.677656800000,12.588941000000
+2442,NULL,Bræmer,42,1884-07-01,1842,Gift,Mand,"Peder Skrams Gade",16,55.677539700000,12.589016000000
+2444,NULL,Nielsen,35,1884-07-01,1849,Ugift,Mand,Dannebrogsgade,46,55.668259000000,12.552472100000
+2444,NULL,Nielsen,35,1884-07-01,1849,Ugift,Mand,Dannebrogsgade,46,55.668332800000,12.552462700000
+2444,NULL,Nielsen,35,1884-07-01,1849,Ugift,Mand,Dannebrogsgade,46,55.668409300000,12.552443000000
+2449,NULL,Hansen,38,1884-06-30,1846,Gift,Mand,Dronningensgade,18,55.670880700000,12.590349500000
+2451,NULL,Jensen,59,1900-01-10,1841,NULL,Mand,Nordvestvej,30,NULL,NULL
+2455,NULL,Westergaard,NULL,NULL,NULL,NULL,Mand,NULL,NULL,NULL,NULL
+2456,NULL,Baden,53,1910-05-03,1857,Gift,Mand,Sorøgade,1,55.698774300000,12.580876500000
+2457,NULL,Rasmussen,51,1884-06-29,1833,Ugift,Kvinde,Vognmagergade,31,NULL,NULL
+2461,NULL,Ahlberg,21,1910-05-04,1889,Ugift,Kvinde,Blågårdsgade,16,55.686760800000,12.558414500000
+2461,NULL,Ahlberg,21,1910-05-04,1889,Ugift,Kvinde,Blågårdsgade,16,55.686654600000,12.558284600000
+2463,NULL,Carlsen,85,NULL,NULL,Ugift,Kvinde,Rolighedsvej,23,55.684616800000,12.543242400000
+2463,NULL,Carlsen,85,NULL,NULL,Ugift,Kvinde,Rolighedsvej,23,55.684402400000,12.544147500000
+2463,NULL,Carlsen,85,NULL,NULL,Ugift,Kvinde,Rolighedsvej,23,55.684865600000,12.544268100000
+2463,NULL,Carlsen,85,NULL,NULL,Ugift,Kvinde,Rolighedsvej,23,55.684998800000,12.544344400000
+2466,NULL,Frederiksen,49,1900-01-11,1851,Forladt,Kvinde,Studiestræde,47,55.677843900000,12.567602100000
+2466,NULL,Frederiksen,49,1900-01-11,1851,Forladt,Kvinde,Studiestræde,47,55.677810800000,12.567493100000
+2466,NULL,Frederiksen,49,1900-01-11,1851,Forladt,Kvinde,Studiestræde,47,55.677786200000,12.567520300000
+2468,NULL,Jensen,18,1863-01-01,1845,NULL,Kvinde,"Gammel Amagertorv",6,NULL,NULL
+2470,NULL,Schiødt,71,1909-05-04,1838,Gift,Mand,NULL,NULL,NULL,NULL
+2478,NULL,Søtoft,53,1884-06-25,1831,Gift,Mand,Korsgade,21,NULL,NULL
+2480,NULL,Christensen,36,1884-06-25,1848,Gift,Mand,"Mikkel Bryggers Gade",14,NULL,NULL
+2488,NULL,Jørgensen,53,1909-10-04,1856,Forladt,Mand,Estlandsgade,12,NULL,NULL
+2490,NULL,Johnsen,53,1909-10-02,1856,Gift,Mand,Oehlenschlægersgade,46,55.668683200000,12.549817800000
+2491,NULL,Aaby,84,1909-10-05,1825,Ugift,Kvinde,Farvergade,27,55.675566200000,12.571808100000
+2491,NULL,Aaby,84,1909-10-05,1825,Ugift,Kvinde,Farvergade,27,55.675617100000,12.571962700000
+2491,NULL,Aaby,84,1909-10-05,1825,Ugift,Kvinde,Farvergade,27,55.675698300000,12.572246300000
+2491,NULL,Aaby,84,1909-10-05,1825,Ugift,Kvinde,Farvergade,27,55.675779300000,12.572354700000
+2491,NULL,Aaby,84,1909-10-05,1825,Ugift,Kvinde,Farvergade,27,55.675821700000,12.572477200000
+2491,NULL,Aaby,84,1909-10-05,1825,Ugift,Kvinde,Farvergade,27,55.675512000000,12.572410000000
+2491,NULL,Aaby,84,1909-10-05,1825,Ugift,Kvinde,Farvergade,27,55.675413900000,12.572172900000
+2491,NULL,Aaby,84,1909-10-05,1825,Ugift,Kvinde,Farvergade,27,55.675333300000,12.571957700000
+2491,NULL,Aaby,84,1909-10-05,1825,Ugift,Kvinde,Farvergade,27,55.675363800000,12.571724700000
+2491,NULL,Aaby,84,1909-10-05,1825,Ugift,Kvinde,Farvergade,27,55.675495600000,12.571702500000
+2497,NULL,Milde,70,1900-01-07,1830,Ugift,Mand,"Nørre Allé",41,55.694778200000,12.561043700000
+2502,NULL,Henriksen,35,1900-01-08,1865,Enkestand,Mand,Lavendelstræde,15,55.676158300000,12.571482600000
+2507,NULL,Pengel,56,1900-01-11,1844,Enkestand,Kvinde,*Uangivet/ukendt,NULL,NULL,NULL
+2508,NULL,Larsen,55,1900-01-12,1845,Gift,Mand,Helgolandsgade,17,55.671438600000,12.561695600000
+2509,NULL,Petersen,27,1900-01-10,1873,Ugift,Mand,Strandgade,22,55.673790300000,12.589689500000
+2509,NULL,Petersen,27,1900-01-10,1873,Ugift,Mand,Strandgade,22,55.673631400000,12.590037400000
+2512,NULL,Krause,60,1900-01-11,1840,Enkestand,Mand,Absalonsgade,29,55.669620000000,12.555475400000
+2515,NULL,Petersen,NULL,NULL,NULL,NULL,Mand,NULL,NULL,NULL,NULL
+2516,NULL,Troense,61,1910-05-02,1849,Gift,Mand,NULL,NULL,NULL,NULL
+2522,NULL,Jørgensen,43,1910-05-05,1867,Gift,Mand,Thorsgade,52,55.697088900000,12.548992400000
+2524,NULL,Eikstrøm,0,1877-01-08,1877,NULL,Mand,Klerkegade,26,NULL,NULL
+2525,NULL,Johansen,38,1877-01-09,1839,Gift,Mand,"Peder Skrams Gade",16,55.677762000000,12.588872200000
+2525,NULL,Johansen,38,1877-01-09,1839,Gift,Mand,"Peder Skrams Gade",16,55.677656800000,12.588941000000
+2525,NULL,Johansen,38,1877-01-09,1839,Gift,Mand,"Peder Skrams Gade",16,55.677539700000,12.589016000000
+2526,NULL,Hansen,58,1877-01-08,1819,Gift,Mand,NULL,NULL,NULL,NULL
+2531,NULL,Høyer,42,1877-01-11,1835,NULL,Kvinde,Helsingørsgade,18,NULL,NULL
+2533,NULL,Frandsen,23,1877-01-10,1854,NULL,Kvinde,Havnegade,37,55.677193600000,12.590108000000
+2533,NULL,Frandsen,23,1877-01-10,1854,NULL,Kvinde,Havnegade,37,55.677270500000,12.590269000000
+2534,NULL,Guldberg,32,1910-09-27,1878,Ugift,Kvinde,Thyrasgade,1,55.697411600000,12.545827000000
+2536,NULL,Hansen,59,1910-09-26,1851,Ugift,Mand,"Nørre Allé",41,55.694778200000,12.561043700000
+2542,NULL,Wexøe,27,1910-04-10,1883,Gift,Mand,Nørrebrogade,175,55.695766100000,12.546425700000
+2545,NULL,Kaffka,34,1910-04-09,1876,Gift,Mand,Valdemarsgade,39,NULL,NULL
+2551,NULL,Ernstzen,60,1910-04-10,1850,Enkestand,Mand,Grønnegade,14,55.680952600000,12.582552100000
+2552,NULL,Øberg,56,1910-05-03,1854,Ugift,Mand,NULL,NULL,NULL,NULL
+2556,Maskinkarl,Pedersen,32,1910-04-09,1878,Gift,Mand,"Nørre Allé",41,55.694778200000,12.561043700000
+2562,Amtmand,Eckmann,72,1900-01-12,1828,Enkestand,Mand,Borgergade,57,NULL,NULL
+2573,Cand.theol,Hartmann,14,1910-05-06,1896,NULL,Mand,Gormsgade,10,55.697413500000,12.546807900000
+2585,Avlsbestyrer,Ammitzbøll,57,1910-05-03,1853,Gift,Mand,Lundsgade,7,55.691556000000,12.577204500000
+2590,"Cand. jur (Cand. Juris)",Büchner,73,1900-01-13,1827,Enkestand,Mand,Borgergade,87,NULL,NULL
+2591,Overdyrlæge,Rylander,17,1900-01-15,1883,Ugift,Mand,Tjørnegade,6,55.688415100000,12.553989500000
+2600,Stolepolerer,Jochumsen,33,1900-01-12,1867,Ugift,Kvinde,Klosterstræde,1,55.678838800000,12.575703500000
+2601,Kullemper,Petersen,51,1910-05-05,1859,Enkestand,Mand,"Overgaden Oven Vandet",22,55.671074800000,12.589089100000
+2603,Balleskærer,Røes,NULL,NULL,NULL,NULL,Mand,NULL,NULL,NULL,NULL
+2604,NULL,Høgsbro,54,1910-05-05,1856,Gift,Mand,"Vester Voldgade",117,55.673149200000,12.575970700000
+2604,NULL,Høgsbro,54,1910-05-05,1856,Gift,Mand,"Vester Voldgade",117,55.673291200000,12.576274200000
+2606,Lagerkarl,Jacobsen,83,1910-05-06,1827,Ugift,Kvinde,Åboulevard,64,NULL,NULL
+2610,Marinesoldat,Eskesen,80,1900-01-14,1820,Enkestand,Mand,"Nørre Allé",41,55.694778200000,12.561043700000
+2614,Kaffeskænker,Olsson,66,1900-01-13,1834,Enkestand,Mand,"Nørre Allé",41,55.694778200000,12.561043700000
+2615,Underfyrbøder,Andersen,52,1900-01-14,1848,Gift,Mand,Stengade,2,NULL,NULL
+2626,Sølvvarefabrikant,Tiedt,25,1900-01-13,1875,Gift,Mand,Saxogade,58,55.669179600000,12.550847400000
+2627,Hushovmester,Lynge,29,1900-01-14,1871,Gift,Mand,Saxogade,23,NULL,NULL
+2630,Fyrværker,Lyhne,NULL,NULL,NULL,NULL,Mand,NULL,NULL,NULL,NULL
+2631,Dampskibshovmester,Stenersen,NULL,NULL,NULL,NULL,Mand,NULL,NULL,NULL,NULL
+2633,"Madam (Madame)",Jensen,30,1900-01-09,1870,Ugift,Mand,"Uden bopæl",NULL,NULL,NULL
+2634,Konstabel,Bertelsen,27,1900-01-12,1873,Ugift,Kvinde,NULL,NULL,NULL,NULL
+2636,"Cand. Phil (Cand. Philos)",Christensen,33,1900-01-13,1867,Ugift,Mand,"Uden bopæl",NULL,NULL,NULL
+2639,Dr.med.,Schmidt,55,1900-01-12,1845,NULL,Mand,"Uden bopæl",NULL,NULL,NULL
+2654,Dugmagersvend,Schmidt,44,1884-07-01,1840,Ugift,Mand,Brogade,21,NULL,NULL
+2656,Hofleverandør,Dons,19,1900-01-16,1881,Ugift,Mand,Dannebrogsgade,4,55.672034600000,12.552391200000
+2658,Hofdame,Petersen,63,1884-06-28,1821,Enkestand,Mand,Korsgade,16,55.685219800000,12.558057500000
+2663,"Kgl. Slotsvægter",Jensen,0,1863-01-06,1863,NULL,Mand,Rosengade,1,55.687059400000,12.583977900000
+2664,Klaviaturmager,Nielsen,46,1900-01-16,1854,Gift,Mand,Strandvejen,NULL,NULL,NULL
+2665,Kontorskriver,Pedersen,68,1900-01-15,1832,Gift,Mand,Rådmandsgade,23,55.699281700000,12.549475800000
+2666,"Kgl. Lods",Hansen,53,1900-01-13,1847,Gift,Mand,Baggesensgade,40,NULL,NULL
+2667,Hofurmager,Olsen,41,1863-01-09,1822,Ugift,Mand,"Kongens Nytorv",4,55.681065600000,12.587105100000
+2671,Alumnus,Andersen,57,1884-07-01,1827,Gift,Mand,Fredericiagade,77,55.687555000000,12.583614900000
+2672,Hofdekorationsmaler,Hansen,0,1863-01-05,1863,NULL,Kvinde,Amaliegade,23,55.685265200000,12.594007700000
+2675,Jernbaneentreprenør,Larsen,25,1884-07-01,1859,Gift,Mand,Absalonsgade,31,NULL,NULL
+2680,Kommunesekretær,Jakobsen,65,1910-05-05,1845,Gift,Mand,Stockholmsgade,33,55.691117100000,12.579192200000
+2681,Broopsynsmand,Hansen,48,1910-05-06,1862,Gift,Mand,Teglgårdstræde,9,55.679514000000,12.568175800000
+2683,Magasinforvalter,Jacobsen,51,1863-01-07,1812,Gift,Mand,Adelgade,45,55.685161600000,12.584293500000
+2686,Isoleringsmontør,Flott,36,1900-01-16,1864,Gift,Mand,Helsingørsgade,16,NULL,NULL
+2687,Kunstdrejermester,Schwicher,73,1900-01-15,1827,Enkestand,Mand,Prinsessegade,7,55.671117500000,12.591776800000
+2687,Kunstdrejermester,Schwicher,73,1900-01-15,1827,Enkestand,Mand,Prinsessegade,7,55.670972100000,12.591550300000
+2690,Reservekonduktør,Appelby,39,1900-01-16,1861,Ugift,Kvinde,Oehlenschlægersgade,40,55.669084500000,12.549779200000
+2693,Stivelsesfabrikant,Christiansen,35,1900-01-18,1865,Ugift,Kvinde,Kingosgade,2,55.671813400000,12.545613200000
+2694,Værnepligtig,Christensen,59,1900-01-14,1841,NULL,Mand,"Ny Carlsberg Vej",20,55.665887000000,12.545036500000
+2697,Mejeriudsalgsbestyrer,Hultén,38,1900-01-16,1862,Gift,Mand,Wildersgade,27,NULL,NULL
+2699,Cand.polit.,Jensen,36,1900-01-17,1864,Gift,Mand,Sortedamsgade,3,NULL,NULL
+2700,Akademisekretær,Bodi,46,1900-01-16,1854,NULL,Mand,Folkvarsvej,17,55.682844700000,12.533301600000
+2706,NULL,Rasmussen,81,1900-01-16,1819,Enkestand,Mand,Ewaldsgade,12,55.682930400000,12.557480500000
+2714,Trætøjsmager,Larsen,56,1900-01-16,1844,Ugift,Mand,Ravnsborggade,8,55.688261700000,12.561841900000
+2714,Trætøjsmager,Larsen,56,1900-01-16,1844,Ugift,Mand,Ravnsborggade,8,55.688178600000,12.562055400000
+2714,Trætøjsmager,Larsen,56,1900-01-16,1844,Ugift,Mand,Ravnsborggade,8,55.688127900000,12.562196700000
+2714,Træfartøjsfabrikant,Larsen,56,1900-01-16,1844,Ugift,Mand,Ravnsborggade,8,55.688261700000,12.561841900000
+2714,Træfartøjsfabrikant,Larsen,56,1900-01-16,1844,Ugift,Mand,Ravnsborggade,8,55.688178600000,12.562055400000
+2714,Træfartøjsfabrikant,Larsen,56,1900-01-16,1844,Ugift,Mand,Ravnsborggade,8,55.688127900000,12.562196700000
+2715,"Uden stilling/erhverv",Sørensen,54,1910-05-07,1856,Gift,Mand,"Frederiksholms Kanal",NULL,NULL,NULL
+2721,Ejendomsinspektør,Larsen,67,1900-01-14,1833,Gift,Mand,Adelgade,27,NULL,NULL
+2723,"Helbefaren (sømand)",Andersen,62,1900-01-18,1838,Gift,Mand,"Sankt Annæ Plads",18,55.681247200000,12.591731000000
+2723,"Helbefaren (sømand)",Andersen,62,1900-01-18,1838,Gift,Mand,"Sankt Annæ Plads",18,55.681068900000,12.591506800000
+2723,"Helbefaren (sømand)",Andersen,62,1900-01-18,1838,Gift,Mand,"Sankt Annæ Plads",18,55.681066000000,12.591640700000
+2728,Akademiker,Tofte,24,1910-05-06,1886,Ugift,Mand,Nørrebrogade,153,55.694366900000,12.548236800000
+2730,Alimentant,Hjelm,62,1910-05-07,1848,Gift,Mand,Hellerup,NULL,NULL,NULL
+2732,Annonceekspeditør,Nielsen,74,1910-05-08,1836,Enkestand,Mand,Landemærket,29,55.682661100000,12.577235200000
+2736,Arbejdsformand,Nielsen,67,1863-01-03,1796,Enkestand,Mand,Møllegade,6,55.690604000000,12.555770700000
+2742,Arrestvagtmester,Hansen,28,1884-07-02,1856,Ugift,Kvinde,Bangertsgade,14,55.689397500000,12.553489900000
+2751,Asylforstanderinde,Larsen,60,1910-04-12,1850,Gift,Mand,Lyngbyvej,75,NULL,NULL
+2753,Asylmoder,Jørgensen,20,1910-04-12,1890,Ugift,Mand,Ryesgade,54,55.693867900000,12.569901600000
+2756,Automekaniker,Schultze,77,1900-01-11,1823,Gift,Mand,NULL,NULL,NULL,NULL
+2756,Automobilfører,Schultze,77,1900-01-11,1823,Gift,Mand,NULL,NULL,NULL,NULL
+2757,Automobilmekaniker,Harris,60,1863-01-06,1803,NULL,Kvinde,"Halmtorvet (Indre By, nedlagt 1893)",73,NULL,NULL
+2761,"Bager og konditor",Jacobsen,72,1900-01-18,1828,Enkestand,Mand,Forchhammersvej,33,55.680428100000,12.548986600000
+2762,Bagerekspeditrice,Flygare,52,1900-01-17,1848,Gift,Mand,"Uden bopæl",NULL,NULL,NULL
+2763,Bageriarbejder,Fich,77,1900-01-17,1823,NULL,Mand,Murergade,12,55.684207100000,12.557399200000
+2764,Bagerikarl,Andersen,22,1900-01-18,1878,Ugift,Mand,Küchlersgade,14,55.667893100000,12.538048300000
+2765,Bagerske,Andersen,22,1900-01-18,1878,Ugift,Mand,Küchlersgade,14,55.667893100000,12.538048300000
+2767,Balletelev,Munthe,41,1863-01-04,1822,Gift,Mand,"Kristen Bernikowstræde",12,NULL,NULL
+2768,Baneassistent,Cappelen,57,1863-01-04,1806,Gift,Mand,Brolæggerstræde,11,55.677433000000,12.574445900000
+2768,Baneassistent,Cappelen,57,1863-01-04,1806,Gift,Mand,Brolæggerstræde,11,55.677390400000,12.574545300000
+2768,Baneassistent,Cappelen,57,1863-01-04,1806,Gift,Mand,Brolæggerstræde,11,55.677227000000,12.574562000000
+2768,Baneassistent,Cappelen,57,1863-01-04,1806,Gift,Mand,Brolæggerstræde,11,55.677300300000,12.574665700000
+2768,Baneassistent,Cappelen,57,1863-01-04,1806,Gift,Mand,Brolæggerstræde,11,55.677221000000,12.574771400000
+2771,Bankbetjent,Henningsen,39,1877-01-12,1838,NULL,Kvinde,Absalonsgade,35,55.669176600000,12.555777700000
+2773,Bankmand,Petersen,NULL,1877-01-10,NULL,NULL,Kvinde,Amaliegade,23,55.685265200000,12.594007700000
+2774,"Barber og Frisør",Empacher,52,1863-01-07,1811,Gift,Mand,"Store Fiolstræde",34,NULL,NULL
+2778,Barneopsyn,Schiønberg,13,NULL,NULL,NULL,Mand,Vognmagergade,26,NULL,NULL
+2779,NULL,Petersen,NULL,1877-01-12,NULL,NULL,Mand,Ryesgade,127,55.698374800000,12.577675500000
+2783,Billettør,Sørensen,35,1877-01-11,1842,Gift,Mand,"J.A. Schwartz Gade",23,55.693227400000,12.576343200000
+2785,Binderske,Jantzen,21,1877-01-11,1856,Ugift,Kvinde,Thorupsgade,13,NULL,NULL
+2787,Blikkenslagerske,Neergaard,29,1877-01-11,1848,Ugift,Mand,Korsgade,58,55.686755400000,12.554099400000
+2788,Blomsterarbejder,Liebmann,NULL,1877-01-12,NULL,NULL,Mand,Adelgade,48,55.685260000000,12.585000600000
+2791,Blomsterbinderske,Maale,84,1877-01-13,1793,Gift,Mand,Nørrebrogade,55,55.689718400000,12.555529500000
+2791,Blomsterbinderske,Maale,84,1877-01-13,1793,Gift,Mand,Nørrebrogade,55,55.689838900000,12.555354000000
+2795,"Bog- og papirhandler",Lindhardsen,30,1900-01-18,1870,Ugift,Kvinde,Baggesensgade,4,55.686645200000,12.561148300000
+2795,"Bog- og papirhandler",Lindhardsen,30,1900-01-18,1870,Ugift,Kvinde,Baggesensgade,4,55.686971200000,12.561603200000
+2798,Bogførerske,Nielsen,84,1900-01-17,1816,Ugift,Kvinde,Istedgade,6,55.672298200000,12.562819700000
+2799,Boghandlerkommis,Høyer,36,1900-01-16,1864,Ugift,Mand,Saxogade,8,55.672016800000,12.550461100000
+2799,Boghandlerkommis,Høyer,36,1900-01-16,1864,Ugift,Mand,Saxogade,8,55.671940500000,12.550487800000
+2799,Boghandlerkommis,Høyer,36,1900-01-16,1864,Ugift,Mand,Saxogade,8,55.672034300000,12.550204000000
+2800,Boghandlermedhjælperske,Jensen,17,1900-01-19,1883,Ugift,Mand,Allersgade,3,55.696623300000,12.546037400000
+2801,Bogholderelev,Hansen,57,1910-05-06,1853,Gift,Mand,Sundevedsgade,11,NULL,NULL
+2802,Bogholderinde,Svensson,72,1900-01-18,1828,Gift,Mand,Adelgade,96,NULL,NULL
+2807,Borgerrepræsentant,Johansen,52,1910-05-06,1858,Gift,Mand,Rosengade,11,NULL,NULL
+2808,Borgmesterinde,Flittner,78,1910-05-08,1832,Ugift,Mand,Kapelvej,19,55.688673800000,12.553126500000
+2809,Brandfuldmægtig,Svenningsen,54,1910-05-05,1856,Ugift,Kvinde,NULL,NULL,NULL,NULL
+2812,Brobygger,Mørck,24,1909-10-01,1885,Ugift,Kvinde,Suensonsgade,56,NULL,NULL
+2814,Broderitegnerske,Röes,51,1910-04-11,1859,Gift,Mand,Esromgade,6,55.698829400000,12.540523000000
+2815,Brodør,Andersen,NULL,NULL,NULL,NULL,Mand,NULL,NULL,NULL,NULL
+2816,Brodøse,Pedersen,58,1910-04-11,1852,Gift,Mand,"Dronning Olgas Vej",18,55.688660600000,12.536499200000
+2819,Bryggerielev,Peitersen,41,1910-04-12,1869,Gift,Mand,"Bogholder Allé",33,55.684563900000,12.491216000000
+2819,Bryggerielev,Peitersen,41,1910-04-12,1869,Gift,Mand,"Bogholder Allé",33,55.684469300000,12.491303100000
+2826,NULL,Jensen,16,1909-10-21,1893,Ugift,Kvinde,Dannebrogsgade,52,NULL,NULL
+2829,Buffistelev,Hansen,28,1909-10-05,1881,Ugift,Mand,"Christianshavns Voldgade",7,55.669908500000,12.588923200000
+2834,Byggeriarbejder,Andersen,41,1909-10-20,1868,Ugift,Mand,"Uden bopæl",NULL,NULL,NULL
+2837,Bymissionær,Andersen,44,1910-05-01,1866,Ugift,Mand,"Nørre Allé",41,55.694778200000,12.561043700000
+2838,Børnehavelærerinde,Gyllendorff,60,1900-01-18,1840,Gift,Mand,Saxogade,38,NULL,NULL
+2850,NULL,Olsen,27,1900-01-18,1873,Ugift,Mand,Dronningensgade,1,NULL,NULL
+2856,Cigaretmager,Christensen,51,1884-07-02,1833,Gift,Mand,Ryesgade,38,NULL,NULL
+2882,Diakonelev,Bubandt,20,1884-07-03,1864,Ugift,Kvinde,"Overgaden Oven Vandet",24,55.671125300000,12.589167800000
+2894,Ejerinde,"Svendsen, nr. 286b/84",0,1884-07-02,1884,"Uægte barn",Mand,Dannebrogsgade,57,55.667361800000,12.553396400000
+2898,Elektrikersvend,Profft,48,1884-06-29,1836,Enkestand,Mand,NULL,NULL,NULL,NULL
+2904,Emaillearbejder,Pedersen,72,1910-05-04,1838,Enkestand,Mand,"Nørre Allé",41,55.694778200000,12.561043700000
+2905,Emaillemester,Danielsen,60,1877-01-13,1817,Gift,Mand,Frederiksborgvej,16,55.703028100000,12.533394100000
+2905,Emaillemester,Danielsen,60,1877-01-13,1817,Gift,Mand,Frederiksborgvej,16,55.703116700000,12.533491900000
+2919,Fabriksleder,Paulsen,36,1910-04-08,1874,Ugift,Mand,Sundholmsvej,NULL,NULL,NULL
+2920,Faglærerinde,Lundberg,NULL,1900-01-19,NULL,Ugift,Mand,NULL,NULL,NULL,NULL
+2925,Fejemand,Hallerup,48,1900-01-18,1852,Gift,Mand,NULL,NULL,NULL,NULL
+2932,Fiskerkone,Schieltved,66,1900-01-20,1834,Enkestand,Mand,Klareboderne,6,NULL,NULL
+2933,Fiskerpige,Smith,77,1876-12-29,1799,NULL,Kvinde,Krystalgade,3,55.681089300000,12.574515900000
+2933,Fiskerpige,Smith,77,1876-12-29,1799,NULL,Kvinde,Krystalgade,3,55.680950700000,12.574654100000
+2939,Formerske,Frisch,0,1869-12-30,1869,NULL,Mand,Amaliegade,23,55.685265200000,12.594007700000
+2942,Forretningskusk,Olsen,45,1910-04-12,1865,Gift,Mand,Amerikavej,5,NULL,NULL
+2950,Fotografistinde,Christoffersen,63,1910-09-27,1847,Gift,Mand,Prinsessegade,69,55.675235600000,12.599330900000
+2952,Frelsermand,Jacobsen,40,1910-09-27,1870,Ugift,Kvinde,"Wilders Plads",NULL,NULL,NULL
+2953,Frelserpige,Bechmann,70,1869-12-29,1799,Gift,Mand,Vognmagergade,7,55.682169000000,12.578903000000
+2954,Frelsersoldat,Nielsen,50,1869-12-30,1819,Gift,Mand,"Lille Larsbjørnsstræde",19,NULL,NULL
+2955,"Frisør og barber",Møller,25,1869-12-29,1844,Ugift,Mand,Rigensgade,8,NULL,NULL
+2957,Frugthandlerske,Larsen,37,1869-12-30,1832,Ugift,Kvinde,Snaregade,6,55.677236200000,12.576766100000
+2957,Frugthandlerske,Larsen,37,1869-12-30,1832,Ugift,Kvinde,Snaregade,6,55.677354100000,12.576633700000
+2967,Garagemester,Abrahamsson,35,1884-07-03,1849,Ugift,Mand,NULL,NULL,NULL,NULL
+2971,Gardintegner,Larsen,16,1900-01-20,1884,Ugift,Kvinde,Naboløs,6,55.677384800000,12.577082800000
+2974,Geheimerådinde,Petersen,40,1900-01-19,1860,Ugift,Mand,Klerkegade,26,NULL,NULL
+2977,Gesandt,Jensen,37,1900-01-19,1863,Gift,Mand,Dybbølsgade,15,55.665467400000,12.556748000000
+2993,Gymnastiker,Bendsen,72,1910-05-03,1838,Gift,Mand,NULL,NULL,NULL,NULL
+2995,Handelsattaché,Petersdatter,23,1862-12-22,1839,NULL,Kvinde,Gothersgade,4,NULL,NULL
+3007,Havebrugselev,Larsen,59,1910-05-06,1851,Gift,Mand,"Houmanns Allé",20,NULL,NULL
+3008,Havneassistent,Rasmussen,72,1910-05-07,1838,Gift,Mand,Falkonergårdsvej,13,55.685993500000,12.541036100000
+3010,Herredsfuldmægtig,Lund,54,1910-05-07,1856,Gift,Mand,Delfingade,26,55.689855600000,12.586065800000
+3011,Hesteholder,Jensen,58,1900-01-29,1842,Gift,Mand,Griffenfeldsgade,6,55.689403100000,12.555333500000
+3013,Hjælpepige,Thegler,36,1909-10-22,1873,Gift,Mand,"Sønder Boulevard",90,55.664821200000,12.546797500000
+3021,Hotelfunktionær,Westberg,NULL,NULL,NULL,NULL,Mand,NULL,NULL,NULL,NULL
+3022,Hoteltjener,Bergquist,44,1900-01-22,1856,Gift,Mand,"Sankt Pauls Gade",10,55.687084900000,12.588984500000
+3027,Husholdningslærerinde,Poulsen,71,1878-12-29,1807,NULL,Mand,Ewaldsgade,4,55.683373600000,12.557944500000
+3033,Håndskomager,Andersen,55,1900-01-21,1845,NULL,Mand,Egegade,7,55.690545400000,12.558595800000
+3039,Indpakningsjomfru,Christensen,49,1909-10-08,1860,Gift,Mand,Heisesgade,11,55.713655000000,12.573597500000
+3044,Inventarieskriver,Kerff,60,1900-01-23,1840,Gift,Mand,"Store Kongensgade",68,55.684282100000,12.587885000000
+3044,Inventarieskriver,Kerff,60,1900-01-23,1840,Gift,Mand,"Store Kongensgade",68,55.684285600000,12.588262600000
+3044,Inventarieskriver,Kerff,60,1900-01-23,1840,Gift,Mand,"Store Kongensgade",68,55.684122400000,12.588120400000
+3046,"Islandsk købmand",Balle,72,1900-01-23,1828,Ugift,Mand,"Nørre Farimagsgade",44,55.683288800000,12.566688200000
+3049,Jernbanemand,Tofte,21,1900-01-21,1879,Ugift,Kvinde,Valdemarsgade,39,NULL,NULL
+3051,Jernbanepakmester,Arp,75,1900-01-20,1825,Gift,Mand,Abildgaardsgade,24,55.691426800000,12.574684900000
+3052,Jockey,Hansen,35,1900-01-14,1865,Ugift,Mand,Ryesgade,82,55.695686600000,12.572691600000
+3053,Journalfører,Frederiksen,20,1900-01-17,1880,Ugift,Mand,"Uden bopæl",NULL,NULL,NULL
+3055,Justerarbejder,Fraenckel,44,1900-01-14,1856,Gift,Mand,Bredgade,75,55.687142700000,12.592409600000
+3062,Kaffekok,Christensen,47,1900-01-20,1853,Gift,Mand,"Overgaden Oven Vandet",48,55.673723700000,12.593481400000
+3065,Kagekone,Arvedsen,23,1900-01-24,1877,Ugift,Mand,Østerbrogade,NULL,NULL,NULL
+3067,Kammersanger,Nommels,59,1900-01-19,1841,Gift,Mand,Møntergade,20,55.682085200000,12.580091900000
+3070,NULL,Jensen,72,1884-07-03,1812,Gift,Mand,NULL,NULL,NULL,NULL
+3072,NULL,Hesselholdt,56,1900-01-23,1844,Gift,Mand,Ravnsborggade,17,55.689139700000,12.562447900000
+3072,NULL,Hesselholdt,56,1900-01-23,1844,Gift,Mand,Ravnsborggade,17,55.689287200000,12.562244900000
+3072,NULL,Hesselholdt,56,1900-01-23,1844,Gift,Mand,Ravnsborggade,17,55.689182100000,12.562121400000
+3072,NULL,Hesselholdt,56,1900-01-23,1844,Gift,Mand,Ravnsborggade,17,55.689214900000,12.562424700000
+3077,Karamelkoger,Nielsen,62,1900-01-22,1838,Gift,Mand,Møntergade,7,NULL,NULL
+3081,Kaufmann,"Pape, nr. 431",0,1863-01-03,1863,NULL,Kvinde,Amaliegade,23,55.685265200000,12.594007700000
+3085,NULL,Nielsen,41,1877-01-16,1836,Gift,Mand,Murergade,6,NULL,NULL
+3086,"Kgl. Biløber",Pfeil,7,1900-01-20,1893,NULL,Kvinde,Skyttegade,24,NULL,NULL
+3087,"Kgl. Forrider",Johansen,69,1900-01-22,1831,Enkestand,Mand,Prinsessegade,32,NULL,NULL
+3092,"Kgl. Klasselotterikollektrice",Jansen,58,1877-01-14,1819,Gift,Mand,"Sankt Hans Gade",19,55.690046400000,12.562576400000
+3107,Kirkebud,Thorup,55,1900-01-23,1845,Gift,Mand,Thorupsgade,16,NULL,NULL
+3110,Kirurg,Christiansen,37,1900-01-23,1863,Gift,Mand,"Frederik VII's Gade",9,55.692470200000,12.553232800000
+3113,Klaverbygger,Jensen,68,1900-01-25,1832,Gift,Mand,Ahornsgade,3,NULL,NULL
+3115,"Klejnsmedelærling (Kleinsmedelærling)",Normann,53,1877-01-15,1824,NULL,Kvinde,Borgergade,51,NULL,NULL
+3117,"Klejnsmedesvend (Kleinsmedesvend)",Jacobsen,55,1877-01-16,1822,Gift,Mand,Korsgade,31,NULL,NULL
+3118,Klodsemager,Mortensen,36,1909-10-23,1873,Ugift,Kvinde,Frederiksvej,2,55.675283100000,12.519317000000
+3120,"Klædefabrikant Klædefabrikør)",Betz,34,1900-01-22,1866,Ugift,Mand,Valdemarsgade,79,55.666354400000,12.549465400000
+3124,Kogerske,Glies,32,1877-01-14,1845,Ugift,Mand,Gråbrødretorv,21,55.679439500000,12.575356900000
+3127,Koloniallærling,Jacobsen,79,1909-10-24,1830,Ugift,Kvinde,"Andreas Bjørns Gade",12,55.675688200000,12.597903800000
+3129,Komiker,Petersen,15,1884-07-04,1869,Ugift,Mand,Nansensgade,25,55.682236200000,12.563307400000
+3130,NULL,Kragh,47,1909-10-22,1862,Gift,Mand,Dannebrogsgade,24,55.670575000000,12.552562000000
+3130,NULL,Kragh,47,1909-10-22,1862,Gift,Mand,Dannebrogsgade,24,55.670504500000,12.552581300000
+3132,Kommissær,Christensen,52,1909-10-23,1857,Ugift,Kvinde,Lavendelstræde,9,55.676314200000,12.571827400000
+3136,Konditorske,Mortensen,81,1909-10-23,1828,Ugift,Kvinde,Pilestræde,76,NULL,NULL
+3140,Konfektionsforretning,Christensen,42,1899-07-06,1857,Gift,Mand,Prinsessegade,53,55.674612400000,12.597674100000
+3142,Konfekturearbejder,Hansen,47,1900-01-23,1853,Gift,Mand,Estlandsgade,10,55.668036900000,12.552071800000
+3144,"Konferensråd (Konferensraad)",Olsen,24,1900-01-23,1876,Ugift,Mand,Farvergade,16,NULL,NULL
+3150,Konstruktørelev,Jensen,47,1900-01-24,1853,Gift,Mand,Istedgade,95,55.668150000000,12.550241100000
+3164,Kornkontrollør,Vichmann,39,1899-07-07,1860,Ugift,Kvinde,Oehlenschlægersgade,44,55.668805800000,12.549811600000
+3164,Kornkontrollør,Vichmann,39,1899-07-07,1860,Ugift,Kvinde,Oehlenschlægersgade,44,55.668792200000,12.549639000000
+3166,Korrekturlæser,Tulberg,49,1900-01-23,1851,Gift,Mand,Wesselsgade,19,NULL,NULL
+3167,Korrektør,Pio,59,1909-10-22,1850,Gift,Mand,Hallinsgade,28,55.693110500000,12.576044000000
+3168,NULL,Andersen,54,1910-05-06,1856,Gift,Mand,Århusgade,27,55.706250800000,12.580185600000
+3168,NULL,Andersen,54,1910-05-06,1856,Gift,Mand,Århusgade,27,55.706382600000,12.579956400000
+3178,Kunstsliber,Schou,26,1877-01-16,1851,NULL,Mand,Bådsmandsstræde,23,55.673720600000,12.595481400000
+3181,Kustode,Nielsen,65,1884-07-06,1819,Gift,Mand,Løvstræde,1,55.680564400000,12.577452800000
+3182,Kyper,Bock,66,1884-07-05,1818,Ugift,Kvinde,Toldbodgade,19,55.680853200000,12.592057400000
+3182,Kyper,Bock,66,1884-07-05,1818,Ugift,Kvinde,Toldbodgade,19,55.681004200000,12.591499600000
+3193,Lagerbetjent,Fick,28,1910-05-07,1882,Ugift,Mand,"Sankt Hans Gade",14,55.690066200000,12.562921000000
+3193,Lagerbetjent,Fick,28,1910-05-07,1882,Ugift,Mand,"Sankt Hans Gade",14,55.690102200000,12.562955300000
+3194,Lagerekspeditør,Trauschke,29,1910-05-08,1881,Ugift,Mand,Linnésgade,33,55.684599300000,12.571124700000
+3196,Lageristinde,Andersen,54,1910-05-08,1856,Gift,Mand,Viborggade,18,55.705099600000,12.579335200000
+3197,Lagerjomfru,Lohse,67,1910-05-09,1843,Gift,Mand,"Frederiksberg Allé",54,55.674104500000,12.540874600000
+3198,Lagerkommis,Andersen,28,1910-05-08,1882,Gift,Mand,Bangertsgade,5,55.688829300000,12.554279100000
+3213,Lingeriforretning,Milne,65,1884-07-03,1819,Enkestand,Mand,"Øster Farimagsgade",20,55.690837900000,12.575881800000
+3219,"Litografisk Tegner",Petersen,37,1900-01-25,1863,Gift,Mand,NULL,NULL,NULL,NULL
+3221,Litograflærling,Olsen,66,1884-07-06,1818,Ugift,Kvinde,Korsgade,27,55.685770600000,12.556157800000
+3225,Lysestøber,Pløtz,73,1900-01-24,1827,Enkestand,Mand,"Søndre Fasanvej",20,55.675581200000,12.519574400000
+3229,Lægekandidat,Jensen,71,1909-10-22,1838,Gift,Mand,Amaliegade,27,55.685842800000,12.594477900000
+3231,Fransklærerinde,Clemmensen,22,1900-01-22,1878,Ugift,Kvinde,"Øster Farimagsgade",NULL,NULL,NULL
+3240,NULL,Fugl,88,1900-01-25,1812,Gift,Mand,"Sankt Knuds Vej",8,55.675701900000,12.548593600000
+3240,NULL,Fugl,88,1900-01-25,1812,Gift,Mand,"Sankt Knuds Vej",8,55.675704100000,12.548888400000
+3240,NULL,Fugl,88,1900-01-25,1812,Gift,Mand,"Sankt Knuds Vej",8,55.675662000000,12.548671900000
+3248,Manufakturist,Andersen,29,1900-01-24,1871,Gift,Mand,"Bjelkes Allé",50,55.694192000000,12.543187000000
+3254,Maskinarbejderske,Binau,69,1900-01-25,1831,Gift,Mand,"Nørre Allé",41,55.694778200000,12.561043700000
+3255,NULL,Lundmann,69,1900-01-25,1831,Skilt,Mand,"Nørre Allé",41,55.694778200000,12.561043700000
+3256,NULL,Bünz,26,1900-01-24,1874,Gift,Mand,Baggesensgade,18,55.687403900000,12.558795700000
+3257,Maskinforhandler,Carstensen,43,1900-01-22,1857,Ugift,Mand,"Uden bopæl",NULL,NULL,NULL
+3268,Maskning,Hildebrandt,52,1877-01-15,1825,NULL,Mand,Amagerbro,23,NULL,NULL
+3271,NULL,Madsen,39,1877-01-15,1838,Gift,Mand,Vingårdstræde,4,55.678813000000,12.584412400000
+3273,Medhjælperinde,Sjøholm,57,1876-12-23,1819,Enkestand,Mand,NULL,NULL,NULL,NULL
+3275,Mediciner,Nielsen,1,1877-01-12,1876,NULL,Kvinde,Klerkegade,38,NULL,NULL
+3276,Mejeri,Olsen,64,1877-01-17,1813,NULL,Mand,Bredgade,55,NULL,NULL
+3278,Mejeriejerske,Olsen,19,1877-01-13,1858,NULL,Mand,Møntergade,2,NULL,NULL
+3280,Mejerikonsulent,Jansen,42,1877-01-17,1835,Gift,Mand,Meinungsgade,21,55.693017700000,12.555277000000
+3281,Mejeriudsalg,Sørensen,26,1910-05-08,1884,Gift,Mand,"Prins Jørgens Gade",2,NULL,NULL
+3286,Metalformer,Jøns,41,1910-09-26,1869,Gift,Mand,"Christianshavns Voldgade",9,55.669843900000,12.589045800000
+3286,Metalformer,Jøns,41,1910-09-26,1869,Gift,Mand,"Christianshavns Voldgade",9,55.669787100000,12.589142400000
+3286,Metalformer,Jøns,41,1910-09-26,1869,Gift,Mand,"Christianshavns Voldgade",9,55.669733900000,12.589241800000
+3286,Metalformer,Jøns,41,1910-09-26,1869,Gift,Mand,"Christianshavns Voldgade",9,55.669767500000,12.589418600000
+3286,Metalformer,Jøns,41,1910-09-26,1869,Gift,Mand,"Christianshavns Voldgade",9,55.669841900000,12.589513900000
+3287,Metalpresser,Andersen,26,1910-09-26,1884,Ugift,Kvinde,Fredensgade,6,NULL,NULL
+3288,Metaltrykkerlærling,Nielsen,73,1884-07-07,1811,Ugift,Mand,NULL,NULL,NULL,NULL
+3289,Metalvarefabrikant,Sørensen,43,1910-09-26,1867,Enkestand,Kvinde,Jægersborggade,10,55.692102800000,12.544991200000
+3292,Militærmusiker,Svensson,68,1884-07-05,1816,Gift,Mand,NULL,NULL,NULL,NULL
+3294,Missionspræst,Henningsen,79,1910-05-08,1831,Gift,Mand,"H.C. Lumbyes Gade",59,55.715153000000,12.572526700000
+3297,Modellerer,Hansen,33,1909-10-24,1876,Gift,Mand,"Dronningens Tværgade",50,55.684734300000,12.583923700000
+3300,Modistelev,Damsen,64,1884-07-05,1820,Enkestand,Mand,NULL,NULL,NULL,NULL
+3314,Mærkerske,Lehmann,36,1910-04-09,1874,Ugift,Kvinde,"Nordre Frihavnsgade",21,55.701033300000,12.579943500000
+3324,Næstformand,Jørgensen,75,1884-07-06,1809,Gift,Mand,Amaliegade,26,55.685134500000,12.594396700000
+3328,"Offentlig Pige",Wandborg,66,NULL,NULL,Gift,Mand,Vesterbrogade,117,55.670843800000,12.543204200000
+3329,NULL,Petersen,54,1910-05-06,1856,Ugift,Mand,Gråbrødretorv,3,55.679852700000,12.576397400000
+3330,Omnibuskonduktør,Nielsen,21,1910-05-09,1889,Ugift,Mand,"Sankt Peders Stræde",22,55.679026500000,12.568234300000
+3351,Overstyrmand,Jensen,74,1884-07-06,1810,Enkestand,Mand,NULL,NULL,NULL,NULL
+3353,Overtelefonist,Thomasen,67,1910-05-07,1843,Enkestand,Mand,"Nørre Allé",41,55.694778200000,12.561043700000
+3353,Overtelegrafbud,Thomasen,67,1910-05-07,1843,Enkestand,Mand,"Nørre Allé",41,55.694778200000,12.561043700000
+3355,Overtrækker,Gefnther,78,1884-07-05,1806,Enkestand,Mand,"Overgaden Oven Vandet",58,55.674234300000,12.594454500000
+3355,Overtrækker,Gefnther,78,1884-07-05,1806,Enkestand,Mand,"Overgaden Oven Vandet",58,55.674087600000,12.594762600000
+3357,Overvaskepige,Jensen,39,1900-01-26,1861,Ugift,Kvinde,Bangertsgade,5,55.688829300000,12.554279100000
+3359,Paparbejder,"Vennemoes - Sørensen",61,1909-10-23,1848,Gift,Mand,Vesterbrogade,9,55.673594000000,12.562390100000
+3359,Paparbejder,"Vennemoes - Sørensen",61,1909-10-23,1848,Gift,Mand,Vesterbrogade,9,55.673481500000,12.562048200000
+3360,Paparbejderske,Hansen,53,1878-12-31,1825,NULL,Mand,"Lille Brøndstræde",5,NULL,NULL
+3366,"Pastor Emeritus",Rasmussen,68,1900-01-26,1832,Enkestand,Mand,Sølvgade,97,55.690092000000,12.572580200000
+3369,Pensionatejerske,Jensen,51,1900-01-26,1849,Ugift,Kvinde,Gartnergade,8,NULL,NULL
+3373,NULL,Mølgaard,28,1900-01-26,1872,Ugift,Mand,Oehlenschlægersgade,68,55.667064700000,12.549936700000
+3374,NULL,Nielsen,NULL,1877-01-13,NULL,NULL,Kvinde,Tjørnegade,1,55.688222600000,12.554171700000
+3375,"Pianoflytter (Pianoforteflytter)",Nielsen,0,1877-01-15,1877,NULL,Kvinde,Dronningensgade,16,55.670720500000,12.590077500000
+3375,"Pianoflytter (Pianoforteflytter)",Nielsen,0,1877-01-15,1877,NULL,Kvinde,Dronningensgade,16,55.670650500000,12.590065400000
+3375,"Pianoflytter (Pianoforteflytter)",Nielsen,0,1877-01-15,1877,NULL,Kvinde,Dronningensgade,16,55.670752900000,12.590234000000
+3379,Piasavaarbejder,Jensen,46,1910-10-21,1864,Gift,Mand,Saxogade,54,55.669531400000,12.550871900000
+3388,Plejestuekone,Nielsen,85,1900-01-24,1815,Enkestand,Mand,Todesgade,3,55.687256600000,12.557394500000
+3390,Politekniker,Siebrandtsen,70,1910-05-10,1840,Gift,Mand,NULL,NULL,NULL,NULL
+3393,NULL,Andersen,27,1909-10-22,1882,Ugift,Kvinde,Elmegade,12,55.689804100000,12.558717200000
+3394,Politifuldmægtig,Nielsen,67,1909-10-23,1842,Gift,Mand,Eskildsgade,37,55.669133300000,12.557334600000
+3395,Politimester,Halberg,30,1910-10-16,1880,Gift,Mand,Ryesgade,16,55.690597900000,12.565970300000
+3402,Portefeuiller,Fock,57,1900-01-23,1843,Enkestand,Mand,NULL,NULL,NULL,NULL
+3403,Portrættegner,Simonsen,50,1900-01-26,1850,Gift,Mand,"Peder Skrams Gade",14,55.677926300000,12.588750500000
+3406,Possementarbejde,Petersen,33,1900-01-27,1867,Gift,Mand,Nansensgade,27,55.682331100000,12.563518800000
+3409,Possementmagersvend,Garbers,62,1900-01-28,1838,Enkestand,Kvinde,Todesgade,3,55.687256600000,12.557394500000
+3412,Postulant,Hansen,36,1900-01-26,1864,Gift,Mand,Vestergade,28,55.676963000000,12.568747700000
+3414,"Praktiserende læge",August,59,1900-01-26,1841,Gift,Mand,Valby,NULL,NULL,NULL
+3419,Pressesvend,Tramp,86,1900-01-26,1814,Enkestand,Kvinde,"Lille Strandstræde",20,55.681210900000,12.590218600000
+3419,Pressesvend,Tramp,86,1900-01-26,1814,Enkestand,Kvinde,"Lille Strandstræde",20,55.681090000000,12.590745100000
+3419,Pressesvend,Tramp,86,1900-01-26,1814,Enkestand,Kvinde,"Lille Strandstræde",20,55.681118900000,12.590940700000
+3419,Pressesvend,Tramp,86,1900-01-26,1814,Enkestand,Kvinde,"Lille Strandstræde",20,55.680952500000,12.591214600000
+3420,"Privat Legat",Petersen,0,1877-01-27,1877,NULL,Mand,Amaliegade,23,55.685265200000,12.594007700000
+3424,Privatmand,Westergaard,79,1877-01-31,1798,NULL,Kvinde,Viktoriagade,20,55.671096700000,12.558361500000
+3428,Prosektor,Nielsen,61,1877-01-29,1816,Enkestand,Mand,Tøjhusgade,3,55.674837500000,12.579628300000
+3430,Provisor,Reventlow,71,1900-01-29,1829,Ugift,Kvinde,"Amalienborg Slotsplads",NULL,NULL,NULL
+3432,Præparant,Munck,45,1900-01-27,1855,Gift,Mand,Nørrebrogade,178,NULL,NULL
+3439,Rangermester,Carlsen,46,1900-01-27,1854,Ugift,Mand,Frederiksborggade,23,55.684519300000,12.568944800000
+3443,Rejsefotograf,Petersen,37,1900-01-26,1863,Ugift,Mand,NULL,NULL,NULL,NULL
+3445,Rekvisitør,Olsen,40,1900-01-29,1860,Ugift,Mand,Prinsensgade,4,NULL,NULL
+3447,Rentenist,Jørgensen,43,1900-01-27,1857,Gift,Mand,Baggesensgade,46,NULL,NULL
+3458,"Ridder af Dannebrog",Stausholm,48,1884-07-08,1836,Ugift,Mand,Vævergade,5,55.687797300000,12.553190700000
+3465,Rådhustjener,Friis,41,1900-01-28,1859,Gift,Mand,Thorsgade,27,55.696574500000,12.547764700000
+3481,Sejlmagersvend,Hansen,28,1884-07-08,1856,NULL,Mand,"Overgaden Oven Vandet",4,55.670303100000,12.587819300000
+3481,Sejlmagersvend,Hansen,28,1884-07-08,1856,NULL,Mand,"Overgaden Oven Vandet",4,55.670365200000,12.587931000000
+3488,NULL,Leth,61,1910-04-12,1849,Gift,Mand,Tietgensgade,31,55.671789500000,12.569936400000
+3488,NULL,Leth,61,1910-04-12,1849,Gift,Mand,Tietgensgade,31,55.671619200000,12.569477800000
+3488,NULL,Leth,61,1910-04-12,1849,Gift,Mand,Tietgensgade,31,55.671776000000,12.569621000000
+3488,NULL,Leth,61,1910-04-12,1849,Gift,Mand,Tietgensgade,31,55.672057200000,12.569531800000
+3488,NULL,Leth,61,1910-04-12,1849,Gift,Mand,Tietgensgade,31,55.671938000000,12.569201100000
+3488,NULL,Leth,61,1910-04-12,1849,Gift,Mand,Tietgensgade,31,55.671652600000,12.569251500000
+3490,NULL,Olesen,84,1910-04-14,1826,Enkestand,Mand,"Dronningens Tværgade",29,55.683718000000,12.584475900000
+3492,NULL,Møller,44,1910-04-12,1866,Skilt,Kvinde,Strandboulevarden,90,55.706160100000,12.586787200000
+3494,Silhuettist,Christensen,67,1900-01-30,1833,Enkestand,Mand,Prinsensgade,14,NULL,NULL
+3496,Skatteassistent,Hammer,78,1910-04-13,1832,Enkestand,Mand,Dannebrogsgade,52,NULL,NULL
+3497,"Skibskaptajn (Skibskaptain - Skibscaptain)",Jørgensen,76,1863-01-08,1787,Enkestand,Mand,Strandgade,22,55.673790300000,12.589689500000
+3497,"Skibskaptajn (Skibskaptain - Skibscaptain)",Jørgensen,76,1863-01-08,1787,Enkestand,Mand,Strandgade,22,55.673631400000,12.590037400000
+3498,Skibslæge,Reiserer,80,1900-01-30,1820,Enkestand,Mand,Griffenfeldsgade,38,55.687126300000,12.553378100000
