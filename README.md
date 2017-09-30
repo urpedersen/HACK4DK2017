@@ -42,3 +42,8 @@ left join hack4dk_burial_address as a on a.persons_id = p.id
 left join PRB_koordinat as k ON a.street COLLATE utf8_danish_ci LIKE k.vejnavn AND a.street_number = k.vejnummer
 where relationtype = "Eget erhverv"
 ```
+### Rigtig mange coordinater
+```SQL
+SELECT firstnames,lastname,gender,day,month,year,latitude,longitude FROM hack4dk.hack4dk_police_person as p
+left join hack4dk_police_address as a on a.person_id = p.id
+```
