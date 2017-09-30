@@ -1,0 +1,501 @@
+id,firstnames,lastname,position,relationtype,dateOfDeath,cemetary,id,registerblad_id,day,month,year,full_address,latitude,longitude
+776,"Dyveke Amalie",Andersen,Tjenestepige,"Eget erhverv",1910-03-31,"Vestre Kirkegård",1502910,3302175,3,5,1909,"Dannebrogsgade 4, stuen, hos Petersen",55.672034600000,12.552391200000
+776,"Dyveke Amalie",Andersen,Tjenestepige,"Eget erhverv",1910-03-31,"Vestre Kirkegård",1502910,3302175,18,12,1908,"Gullandsgade 3, 1., hos Rasmussen",55.658638600000,12.601443900000
+776,"Dyveke Amalie",Andersen,Tjenestepige,"Eget erhverv",1910-03-31,"Vestre Kirkegård",1502910,3302175,17,9,1909,"Hveensvej 27, 3., hos Petersen",55.656910600000,12.612080900000
+776,"Dyveke Amalie",Andersen,Tjenestepige,"Eget erhverv",1910-03-31,"Vestre Kirkegård",1502910,3302175,1,11,1905,"Lombardigade 5, 4.",55.653993500000,12.611814700000
+776,"Dyveke Amalie",Andersen,Tjenestepige,"Eget erhverv",1910-03-31,"Vestre Kirkegård",1502910,3302175,1,5,1908,"Vesterbrogade 108, stuen",55.671604600000,12.545245000000
+678,"Johannes Fritz Emanuel",Andersen,Komponist,"Eget erhverv",1910-03-29,"Assistens Kirkegård",1504274,3303250,1,11,1890,"Nørre Farimagsgade 59, 4.",55.684754100000,12.567441100000
+678,"Johannes Fritz Emanuel",Andersen,Sanglærer,Forhenværende/pensioneret,1910-03-29,"Assistens Kirkegård",1504274,3303250,1,11,1890,"Nørre Farimagsgade 59, 4.",55.684754100000,12.567441100000
+678,"Johannes Fritz Emanuel",Andersen,Komponist,"Eget erhverv",1910-03-29,"Assistens Kirkegård",1504274,3303250,1,11,1890,"Nørre Farimagsgade 59, 4.",55.684754100000,12.567441100000
+678,"Johannes Fritz Emanuel",Andersen,Sanglærer,Forhenværende/pensioneret,1910-03-29,"Assistens Kirkegård",1504274,3303250,1,11,1890,"Nørre Farimagsgade 59, 4.",55.684754100000,12.567441100000
+743,"Ludvig Mathias",Andersen,Murer,"Eget erhverv",1909-10-02,"Bispebjerg Kirkegård",1504843,3303674,1,5,1902,"Falkevej 7, 1.",55.698483900000,12.534855300000
+743,"Ludvig Mathias",Andersen,Murer,"Eget erhverv",1909-10-02,"Bispebjerg Kirkegård",1504843,3303674,1,5,1903,"Ægirsgade 33, 3.",55.699273800000,12.545937500000
+840,Niels,Andersen,Arbejdsmand,"Eget erhverv",1909-10-05,"Sundby Kirkegård",1505176,3303972,1,5,1909,"Amagerbrogade 228, stuen",55.647741800000,12.613441900000
+840,Niels,Andersen,Arbejdsmand,"Eget erhverv",1909-10-05,"Sundby Kirkegård",1505176,3303972,1,11,1903,"Hveensvej 26, stuen",55.656639000000,12.611960400000
+840,Niels,Andersen,Arbejdsmand,"Eget erhverv",1909-10-05,"Sundby Kirkegård",1505176,3303972,1,5,1902,"Nordre Røse Vej 4, 1., tv.",55.658289700000,12.610781800000
+840,Niels,Andersen,Arbejdsmand,"Eget erhverv",1909-10-05,"Sundby Kirkegård",1505176,3303972,1,11,1905,"Tycho Brahes Allé 29, stuen",55.655763100000,12.612775100000
+840,Niels,Andersen,Arbejdsmand,"Eget erhverv",1909-10-05,"Sundby Kirkegård",1505176,3303972,1,11,1907,"Øresundsvej 16D, 1.",55.659133500000,12.610040800000
+717,Carl,Christiansen,Formand,"Eget erhverv",1909-10-01,"Vestre Kirkegård",1520290,3315053,1,11,1892,"Gammel Kongevej 7, stuen",55.674255500000,12.559183400000
+717,Carl,Christiansen,Formand,"Eget erhverv",1909-10-01,"Vestre Kirkegård",1520290,3315053,16,3,1892,"Helgolandsgade 9, stuen",55.672334200000,12.561280000000
+717,Carl,Christiansen,Formand,"Eget erhverv",1909-10-01,"Vestre Kirkegård",1520290,3315053,1,11,1906,"Istedgade 23, 1.",55.670858800000,12.559109100000
+717,Carl,Christiansen,Formand,"Eget erhverv",1909-10-01,"Vestre Kirkegård",1520290,3315053,1,5,1909,"Lille Istedgade 3, 3.",55.670899200000,12.559995900000
+834,"Jens Peter",Christoffersen,Kusk,"Eget erhverv",1909-10-03,"Assistens Kirkegård",1521658,3315974,7,3,1901,"Blegdamsvej 130, 5., hos Hansen",55.698614700000,12.576127500000
+834,"Jens Peter",Christoffersen,Vicevært,"Eget erhverv",1909-10-03,"Assistens Kirkegård",1521658,3315974,7,3,1901,"Blegdamsvej 130, 5., hos Hansen",55.698614700000,12.576127500000
+834,"Jens Peter",Christoffersen,Kusk,"Eget erhverv",1909-10-03,"Assistens Kirkegård",1521658,3315974,10,4,1902,"Blegdamsvej 82, 3., th., hos Hansen",55.696028700000,12.571226800000
+834,"Jens Peter",Christoffersen,Vicevært,"Eget erhverv",1909-10-03,"Assistens Kirkegård",1521658,3315974,10,4,1902,"Blegdamsvej 82, 3., th., hos Hansen",55.696028700000,12.571226800000
+834,"Jens Peter",Christoffersen,Kusk,"Eget erhverv",1909-10-03,"Assistens Kirkegård",1521658,3315974,16,10,1901,"Odensegade 6, 1., hos Petersen",55.699556700000,12.578956800000
+834,"Jens Peter",Christoffersen,Vicevært,"Eget erhverv",1909-10-03,"Assistens Kirkegård",1521658,3315974,16,10,1901,"Odensegade 6, 1., hos Petersen",55.699556700000,12.578956800000
+834,"Jens Peter",Christoffersen,Kusk,"Eget erhverv",1909-10-03,"Assistens Kirkegård",1521658,3315974,3,10,1905,"Olufsvej 50, stuen, hos Larsen",55.700400400000,12.575111200000
+834,"Jens Peter",Christoffersen,Vicevært,"Eget erhverv",1909-10-03,"Assistens Kirkegård",1521658,3315974,3,10,1905,"Olufsvej 50, stuen, hos Larsen",55.700400400000,12.575111200000
+834,"Jens Peter",Christoffersen,Kusk,"Eget erhverv",1909-10-03,"Assistens Kirkegård",1521658,3315974,1,5,1905,"Rebekkavej 13, 2., hos Christensen",55.729864600000,12.563573200000
+834,"Jens Peter",Christoffersen,Vicevært,"Eget erhverv",1909-10-03,"Assistens Kirkegård",1521658,3315974,1,5,1905,"Rebekkavej 13, 2., hos Christensen",55.729864600000,12.563573200000
+834,"Jens Peter",Christoffersen,Kusk,"Eget erhverv",1909-10-03,"Assistens Kirkegård",1521658,3315974,3,5,1904,"Rebekkavej 13, stuen, hos Søndergaard",55.729864600000,12.563573200000
+834,"Jens Peter",Christoffersen,Vicevært,"Eget erhverv",1909-10-03,"Assistens Kirkegård",1521658,3315974,3,5,1904,"Rebekkavej 13, stuen, hos Søndergaard",55.729864600000,12.563573200000
+834,"Jens Peter",Christoffersen,Kusk,"Eget erhverv",1909-10-03,"Assistens Kirkegård",1521658,3315974,4,11,1905,"Ryesgade 108, 3., hos Laursen",55.697223700000,12.575741500000
+834,"Jens Peter",Christoffersen,Vicevært,"Eget erhverv",1909-10-03,"Assistens Kirkegård",1521658,3315974,4,11,1905,"Ryesgade 108, 3., hos Laursen",55.697223700000,12.575741500000
+834,"Jens Peter",Christoffersen,Kusk,"Eget erhverv",1909-10-03,"Assistens Kirkegård",1521658,3315974,28,10,1901,"Ryesgade 71, 2., hos Schultz",55.694978000000,12.571131000000
+834,"Jens Peter",Christoffersen,Vicevært,"Eget erhverv",1909-10-03,"Assistens Kirkegård",1521658,3315974,28,10,1901,"Ryesgade 71, 2., hos Schultz",55.694978000000,12.571131000000
+843,"Frederik Ferdinand",Danielsen,Postbud,Forhenværende/pensioneret,1909-10-04,"Vestre Kirkegård",1523476,3317310,1,5,1900,"Nøjsomhedsvej 7, 3., hos Hjemmet",55.704720200000,12.578693400000
+843,"Frederik Ferdinand",Danielsen,Postbud,Forhenværende/pensioneret,1909-10-04,"Vestre Kirkegård",1523476,3317310,1,11,1908,"Ryesgade 82B, 3.",55.695686600000,12.572691600000
+837,"Peter Emil Vilhelm",Eriksen,Direktør,"Eget erhverv",1909-10-05,"Assistens Kirkegård",1526752,3319668,1,11,1894,"Birkegade 4, 1.",55.690174500000,12.558415300000
+837,"Peter Emil Vilhelm",Eriksen,Direktør,"Eget erhverv",1909-10-05,"Assistens Kirkegård",1526752,3319668,5,5,1892,"Gammel Kongevej 29A, 3.",55.673284900000,12.555459500000
+837,"Peter Emil Vilhelm",Eriksen,Direktør,"Eget erhverv",1909-10-05,"Assistens Kirkegård",1526752,3319668,1,5,1898,"Vesterbrogade 31, 3.",55.672751100000,12.558429000000
+760,Johan,Göransson,Arbejdsmand,"Eget erhverv",1910-03-29,"Vestre Kirkegård",1533698,3324748,1,11,1905,"Absalonsgade 35, 4.",55.669176600000,12.555777700000
+760,Johan,Göransson,Arbejdsmand,"Eget erhverv",1910-03-29,"Vestre Kirkegård",1533698,3324748,7,3,1898,"Dybbølsgade 13, stuen, hos Olsen",55.665419500000,12.556955800000
+760,Johan,Göransson,Arbejdsmand,"Eget erhverv",1910-03-29,"Vestre Kirkegård",1533698,3324748,1,5,1898,"Dybbølsgade 19, 4.",55.665662500000,12.555719900000
+760,Johan,Göransson,Arbejdsmand,"Eget erhverv",1910-03-29,"Vestre Kirkegård",1533698,3324748,1,11,1900,"Oehlenschlægersgade 40",55.669084500000,12.549779200000
+760,Johan,Göransson,Arbejdsmand,"Eget erhverv",1910-03-29,"Vestre Kirkegård",1533698,3324748,11,2,1897,"Oehlenschlægersgade 64, 3., hos Hansen",55.667370300000,12.549917400000
+760,Johan,Göransson,Arbejdsmand,"Eget erhverv",1910-03-29,"Vestre Kirkegård",1533698,3324748,14,12,1895,"Oehlenschlægersgade 80, 3., hos Nielsen",55.666093400000,12.549994100000
+760,Johan,Göransson,Arbejdsmand,"Eget erhverv",1910-03-29,"Vestre Kirkegård",1533698,3324748,1,11,1907,"Saxogade 90, 1.",55.668134700000,12.551104400000
+760,Johan,Göransson,Arbejdsmand,"Eget erhverv",1910-03-29,"Vestre Kirkegård",1533698,3324748,5,12,1898,"Valdemarsgade 38, stuen, hos Hansen",55.667547600000,12.548978800000
+760,Johan,Göransson,Arbejdsmand,"Eget erhverv",1910-03-29,"Vestre Kirkegård",1533698,3324748,1,11,1899,"Valdemarsgade 38, stuen, hos Hansen",55.667547600000,12.548978800000
+760,Johan,Göransson,Arbejdsmand,"Eget erhverv",1910-03-29,"Vestre Kirkegård",1533698,3324748,19,2,1894,"Øster Allé 20, 2., hos Laulund",55.700124500000,12.575286600000
+794,"Ebba Ingeborg",Hansen,Typograf,"Fars erhverv",1910-04-02,"Vestre Kirkegård",1537385,3327471,1,11,1909,"Nørre Voldgade 25, 3., hos Hjemmet",55.684216700000,12.572555100000
+789,Hans,Hansen,Arbejdsmand,"Eget erhverv",1910-03-31,"Sundby Kirkegård",1538307,3328149,1,11,1893,"Dannebrogsgade 45, 1.",55.668382600000,12.553213100000
+789,Hans,Hansen,Arbejdsmand,"Eget erhverv",1910-03-31,"Sundby Kirkegård",1538307,3328149,1,5,1900,"Dannebrogsgade 47, 1.",55.668151700000,12.553259500000
+789,Hans,Hansen,Arbejdsmand,"Eget erhverv",1910-03-31,"Sundby Kirkegård",1538307,3328149,1,5,1892,"Dannebrogsgade 48, stuen",55.668142700000,12.552964700000
+789,Hans,Hansen,Arbejdsmand,"Eget erhverv",1910-03-31,"Sundby Kirkegård",1538307,3328149,1,5,1898,"Istedgade 42, 4.",55.670407200000,12.556933300000
+789,Hans,Hansen,Arbejdsmand,"Eget erhverv",1910-03-31,"Sundby Kirkegård",1538309,3328150,1,5,1902,"Woltersgade 14, 2.",55.664392700000,12.607778900000
+718,"Hans Ferdinand",Hansen,Skibsintendant,"Eget erhverv",1909-10-01,"Holmens Kirkegård",1538702,3328380,1,11,1894,"Jens Juels Gade 13, stuen",55.690768900000,12.574609700000
+718,"Hans Ferdinand",Hansen,Skibsintendant,"Eget erhverv",1909-10-01,"Holmens Kirkegård",1538702,3328380,1,5,1892,"Krusemyntegade 2, 1.",55.688382200000,12.585351200000
+718,"Hans Ferdinand",Hansen,Skibsintendant,"Eget erhverv",1909-10-01,"Holmens Kirkegård",1538702,3328380,1,5,1894,"Lipkesgade 5, stuen",55.697045600000,12.585428100000
+551,"Christian Emil",Harreschou,Grosserer,"Eget erhverv",1909-09-30,"Svendborg Kirkegård",1544790,3332591,1,11,1904,"Cort Adelers Gade 12, 1.",55.677582600000,12.590774700000
+551,"Christian Emil",Harreschou,Grosserer,"Eget erhverv",1909-09-30,"Svendborg Kirkegård",1544790,3332591,1,11,1897,"Heibergsgade 7, 1.",55.679242100000,12.587258200000
+551,"Christian Emil",Harreschou,Grosserer,"Eget erhverv",1909-09-30,"Svendborg Kirkegård",1544790,3332591,1,11,1896,"Vendersgade 28, stuen",55.685502300000,12.565330700000
+709,"Louise Frederikke",Hauptmann,NULL,NULL,1910-03-30,"Vestre Kirkegård",1545311,3332974,1,5,1907,"Hedebygade 9B, 4.",55.669611700000,12.544062400000
+796,"Ludvig Vincent",Hein,Ingeniør,"Eget erhverv",1910-04-02,"Vestre Kirkegård",1545756,3333306,1,5,1905,"Colbjørnsensgade 5, stuen",55.672870000000,12.561929800000
+796,"Ludvig Vincent",Hein,Ingeniør,"Eget erhverv",1910-04-02,"Vestre Kirkegård",1545756,3333306,1,11,1901,"Dronningens Tværgade 40, 3.",55.684791900000,12.585178600000
+796,"Ludvig Vincent",Hein,Ingeniør,"Eget erhverv",1910-04-02,"Vestre Kirkegård",1545756,3333306,1,11,1906,"Reventlowsgade 24, 2.",55.671330300000,12.564396300000
+791,"Otto Valdemar",Hoffgaard,Apoteker,Forhenværende/pensioneret,1910-03-31,"Vestre Kirkegård",1548167,3335066,1,11,1905,"Jens Juels Gade 6, 2.",55.690811400000,12.575067400000
+791,"Otto Valdemar",Hoffgaard,Apoteker,Forhenværende/pensioneret,1910-03-31,"Vestre Kirkegård",1548167,3335066,1,11,1909,"Stockholmsgade 13, 1.",55.690009200000,12.576217500000
+791,"Otto Valdemar",Hoffgaard,Apoteker,Forhenværende/pensioneret,1910-03-31,"Vestre Kirkegård",1548167,3335066,1,5,1909,"Stockholmsgade 3, stuen",55.689708700000,12.575371300000
+791,"Otto Valdemar",Hoffgaard,Apoteker,Forhenværende/pensioneret,1910-03-31,"Vestre Kirkegård",1548167,3335066,1,5,1907,"Store Kongensgade 89, 1.",55.686326700000,12.589250100000
+502,Hans,Jensen,Stenfisker,"Eget erhverv",1909-09-29,"Bispebjerg Kirkegård",1556331,3341086,1,5,1909,"Hjørringgade 29, 1.",55.706263200000,12.588644400000
+733,Jensine,Jensen,NULL,NULL,1910-03-29,"Vor Frelsers Kirkegård (Amager)",1558117,3342210,16,1,1898,"Prinsessegade 10, 4.",55.670836400000,12.591784800000
+680,Lars,Jensen,Grønthandler,"Eget erhverv",1910-03-30,"Vestre Kirkegård",1559016,3342922,1,11,1899,"Tordenskjoldsgade 29, kælderen",55.677085800000,12.588442400000
+680,Lars,Jensen,Grønthandler,"Eget erhverv",1910-03-30,"Vestre Kirkegård",1559016,3342922,1,11,1908,"Tordenskjoldsgade 29, kælderen",55.677085800000,12.588442400000
+680,Lars,Jensen,Grønthandler,"Eget erhverv",1910-03-30,"Vestre Kirkegård",1559016,3342922,1,5,1892,"Tordenskjoldsgade 31, kælderen",55.676932300000,12.588537800000
+839,Ole,Jensen,Murersvend,"Eget erhverv",1909-10-05,"Bispebjerg Kirkegård",1560548,3344009,1,11,1907,"Amaliegade 33",55.686610000000,12.595110600000
+839,Ole,Jensen,Murersvend,"Eget erhverv",1909-10-05,"Bispebjerg Kirkegård",1560548,3344009,1,11,1901,"Gammel Kalkbrænderi Vej 14, stuen, tv., hos Christiansen",55.703883800000,12.584189800000
+839,Ole,Jensen,Murersvend,"Eget erhverv",1909-10-05,"Bispebjerg Kirkegård",1560548,3344009,13,4,1899,"Halmtorvet (Vesterbro) 42, stuen, hos Nielsen",55.669239800000,12.557678000000
+839,Ole,Jensen,Murersvend,"Eget erhverv",1909-10-05,"Bispebjerg Kirkegård",1560548,3344009,1,5,1898,"Halmtorvet (Vesterbro) 44, 3.",55.669140500000,12.557466300000
+839,Ole,Jensen,Murersvend,"Eget erhverv",1909-10-05,"Bispebjerg Kirkegård",1560548,3344009,3,11,1904,"Hindegade 8, 4., hos Nielsen",55.686271000000,12.587640700000
+839,Ole,Jensen,Murersvend,"Eget erhverv",1909-10-05,"Bispebjerg Kirkegård",1560548,3344009,1,5,1892,"Oehlenschlægersgade 13, stuen",55.671320100000,12.549931500000
+833,"Eli Otto Peter",Johansen,Lagerist,"Eget erhverv",1909-10-03,"Assistens Kirkegård",1563269,3345897,1,11,1908,"Blegdamsvej 42, stuen",55.693342200000,12.566246000000
+833,"Eli Otto Peter",Johansen,Lagerist,"Eget erhverv",1909-10-03,"Assistens Kirkegård",1563269,3345897,1,11,1897,"Jagtvej 19, stuen",55.689529100000,12.543088100000
+833,"Eli Otto Peter",Johansen,Lagerist,"Eget erhverv",1909-10-03,"Assistens Kirkegård",1563269,3345897,1,11,1906,"Jagtvej 29",55.690894300000,12.544676600000
+833,"Eli Otto Peter",Johansen,Lagerist,"Eget erhverv",1909-10-03,"Assistens Kirkegård",1563269,3345897,1,5,1909,"Jagtvej 29, stuen",55.690894300000,12.544676600000
+539,"Peter Hansen",Lave,Mejeriejer,Forhenværende/pensioneret,1909-09-30,"Vestre Kirkegård",1579867,3357859,1,11,1906,"Nørre Farimagsgade 29, 3.",55.682423400000,12.565368400000
+694,"Mathilde Emilie",Lindstrøm,Maskinarbejder,"Ægtefælles erhverv",1899-12-30,"Vestre Kirkegård",1581478,3359024,1,11,1898,"Frederiksborggade 35, 3.",55.685428200000,12.566633900000
+694,"Mathilde Emilie",Lindstrøm,Maskinarbejder,"Ægtefælles erhverv",1899-12-30,"Vestre Kirkegård",1581478,3359024,1,11,1897,"Klosterstræde 14, 1.",55.679160800000,12.575513400000
+694,"Mathilde Emilie",Lindstrøm,Maskinarbejder,"Ægtefælles erhverv",1899-12-30,"Vestre Kirkegård",1581478,3359024,1,5,1898,"Klosterstræde 14, 1.",55.679160800000,12.575513400000
+541,"Viggo Peter",Madsen,Kusk,"Eget erhverv",1909-09-29,"Vestre Kirkegård",1585421,3361882,26,6,1906,"Dronningensgade 79, stuen, hos N.P.Jensen",55.673792000000,12.594731100000
+541,"Viggo Peter",Madsen,Kusk,"Eget erhverv",1909-09-29,"Vestre Kirkegård",1585421,3361882,14,4,1906,"Lille Kongensgade 34, 2., hos Bergstrøm",55.679308600000,12.582273600000
+541,"Viggo Peter",Madsen,Kusk,"Eget erhverv",1909-09-29,"Vestre Kirkegård",1585421,3361882,22,2,1896,"Skyttegade 6, 1.",55.687592500000,12.549465600000
+541,"Viggo Peter",Madsen,Kusk,"Eget erhverv",1909-09-29,"Vestre Kirkegård",1585421,3361882,1,11,1894,"Skyttegade 8, 2.",55.687296800000,12.549144400000
+541,"Viggo Peter",Madsen,Kusk,"Eget erhverv",1909-09-29,"Vestre Kirkegård",1585421,3361882,6,12,1899,"Store Kongensgade 65, 1., hos Andersen",55.684719900000,12.587884300000
+541,"Viggo Peter",Madsen,Kusk,"Eget erhverv",1909-09-29,"Vestre Kirkegård",1585421,3361882,1,11,1896,"Tjørnegade 6, 4.",55.688415100000,12.553989500000
+564,"Julius Gustav",Møller,Bogbinder,"Eget erhverv",1909-10-01,"Assistens Kirkegård",1591005,3365975,1,10,1909,"Peter Fabers Gade 32, 1.",55.691473100000,12.556234700000
+564,"Julius Gustav",Møller,Bogbinder,"Eget erhverv",1909-10-01,"Assistens Kirkegård",1591005,3365975,1,11,1895,"Sjællandsgade 3, 1.",55.693042200000,12.551914300000
+564,"Julius Gustav",Møller,Bogbinder,"Eget erhverv",1909-10-01,"Assistens Kirkegård",1591005,3365975,1,11,1907,"Ægirsgade 56, 2.",55.700663000000,12.548717300000
+750,"Niels Oluf",Nielsen,Blikkenslager,"Eget erhverv",1909-10-03,"Vestre Kirkegård",1599204,3371927,1,5,1909,"Istedgade 73, 5.",55.668700300000,12.552105400000
+750,"Niels Oluf",Nielsen,Blikkenslager,"Eget erhverv",1909-10-03,"Vestre Kirkegård",1599204,3371927,31,10,1909,"Tingvej 23A, 3.",55.658703600000,12.603642200000
+750,"Niels Oluf",Nielsen,Blikkenslager,"Eget erhverv",1909-10-03,"Vestre Kirkegård",1599204,3371927,1,11,1908,"Øselsgade 10, stuen",55.661611600000,12.600866700000
+846,Fernanda,Nissum,Skolelærerinde,Forhenværende/pensioneret,1910-03-30,"Vestre Kirkegård",1601463,3373453,1,5,1896,"Oehlenschlægersgade 42, 4.",55.668945700000,12.549800300000
+849,"Carl Julius",Petersen,Skorstensfejer,"Eget erhverv",1910-04-02,"Vestre Kirkegård",1609415,3379279,19,5,1892,"Absalonsgade 40, 3.",55.669066600000,12.555485300000
+849,"Carl Julius",Petersen,Skorstensfejer,"Eget erhverv",1910-04-02,"Vestre Kirkegård",1609415,3379279,1,11,1895,"Dannebrogsgade 47, 2.",55.668151700000,12.553259500000
+849,"Carl Julius",Petersen,Skorstensfejer,"Eget erhverv",1910-04-02,"Vestre Kirkegård",1609415,3379279,1,11,1897,"Istedgade 67, 2.",55.668851800000,12.552599400000
+857,"Charles Heinrich",Petersen,Arbejdsmand,"Eget erhverv",1910-03-31,"Bispebjerg Kirkegård",1609735,3379517,1,5,1905,"Brigadevej 16, 1.",55.662675500000,12.600533400000
+684,"Christine Frederikke",Petersen,Syerske,"Eget erhverv",1910-03-28,"Vestre Kirkegård",1610158,3379802,1,5,1900,"Gammel Mønt 29, 4.",55.681551200000,12.580443200000
+684,"Christine Frederikke",Petersen,Syerske,"Eget erhverv",1910-03-28,"Vestre Kirkegård",1610158,3379802,1,11,1892,"Landemærket 23, 2.",55.682421800000,12.576838900000
+684,"Christine Frederikke",Petersen,Syerske,"Eget erhverv",1910-03-28,"Vestre Kirkegård",1610158,3379802,1,5,1899,"Møntergade 20, 1.",55.682085200000,12.580091900000
+731,Hans,Petersen,Gårdejer,"Eget erhverv",1910-03-30,"Store Magleby Kirkegård",1611180,3380561,1,5,1892,"Sankt Annæ Gade 32, kælderen",55.672649700000,12.593477600000
+744,"Poul Johan",Poulsen,Vaskeriejer,"Eget erhverv",1909-10-03,"Brønshøj Kirkegård",1618477,3385682,1,5,1892,"Bjelkes Allé 29, stuen",55.693393400000,12.543828000000
+639,"Vilhelmine Amalie",Pytmann,NULL,NULL,1909-10-01,"Vestre Kirkegård",1618900,3385989,1,11,1907,"Baggesensgade 10, 1.",55.687025400000,12.560333000000
+639,"Vilhelmine Amalie",Pytmann,NULL,NULL,1909-10-01,"Vestre Kirkegård",1618900,3385989,1,5,1895,"Niels Hemmingsens Gade 10, 3.",55.679359100000,12.577710400000
+639,"Vilhelmine Amalie",Pytmann,NULL,NULL,1909-10-01,"Vestre Kirkegård",1618900,3385989,1,5,1901,"Skindergade 27, 4.",55.679479000000,12.574546400000
+639,"Vilhelmine Amalie",Pytmann,NULL,NULL,1909-10-01,"Vestre Kirkegård",1618900,3385989,1,11,1899,"Valkendorfsgade 22, 4.",55.679405500000,12.576294900000
+713,"Jens Christian",Rasmussen,Snedker,"Eget erhverv",1910-03-30,"Bispebjerg Kirkegård",1620932,3387455,1,11,1904,"Arnesvej 5, 1.",55.704660900000,12.505225900000
+713,"Jens Christian",Rasmussen,Snedker,"Eget erhverv",1910-03-30,"Bispebjerg Kirkegård",1620932,3387455,1,11,1905,"Frederikssundsvej 174",55.705292300000,12.495306400000
+713,"Jens Christian",Rasmussen,Snedker,"Eget erhverv",1910-03-30,"Bispebjerg Kirkegård",1620932,3387455,1,5,1903,"Mølle Allé 1, 3.",55.664797900000,12.518900000000
+713,"Jens Christian",Rasmussen,Snedker,"Eget erhverv",1910-03-30,"Bispebjerg Kirkegård",1620932,3387455,1,5,1907,"Nørrebrogade 221B, 4.",55.699421300000,12.540895600000
+713,"Jens Christian",Rasmussen,Snedker,"Eget erhverv",1910-03-30,"Bispebjerg Kirkegård",1620932,3387455,1,11,1907,"Svanevej 31, 4.",55.698170400000,12.533910800000
+783,Niels,Rasmussen,Fodermester,Forhenværende/pensioneret,1910-04-01,"Assistens Kirkegård",1621684,3388008,1,5,1907,"Rantzausgade 64, 4.",55.688145400000,12.545487100000
+783,Niels,Rasmussen,Fodermester,Forhenværende/pensioneret,1910-04-01,"Assistens Kirkegård",1621684,3388008,1,5,1906,"Vestre Allé 7, 1.",55.667082100000,12.496144000000
+536,"Johan Henrik",Rose,Koksmat,Forhenværende/pensioneret,1909-09-25,"Bispebjerg Kirkegård",1623879,3389558,16,11,1904,"Vestergade 2, stuen, Gæstgiveriet",55.678134200000,12.571209600000
+688,"Cecilie Marie",Skovgaard,Grosserer,"Ægtefælles erhverv",1910-03-31,"Vestre Kirkegård",1629911,3394004,1,5,1899,"Gothersgade 150, 2.",55.686172800000,12.567934800000
+688,"Cecilie Marie",Skovgaard,Grosserer,"Ægtefælles erhverv",1910-03-31,"Vestre Kirkegård",1629911,3394004,1,11,1890,"Vendersgade 14, 2.",55.684480500000,12.567143900000
+640,"Victor Emanuel Rudolf",Wessel,Telegrafbud,"Eget erhverv",1909-10-03,"Vestre Kirkegård",1641500,3402417,1,5,1892,"Oehlenschlægersgade 27, 3.",55.670262700000,12.550005200000
+640,"Victor Emanuel Rudolf",Wessel,Telegrafbud,"Eget erhverv",1909-10-03,"Vestre Kirkegård",1641500,3402417,1,5,1895,"Oehlenschlægersgade 29, 3.",55.670116600000,12.550020500000
+640,"Victor Emanuel Rudolf",Wessel,Telegrafbud,"Eget erhverv",1909-10-03,"Vestre Kirkegård",1641500,3402417,1,5,1894,"Oehlenschlægersgade 35, 2.",55.669508700000,12.550075700000
+640,"Victor Emanuel Rudolf",Wessel,Telegrafbud,"Eget erhverv",1909-10-03,"Vestre Kirkegård",1641500,3402417,1,5,1900,"Sankelmarksgade 1, 4.",55.666782400000,12.548542100000
+710,"Axel Victor Einar",Østrup,Formersvend,"Eget erhverv",1910-03-30,"Bispebjerg Kirkegård",1644632,3404710,1,11,1905,"Baldersgade 69, 1.",55.701769300000,12.548451100000
+710,"Axel Victor Einar",Østrup,Formersvend,"Eget erhverv",1910-03-30,"Bispebjerg Kirkegård",1644632,3404710,1,11,1894,"Classensgade 31, stuen",55.697592900000,12.584920100000
+710,"Axel Victor Einar",Østrup,Formersvend,"Eget erhverv",1910-03-30,"Bispebjerg Kirkegård",1644632,3404710,1,5,1909,"Ryesgade 79B, 4.",55.695518900000,12.572000200000
+710,"Axel Victor Einar",Østrup,Formersvend,"Eget erhverv",1910-03-30,"Bispebjerg Kirkegård",1644632,3404710,1,5,1899,"Trepkasgade 3, 1.",55.694416200000,12.569851300000
+710,"Axel Victor Einar",Østrup,Formersvend,"Eget erhverv",1910-03-30,"Bispebjerg Kirkegård",1644632,3404710,1,5,1894,"Willemoesgade 53, kælderen",55.698545800000,12.585574600000
+904,Hansine,Andersen,NULL,NULL,1909-10-06,"Assistens Kirkegård",1503679,3302716,1,5,1892,"Ahornsgade 18, 2.",55.691762000000,12.559027900000
+1143,Carl,Bentsen,Tømrer,"Eget erhverv",1910-04-13,"Bispebjerg Kirkegård",1509482,3307111,1,5,1909,"Bangertsgade 14, 3.",55.689397500000,12.553489900000
+1059,"Carl Rudolf",Bjerregaard,Brovagt,"Eget erhverv",1910-04-04,Frederiksberg,1511251,3308417,1,5,1904,"Badensgade 50, 2.",55.664588300000,12.612293000000
+1059,"Carl Rudolf",Bjerregaard,Brovagt,"Eget erhverv",1910-04-04,Frederiksberg,1511251,3308417,1,11,1905,"Prinsessegade 53B, 4.",55.674612400000,12.597674100000
+1059,"Carl Rudolf",Bjerregaard,Brovagt,"Eget erhverv",1910-04-04,Frederiksberg,1511251,3308417,1,11,1890,"Prinsessegade 67, 5.",55.675119000000,12.599196100000
+1059,"Carl Rudolf",Bjerregaard,Brovagt,"Eget erhverv",1910-04-04,Frederiksberg,1511251,3308417,1,5,1892,"Prinsessegade 67, 2.",55.675119000000,12.599196100000
+1059,"Carl Rudolf",Bjerregaard,Brovagt,"Eget erhverv",1910-04-04,Frederiksberg,1511251,3308417,1,5,1897,"Prinsessegade 67, 3.",55.675119000000,12.599196100000
+911,"Agnes Regine",Bornemann,Tjenestepige,"Eget erhverv",1909-10-05,"Bispebjerg Kirkegård",1512522,3309358,1,5,1901,"Frederikssundsvej 102, 1.",55.706929700000,12.518196400000
+911,"Agnes Regine",Bornemann,Tjenestepige,"Eget erhverv",1909-10-05,"Bispebjerg Kirkegård",1512522,3309358,6,6,1908,"Nordre Frihavnsgade 77, 2., hos Schmidt",55.703427500000,12.586746700000
+911,"Agnes Regine",Bornemann,Tjenestepige,"Eget erhverv",1909-10-05,"Bispebjerg Kirkegård",1512522,3309358,6,12,1906,"Østerbrogade 92, 4., hos Ewald",55.701245200000,12.577723000000
+861,"Mogens Bernhard",Cohen,Fuldmægtig,"Eget erhverv",1910-03-20,"Mosaisk Kirkegård",1522480,3316574,1,11,1890,"Krystalgade 11, 2.",55.680935700000,12.573919700000
+861,"Mogens Bernhard",Cohen,Fuldmægtig,"Eget erhverv",1910-03-20,"Mosaisk Kirkegård",1522480,3316574,1,11,1893,"Nørregade 45, 3.",55.681848400000,12.570919900000
+861,"Mogens Bernhard",Cohen,Fuldmægtig,"Eget erhverv",1910-03-20,"Mosaisk Kirkegård",1522480,3316574,1,5,1894,"Vendersgade 20, 1.",55.685007200000,12.566189900000
+1145,"Axel Frederik",Dahl,Garderobeforvalter,"Eget erhverv",1910-04-03,"Vestre Kirkegård - katolsk",1522917,3316906,6,10,1892,"Klosterstræde 19, 3., hos Enken Nikolaisen",55.679211000000,12.575146500000
+1145,"Axel Frederik",Dahl,Garderobeforvalter,"Eget erhverv",1910-04-03,"Vestre Kirkegård - katolsk",1522917,3316906,1,5,1898,"Larslejsstræde 13, stuen",55.680342500000,12.569247000000
+1074,"Carl Daniel",Damm,Particulier,"Eget erhverv",1909-10-06,Frederiksberg,1523345,3317220,1,11,1900,"Vesterbrogade 127, 1.",55.670516900000,12.541932500000
+877,"Hans Jørgen Frederik",Demant,"Fabrikant (Fabrikør)","Eget erhverv",1910-04-04,Odense,1523931,3317636,1,11,1907,"Stenosgade 1, beletagen",55.672867100000,12.557033900000
+890,"Caroline Amalie",Engelstrup,Viceinspektrice,Forhenværende/pensioneret,1909-10-01,"Bispebjerg Krematorium (Krematoriet)",1526229,3319293,1,5,1892,"Classensgade 16, 4.",55.696467100000,12.581131400000
+1181,Ole,Frederiksen,Dagvagt,"Eget erhverv",1910-04-05,"Vestre Kirkegård",1529807,3321907,1,11,1909,"Ahlefeldtsgade 24, stuen",55.683430600000,12.565691100000
+1181,Ole,Frederiksen,Dagvagt,"Eget erhverv",1910-04-05,"Vestre Kirkegård",1529807,3321907,1,5,1891,"Nørre Søgade 45, 2.",55.681728600000,12.561303100000
+1258,"Jacob Carl",Galle,Cigarhandler,"Eget erhverv",1910-04-06,"Vestre Kirkegård",1531052,3322833,1,11,1904,"Heinesgade 9, 1.",55.694683200000,12.546769200000
+1258,"Jacob Carl",Galle,Cigarhandler,"Eget erhverv",1910-04-06,"Vestre Kirkegård",1531052,3322833,1,11,1906,"Vesterbrogade 69, 2.",55.672574600000,12.551243000000
+1258,"Jacob Carl",Galle,Cigarhandler,"Eget erhverv",1910-04-06,"Vestre Kirkegård",1531052,3322833,1,5,1903,"Ægirsgade 18, 1.",55.698783700000,12.545864600000
+1093,Gudrun,Halberg,Bødkersvend,"Ægtefælles erhverv",1899-12-29,"Frederiksberg Krematorium",1534300,3325188,1,11,1890,"Wildersgade 32, 3.",55.673262900000,12.590418400000
+1019,"August Vilhelm Christian Martin",Hansen,Bødkersvend,"Eget erhverv",1910-04-04,"Vor Frelsers Kirkegård (Amager)",1535962,3326464,1,11,1890,"Overgaden oven Vandet 28, 5.",55.671266600000,12.589396700000
+1220,"Viggo Jens Marius",Hansen,Billedskærerlærling,"Eget erhverv",1899-12-29,"Vestre Kirkegård",1544477,3332366,1,5,1896,"Saxogade 27, 1., hos Hansen",55.671295500000,12.550878400000
+1021,"Magna Sophie Caroline",Henriksen,Syerske,"Eget erhverv",1910-04-03,"Vestre Kirkegård",1546899,3334144,1,5,1905,"Abel Cathrines Gade 8, 3.",55.671489300000,12.558872400000
+1021,"Magna Sophie Caroline",Henriksen,Syerske,"Eget erhverv",1910-04-03,"Vestre Kirkegård",1546899,3334144,3,8,1900,"Stampesgade 5, 1., hos Petersen",55.671226700000,12.563885600000
+1021,"Magna Sophie Caroline",Henriksen,Syerske,"Eget erhverv",1910-04-03,"Vestre Kirkegård",1546899,3334144,1,6,1900,"Vesterbrogade 27, stuen, hos Christensen",55.672825200000,12.558862500000
+1071,"Carl Christian",Ipsen,Ligkistefabrikant,"Eget erhverv",1909-10-06,Frederiksberg,1550971,3337105,1,5,1899,"Oehlenschlægersgade 17, 1.",55.670972600000,12.549967600000
+1071,"Carl Christian",Ipsen,Ligkistefabrikant,"Eget erhverv",1909-10-06,Frederiksberg,1550971,3337105,1,5,1900,"Oehlenschlægersgade 17, stuen",55.670972600000,12.549967600000
+1071,"Carl Christian",Ipsen,Ligkistefabrikant,"Eget erhverv",1909-10-06,Frederiksberg,1550971,3337105,1,5,1892,"Saxogade 6, kælderen",55.672173900000,12.550436900000
+1211,"Jens Christian",Jensen,Tømrer,"Eget erhverv",1899-12-30,"Assistens Kirkegård",1557518,3341861,1,5,1892,"Nørrebrogade 223B, 1.",55.699525400000,12.540733600000
+1099,"Karen Laurine",Jensen,Frøken,"Eget erhverv",1900-01-01,"Hvidovre Kirkegård",1558763,3342714,1,5,1892,"Viktoriagade 28, 1.",55.670305700000,12.559201200000
+1120,Kirsten,Jensen,Skomagersvend,"Ægtefælles erhverv",1899-12-29,"Assistens Kirkegård",1558852,3342801,1,5,1892,"Guldbergsgade 9, 4.",55.691101300000,12.559026800000
+952,Niels,Jensen,Skibstømrer,Forhenværende/pensioneret,1910-04-03,"Vor Frelsers Kirkegård (Amager)",1560070,3343717,1,11,1905,"Kronborggade 15, stuen",55.692102700000,12.543673000000
+952,Niels,Jensen,Skibstømrer,Forhenværende/pensioneret,1910-04-03,"Vor Frelsers Kirkegård (Amager)",1560070,3343717,1,5,1893,"Landemærket 19",55.682351800000,12.576725400000
+1281,Peder,Jensen,Banearbejder,"Eget erhverv",1910-03-10,"Vestre Kirkegård",1560748,3344147,1,11,1891,"Dronningens Tværgade 28, kælderen",55.684009300000,12.586136100000
+1281,Peder,Jensen,Banearbejder,"Eget erhverv",1910-03-10,"Vestre Kirkegård",1560748,3344147,1,11,1893,"Dronningens Tværgade 29, kælderen",55.683718000000,12.584475900000
+1281,Peder,Jensen,Banearbejder,"Eget erhverv",1910-03-10,"Vestre Kirkegård",1560748,3344147,1,5,1900,"Rørholmsgade 6, stuen",55.689468800000,12.573226000000
+1281,Peder,Jensen,Banearbejder,"Eget erhverv",1910-03-10,"Vestre Kirkegård",1560748,3344147,1,11,1902,"Rørholmsgade 6, stuen",55.689468800000,12.573226000000
+1281,Peder,Jensen,Banearbejder,"Eget erhverv",1910-03-10,"Vestre Kirkegård",1560748,3344147,1,11,1909,"Rørholmsgade 6, stuen",55.689468800000,12.573226000000
+1084,"Knud Jørgensen",Knudsen,Fyrbøder,"Eget erhverv",1909-10-05,"Vestre Kirkegård",1571311,3351700,18,10,1898,"Wildersgade 38, 3., hos Danielsen",55.673460200000,12.590695600000
+1084,"Knud Jørgensen",Knudsen,Fyrbøder,"Eget erhverv",1909-10-05,"Vestre Kirkegård",1571311,3351700,14,12,1898,"Ægirsgade 1, 2., hos Petersen",55.697735900000,12.544330900000
+949,Niels,Larsen,Skræddermester,"Eget erhverv",1910-04-03,"Holmens Kirkegård",1578112,3356649,1,11,1895,"Herluf Trolles Gade 6, 3.",55.679087000000,12.589039500000
+949,Niels,Larsen,Skræddermester,"Eget erhverv",1910-04-03,"Holmens Kirkegård",1578112,3356649,1,11,1901,"Holbergsgade 22, 3.",55.678355300000,12.590189900000
+949,Niels,Larsen,Skræddermester,"Eget erhverv",1910-04-03,"Holmens Kirkegård",1578112,3356649,1,5,1892,"Hovedvagtsgade 8, 1.",55.680742500000,12.583466200000
+1110,Jacob,Lohmann,Inspektør,Forhenværende/pensioneret,1899-12-30,"Assistens Kirkegård",1581694,3359181,1,5,1891,"Sankt Peders Stræde 3, stuen",55.679724400000,12.571150700000
+1110,Jacob,Lohmann,Inspektør,Forhenværende/pensioneret,1899-12-30,"Assistens Kirkegård",1581694,3359181,1,5,1898,"Tømrergade 11, 1.",55.683283800000,12.556614800000
+1133,"Grethe Jette",Madsen,NULL,NULL,1899-12-30,"Vestre Kirkegård",1584484,3361249,1,11,1894,"Eriksgade 8, 1.",55.669773700000,12.557575200000
+1133,"Grethe Jette",Madsen,NULL,NULL,1899-12-30,"Vestre Kirkegård",1584484,3361249,1,11,1895,"Eriksgade 8, 1.",55.669773700000,12.557575200000
+1133,"Grethe Jette",Madsen,NULL,NULL,1899-12-30,"Vestre Kirkegård",1584484,3361249,1,5,1893,"Viktoriagade 16, stuen",55.671401500000,12.558060500000
+1108,"Anna Nielsine",Marcussen,Arbejdsmand,"Fars erhverv",1910-04-02,"Vestre Kirkegård",1585864,3362212,1,5,1909,"Ole Suhrs Gade 23, kælderen",55.689679800000,12.570941400000
+1108,"Anna Nielsine",Marcussen,Arbejdsmand,"Fars erhverv",1910-04-02,"Vestre Kirkegård",1585864,3362212,1,11,1907,"Webersgade 7, kælderen",55.690225400000,12.573703500000
+954,Christen,Nielsen,Snedkermester,Forhenværende/pensioneret,1910-04-02,"Vestre Kirkegård",1594039,3368273,23,8,1907,"Baggesensgade 15, 2., hos Schmidt",55.687036800000,12.559280800000
+954,Christen,Nielsen,Snedkermester,Forhenværende/pensioneret,1910-04-02,"Vestre Kirkegård",1594039,3368273,23,10,1905,"Baggesensgade 15, 1., hos Schmidt",55.687036800000,12.559280800000
+954,Christen,Nielsen,Snedkermester,Forhenværende/pensioneret,1910-04-02,"Vestre Kirkegård",1594039,3368273,13,8,1906,"Baggesensgade 15, 3.",55.687036800000,12.559280800000
+954,Christen,Nielsen,Snedkermester,Forhenværende/pensioneret,1910-04-02,"Vestre Kirkegård",1594039,3368273,21,2,1905,"Egegade 12, stuen, hos Torp",55.690573200000,12.558975900000
+954,Christen,Nielsen,Snedkermester,Forhenværende/pensioneret,1910-04-02,"Vestre Kirkegård",1594039,3368273,19,6,1906,"Egegade 6, 4.",55.690432000000,12.559267400000
+1124,Hans,Nielsen,Particulier,"Eget erhverv",1899-12-30,"Assistens Kirkegård",1595254,3369168,1,5,1893,"Sankt Peders Stræde 35, 4.",55.678911200000,12.568395000000
+884,"Rasmus Christian",Nielsen,Detailhandler,"Eget erhverv",1910-04-02,"Vor Frelsers Kirkegård (Amager)",1600316,3372625,1,11,1899,"Prinsessegade 20, 2.",55.671153300000,12.592311200000
+884,"Rasmus Christian",Nielsen,Detailhandler,"Eget erhverv",1910-04-02,"Vor Frelsers Kirkegård (Amager)",1600316,3372625,1,5,1891,"Prinsessegade 24, 2.",55.671330500000,12.592620700000
+905,Christen,Pedersen,Laboratoriearbejder,"Eget erhverv",1909-10-04,"Sundby Kirkegård",1607298,3377664,1,5,1902,"Amagerbrogade 10, 3.",55.667390600000,12.597287000000
+905,Christen,Pedersen,Laboratoriearbejder,"Eget erhverv",1909-10-04,"Sundby Kirkegård",1607298,3377664,1,5,1903,"Sverrigsgade 15, 2.",55.662771700000,12.599148500000
+1280,"Inger Marie",Ringsted,NULL,NULL,1910-04-05,"Vestre Kirkegård",1623532,3389306,1,11,1897,"Blegdamsvej 126B, 3., hos Petersen",55.698366700000,12.575665400000
+1280,"Inger Marie",Ringsted,NULL,NULL,1910-04-05,"Vestre Kirkegård",1623532,3389306,1,5,1905,"Blegdamsvej 126B, 3., hos Petersen",55.698366700000,12.575665400000
+1131,"Henrik Christian",Sand,Billedskærer,"Eget erhverv",1899-12-29,"Vestre Kirkegård",1625350,3390638,1,11,1898,"Borgergade 10, 2.",55.682506300000,12.584504900000
+1131,"Henrik Christian",Sand,Billedskærer,"Eget erhverv",1899-12-29,"Vestre Kirkegård",1625350,3390638,1,11,1899,"Borgergade 10, 3.",55.682506300000,12.584504900000
+1131,"Henrik Christian",Sand,Billedskærer,"Eget erhverv",1899-12-29,"Vestre Kirkegård",1625350,3390638,1,11,1895,"Fiolstræde 29, 1.",55.682199300000,12.571865100000
+1131,"Henrik Christian",Sand,Billedskærer,"Eget erhverv",1899-12-29,"Vestre Kirkegård",1625350,3390638,1,11,1894,"Istedgade 59, 5.",55.669135400000,12.553593500000
+950,"Carl Frederik Ferdinand",Stampe,Arbejdsmand,Forhenværende/pensioneret,1910-04-03,"Holmens Kirkegård - Skibs",1630720,3394612,1,11,1909,"Rosengade 14, 2.",55.687481700000,12.583216200000
+950,"Carl Frederik Ferdinand",Stampe,Arbejdsmand,Forhenværende/pensioneret,1910-04-03,"Holmens Kirkegård - Skibs",1630720,3394612,1,5,1908,"Rosengade 8, 1.",55.687314900000,12.583748300000
+950,"Carl Frederik Ferdinand",Stampe,Arbejdsmand,Forhenværende/pensioneret,1910-04-03,"Holmens Kirkegård - Skibs",1630720,3394612,1,11,1908,"Ryesgade 42, 2.",55.693206600000,12.568901500000
+1057,Cathrine,Sørensen,NULL,NULL,1910-04-01,"Bispebjerg Kirkegård",1634341,3397266,1,11,1902,"Guldbergsgade 25, 1.",55.692054900000,12.556657600000
+1057,Cathrine,Sørensen,NULL,NULL,1910-04-01,"Bispebjerg Kirkegård",1634341,3397266,1,11,1905,"Nørrebrogade 100, 1.",55.692952600000,12.551228600000
+1057,Cathrine,Sørensen,NULL,NULL,1910-04-01,"Bispebjerg Kirkegård",1634341,3397266,1,11,1900,"Ryesgade 2, stuen",55.689828000000,12.563774000000
+1086,"Amalie Cecilie",Wagner,Snedkersvend,"Ægtefælles erhverv",1909-10-07,"Vestre Kirkegård",1640115,3401409,1,5,1906,"Gernersgade 5, 4.",55.687473300000,12.589490500000
+1086,"Amalie Cecilie",Wagner,Snedkersvend,"Ægtefælles erhverv",1909-10-07,"Vestre Kirkegård",1640115,3401409,1,11,1900,"Gernersgade 7, 1.",55.687509400000,12.589353700000
+1219,"Jens Peter",Werner,Snedkersvend,"Eget erhverv",1900-01-02,"Vestre Kirkegård",1641423,3402363,1,11,1891,"Nansensgade 22B, 2.",55.681502700000,12.562965700000
+1427,Ole,Andreasen,Arbejdsmand,"Eget erhverv",1899-06-27,"Vestre Kirkegård",1506744,3305047,10,5,1893,"Kattesundet 18, 1., hos Enken Nielsen",55.676761400000,12.572058800000
+1427,Ole,Andreasen,Arbejdsmand,"Eget erhverv",1899-06-27,"Vestre Kirkegård",1506744,3305047,1,7,1899,"Saxogade 8, Frelsens Hær",55.672016800000,12.550461100000
+1338,Valdemar,Buch,Tapetserer,"Eget erhverv",1899-12-31,"Vestre Kirkegård",1514378,3310726,1,11,1894,"Frederiksborggade 14, 2.",55.683280200000,12.572820700000
+1367,"Angelika Margrethe",Christensen,Våbenmester,"Ægtefælles erhverv",1899-06-21,"Garnisons Kirkegård",1516657,3312413,1,5,1895,"Adelgade 16, 5.",55.683606200000,12.583559600000
+1492,"Julius Frederik",Christensen,Arbejdsmand,"Eget erhverv",1900-01-03,"Vestre Kirkegård",1518593,3313826,5,5,1892,"Saxogade 43, 1.",55.670145700000,12.551067500000
+1610,"Daniel Lauritz Theodor",Eiler,Værkfører,"Eget erhverv",1910-04-25,"Assistens Kirkegård",1525469,3318750,1,11,1899,"Wildersgade 22, 3.",55.672780400000,12.589601100000
+1576,"Carl Johan",Ekberg,Skrædder,"Eget erhverv",1900-01-05,"Vestre Kirkegård",1525597,3318842,1,11,1895,"Sølvgade 11, 1.",55.685444600000,12.585152400000
+1493,"Knud Frederik",Gamborg,Genremaler,"Eget erhverv",1900-01-03,"Vestre Kirkegård",1531077,3322853,1,11,1896,"Bredgade 25, 2., hos Gamborg",55.682114300000,12.588245800000
+1421,"Christian Vilhelm",Hansen,Arbejdsmand,Forhenværende/pensioneret,1899-06-27,"Vestre Kirkegård",1537164,3327281,23,4,1894,"Oehlenschlægersgade 60, kælderen",55.667606300000,12.549892400000
+1548,"Hans Frederik Christian",Hansen,Smedemester,"Eget erhverv",1910-04-27,"Assistens Kirkegård",1538717,3328390,1,11,1890,"Dronningensgade 14, stuen",55.670609300000,12.589901200000
+1548,"Hans Frederik Christian",Hansen,Smedemester,"Eget erhverv",1910-04-27,"Assistens Kirkegård",1538717,3328390,1,5,1897,"Dronningensgade 15, 1.",55.670732100000,12.589708300000
+1548,"Hans Frederik Christian",Hansen,Smedemester,"Eget erhverv",1910-04-27,"Assistens Kirkegård",1538717,3328390,1,5,1901,"Lille Søndervoldstræde 3, 1.",55.670485100000,12.588286900000
+1546,"Johanne Christine",Hansen,Tjenestepige,"Eget erhverv",1910-04-25,"Assistens Kirkegård",1540409,3329509,1,5,1894,"Nørrebrogade 42, 1.",55.689281900000,12.557360000000
+1546,"Johanne Christine",Hansen,Tjenestepige,"Eget erhverv",1910-04-25,"Assistens Kirkegård",1540409,3329509,1,5,1902,"Nørrebrogade 42, 1.",55.689281900000,12.557360000000
+1546,"Johanne Christine",Hansen,Tjenestepige,"Eget erhverv",1910-04-25,"Assistens Kirkegård",1540409,3329509,1,5,1892,"Nørrebrogade 43, 3., hos Malermester Tranekjær",55.688858200000,12.557752700000
+1468,Niels,Hansen,Murer,"Eget erhverv",1909-10-17,"Vestre Kirkegård",1542422,3331023,1,5,1908,"Houmanns Allé 5, 2.",55.704357000000,12.528393400000
+1501,"Sigfred Emil Anton",Jensen,Arbejdsmand,"Eget erhverv",1910-04-25,"Bispebjerg Kirkegård",1561496,3344629,30,12,1892,"Helgesensgade 5, 3., hos Arbejdsmand Olsen",55.694900300000,12.572227500000
+1501,"Sigfred Emil Anton",Jensen,Arbejdsmand,"Eget erhverv",1910-04-25,"Bispebjerg Kirkegård",1561496,3344629,16,11,1892,"Nørrebrogade 161, stuen, hos Arbejdsmand Hartmann",55.694916800000,12.547694600000
+1501,"Sigfred Emil Anton",Jensen,Arbejdsmand,"Eget erhverv",1910-04-25,"Bispebjerg Kirkegård",1561496,3344629,28,3,1893,"Nørrebrogade 161, 2., hos Arbejdsmand Hartmann",55.694916800000,12.547694600000
+1501,"Sigfred Emil Anton",Jensen,Arbejdsmand,"Eget erhverv",1910-04-25,"Bispebjerg Kirkegård",1561496,3344629,5,5,1894,"Nørrebrogade 161, 2., hos Arbejdsmand Hartmann",55.694916800000,12.547694600000
+1501,"Sigfred Emil Anton",Jensen,Arbejdsmand,"Eget erhverv",1910-04-25,"Bispebjerg Kirkegård",1561496,3344629,14,8,1894,"Nørrebrogade 225, 2., hos Andersen",55.699615900000,12.540601500000
+1501,"Sigfred Emil Anton",Jensen,Arbejdsmand,"Eget erhverv",1910-04-25,"Bispebjerg Kirkegård",1561496,3344629,1,3,1893,"Ryesgade 79C, stuen, hos Arbejdsmand Olsen",55.695518900000,12.572000200000
+1501,"Sigfred Emil Anton",Jensen,Arbejdsmand,"Eget erhverv",1910-04-25,"Bispebjerg Kirkegård",1561496,3344629,1,11,1906,"Sankt Hans Gade 24, 4.",55.690407600000,12.562203900000
+1501,"Sigfred Emil Anton",Jensen,Arbejdsmand,"Eget erhverv",1910-04-25,"Bispebjerg Kirkegård",1561496,3344629,12,3,1895,"Stengade 17, 5., hos Jørgensen",55.687397400000,12.556336300000
+1501,"Sigfred Emil Anton",Jensen,Arbejdsmand,"Eget erhverv",1910-04-25,"Bispebjerg Kirkegård",1561496,3344629,3,9,1895,"Sølvgade 5, kvisten",55.685301800000,12.585682600000
+1458,"Søren Christian",Jørgensen,Farvermester,"Eget erhverv",1909-10-17,"Vestre Kirkegård",1568628,3349740,1,5,1905,"Dannebrogsgade 36, 2.",55.669433500000,12.552705500000
+1537,Ida,Klein,Kasserer,"Ægtefælles erhverv",1900-01-04,"Assistens Kirkegård",1570400,3351039,1,11,1890,"Fiolstræde 28, 3.",55.681476600000,12.572622300000
+1646,"Ole Bengtsson",Ljunggren,Skomagersvend,"Eget erhverv",1910-04-28,"Vestre Kirkegård",1581626,3359130,1,11,1905,"Fredericiagade 75, stuen",55.687503700000,12.583802900000
+1646,"Ole Bengtsson",Ljunggren,Skomagersvend,"Eget erhverv",1910-04-28,"Vestre Kirkegård",1581626,3359130,1,5,1895,"Gammel Mønt 14, 2.",55.681920600000,12.580176500000
+1567,Jacobine,Lund,NULL,NULL,1900-01-05,"Assistens Kirkegård",1582571,3359828,1,5,1892,"Nørrebrogade 22, kvisten",55.688217900000,12.560150700000
+1555,Rosalie,Mohr,Skomagermester,"Ægtefælles erhverv",1910-04-27,"Assistens Kirkegård",1588409,3364069,1,5,1905,"Nansensgade 40, 3.",55.682443800000,12.564081000000
+1649,"Thorvald Carl Hagbarth",Nielsen,NULL,NULL,1910-04-07,"Assistens Kirkegård",1600758,3372939,1,5,1892,"Hauser Plads 28, 4.",55.683093600000,12.575447000000
+1649,"Thorvald Carl Hagbarth",Nielsen,NULL,NULL,1910-04-07,"Assistens Kirkegård",1600758,3372939,1,11,1894,"Nybrogade 8, 3.",55.676797800000,12.576751200000
+1507,"Elna Harriet",Olsen,Kontoristinde,"Eget erhverv",1910-04-06,"Bispebjerg Krematorium (Krematoriet)",1603500,3374985,1,11,1909,"Collinsgade 4, 2.",55.694634800000,12.578400600000
+1647,"Carl Victor Søderstrøm",Oppfeldt,Skrædder,"Eget erhverv",1910-04-27,"Vestre Kirkegård",1606341,3376947,1,11,1907,"Dybbølsgade 57, 1.",55.666798300000,12.548780200000
+1647,"Carl Victor Søderstrøm",Oppfeldt,Skrædder,"Eget erhverv",1910-04-27,"Vestre Kirkegård",1606341,3376947,1,5,1891,"Frederiksborggade 52, stuen, hos Skræder J. Nilsson",55.685932700000,12.566248400000
+1647,"Carl Victor Søderstrøm",Oppfeldt,Skrædder,"Eget erhverv",1910-04-27,"Vestre Kirkegård",1606341,3376947,1,5,1906,"Istedgade 111, 3.",55.667567000000,12.548484300000
+1647,"Carl Victor Søderstrøm",Oppfeldt,Skrædder,"Eget erhverv",1910-04-27,"Vestre Kirkegård",1606341,3376947,1,5,1908,"Sankelmarksgade 1, 1.",55.666782400000,12.548542100000
+1647,"Carl Victor Søderstrøm",Oppfeldt,Skrædder,"Eget erhverv",1910-04-27,"Vestre Kirkegård",1606341,3376947,1,5,1896,"Sankt Peders Stræde 22, 3.",55.679026500000,12.568234300000
+1647,"Carl Victor Søderstrøm",Oppfeldt,Skrædder,"Eget erhverv",1910-04-27,"Vestre Kirkegård",1606341,3376947,1,11,1909,"Ullerupgade 6, 3.",55.668106900000,12.546503700000
+1656,"Frederik Carl Christian",Petersen,Detailhandler,"Eget erhverv",1900-01-05,"Vor Frelsers Kirkegård (Amager)",1610771,3380288,1,5,1898,"Sankt Annæ Gade 22, stuen",55.673600600000,12.591857800000
+1568,"Nelly Else Marie",Riege,Syerske,"Eget erhverv",1900-01-05,"Assistens Kirkegård",1623311,3389141,2,5,1893,"Blegdamsvej 24, 3., hos Petersen",55.692498300000,12.564624300000
+1568,"Nelly Else Marie",Riege,Syerske,"Eget erhverv",1900-01-05,"Assistens Kirkegård",1623311,3389141,3,9,1897,"Classensgade 15, 4., hos Brun",55.696957200000,12.582222100000
+1568,"Nelly Else Marie",Riege,Syerske,"Eget erhverv",1900-01-05,"Assistens Kirkegård",1623311,3389141,2,7,1895,"Fredensgade 9, kælderen, hos Nielsen",55.692473600000,12.568002100000
+1568,"Nelly Else Marie",Riege,Syerske,"Eget erhverv",1900-01-05,"Assistens Kirkegård",1623311,3389141,10,6,1896,"Korsgade 42, 1., hos Hjemmet",55.686388000000,12.555048900000
+1568,"Nelly Else Marie",Riege,Syerske,"Eget erhverv",1900-01-05,"Assistens Kirkegård",1623311,3389141,9,12,1897,"Korsgade 42, 1., hos Hjemmet",55.686388000000,12.555048900000
+1568,"Nelly Else Marie",Riege,Syerske,"Eget erhverv",1900-01-05,"Assistens Kirkegård",1623311,3389141,2,12,1895,"Ny Adelgade 3, 1., hos Kyhn",55.681127100000,12.584095500000
+1568,"Nelly Else Marie",Riege,Syerske,"Eget erhverv",1900-01-05,"Assistens Kirkegård",1623311,3389141,5,10,1894,"Nørrebrogade 216, 1., hos Ottesen",55.699362700000,12.541490000000
+1568,"Nelly Else Marie",Riege,Syerske,"Eget erhverv",1900-01-05,"Assistens Kirkegård",1623311,3389141,4,4,1893,"Stengade 10, 1., hos Hjemmet",55.688650100000,12.556474300000
+1568,"Nelly Else Marie",Riege,Syerske,"Eget erhverv",1900-01-05,"Assistens Kirkegård",1623311,3389141,4,9,1893,"Stengade 10, 1., hos Hjemmet",55.688650100000,12.556474300000
+1568,"Nelly Else Marie",Riege,Syerske,"Eget erhverv",1900-01-05,"Assistens Kirkegård",1623311,3389141,8,3,1897,"Toldbodgade 11, 3., hos Rasmussen",55.680315700000,12.591702800000
+1660,"Jens Christian",Schou,Sæbefabrikant,"Eget erhverv",1900-01-03,"Vestre Kirkegård",1627503,3392239,1,11,1897,"Sundevedsgade 2, stuen",55.670874100000,12.543798400000
+1536,"Hans Christian",Spang,Politibetjent,"Eget erhverv",1900-01-04,"Holmens Kirkegård",1630364,3394350,4,1,1896,"Holbergsgade 10",55.677932800000,12.588326900000
+1536,"Hans Christian",Spang,Politibetjent,"Eget erhverv",1900-01-04,"Holmens Kirkegård",1630364,3394350,20,10,1897,"Holsteinsgade 40, stuen",55.699156100000,12.585876700000
+1536,"Hans Christian",Spang,Politibetjent,"Eget erhverv",1900-01-04,"Holmens Kirkegård",1630364,3394350,1,10,1895,"Kronprinsessegade 44, stuen",55.685146500000,12.583016800000
+1536,"Hans Christian",Spang,Politibetjent,"Eget erhverv",1900-01-04,"Holmens Kirkegård",1630364,3394350,22,1,1893,"Larsbjørnsstræde 25",55.678938000000,12.568741300000
+1536,"Hans Christian",Spang,Politibetjent,"Eget erhverv",1900-01-04,"Holmens Kirkegård",1630364,3394350,30,7,1897,"Nørrebrogade 161, 3.",55.694916800000,12.547694600000
+1536,"Hans Christian",Spang,Politibetjent,"Eget erhverv",1900-01-04,"Holmens Kirkegård",1630364,3394350,6,4,1892,"Tullinsgade 23, 4.",55.673448100000,12.550833300000
+1298,"Hans Christian",Wegener,Overretssagfører,"Eget erhverv",1900-01-01,"Vestre Kirkegård",1640816,3401926,1,11,1890,"Kompagnistræde 22, 2.",55.676930500000,12.574864700000
+1910,"Carl Jacob",Aagaard,Maskinmester,Forhenværende/pensioneret,1910-05-01,Frederiksberg,1500062,3300048,1,11,1893,"Fredericiagade 8, kælderen",55.685292900000,12.592788800000
+1910,"Carl Jacob",Aagaard,Maskinmester,Forhenværende/pensioneret,1910-05-01,Frederiksberg,1500062,3300048,1,5,1901,"J.A. Schwartz Gade 30, 1.",55.693475300000,12.576242000000
+1910,"Carl Jacob",Aagaard,Maskinmester,Forhenværende/pensioneret,1910-05-01,Frederiksberg,1500062,3300048,1,5,1894,"Kapelvej 47, kælderen",55.686322600000,12.551556200000
+1910,"Carl Jacob",Aagaard,Maskinmester,Forhenværende/pensioneret,1910-05-01,Frederiksberg,1500062,3300048,1,11,1903,"Lundingsgade 4, 1.",55.693443100000,12.570593500000
+1910,"Carl Jacob",Aagaard,Maskinmester,Forhenværende/pensioneret,1910-05-01,Frederiksberg,1500062,3300048,1,5,1903,"Læssøesgade 5, stuen",55.690344300000,12.565107300000
+1910,"Carl Jacob",Aagaard,Maskinmester,Forhenværende/pensioneret,1910-05-01,Frederiksberg,1500062,3300048,1,11,1900,"Møllegade 38, stuen",55.693703600000,12.560655900000
+1910,"Carl Jacob",Aagaard,Maskinmester,Forhenværende/pensioneret,1910-05-01,Frederiksberg,1500062,3300048,1,11,1905,"Olufsvej 8, 1.",55.701160400000,12.576706300000
+1776,Andreas,Andersen,Maskinmester,"Eget erhverv",1900-01-03,"Esbjerg Kirkegård",1501766,3301280,16,7,1891,"Nansensgade 8, 4., hos Skrædder Svendsen",55.681122400000,12.562896200000
+1776,Andreas,Andersen,Maskinmester,"Eget erhverv",1900-01-03,"Esbjerg Kirkegård",1501766,3301280,1,11,1897,"Randersgade 11, 3., hos Skjoldborg",55.703050100000,12.581220100000
+1776,Andreas,Andersen,Maskinmester,"Eget erhverv",1900-01-03,"Esbjerg Kirkegård",1501766,3301280,4,12,1897,"Rosenvængets Allé 2, stuen",55.698659500000,12.578769500000
+1776,Andreas,Andersen,Maskinmester,"Eget erhverv",1900-01-03,"Esbjerg Kirkegård",1501766,3301280,28,2,1894,"Sankt Pauls Gade 12, 1.",55.687121900000,12.588842600000
+1776,Andreas,Andersen,Maskinmester,"Eget erhverv",1900-01-03,"Esbjerg Kirkegård",1501766,3301280,1,5,1898,"Willemoesgade 52",55.698296700000,12.585474000000
+1740,"August Georg",Andersen,Smedesvend,"Eget erhverv",1900-01-05,"Assistens Kirkegård",1502124,3301613,1,5,1896,"Egegade 7, 1.",55.690545400000,12.558595800000
+1740,"August Georg",Andersen,Smedesvend,"Eget erhverv",1900-01-05,"Assistens Kirkegård",1502124,3301613,1,5,1898,"Korsgade 39, 2.",55.686224900000,12.554960500000
+1989,Niels,Andersen,Handelsagent,"Eget erhverv",1910-04-29,"Bispebjerg Kirkegård",1505179,3303974,1,11,1897,"Baggesensgade 26, stuen",55.687641100000,12.558167100000
+1989,Niels,Andersen,Handelsagent,"Eget erhverv",1910-04-29,"Bispebjerg Kirkegård",1505179,3303974,1,11,1902,"Tømrergade 6, 3.",55.683696400000,12.556691800000
+1912,"Hans Johannes Severin",Baggesen,Vognmand,"Eget erhverv",1910-04-29,"Vor Frelsers Kirkegård (Amager)",1507829,3305849,1,11,1890,"Prinsessegade 10A, stuen",55.670836400000,12.591784800000
+1738,Hansine,Bech,Tjenestepige,"Eget erhverv",1900-01-07,"Assistens Kirkegård",1508665,3306479,6,9,1894,"Bredgade 35, 2., hos Oberstinde Gedde",55.682652800000,12.588684500000
+1676,"Peter Christian",Bentzen,Slagtermester,"Eget erhverv",1899-06-29,"Assistens Kirkegård",1509785,3307327,1,5,1895,"Eckersbergsgade 21, stuen",55.691558800000,12.574897200000
+1676,"Peter Christian",Bentzen,Slagtermester,"Eget erhverv",1899-06-29,"Assistens Kirkegård",1509785,3307327,1,5,1894,"Sankt Pauls Gade 9, 1.",55.686995300000,12.588588700000
+1746,"Thorvald Johan",Bistrup,Guldsmedemester,"Eget erhverv",1900-01-05,"Vestre Kirkegård",1511152,3308342,1,5,1895,"Vestergade 9, 3.",55.677774600000,12.570678400000
+1746,"Thorvald Johan",Bistrup,Guldsmedemester,"Eget erhverv",1900-01-05,"Vestre Kirkegård",1511152,3308342,1,11,1899,"Vimmelskaftet 47, 4.",55.678519800000,12.574401500000
+1868,"August Alexander Jensen",Blæhr,Arbejdsmand,"Eget erhverv",1900-01-03,"Vestre Kirkegård",1511800,3308824,1,5,1892,"Gammel Mønt 27, 4.",55.681513500000,12.580527000000
+1868,"August Alexander Jensen",Blæhr,Arbejdsmand,"Eget erhverv",1900-01-03,"Vestre Kirkegård",1511800,3308824,1,5,1896,"Gammel Mønt 27, 3.",55.681513500000,12.580527000000
+1838,"Louise Petrea",Brandt,Frøken,"Eget erhverv",1910-04-29,"Assistens Kirkegård",1513016,3309719,1,11,1903,"Willemoesgade 56, 1.",55.698414000000,12.586058800000
+1914,Mariane,Bærentz,Fiskehandler,"Ægtefælles erhverv",1910-04-29,"Holmens Kirkegård",1514923,3311143,1,11,1899,"Abel Cathrines Gade 16, 1.",55.671297800000,12.559535900000
+1914,Mariane,Bærentz,Fiskehandler,"Ægtefælles erhverv",1910-04-29,"Holmens Kirkegård",1514923,3311143,1,5,1905,"Nørregade 39, 3.",55.681441500000,12.571007700000
+1909,"Hans Christian",Christensen,Skibsfører,Forhenværende/pensioneret,1910-04-30,"Holmens Kirkegård",1517858,3313317,1,5,1892,"Herluf Trolles Gade 24, 4.",55.678445700000,12.591427400000
+1828,"Holger Peter",Christensen,Gartner,Forhenværende/pensioneret,1910-04-29,"Garnisons Kirkegård",1518058,3313460,1,11,1898,"Hallinsgade 20, stuen",55.692994900000,12.576345900000
+1972,"Rudolf Johan Frederik",Godemann,Kularbejder,"Eget erhverv",1899-07-01,"Vestre Kirkegård",1531886,3323451,1,5,1898,"Dannebrogsgade 35, 2.",55.669446600000,12.553040200000
+1924,"Hans Christian",Hansen,Lagerist,NULL,1910-04-30,"Vestre Kirkegård",1538581,3328310,1,11,1891,"Rørholmsgade 13, 2.",55.689686400000,12.572184600000
+1670,"Thora Charlotte Nathalie",Hegelund,Modehandlerinde,Forhenværende/pensioneret,1899-06-30,Frederiksberg,1545552,3333158,1,5,1892,"Vesterbrogade 64, stuen",55.672746300000,12.552749300000
+1966,"Jens Peter",Ibsen,Bødkersvend,Forhenværende/pensioneret,1910-05-01,"Sundby Kirkegård",1550796,3336975,1,5,1902,"Sverrigsgade 57, 2.",55.662999100000,12.597126100000
+1864,"Anna Christine",Jensen,Dameskrædderinde,"Eget erhverv",1910-04-28,"Vestre Kirkegård",1553971,3339356,1,5,1909,"Turesensgade 22, stuen",55.681938600000,12.562282000000
+1864,"Anna Christine",Jensen,Grosserer,"Ægtefælles erhverv",1910-04-28,"Vestre Kirkegård",1553971,3339356,1,5,1909,"Turesensgade 22, stuen",55.681938600000,12.562282000000
+1864,"Anna Christine",Jensen,Dameskrædderinde,"Eget erhverv",1910-04-28,"Vestre Kirkegård",1553971,3339356,1,5,1906,"Turesensgade 5, 2.",55.681229300000,12.563878100000
+1864,"Anna Christine",Jensen,Grosserer,"Ægtefælles erhverv",1910-04-28,"Vestre Kirkegård",1553971,3339356,1,5,1906,"Turesensgade 5, 2.",55.681229300000,12.563878100000
+1743,"Niels Hansen",Jørgensen,Skomagersvend,"Eget erhverv",1900-01-06,"Vestre Kirkegård",1568066,3349366,1,11,1894,"Sankt Peders Stræde 39, 3.",55.678826000000,12.568049600000
+1839,"Jens Grøn",Knudsen,Gårdejer,Forhenværende/pensioneret,1910-04-29,"Sundby Kirkegård",1571202,3351624,1,5,1904,"Krügersgade 4, stuen",55.687772000000,12.542565000000
+1690,"Johan Peter",Knudsen,Kedelsmed,"Eget erhverv",1910-04-28,"Vestre Kirkegård",1571230,3351641,1,11,1909,"Istedgade 97, 4.",55.667988600000,12.549845600000
+1796,Jørgen,Kragh,Maskinkarl,"Eget erhverv",1900-01-08,"Vestre Kirkegård",1572311,3352433,18,5,1892,"Absalonsgade 33, stuen",55.669321100000,12.555691500000
+1796,Jørgen,Kragh,Maskinkarl,"Eget erhverv",1900-01-08,"Vestre Kirkegård",1572311,3352433,1,11,1896,"Istedgade 36C, 1.",55.670767900000,12.558117500000
+1796,Jørgen,Kragh,Maskinkarl,"Eget erhverv",1900-01-08,"Vestre Kirkegård",1572311,3352433,1,5,1896,"Istedgade 42, stuen",55.670407200000,12.556933300000
+1720,Kirstine,Kragh,NULL,NULL,1909-10-14,"Bispebjerg Krematorium (Krematoriet)",1572314,3352435,1,11,1891,"Sankt Pauls Gade 66, 1.",55.688305200000,12.584419600000
+1671,"Ane Marie",Larsen,Møllermester,"Ægtefælles forhenværende",1899-06-28,Frederiksberg,1574504,3354032,15,3,1892,"Amerikavej 24, 2.",55.669022700000,12.541441900000
+1671,"Ane Marie",Larsen,Møllermester,"Ægtefælles forhenværende",1899-06-28,Frederiksberg,1574504,3354032,1,11,1895,"Amerikavej 24",55.669022700000,12.541441900000
+1671,"Ane Marie",Larsen,Møllermester,"Ægtefælles forhenværende",1899-06-28,Frederiksberg,1574504,3354032,1,11,1896,"Kingosgade 2, stuen",55.671813400000,12.545613200000
+1671,"Ane Marie",Larsen,Møllermester,"Ægtefælles forhenværende",1899-06-28,Frederiksberg,1574504,3354032,1,11,1898,"Sundevedsgade 1, 2.",55.670971300000,12.544068800000
+1890,"Theodora Vilhelmine",Larsen,NULL,NULL,1910-04-28,"Bispebjerg Kirkegård",1579012,3357235,1,11,1894,"Dannebrogsgade 31, 4.",55.669704600000,12.553011500000
+1890,"Theodora Vilhelmine",Larsen,NULL,NULL,1910-04-28,"Bispebjerg Kirkegård",1579012,3357235,1,5,1908,"Nørre Voldgade 23, stuen",55.684088700000,12.572361300000
+1729,"Gotfred Mathias",Lund,Barber,Forhenværende/pensioneret,1909-10-17,"Vestre Kirkegård",1582474,3359761,1,5,1904,"Ryesgade 125, 1.",55.698260000000,12.577472700000
+1729,"Gotfred Mathias",Lund,Barber,Forhenværende/pensioneret,1909-10-17,"Vestre Kirkegård",1582474,3359761,1,11,1908,"Ryesgade 126, 1.",55.698241300000,12.577987300000
+1729,"Gotfred Mathias",Lund,Barber,Forhenværende/pensioneret,1909-10-17,"Vestre Kirkegård",1582474,3359761,1,5,1892,"Østerbrogade 19, kælderen",55.697985200000,12.578448300000
+1744,"Carl Frederik Ferdinand",Madsen,Togfører,"Eget erhverv",1900-01-06,"Vestre Kirkegård",1584223,3361048,1,5,1892,"Matthæusgade 21, 2.",55.669732200000,12.550189200000
+1744,"Carl Frederik Ferdinand",Madsen,Togfører,"Eget erhverv",1900-01-06,"Vestre Kirkegård",1584223,3361048,1,11,1895,"Oehlenschlægersgade 14, stuen",55.671122500000,12.549650900000
+1744,"Carl Frederik Ferdinand",Madsen,Togfører,"Eget erhverv",1900-01-06,"Vestre Kirkegård",1584223,3361048,1,11,1898,"Oehlenschlægersgade 14, 2.",55.671122500000,12.549650900000
+1744,"Carl Frederik Ferdinand",Madsen,Togfører,"Eget erhverv",1900-01-06,"Vestre Kirkegård",1584223,3361048,1,11,1897,"Oehlenschlægersgade 31, 1.",55.669961200000,12.550037300000
+1775,"Ane Marie",Nielsen,"Madam (Madame)","Eget erhverv",1900-01-06,"Kirke Skensved",1592858,3367336,1,5,1891,"Overgaden neden Vandet 43, 5.",55.673692400000,12.592179800000
+1775,"Ane Marie",Nielsen,"Madam (Madame)","Eget erhverv",1900-01-06,"Kirke Skensved",1592858,3367336,1,11,1899,"Wildersgade 19, 1.",55.672852400000,12.589351700000
+1716,"Mikkel Peter",Nielsen,Snedker,"Eget erhverv",1909-10-15,"Assistens Kirkegård",1598538,3371522,1,11,1905,"Allersgade 14, 4.",55.697011700000,12.547290100000
+1716,"Mikkel Peter",Nielsen,Snedker,"Eget erhverv",1909-10-15,"Assistens Kirkegård",1598538,3371522,1,11,1906,"Niels W. Gades Gade 32, 2.",55.714737100000,12.574306400000
+1716,"Mikkel Peter",Nielsen,Snedker,"Eget erhverv",1909-10-15,"Assistens Kirkegård",1598538,3371522,14,6,1899,"Nørrebrogade 68, 3., hos Nielsen",55.691099300000,12.554084200000
+1822,"Kirsten Marie",Olsen,Vognmand,"Ægtefælles erhverv",1910-04-07,"Vestre Kirkegård",1604799,3375887,1,11,1906,"Fiolstræde 24, 2.",55.681226600000,12.572775800000
+1822,"Kirsten Marie",Olsen,Vognmand,"Ægtefælles erhverv",1910-04-07,"Vestre Kirkegård",1604799,3375887,1,11,1907,"Landemærket 8, 2.",55.682266100000,12.577202200000
+1822,"Kirsten Marie",Olsen,Vognmand,"Ægtefælles erhverv",1910-04-07,"Vestre Kirkegård",1604799,3375887,1,11,1902,"Østrigsgade 4, stuen",55.665989000000,12.612811900000
+1862,Niels,Pedersen,Gasværksarbejder,"Eget erhverv",1910-04-30,"Vestre Kirkegård",1607359,3377712,1,5,1906,"Overbys Allé 19, 1.",55.665272300000,12.500887800000
+1862,Niels,Pedersen,Gasværksarbejder,"Eget erhverv",1910-04-30,"Vestre Kirkegård",1607359,3377712,1,11,1907,"Overbys Allé 19, 1.",55.665272300000,12.500887800000
+1862,Niels,Pedersen,Gasværksarbejder,"Eget erhverv",1910-04-30,"Vestre Kirkegård",1607359,3377712,1,5,1901,"Valhøjvej 8, stuen",55.665934700000,12.518476400000
+1862,Niels,Pedersen,Gasværksarbejder,"Eget erhverv",1910-04-30,"Vestre Kirkegård",1607359,3377712,1,11,1905,"Valhøjvej 8, stuen",55.665934700000,12.518476400000
+2000,"Frederik Ferdinand",Petersen,Arbejdsmand,"Eget erhverv",1910-05-03,"Bispebjerg Kirkegård",1610813,3380313,1,11,1894,"Adelgade 64, 5., hos Hjemmet, Moderen",55.685585800000,12.586310700000
+2000,"Frederik Ferdinand",Petersen,Arbejdsmand,"Eget erhverv",1910-05-03,"Bispebjerg Kirkegård",1610813,3380313,1,5,1898,"J.A. Schwartz Gade 37, 1.",55.693424600000,12.575802200000
+2000,"Frederik Ferdinand",Petersen,Arbejdsmand,"Eget erhverv",1910-05-03,"Bispebjerg Kirkegård",1610813,3380313,10,4,1909,"Løgstørgade 1, kælderen",55.705560500000,12.581313400000
+2000,"Frederik Ferdinand",Petersen,Arbejdsmand,"Eget erhverv",1910-05-03,"Bispebjerg Kirkegård",1610813,3380313,1,11,1909,"Løgstørgade 1, 3.",55.705560500000,12.581313400000
+2000,"Frederik Ferdinand",Petersen,Arbejdsmand,"Eget erhverv",1910-05-03,"Bispebjerg Kirkegård",1610813,3380313,1,5,1907,"Løgstørgade 12, stuen",55.705582600000,12.581701700000
+2000,"Frederik Ferdinand",Petersen,Arbejdsmand,"Eget erhverv",1910-05-03,"Bispebjerg Kirkegård",1610813,3380313,12,5,1895,"Sankt Pauls Gade 5, 2.",55.686877800000,12.589035300000
+2000,"Frederik Ferdinand",Petersen,Arbejdsmand,"Eget erhverv",1910-05-03,"Bispebjerg Kirkegård",1610813,3380313,1,11,1898,"Silkeborggade 8, 2.",55.704403500000,12.585251100000
+2000,"Frederik Ferdinand",Petersen,Arbejdsmand,"Eget erhverv",1910-05-03,"Bispebjerg Kirkegård",1610813,3380313,1,11,1905,"Tingvej 24, 1.",55.658977400000,12.603470200000
+2000,"Frederik Ferdinand",Petersen,Arbejdsmand,"Eget erhverv",1910-05-03,"Bispebjerg Kirkegård",1610813,3380313,1,5,1905,"Viborggade 16, 4.",55.705085900000,12.579190200000
+1742,"Rudolf Herman",Plesner,Skomager,"Eget erhverv",1909-10-14,"Bispebjerg Kirkegård",1617412,3384920,1,11,1907,"Augustagade 29, stuen",55.656236900000,12.612170100000
+1742,"Rudolf Herman",Plesner,Skomager,"Eget erhverv",1909-10-14,"Bispebjerg Kirkegård",1617412,3384920,1,11,1908,"Nordre Røse Vej 4, 2.",55.658289700000,12.610781800000
+1683,"Johan Peter Christian",Rasmussen,Ingeniør,NULL,1910-04-28,"Vestre Kirkegård",1621058,3387534,1,11,1905,"Nordre Frihavnsgade 91, 3.",55.703676000000,12.589491900000
+1683,"Johan Peter Christian",Rasmussen,Ingeniør,NULL,1910-04-28,"Vestre Kirkegård",1621058,3387534,1,11,1903,"Nordre Frihavnsgade 93, 1.",55.703700200000,12.589739900000
+1683,"Johan Peter Christian",Rasmussen,Ingeniør,NULL,1910-04-28,"Vestre Kirkegård",1621058,3387534,1,11,1900,"Rørholmsgade 12, 3.",55.689647000000,12.572837800000
+1683,"Johan Peter Christian",Rasmussen,Ingeniør,NULL,1910-04-28,"Vestre Kirkegård",1621058,3387534,1,5,1898,"Rørholmsgade 19, 1.",55.689933300000,12.571653300000
+1683,"Johan Peter Christian",Rasmussen,Ingeniør,NULL,1910-04-28,"Vestre Kirkegård",1621058,3387534,1,5,1894,"Turesensgade 16, 2., hos Jfr. Knudsen",55.681671900000,12.563339300000
+1840,Johanne,Rasmussen,Portner,"Ægtefælles erhverv",1910-04-30,"Vestre Kirkegård",1621064,3387539,1,11,1902,"Drogdensgade 6, 4.",55.659366900000,12.607759800000
+1840,Johanne,Rasmussen,Portner,"Ægtefælles erhverv",1910-04-30,"Vestre Kirkegård",1621064,3387539,1,11,1908,"Fredericiagade 82, 4.",55.687504900000,12.584499800000
+1840,Johanne,Rasmussen,Portner,"Ægtefælles erhverv",1910-04-30,"Vestre Kirkegård",1621064,3387539,1,5,1902,"Helgesensgade 9, 4.",55.695066200000,12.571940900000
+1840,Johanne,Rasmussen,Portner,"Ægtefælles erhverv",1910-04-30,"Vestre Kirkegård",1621064,3387539,1,5,1903,"Helgesensgade 9, 4.",55.695066200000,12.571940900000
+1840,Johanne,Rasmussen,Portner,"Ægtefælles erhverv",1910-04-30,"Vestre Kirkegård",1621064,3387539,1,11,1904,"Helgesensgade 9, 4.",55.695066200000,12.571940900000
+1840,Johanne,Rasmussen,Portner,"Ægtefælles erhverv",1910-04-30,"Vestre Kirkegård",1621064,3387539,1,11,1907,"Julius Bloms Gade 1, 2.",55.693017900000,12.547028300000
+1840,Johanne,Rasmussen,Portner,"Ægtefælles erhverv",1910-04-30,"Vestre Kirkegård",1621064,3387539,1,11,1906,"Murergade 12, 4.",55.684207100000,12.557399200000
+1840,Johanne,Rasmussen,Portner,"Ægtefælles erhverv",1910-04-30,"Vestre Kirkegård",1621064,3387539,1,11,1901,"Nordre Frihavnsgade 73, 3.",55.703378600000,12.586212700000
+1840,Johanne,Rasmussen,Portner,"Ægtefælles erhverv",1910-04-30,"Vestre Kirkegård",1621064,3387539,1,11,1899,"Schleppegrellsgade 9, 2.",55.689984100000,12.564187300000
+1977,"Lauritz Bernhard",Rasmussen,Malersvend,"Eget erhverv",1910-04-30,"Bispebjerg Kirkegård",1621429,3387809,1,11,1906,"Dagmarsgade 8, 2.",55.697381200000,12.548359500000
+1977,"Lauritz Bernhard",Rasmussen,Malersvend,"Eget erhverv",1910-04-30,"Bispebjerg Kirkegård",1621429,3387809,1,11,1903,"Fredensgade 21, 3.",55.693159800000,12.566735800000
+1977,"Lauritz Bernhard",Rasmussen,Malersvend,"Eget erhverv",1910-04-30,"Bispebjerg Kirkegård",1621429,3387809,20,9,1904,"Ole Jørgensens Gade 2, 1., hos Christensen",55.700155600000,12.540729600000
+1977,"Lauritz Bernhard",Rasmussen,Malersvend,"Eget erhverv",1910-04-30,"Bispebjerg Kirkegård",1621429,3387809,16,2,1904,"Stefansgade 14, 3., hos Christensen",55.695759100000,12.543892400000
+1977,"Lauritz Bernhard",Rasmussen,Malersvend,"Eget erhverv",1910-04-30,"Bispebjerg Kirkegård",1621429,3387809,9,7,1902,"Viborggade 15, 2.",55.705271000000,12.579364100000
+1998,"Helene Marie",Søborg,Syerske,"Eget erhverv",1910-05-02,"Vestre Kirkegård",1633511,3396635,1,11,1900,"Dronningens Tværgade 23, kvisten",55.683998000000,12.584916900000
+1950,"Ludvig Carelius",Sørensen,Snedkermester,"Eget erhverv",1910-05-01,"Vestre Kirkegård",1635575,3398142,20,5,1892,"Abel Cathrines Gade 9, 2.",55.671822400000,12.558557900000
+1898,"Søren Christian",Sørensen,Handelsrejsende,"Eget erhverv",1910-04-06,"Vestre Kirkegård",1636354,3398670,1,11,1905,"Fiolstræde 15, 2.",55.681590400000,12.572265900000
+1898,"Søren Christian",Sørensen,Handelsrejsende,"Eget erhverv",1910-04-06,"Vestre Kirkegård",1636354,3398670,1,11,1909,"Gammel Kongevej 33B, 2.",55.673458700000,12.553877000000
+1898,"Søren Christian",Sørensen,Handelsrejsende,"Eget erhverv",1910-04-06,"Vestre Kirkegård",1636354,3398670,1,5,1902,"Nansensgade 14, 1.",55.681299400000,12.562726700000
+1774,Christian,Thomsen,Droskekusk,"Eget erhverv",1900-01-06,Frederiksberg,1637464,3399495,1,11,1899,"Absalonsgade 35, 1., hos Petersen",55.669176600000,12.555777700000
+1774,Christian,Thomsen,Droskekusk,"Eget erhverv",1900-01-06,Frederiksberg,1637464,3399495,1,11,1896,"Gammel Kongevej 37, 1.",55.673753300000,12.552656900000
+1774,Christian,Thomsen,Droskekusk,"Eget erhverv",1900-01-06,Frederiksberg,1637464,3399495,1,5,1898,"Istedgade 5, 1.",55.671999800000,12.562631300000
+1755,"Georg Sophus",Wibe,Rentier,"Eget erhverv",1909-10-14,"Holmens Kirkegård",1658759,3402706,1,11,1906,"Østerbrogade 62",55.698323600000,12.578839300000
+2266,Anders,Andersen,Møllersvend,"Eget erhverv",1900-01-09,"Vor Frelsers Kirkegård (Amager)",1501531,3301128,1,11,1896,"Wildersgade 38, 1.",55.673460200000,12.590695600000
+2126,"Marie Jensine",Andersen,NULL,NULL,1910-05-02,"Bispebjerg Kirkegård",1504987,3303819,1,11,1893,"Baggesensgade 22, 5.",55.687476100000,12.558595400000
+2126,"Marie Jensine",Andersen,NULL,NULL,1910-05-02,"Bispebjerg Kirkegård",1504987,3303819,1,5,1906,"Ryesgade 57, 1.",55.694088800000,12.569793000000
+2126,"Marie Jensine",Andersen,NULL,NULL,1910-05-02,"Bispebjerg Kirkegård",1504987,3303819,1,11,1908,"Ryesgade 79B, 1.",55.695518900000,12.572000200000
+2165,"Henrik Theobald",Beyer,Cigarmager,Forhenværende/pensioneret,1909-10-16,"Vestre Kirkegård",1510731,3308032,1,11,1902,"Viborggade 53, 2.",55.705668900000,12.582990600000
+2145,"Petrine Christine",Christensen,Herreskrædderinde,"Eget erhverv",1899-07-01,"Vestre Kirkegård",1519722,3314626,1,11,1894,"Gothersgade 36, 1.",55.682241700000,12.582752600000
+2145,"Petrine Christine",Christensen,Herreskrædderinde,"Eget erhverv",1899-07-01,"Vestre Kirkegård",1519722,3314626,1,11,1897,"Larsbjørnsstræde 19, 1.",55.678687900000,12.568973500000
+2145,"Petrine Christine",Christensen,Herreskrædderinde,"Eget erhverv",1899-07-01,"Vestre Kirkegård",1519722,3314626,1,5,1895,"Vognmagergade 9, stuen",55.682475500000,12.578146700000
+2145,"Petrine Christine",Christensen,Herreskrædderinde,"Eget erhverv",1899-07-01,"Vestre Kirkegård",1519722,3314626,1,11,1895,"Wildersgade 15, 2.",55.672765000000,12.589225400000
+2272,"Christian Albert",Christoph,Handelsrejsende,"Eget erhverv",1909-10-18,"Vestre Kirkegård",1521844,3316107,1,4,1893,"Carstensgade 17, stuen, hos Søgaard",55.668485800000,12.537987600000
+2272,"Christian Albert",Christoph,Handelsrejsende,"Eget erhverv",1909-10-18,"Vestre Kirkegård",1521844,3316107,1,5,1901,"Godsbanegade 19, 2.",55.666140900000,12.554810600000
+2272,"Christian Albert",Christoph,Handelsrejsende,"Eget erhverv",1909-10-18,"Vestre Kirkegård",1521844,3316107,1,11,1903,"Hessensgade 19, kvisten",55.665368300000,12.615677400000
+2272,"Christian Albert",Christoph,Handelsrejsende,"Eget erhverv",1909-10-18,"Vestre Kirkegård",1521844,3316107,1,11,1905,"Istedgade 132, 1.",55.668132600000,12.549320500000
+2272,"Christian Albert",Christoph,Handelsrejsende,"Eget erhverv",1909-10-18,"Vestre Kirkegård",1521844,3316107,1,5,1905,"Istedgade 42, 1.",55.670407200000,12.556933300000
+2272,"Christian Albert",Christoph,Handelsrejsende,"Eget erhverv",1909-10-18,"Vestre Kirkegård",1521844,3316107,1,5,1907,"Istedgade 49, 3.",55.669551200000,12.554969100000
+2272,"Christian Albert",Christoph,Handelsrejsende,"Eget erhverv",1909-10-18,"Vestre Kirkegård",1521844,3316107,1,5,1909,"Istedgade 96, 4.",55.669035200000,12.552385600000
+2272,"Christian Albert",Christoph,Handelsrejsende,"Eget erhverv",1909-10-18,"Vestre Kirkegård",1521844,3316107,1,11,1892,"Matthæusgade 14, 2.",55.669905000000,12.550175600000
+2272,"Christian Albert",Christoph,Handelsrejsende,"Eget erhverv",1909-10-18,"Vestre Kirkegård",1521844,3316107,19,1,1898,"Oehlenschlægersgade 49, 2., hos Christensen",55.668458800000,12.550135600000
+2272,"Christian Albert",Christoph,Handelsrejsende,"Eget erhverv",1909-10-18,"Vestre Kirkegård",1521844,3316107,1,11,1906,"Oehlenschlægersgade 52, 2.",55.668318600000,12.549847100000
+2272,"Christian Albert",Christoph,Handelsrejsende,"Eget erhverv",1909-10-18,"Vestre Kirkegård",1521844,3316107,19,1,1897,"Oehlenschlægersgade 66A, stuen, hos Henriksen",55.667197400000,12.549922600000
+2272,"Christian Albert",Christoph,Handelsrejsende,"Eget erhverv",1909-10-18,"Vestre Kirkegård",1521844,3316107,21,5,1895,"Oehlenschlægersgade 71, 3., hos Jacobsen",55.666520700000,12.550278100000
+2106,"Viggo Julius",Grøndahl,Tjener,"Eget erhverv",1899-12-31,Frederiksberg,1533049,3324285,1,11,1898,"Frederiksgade 21, 2.",55.684536100000,12.591738600000
+2245,Hans,Hansen,Portner,Forhenværende/pensioneret,1909-10-18,"Bispebjerg Kirkegård",1538303,3328147,1,5,1902,"Balders Plads 6, 2.",55.701587900000,12.548834000000
+2245,Hans,Hansen,Veteran,"Eget erhverv",1909-10-18,"Bispebjerg Kirkegård",1538303,3328147,1,5,1902,"Balders Plads 6, 2.",55.701587900000,12.548834000000
+2245,Hans,Hansen,Portner,Forhenværende/pensioneret,1909-10-18,"Bispebjerg Kirkegård",1538303,3328147,1,5,1909,"Balders Plads 6, 2.",55.701587900000,12.548834000000
+2245,Hans,Hansen,Veteran,"Eget erhverv",1909-10-18,"Bispebjerg Kirkegård",1538303,3328147,1,5,1909,"Balders Plads 6, 2.",55.701587900000,12.548834000000
+2245,Hans,Hansen,Portner,Forhenværende/pensioneret,1909-10-18,"Bispebjerg Kirkegård",1538303,3328147,1,5,1892,"Tagensvej 35, Fabrikken",55.698724900000,12.554669900000
+2245,Hans,Hansen,Veteran,"Eget erhverv",1909-10-18,"Bispebjerg Kirkegård",1538303,3328147,1,5,1892,"Tagensvej 35, Fabrikken",55.698724900000,12.554669900000
+2245,Hans,Hansen,Portner,Forhenværende/pensioneret,1909-10-18,"Bispebjerg Kirkegård",1538303,3328147,1,11,1900,"Ægirsgade 1, 2.",55.697735900000,12.544330900000
+2245,Hans,Hansen,Veteran,"Eget erhverv",1909-10-18,"Bispebjerg Kirkegård",1538303,3328147,1,11,1900,"Ægirsgade 1, 2.",55.697735900000,12.544330900000
+2053,"Karen Marie Jensine",Hansen,Hovmester,"Ægtefælles erhverv",1910-05-03,"Garnisons Kirkegård",1541036,3329984,1,11,1891,"Fredericiagade 34, 1.",55.686258000000,12.589066500000
+2053,"Karen Marie Jensine",Hansen,Hovmester,"Ægtefælles erhverv",1910-05-03,"Garnisons Kirkegård",1541036,3329984,1,5,1907,"Sankt Pauls Gade 44, 4.",55.687884000000,12.586004800000
+2053,"Karen Marie Jensine",Hansen,Hovmester,"Ægtefælles erhverv",1910-05-03,"Garnisons Kirkegård",1541036,3329984,1,11,1898,"Store Kongensgade 101, 2.",55.687137200000,12.589927900000
+2053,"Karen Marie Jensine",Hansen,Hovmester,"Ægtefælles erhverv",1910-05-03,"Garnisons Kirkegård",1541036,3329984,27,3,1892,"Store Kongensgade 57, 4.",55.684141200000,12.587379600000
+2053,"Karen Marie Jensine",Hansen,Hovmester,"Ægtefælles erhverv",1910-05-03,"Garnisons Kirkegård",1541036,3329984,1,11,1905,"Webersgade 9, 4.",55.690305100000,12.573520900000
+2053,"Karen Marie Jensine",Hansen,Hovmester,"Ægtefælles erhverv",1910-05-03,"Garnisons Kirkegård",1541036,3329984,1,5,1902,"Øster Voldgade 12, stuen",55.689220500000,12.582321100000
+2184,Rasmus,Hansen,Arbejdsmand,"Eget erhverv",1899-06-30,"Vestre Kirkegård",1543752,3331854,1,5,1895,"Oehlenschlægersgade 35, 2.",55.669508700000,12.550075700000
+2277,"Iver Theodor",Hansteen,Overdyrlæge,Forhenværende/pensioneret,1909-10-18,"Garnisons Kirkegård",1544671,3332506,1,5,1909,"Gammeltoftsgade 18, stuen",55.689378400000,12.570915000000
+2277,"Iver Theodor",Hansteen,Overdyrlæge,Forhenværende/pensioneret,1909-10-18,"Garnisons Kirkegård",1544671,3332506,1,5,1892,"Gothersgade 165, 4.",55.686131600000,12.567122500000
+2277,"Iver Theodor",Hansteen,Overdyrlæge,Forhenværende/pensioneret,1909-10-18,"Garnisons Kirkegård",1544671,3332506,1,5,1903,"Nørre Farimagsgade 52, 4.",55.683539000000,12.566950700000
+2277,"Iver Theodor",Hansteen,Overdyrlæge,Forhenværende/pensioneret,1909-10-18,"Garnisons Kirkegård",1544671,3332506,1,11,1895,"Schleppegrellsgade 5, 1.",55.689794700000,12.564555600000
+2043,Petrea,Hartvig,"Kammerråd (Kammerraad)","Ægtefælles erhverv",1899-07-02,"Holmens Kirkegård",1544948,3332707,1,5,1892,"Øster Søgade 96, 2.",55.694616400000,12.577190900000
+2043,Petrea,Hartvig,Strandkontrollør,"Ægtefælles erhverv",1899-07-02,"Holmens Kirkegård",1544948,3332707,1,5,1892,"Øster Søgade 96, 2.",55.694616400000,12.577190900000
+2076,Gotfred,Jensen,Arbejdsmand,"Eget erhverv",1899-07-02,"Assistens Kirkegård",1556154,3340973,1,11,1895,"Nørrebrogade 156, 2.",55.695378100000,12.547510300000
+2045,Jens,Jensen,Smedemester,Forhenværende/pensioneret,1899-07-03,"Holmens Kirkegård",1557260,3341714,1,11,1892,"Freundsgade 15, 2.",55.667825300000,12.537077900000
+2045,Jens,Jensen,Smedemester,Forhenværende/pensioneret,1899-07-03,"Holmens Kirkegård",1557260,3341714,1,11,1897,"Haraldsgade 107, 3.",55.709972000000,12.560410400000
+2212,Jens,Jensen,Bryggeriarbejder,"Eget erhverv",1899-07-03,"Assistens Kirkegård",1557260,3341714,1,11,1892,"Freundsgade 15, 2.",55.667825300000,12.537077900000
+2212,Jens,Jensen,Bryggeriarbejder,"Eget erhverv",1899-07-03,"Assistens Kirkegård",1557260,3341714,1,11,1897,"Haraldsgade 107, 3.",55.709972000000,12.560410400000
+2045,Jens,Jensen,Smedemester,Forhenværende/pensioneret,1899-07-03,"Holmens Kirkegård",1557262,3341715,1,11,1891,"Store Kongensgade 65, 1.",55.684719900000,12.587884300000
+2212,Jens,Jensen,Bryggeriarbejder,"Eget erhverv",1899-07-03,"Assistens Kirkegård",1557262,3341715,1,11,1891,"Store Kongensgade 65, 1.",55.684719900000,12.587884300000
+2023,"Johanne Marie",Jensen,NULL,NULL,1910-09-24,"Garnisons Kirkegård",1558341,3342391,1,11,1908,"Dronningens Tværgade 16, 2.",55.683853900000,12.586717400000
+2023,"Johanne Marie",Jensen,NULL,NULL,1910-09-24,"Garnisons Kirkegård",1558341,3342391,1,11,1890,"Fiolstræde 34, 1.",55.681800700000,12.572367400000
+2023,"Johanne Marie",Jensen,NULL,NULL,1910-09-24,"Garnisons Kirkegård",1558341,3342391,1,5,1896,"Larsbjørnsstræde 15, 2.",55.678376900000,12.569330100000
+2023,"Johanne Marie",Jensen,NULL,NULL,1910-09-24,"Garnisons Kirkegård",1558341,3342391,1,11,1905,"Store Kongensgade 99, 1.",55.687028700000,12.589834600000
+2023,"Johanne Marie",Jensen,NULL,NULL,1910-09-24,"Garnisons Kirkegård",1558341,3342391,1,11,1894,"Studiestræde 17, 3.",55.678704100000,12.569991900000
+2246,"Niels Carl",Johansen,Arbejdsmand,"Eget erhverv",1909-10-19,"Bispebjerg Kirkegård",1564074,3346459,1,5,1902,"Saltholmsvej 7, 5.",55.659362100000,12.609185300000
+2241,Peter,Jørgensen,Skræddermester,Forhenværende/pensioneret,1909-10-18,"Bispebjerg Kirkegård",1568334,3349537,1,5,1892,"Møntergade 24, 1.",55.682389300000,12.580515200000
+2241,Peter,Jørgensen,Skræddermester,Forhenværende/pensioneret,1909-10-18,"Bispebjerg Kirkegård",1568334,3349537,1,5,1901,"Skoubogade 6, 3.",55.678742700000,12.573637600000
+2042,"Valdemar Michael",Jørgensen,Typograf,"Eget erhverv",1910-05-02,"Assistens Kirkegård",1568715,3349800,1,11,1890,"Badstuestræde 6, 3.",55.678350900000,12.574803900000
+2061,Thilda,Købke,NULL,NULL,1910-04-08,"Holmens Kirkegård",1573484,3353284,1,11,1891,"Sølvgade 16, stuen",55.686493200000,12.583242800000
+2103,"Hans Peter",Larsen,Valseværksarbejder,"Eget erhverv",1910-05-03,"Sundby Kirkegård",1576180,3355259,1,11,1909,"Højdevej 12, 2.",55.654491700000,12.612591100000
+2164,Ole,Larsen,Skomagersvend,"Eget erhverv",1899-07-03,"Vestre Kirkegård",1578381,3356817,19,8,1892,"Gammel Mønt 21, 3., hos Jørgensen",55.681406700000,12.580782600000
+2164,Ole,Larsen,Skomagersvend,"Eget erhverv",1899-07-03,"Vestre Kirkegård",1578381,3356817,1,11,1893,"Gammel Mønt 21, 3.",55.681406700000,12.580782600000
+2164,Ole,Larsen,Skomagersvend,"Eget erhverv",1899-07-03,"Vestre Kirkegård",1578381,3356817,1,5,1894,"Gammel Mønt 21, 3.",55.681406700000,12.580782600000
+2164,Ole,Larsen,Skomagersvend,"Eget erhverv",1899-07-03,"Vestre Kirkegård",1578381,3356817,16,2,1898,"Gammel Mønt 21, 4., hos Md. Jørgensen",55.681406700000,12.580782600000
+2164,Ole,Larsen,Skomagersvend,"Eget erhverv",1899-07-03,"Vestre Kirkegård",1578381,3356817,27,7,1894,"Store Kongensgade 42, 1., hos Frederiksen",55.682960300000,12.586777100000
+2164,Ole,Larsen,Skomagersvend,"Eget erhverv",1899-07-03,"Vestre Kirkegård",1578381,3356817,22,10,1894,"Vognmagergade 5, 3., hos Vedsted",55.681971000000,12.579376400000
+2038,Oluf,Lindhardt,Tobaksspinder,"Eget erhverv",1899-06-30,Frederiksberg,1581344,3358934,1,11,1897,"Boyesgade 15, 4.",55.672296700000,12.545581200000
+2038,Oluf,Lindhardt,Tobaksspinder,"Eget erhverv",1899-06-30,Frederiksberg,1581344,3358934,1,5,1895,"Dannebrogsgade 16, 1.",55.671150400000,12.552476300000
+2038,Oluf,Lindhardt,Tobaksspinder,"Eget erhverv",1899-06-30,Frederiksberg,1581344,3358934,1,11,1898,"Enghavevej 2, 2.",55.671385800000,12.545686500000
+2038,Oluf,Lindhardt,Tobaksspinder,"Eget erhverv",1899-06-30,Frederiksberg,1581344,3358934,1,5,1899,"Enghavevej 2, 2.",55.671385800000,12.545686500000
+2038,Oluf,Lindhardt,Tobaksspinder,"Eget erhverv",1899-06-30,Frederiksberg,1581344,3358934,1,5,1892,"Sundevedsgade 17, stuen",55.670386900000,12.544618300000
+2148,"Else Christine Elise",Lundt,Pastor,"Ægtefælles forhenværende",1899-07-06,Frederiksberg,1583221,3360307,1,11,1894,"Nansensgade 5, 1.",55.681253700000,12.562226200000
+2148,"Else Christine Elise",Lundt,Fattigforstander,"Ægtefælles forhenværende",1899-07-06,Frederiksberg,1583221,3360307,1,11,1894,"Nansensgade 5, 1.",55.681253700000,12.562226200000
+2148,"Else Christine Elise",Lundt,Pastor,"Ægtefælles forhenværende",1899-07-06,Frederiksberg,1583221,3360307,1,11,1890,"Rømersgade 15, 3.",55.683978300000,12.568578900000
+2148,"Else Christine Elise",Lundt,Fattigforstander,"Ægtefælles forhenværende",1899-07-06,Frederiksberg,1583221,3360307,1,11,1890,"Rømersgade 15, 3.",55.683978300000,12.568578900000
+2112,"Peter Christian",Martin,Grosserer,"Eget erhverv",1900-01-07,"Holmens Kirkegård",1586079,3362370,1,11,1898,"Studiestræde 49, 1.",55.677770000000,12.567378500000
+2230,"Emil Marinus",Nielsen,Bandagist,"Eget erhverv",1900-01-10,"Vestre Kirkegård",1594726,3368795,1,5,1895,"Vestergade 22, 1.",55.677259300000,12.569284800000
+2124,Jørgen,Nielsen,Skomager,Forhenværende/pensioneret,1910-05-03,"Bispebjerg Kirkegård",1597267,3370515,1,5,1909,"Vognmagergade 5, 2.",55.681971000000,12.579376400000
+2124,Jørgen,Nielsen,Skomager,Forhenværende/pensioneret,1910-05-03,"Bispebjerg Kirkegård",1597267,3370515,1,5,1892,"Vognmagergade 8, kælderen",55.682485600000,12.578850200000
+2252,"William Emil",Nielsen,Murerlærling,"Eget erhverv",1899-07-06,"Vestre Kirkegård",1600975,3373096,1,11,1898,"Lille Istedgade 5, 2.",55.670762600000,12.560133100000
+2178,Carl,Petersen,Cigarhandler,"Eget erhverv",1900-01-09,"Assistens Kirkegård",1609142,3379110,1,5,1897,"Jens Juels Gade 32, stuen",55.691221400000,12.574086600000
+2178,Carl,Petersen,Cigarhandler,"Eget erhverv",1900-01-09,"Assistens Kirkegård",1609142,3379110,1,11,1899,"Solitudevej 6, kælderen",55.689829800000,12.554469900000
+2232,Lars,Petersen,Arbejdsmand,"Eget erhverv",1900-01-10,"Vestre Kirkegård",1613559,3382232,11,8,1897,"Ny Carlsberg Vej 18C, 1.",55.665854400000,12.545255500000
+2232,Lars,Petersen,Arbejdsmand,"Eget erhverv",1900-01-10,"Vestre Kirkegård",1613561,3382233,1,11,1898,"Sankelmarksgade 5, kælderen",55.666564100000,12.548575900000
+2129,"Søren Christian",Pingel,Værtshusbestyrer,"Eget erhverv",1910-05-04,Frederiksberg,1617306,3384837,1,11,1896,"Mysundegade 25, stuen",55.667877200000,12.548329000000
+2229,"Julie Augusta",Rasmussen,Garversvend,"Ægtefælles erhverv",1900-01-10,"Assistens Kirkegård",1621148,3387607,1,5,1892,"Prinsesse Charlottes Gade 41, 2.",55.694019700000,12.551069900000
+2217,"Karen Margrethe",Schultz,Politibetjent,"Ægtefælles erhverv",1909-10-20,"Bispebjerg Kirkegård",1628101,3392678,1,5,1894,"Jægersborggade 49, 2.",55.693370800000,12.542819700000
+2217,"Karen Margrethe",Schultz,Politibetjent,"Ægtefælles erhverv",1909-10-20,"Bispebjerg Kirkegård",1628101,3392678,1,5,1896,"Jægersborggade 49, 2.",55.693370800000,12.542819700000
+2217,"Karen Margrethe",Schultz,Politibetjent,"Ægtefælles erhverv",1909-10-20,"Bispebjerg Kirkegård",1628101,3392678,1,11,1898,"Jægersborggade 49, 2.",55.693370800000,12.542819700000
+2217,"Karen Margrethe",Schultz,Politibetjent,"Ægtefælles erhverv",1909-10-20,"Bispebjerg Kirkegård",1628101,3392678,1,11,1900,"Jægersborggade 49, 2.",55.693370800000,12.542819700000
+2217,"Karen Margrethe",Schultz,Politibetjent,"Ægtefælles erhverv",1909-10-20,"Bispebjerg Kirkegård",1628101,3392678,1,5,1906,"Ægirsgade 10, 4.",55.697894600000,12.544917000000
+2217,"Karen Margrethe",Schultz,Politibetjent,"Ægtefælles erhverv",1909-10-20,"Bispebjerg Kirkegård",1628101,3392678,1,11,1908,"Ægirsgade 10, 4.",55.697894600000,12.544917000000
+2013,"Johanne Nicoline",Schønheyder,NULL,NULL,1910-09-27,"Assistens Kirkegård",1628601,3393051,1,5,1898,"Livjægergade 17, 4.",55.697078700000,12.587588300000
+2013,"Johanne Nicoline",Schønheyder,NULL,NULL,1910-09-27,"Assistens Kirkegård",1628601,3393051,1,11,1902,"Livjægergade 19, 1.",55.697252100000,12.587452200000
+2013,"Johanne Nicoline",Schønheyder,NULL,NULL,1910-09-27,"Assistens Kirkegård",1628601,3393051,1,5,1905,"Rosenvængets Allé 16, 1.",55.699180900000,12.581187600000
+2127,Lars,Sørensen,Arbejdsmand,"Eget erhverv",1910-05-03,"Bispebjerg Kirkegård",1635498,3398084,1,5,1892,"Viborggade 53, 2.",55.705668900000,12.582990600000
+2127,Lars,Sørensen,Arbejdsmand,"Eget erhverv",1910-05-03,"Bispebjerg Kirkegård",1635498,3398084,1,5,1905,"Viborggade 53, 2.",55.705668900000,12.582990600000
+2160,Rasmus,Sørensen,Arbejdsmand,"Eget erhverv",1909-10-17,"Vestre Kirkegård",1636180,3398556,1,5,1900,"Farvergade 12, Logishuset",55.675774700000,12.571711800000
+2160,Rasmus,Sørensen,Arbejdsmand,"Eget erhverv",1909-10-17,"Vestre Kirkegård",1636180,3398556,17,10,1909,"Larsbjørnsstræde 13, 3.",55.678286000000,12.569424700000
+2160,Rasmus,Sørensen,Arbejdsmand,"Eget erhverv",1909-10-17,"Vestre Kirkegård",1636180,3398556,1,11,1907,"Studiestræde 41, 1.",55.678005200000,12.568096100000
+2172,"Fritz Julius",Wengler,Kurvemager,"Eget erhverv",1900-01-07,"Vestre Kirkegård",1641210,3402208,1,5,1892,"Vesterbrogade 26, kælderen",55.672900000000,12.557897100000
+2172,"Fritz Julius",Wengler,Kurvemager,"Eget erhverv",1900-01-07,"Vestre Kirkegård",1641210,3402208,1,5,1898,"Vesterbrogade 42, stuen",55.672795300000,12.555653400000
+2585,"Axel Victor",Ammitzbøll,Grosserer,"Eget erhverv",1910-05-03,"Assistens Kirkegård",1501291,3300943,1,11,1904,"Borgergade 134, 2.",55.686700100000,12.587941900000
+2585,"Axel Victor",Ammitzbøll,Grosserer,"Eget erhverv",1910-05-03,"Assistens Kirkegård",1501291,3300943,1,11,1908,"Lundsgade 7, 1.",55.691556000000,12.577204500000
+2585,"Axel Victor",Ammitzbøll,Grosserer,"Eget erhverv",1910-05-03,"Assistens Kirkegård",1501291,3300943,1,5,1892,"Tordenskjoldsgade 19, 4.",55.678165900000,12.587732200000
+2336,"Niels Gustav",Andersen,"Gæstgiver (Gjæstgiver)","Eget erhverv",1899-07-06,"Vestre Kirkegård",1505295,3304041,17,4,1896,"Havnegade 47, stuen, hos Egen Lejlighed",55.677971100000,12.591606100000
+2336,"Niels Gustav",Andersen,"Gæstgiver (Gjæstgiver)","Eget erhverv",1899-07-06,"Vestre Kirkegård",1505295,3304041,1,5,1899,"Havnegade 47, stuen",55.677971100000,12.591606100000
+2336,"Niels Gustav",Andersen,"Gæstgiver (Gjæstgiver)","Eget erhverv",1899-07-06,"Vestre Kirkegård",1505295,3304041,1,5,1892,"Sankt Pauls Gade 5, 5., hos Enken Lorentzen",55.686877800000,12.589035300000
+2544,Sidse,Andersen,Skibsfører,"Ægtefælles erhverv",1910-04-10,"Sundby Kirkegård",1505986,3304484,1,5,1902,"Englandsvej 42, stuen",55.654314100000,12.602794100000
+2504,Christiane,Clausen,NULL,NULL,1900-01-11,"Helsingør Kirkegård",1522026,3316241,1,11,1896,"Gammel Kongevej 41, 1.",55.673968700000,12.551856300000
+2404,Christian,Felby,Ølhandler,"Eget erhverv",1909-10-22,"Bispebjerg Kirkegård",1527613,3320317,1,11,1904,"Dagmarsgade 43, 2.",55.698895900000,12.545134900000
+2404,Christian,Felby,Ølhandler,"Eget erhverv",1909-10-22,"Bispebjerg Kirkegård",1527613,3320317,1,11,1905,"Dagmarsgade 43, 2.",55.698895900000,12.545134900000
+2404,Christian,Felby,Ølhandler,"Eget erhverv",1909-10-22,"Bispebjerg Kirkegård",1527613,3320317,1,11,1908,"Hvalsøvej 36, 1.",55.704037900000,12.489051500000
+2404,Christian,Felby,Ølhandler,"Eget erhverv",1909-10-22,"Bispebjerg Kirkegård",1527613,3320317,1,5,1904,"Kronborggade 10, stuen",55.691929600000,12.544312000000
+2334,"Frederik Vilhelm",Frandsen,Toldbodarbejder,"Eget erhverv",1909-10-21,"Vestre Kirkegård",1528824,3321202,1,5,1905,"Absalonsgade 25, 5.",55.670111900000,12.555172800000
+2334,"Frederik Vilhelm",Frandsen,Toldbodarbejder,"Eget erhverv",1909-10-21,"Vestre Kirkegård",1528824,3321202,1,5,1903,"Lille Istedgade 5B, 4.",55.670762600000,12.560133100000
+2334,"Frederik Vilhelm",Frandsen,Toldbodarbejder,"Eget erhverv",1909-10-21,"Vestre Kirkegård",1528824,3321202,1,11,1901,"Matthæusgade 3, 4.",55.669786200000,12.551851700000
+2334,"Frederik Vilhelm",Frandsen,Toldbodarbejder,"Eget erhverv",1909-10-21,"Vestre Kirkegård",1528824,3321202,1,11,1903,"Oehlenschlægersgade 53B, 5.",55.668013100000,12.550165300000
