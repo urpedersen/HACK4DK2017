@@ -12,7 +12,7 @@ void setup() {
 void draw(){
   background(100);
   drawPositions(table);
-
+  
 }
 
 // Draw colored dots
