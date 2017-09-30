@@ -48,7 +48,7 @@ SELECT firstnames,lastname,gender,day,month,year,latitude,longitude FROM hack4dk
 left join hack4dk_police_address as a on a.person_id = p.id
 ```
 ### Heste er søde 
-'''SQL
+```SQL
 SELECT p.id,p.firstnames, p.lastname, ageYears,dateOfDeath,sex,street,street_number,deathcause,latitude,longitude FROM hack4dk.hack4dk_burial_persons_deathcauses as d 
 left join hack4dk_burial_person as p ON p.id = d.persons_id
 left join hack4dk_burial_address as a on a.persons_id = p.id
