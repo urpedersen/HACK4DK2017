@@ -34,7 +34,7 @@ left join hack4dk_burial_position as pos ON p.id = pos.person_id
 where dc.deathcause like "%nflue%" or dc.deathcause like "%neumo%"
 ```
 ### Erhverv på døde
-```
+```SQL
 SELECT person_id,position,lastname,ageYears,dateOfDeath,yearOfBirth,civilstatus,sex,street,street_number,latitude,longitude FROM hack4dk.hack4dk_burial_position as d
 #SELECT * FROM hack4dk.hack4dk_burial_position as d
 left join hack4dk_burial_person as p ON p.id = d.person_id
