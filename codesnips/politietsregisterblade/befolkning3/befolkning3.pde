@@ -8,14 +8,16 @@ int month,year;
 int firstYear = 1892;
 int lastYear = 1923;
 
+float drawScale=1;
+
 PFont font;
 
 String path = "../befolkning/data/";
 
 void setup() {
  //fullScreen();
- //size(1920,1080);  // 1920x1080
- size(400,300);
+ size(1920,1080);  // 1920x1080
+ //size(600,400);
  background(0);
 
  colorMode(HSB, 100);
@@ -37,18 +39,27 @@ void draw() {
   //fill(0,1);
   //rect(0,0,width,height);
   
-  String label = "Vesterbro";
+  String label = "Østerbro";
+  
   
   if(label=="København") { 
     latMin = 55.62;
     latMax = 55.74;
     lonMin = 12.45;
     lonMax = 12.64;
+    drawScale=1;
   } else if(label=="Vesterbro") {
     latMin = 55.657;
     latMax = 55.678;
     lonMin = 12.527;
-    lonMax = 12.569;    
+    lonMax = 12.569;
+    drawScale=2;
+  } else if(label=="Østerbro") { 
+    latMin = 55.675;
+    latMax = 55.711;
+    lonMin = 12.562;
+    lonMax = 12.608;
+    drawScale=2;
   }
   
   year = firstYear+frameCount%(lastYear-firstYear);
@@ -114,13 +125,13 @@ void drawAddress(boolean withAlpha){
          float x = map(lon,lonMin,lonMax,0,width);
          float c = map(postnummer,1000,3000,0,100);
          if(withAlpha){
-           fill(c,100,100,4);
+           fill(c,100,100,4*drawScale);
          }else{
            fill(c,100,100);
          }
          noStroke();
          //println(lat,lon,x,y);
-         ellipse(x,y,4,8);
+         ellipse(x,y,4*drawScale,8*drawScale);
        }
      }
 }
