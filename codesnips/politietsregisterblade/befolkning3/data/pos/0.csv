@@ -1,0 +1,666 @@
+person_id,firstnames,lastname,gender,street,number,day,month,year,latitude,longitude
+2159,"Agathe Augusta",Jensen,2,Drogdensgade,1,0,0,0,55.659580500000,12.607895400000
+9538,"Anders Marinus",Nielsen,1,Lyongade,6,0,0,0,55.659471000000,12.607057800000
+21472,"Marie Christine Jensine",Petersen,2,"Sigbrits Allé",8,0,0,0,55.656525600000,12.607932500000
+22577,"Johan Georg",Andersson,1,Tingvej,28,0,0,0,55.658654500000,12.603133700000
+23016,"Anna Cathrine",Hansen,2,Tingvej,27,0,0,0,55.658448000000,12.603333400000
+23463,"Sofus Georg",Bardrum,1,Tingvej,12,0,0,0,55.659587100000,12.604090400000
+24412,"Joen Julius",Hansen,1,Toldbodgade,2,0,0,0,55.679946200000,12.591727200000
+37434,"Johanne Christine Rosenkrands",Bruun,2,Augustagade,35,0,0,0,55.656325700000,12.612600100000
+47495,"Poul Curt",Hoppert,1,Dannebrogsgade,18,13,2,0,55.670992600000,12.552505300000
+48781,"Jøn Sigfur",Bjørnsson,1,"Ny Adelgade",3,0,0,0,55.681127100000,12.584095500000
+54447,Herman,Svendsen,1,Gertsvej,2,0,0,0,55.645807500000,12.615759900000
+69243,Marie,Rasmussen,2,"Vester Voldgade",25,5,11,0,55.677346000000,12.567790500000
+70609,Ragna,Jensen,2,Vendersgade,29,0,0,0,55.685070700000,12.565486500000
+71630,"Emilie Andrea",Brünniche,2,Nygade,3,0,0,0,55.678240900000,12.573669200000
+71764,"Anna Helene",Centner,2,Saxogade,58,0,0,0,55.669179600000,12.550847400000
+72681,"Helga Marie",Klæbel,2,Gothersgade,158,NULL,NULL,0,55.686484400000,12.566766100000
+72681,"Helga Marie",Klæbel,2,"Ole Suhrs Gade",6,NULL,NULL,0,55.689105300000,12.572743900000
+72924,Aage,Jensen,1,"Ole Suhrs Gade",17,0,0,0,55.689426300000,12.571467000000
+74736,"Peer Goe",Zahle,1,"Nørre Voldgade",60,0,0,0,55.682211000000,12.570639000000
+77321,"Anker Valdemar",Kofoed,1,Linnésgade,39,NULL,NULL,0,55.684871800000,12.571446400000
+77549,"Anders Peter",Andersen,1,Nansensgade,10,0,0,0,55.681223700000,12.562633400000
+78594,"Andreas Christian Schlejsner",Hjort,1,Nybrogade,28,0,0,0,55.676045800000,12.575418200000
+79763,"Agnes Sophie",Petersen,2,Studiestræde,13,24,5,0,55.678812000000,12.570307500000
+80404,"Anna Cathrine",Hansen,2,Turesensgade,7,NULL,NULL,0,55.681281500000,12.563730300000
+82793,Niels,Hansen,1,"Nørre Voldgade",6,0,0,0,55.679063300000,12.566635900000
+83102,Ove,Thayssen,1,Nørregade,45,11,11,0,55.681848400000,12.570919900000
+85900,Sofie,Borg,2,"Nørre Søgade",27,0,0,0,55.683781000000,12.563438100000
+86257,"Helene Elisabeth",Thaastrup,2,"Nørre Voldgade",29,0,0,0,55.684492000000,12.572964000000
+86462,"Georgia Augusta",Funder,2,"Øster Farimagsgade",15,1,11,0,55.688994100000,12.573556600000
+87471,"Anton Frederik Thorkild",Petersen,1,Vendersgade,20,8,11,0,55.685007200000,12.566189900000
+92941,"Clara Marie",Andersen,2,"Peder Hvitfeldts Stræde",17,0,0,0,55.682091500000,12.573493400000
+92941,"Clara Marie",Andersen,2,"Peder Hvitfeldts Stræde",17,0,0,0,55.682091500000,12.573493400000
+95798,"Franzine Frederikke",Andersen,2,Rømersgade,24,0,0,0,55.685016600000,12.570298500000
+97419,"Gjertrud Nicoline",Andersson,2,Gothersgade,140,0,0,0,55.685603100000,12.570083800000
+101033,Carlo,Petersen,1,Schacksgade,9,0,0,0,55.682117200000,12.564139700000
+102981,"Johan Frederik Moritz",Choger,1,"Peder Hvitfeldts Stræde",9,0,0,0,55.681657300000,12.573805200000
+103430,"Christian Ludvig",Larsen,1,Gothersgade,158,1,11,0,55.686484400000,12.566766100000
+104491,"Sara Marie",Jensen,2,"Nørre Farimagsgade",17,0,0,0,55.681742800000,12.564822200000
+105467,"Anna Elisa",Jensen,2,Nansensgade,47,NULL,NULL,0,55.683964500000,12.565422300000
+105782,"Anna Ludovika Cathrine",Bredahl,2,"Nørre Søgade",43,0,0,0,55.681847800000,12.561420300000
+105806,"Frederikke Marie",Bredahl,2,"Nørre Søgade",43,0,0,0,55.681847800000,12.561420300000
+106026,"Henry Louis",Breiting,1,Colbjørnsensgade,5,0,0,0,55.672870000000,12.561929800000
+108315,"Helene Sophie",Rurup,2,Vendersgade,29,0,0,0,55.685070700000,12.565486500000
+109028,"Anna Sophie Elisabeth Malthe",Bruun,2,Nørregade,8,0,0,0,55.679288500000,12.572208200000
+109799,"Caroline Marie Agnes",Petersen,2,Løngangstræde,23,0,0,0,55.675620700000,12.573397300000
+113001,"Svend Aage Thuesen",Bruun,1,Turesensgade,33,0,0,0,55.681797900000,12.561889100000
+113762,"Søren Marius",Brøchner,1,Gothersgade,54,0,0,0,55.682590400000,12.581415600000
+113762,"Søren Marius",Brøchner,1,Istedgade,42,0,0,0,55.670407200000,12.556933300000
+114435,Poul,Jensen,1,"Nordre Fasanvej",195,0,0,0,55.694429900000,12.533484800000
+114519,"Anna Marie",Nielsen,2,"Sankt Peders Stræde",37,0,0,0,55.678857700000,12.568171800000
+119610,"Wilhelmine Cecilie",Trebbien,2,Fiolstræde,33,0,0,0,55.682443600000,12.571707700000
+120854,"Johanne Thora",Struve,2,"Ved Sønderport",11,5,2,0,55.666254900000,12.601520500000
+121177,Erling,Burgmann,1,Rysensteensgade,1,0,0,0,55.672449800000,12.576504900000
+123149,"Ane Sofie",Nielsen,2,Rysensteensgade,1,0,0,0,55.672449800000,12.576504900000
+126772,"Susanne Petrine",Jensen,2,Sølvgade,30,21,12,0,55.686808400000,12.581313600000
+127667,"Valdemar Harald Lindeschou",Friis,1,"Nørre Søgade",27,0,0,0,55.683781000000,12.563438100000
+130180,"Iris Lucie",Nielsen,2,Studiestræde,17,0,0,0,55.678704100000,12.569991900000
+130763,"Marthe Jeanne le",Cointe,2,Vendersgade,15,0,0,0,55.684250800000,12.566967100000
+134112,"Carla Augusta Christine",Nielsen,2,Sundevedsgade,18,0,0,0,55.670073800000,12.544568800000
+135358,"Anna Cathrine",Iversen,2,Løngangstræde,27,0,0,0,55.675377900000,12.572800900000
+135669,"Theodor Johan",Jensen,1,Knabrostræde,25,0,0,0,55.676853500000,12.576013800000
+135734,Christian,Kelem,1,Studiestræde,43,0,0,0,55.677953600000,12.567942600000
+140208,"Einar Bilberg",Jensen,1,Nørregade,22,0,0,0,55.681247500000,12.571324900000
+140657,"Elisabeth Julie",Jensen,2,Larsbjørnsstræde,21,0,0,0,55.678787600000,12.568875400000
+140821,"Hans Chr. Frederik Vilhelm Cederfeld de",Simonsen,1,Stormgade,10,0,0,0,55.675093900000,12.574300600000
+143603,"Peter Valentin",Sørensen,1,"Skipper Clements Allé",6,NULL,NULL,0,55.656170100000,12.606441300000
+144194,"Morten Carl",Gerdorff,1,"Nørre Søgade",43,0,0,0,55.681847800000,12.561420300000
+146922,Hans,Hansen,1,Nansensgade,22,0,0,0,55.681502700000,12.562965700000
+148250,"Otto Harald",Koch,1,"P.D. Løvs Allé",5,NULL,NULL,0,55.697456700000,12.551173600000
+149516,Kristen,"Kold Smed",1,"Nørre Voldgade",24,NULL,NULL,0,55.680177000000,12.568116300000
+150504,Caroline,Kolsen,2,Linnésgade,25,0,0,0,55.684298600000,12.570739500000
+153009,"Nanny Mathilde",Carlsson,2,Vendersgade,29,0,0,0,55.685070700000,12.565486500000
+153192,"Jacob Ludvig",Jacobsen,1,Schacksgade,7,1,11,0,55.682075500000,12.564270200000
+153473,"Mathilde Sørine",Hansen,2,"Nørre Farimagsgade",70,0,0,0,55.684539900000,12.568065900000
+154273,"Mary Camilla Hansine",Møller,2,Kaalundsgade,6,0,0,0,55.671868400000,12.549115200000
+157110,"Martha Andrea",Petersen,2,Ravnsborggade,7,4,5,0,55.688501700000,12.561708500000
+157110,"Martha Andrea",Petersen,2,Studiestræde,38,26,6,0,55.678062600000,12.567690400000
+161522,"Ingeborg Frederikke",Krous,2,Puggaardsgade,11,0,0,0,55.671668500000,12.574536900000
+162685,"Rosalie Nelly",Nielsen,2,"Nørre Farimagsgade",82,0,0,0,55.685376900000,12.569097600000
+163056,Marie,Lieder,2,Vestergade,7,0,0,0,55.677845600000,12.570840800000
+165378,"Sigrid Trine",Nielsen,2,"Niels Brocks Gade",9,0,0,0,55.671518100000,12.572277800000
+166484,"Karen Margrethe",Krogh,2,Turesensgade,35,0,0,0,55.681870400000,12.561569000000
+167668,Alex,Jensen,2,Vestergade,4,0,0,0,55.678107000000,12.571020900000
+168500,"Svend Aage",Nielsen,1,"Nørre Søgade",11,0,0,0,55.684777500000,12.564938500000
+170989,"Rosine Johanne Bartholine",Larsen,2,Løngangstræde,21,0,0,0,55.675750200000,12.573730200000
+171650,"Amalie Sofie",Mørkbesse,2,"Nørre Søgade",41,0,0,0,55.682103300000,12.561659500000
+174856,Charlotte,Madsen,2,Rømersgade,5,0,0,0,55.683145300000,12.567538700000
+177506,"Petra Marie Antonia Margrethe Larsen",Grønbeck,2,"Nørre Søgade",33,0,0,0,55.682960300000,12.562462700000
+179289,"Jørgen Frederik",Nielsen,1,Nansensgade,7,0,0,0,55.681359400000,12.562369100000
+185620,"Valdemar Ferdinand",Jensen,1,"Nørre Søgade",23,0,0,0,55.684253600000,12.563684100000
+189719,Rasmus,Petersen,1,Snaregade,7,1,5,0,55.676867600000,12.576428000000
+190471,"Charlotte Louise",Hansen,2,"Nørre Søgade",19,0,0,0,55.684501200000,12.563928300000
+194499,"Sophie Georgia Frederikke Jensen",Tusch,2,Vimmelskaftet,38,0,0,0,55.678726200000,12.574796400000
+194672,"Markus Fritiof",Twedborg,1,"Ny Kongensgade",20,0,0,0,55.673213200000,12.574411200000
+194896,"Christiane Adolfine",Olufsen,2,Nansensgade,36,0,0,0,55.682128200000,12.563708800000
+195624,"Niels Carl",Christensen,1,"Øster Farimagsgade",83,0,0,0,55.694865200000,12.578927400000
+195839,"Niels Pagh",Christensen,1,"Nørre Søgade",13,0,0,0,55.684858300000,12.564305100000
+195973,"Christian Martin Aage",Jensen,1,Vandkunsten,6,0,0,0,55.676270400000,12.574264200000
+198806,"Johanne Marie",Jensen,2,Stormgade,8,0,0,0,55.675228600000,12.574660600000
+199410,"Jensine Anine",Jensen,2,"Nørre Søgade",27,0,0,0,55.683781000000,12.563438100000
+202563,"Emil Peter",Hansen,1,"Nørre Søgade",27,0,0,0,55.683781000000,12.563438100000
+202821,"Emilie Sofie Hylleborg",Hansen,2,Frederiksberggade,36,0,0,0,55.676754100000,12.569760600000
+203658,"Dagmar Margrethe",Kristensen,2,"Peder Skrams Gade",11,0,0,0,55.678452800000,12.588795300000
+205536,"Lorentz Henrik",Mortensen,1,Nansensgade,13,0,0,0,55.681580500000,12.562625700000
+206616,"Niels Tornkvist",Petersen,1,Nørregade,29,1,11,0,55.680454100000,12.570996800000
+207991,"Astrid Cicilie",Jensen,2,Krystalgade,11,0,0,0,55.680935700000,12.573919700000
+208863,"Charlotte Therese Oline",Hermann,2,Nansensgade,1,0,0,0,55.681036200000,12.561682000000
+209628,"Christian Vilhelm Georg v.",Haun,1,Rømersgade,23,0,0,0,55.684941500000,12.569777600000
+209779,Harald,Christensen,1,Manøgade,1,1,11,0,55.707772300000,12.568243100000
+209956,"Anna Christine",Jensen,2,Viktoriagade,9,NULL,NULL,0,55.671570400000,12.558247700000
+211895,"Maren Helene Constance Eleonora",Nielsen,2,Nansensgade,57,0,0,0,55.684262800000,12.565804400000
+213670,"Kirstine Marie Nielsen",Sørensen,2,Nørregade,18,0,0,0,55.680998200000,12.571337000000
+215400,"Oluf Johannes",Heindorff,1,"Vester Voldgade",21,27,5,0,55.677599100000,12.567469600000
+216504,"Charles Henry",Shaw,1,"Nørre Voldgade",48,0,0,0,55.681454200000,12.569679400000
+217208,"Karen Christine",Jensen,2,Vendersgade,7,0,0,0,55.683776900000,12.568140100000
+219273,"Sophus Frederik",Henke,1,Frederiksberggade,24,NULL,NULL,0,55.677159700000,12.570636900000
+220041,"Arvid Henry",Johansen,1,Vendersgade,6,0,0,0,55.683271600000,12.570164200000
+221799,"August Johan Kulberg",Johansen,1,"Nørre Farimagsgade",31,1,5,0,55.682530100000,12.565458500000
+224136,"Else Marie Benedikte",Haag,2,Bartholinsgade,15,0,0,0,55.686996100000,12.566993500000
+224328,Martinus,Nielsen,1,"Peder Hvitfeldts Stræde",17,0,0,0,55.682091500000,12.573493400000
+224848,"Inger Kirstine",Haarløv,2,"Nørre Voldgade",6,0,0,0,55.679063300000,12.566635900000
+225075,"Louis Theodor Max",Noebe,1,Vestergade,9,0,0,0,55.677774600000,12.570678400000
+228089,"Augusta Sofie Fanny",Jørgensen,2,"Nørre Farimagsgade",1,0,0,0,55.680216400000,12.563705000000
+230422,"Edel Nehenna Victoria",Johansson,2,"Nørre Søgade",33,0,0,0,55.682960300000,12.562462700000
+233400,Christine,Jørgensen,2,Nørregade,40,0,0,0,55.682277900000,12.571107800000
+233469,"Christine Rasmusine",Jørgensen,2,"Nørre Voldgade",92,0,0,0,55.683677100000,12.573027400000
+234473,"Hans Tygo Christian",Nielsen,1,Absalonsgade,36,1,11,0,55.669374200000,12.555295200000
+234473,"Hans Tygo Christian",Nielsen,1,Dannebrogsgade,44,0,5,0,55.668549000000,12.552888800000
+234768,"Helga Olivia Kristine",Schønberg,2,Jernbanegade,5,6,6,0,55.675966700000,12.566018500000
+235823,"Hedvig Minora Sara",Nielsen,2,"Nørre Farimagsgade",35,0,0,0,55.682838300000,12.565713100000
+237228,"Christine Poulsen",Lund,2,Trommesalen,3,0,0,0,55.673734100000,12.560687500000
+238264,"Karen Berthine",Jensen,2,Valkendorfsgade,20,0,0,0,55.679481400000,12.576506900000
+238508,"Karen Juncker",Jensen,2,"Nørre Voldgade",25,0,0,0,55.684216700000,12.572555100000
+251591,"Anna Haraldine",Kampen,2,"Store Kongensgade",23,0,0,0,55.682514500000,12.586008800000
+254858,Marius,Antonisen,1,Istedgade,88,NULL,NULL,0,55.669265100000,12.553127300000
+255434,"Lauritz Nielsen",Dam,1,Vendersgade,5,0,0,0,55.683108300000,12.569847700000
+255772,"August Adolf",Beuthner,1,"Ny Kongensgade",14,4,9,0,55.673720200000,12.575925600000
+257233,Viggo,Baller,1,Studiestræde,51,0,0,0,55.677492500000,12.566969400000
+258003,"Lilly Rosa Charlotte",Bock,2,Nansensgade,88,0,0,0,55.685003300000,12.567103800000
+259323,"Ethel Charlotte",Petersen,2,Nybrogade,16,0,0,0,55.676444300000,12.576213800000
+261055,"Amalie Laura",Schousgaard,2,"Nørre Farimagsgade",44,0,0,0,55.683288800000,12.566688200000
+263242,"Gudrun Dagmar Emma Agnes",Ditlefsen,2,Vesterbrogade,14,NULL,NULL,0,55.673721000000,12.559979000000
+264715,"Dagmar Sofie Heluise",Petersen,2,Nansensgade,6,0,0,0,55.681127800000,12.562525300000
+264715,"Dagmar Sofie Heluise",Petersen,2,Turesensgade,14,0,0,0,55.681601300000,12.563526300000
+266401,Johannes,Bested,1,Jernbanegade,6,0,0,0,55.676136300000,12.565715100000
+268223,"Emma Caroline Marie",Berthelsen,2,Turesensgade,5,0,0,0,55.681229300000,12.563878100000
+270930,"Caroline von der",Recke,2,Vesterbrogade,99,1,5,0,55.671617300000,12.546279700000
+273956,"Merry Astrid",Aackerberg,2,Rysensteensgade,6,0,0,0,55.672399600000,12.575878900000
+274265,"Ellen Hansine Christiane",Danielsen,2,Prinsessegade,65,0,0,0,55.674995100000,12.599045000000
+275574,"Carl Thorvald Emil",Adriansen,1,Frederikssundsvej,225,NULL,NULL,0,55.706398800000,12.487835700000
+276742,"Carl Sam",Aasberg,1,Nørregade,20,0,0,0,55.681140700000,12.571324600000
+279880,Axel,Axéll,1,"Store Kongensgade",27,0,0,0,55.682707700000,12.586153300000
+280417,"Arthur Villiam",Hofset,1,"Nørre Søgade",13,4,10,0,55.684858300000,12.564305100000
+281798,Laura,Axelsen,2,Saxogade,10,1,5,0,55.671794300000,12.550470900000
+295607,Julius,Hviid,1,"Nørre Farimagsgade",46,0,0,0,55.683368900000,12.566769800000
+301923,Christa,Dyhrberg,2,Nansensgade,14,NULL,NULL,0,55.681299400000,12.562726700000
+304156,"Oluf Valdemar",Astrup,1,Tullinsgade,23,NULL,NULL,0,55.673448100000,12.550833300000
+305187,"Ludvig Villiam",Dyssel,1,Studiestræde,14,NULL,NULL,0,55.678823500000,12.569838800000
+314977,"Magda Nielsine Cicilie",Jessen,2,"Nørre Voldgade",6,0,0,0,55.679063300000,12.566635900000
+316571,"Johannes v",Johalt,1,Vendersgade,23,0,0,0,55.684707200000,12.566143900000
+348664,"Karen Sophie",Nielsen,2,Nyhavn,40,0,0,0,55.679172300000,12.591809200000
+366585,"Elin Elisabeth",Trulsson,2,"Ny Østergade",9,0,0,0,55.680744100000,12.582941900000
+369010,"Johanne Elisabeth",Styrlander,2,Valdemarsgade,77,0,0,0,55.666493800000,12.549453900000
+373525,Caroline,Gøth,2,Schacksgade,7,0,0,0,55.682075500000,12.564270200000
+391387,"Bodil Johanne",Bencke,2,"Laurids Skaus Gade",9,0,0,0,55.687826100000,12.544321500000
+400148,"Harald Martin",Bjørn,1,Todesgade,11,0,0,0,55.686967300000,12.557060100000
+400662,"Christine Mathilde",Gjørup,2,Baggesensgade,31,0,0,0,55.687797000000,12.557218100000
+409362,Marie,Helvard,2,Stengade,22,0,0,0,55.687870500000,12.555636200000
+417630,"Josef Adrian Jack.",Fibiger,1,Slotsgade,10,0,0,0,55.688276600000,12.557277600000
+421104,Ellentine,Forslund,2,Bredgade,18,0,0,0,55.681739900000,12.588304700000
+422509,"Niels Christian",Hansen,1,Slotsgade,7,0,0,0,55.688280900000,12.557655200000
+437299,"Ane Margrethe",Jacobsen,2,Korsgade,1,0,0,0,55.684485100000,12.559485800000
+440382,"Robert Rudolf Groth",Hansen,1,Oehlenschlægersgade,20,0,0,0,55.670690400000,12.549682700000
+446606,"Augusta Cecilie",Jensen,2,"Peter Fabers Gade",43,0,0,0,55.691902400000,12.556479000000
+448576,"Ebba Edith",Magnussen,2,"Sankt Hans Gade",17,1,5,0,55.689957400000,12.562764900000
+452461,"Beate Emilie",Lauritzen,2,"Prinsesse Charlottes Gade",41,0,0,0,55.694019700000,12.551069900000
+464258,"Mathilde Cicilie",Larsen,2,Istedgade,84,0,0,0,55.669379700000,12.553539000000
+470902,"Astrid Henriette",Lynge,2,"Nørre Farimagsgade",84,0,0,0,55.685489700000,12.569248500000
+471093,"Olaf Peter",Mogensen,1,Vesterbrogade,127,0,0,0,55.670516900000,12.541932500000
+471980,"Anders Oluf",Brunn-Mortensen,1,Baggesensgade,3,0,0,0,55.686595500000,12.560703000000
+481123,"Frederik Marius Rasmussen",Dræby,1,Westend,10,0,0,0,55.671581300000,12.551670300000
+483723,"Charlotte Amanda",Nielsen,2,"Nørre Allé",41,0,0,0,55.694778200000,12.561043700000
+492420,"Jöns Jönsson",Lindberg,1,Møllegade,5,0,0,0,55.690679800000,12.555548500000
+516574,"Harriet Sofie Caroline Julia Vilhelmine Ernestine",Bornemann,2,Stockholmsgade,25,0,0,0,55.690606100000,12.577837900000
+517092,"Ernst Matthew",Chopman,1,Frederiksgade,9,1,11,0,55.685339800000,12.590025800000
+530912,"William Carl",Bramslev,1,Frederiksgade,19,0,0,0,55.693099600000,12.566822600000
+532471,"Herman Sofus",Boisen,1,"Lille Strandstræde",18,0,0,0,55.681101700000,12.590118400000
+534066,"Ingemann Christian Aaris",Jørgensen,1,"Øster Farimagsgade",12,NULL,NULL,0,55.690125700000,12.575279900000
+539755,"Sophie Caroline Marie",Børrild,2,Rørholmsgade,14,NULL,NULL,0,55.689762700000,12.572578700000
+540568,"Jules Janes von",Berkel,1,Toldbodgade,5,0,0,0,55.680072600000,12.591497900000
+541406,"Ane Maria",Jørgensen,2,Amaliegade,23,NULL,NULL,0,55.685265200000,12.594007700000
+543529,Marie,Christensen,2,Bredgade,26,0,0,0,55.682601600000,12.589030300000
+554351,"Kirstine Bertha",Knudsen,2,Kristianiagade,10,0,0,0,55.694372800000,12.587201800000
+559179,"Ingemann Christian",Jørgensen,1,"Sankt Annæ Plads",21,NULL,NULL,0,55.681325900000,12.593216500000
+563782,"Jenny Elisabeth",Johansen,2,"Ny Østergade",7,0,0,0,55.680581300000,12.582997000000
+565982,"Carl Viggo",Petersen,1,Skindergade,40,0,0,0,55.678705000000,12.572753800000
+573431,"Svend Aage",Petersen,1,Guldbergsgade,18,10,1,0,55.691685700000,12.558229600000
+583768,"Jens Martin",Madsen,1,Amaliegade,12,0,0,0,55.682595000000,12.592299700000
+593750,Augusta,Nilsson,2,Rigensgade,9,NULL,NULL,0,55.687523400000,12.582650200000
+595056,"Axel Viggo",Nielsen,1,"Store Kongensgade",59,NULL,NULL,0,55.684264300000,12.587482700000
+596811,"Carl August Oskar",Nielsen,1,"Jens Juels Gade",23,NULL,NULL,0,55.690927500000,12.574229300000
+596988,"Carl Ferdinand",Nielsen,1,"Store Kongensgade",65,NULL,NULL,0,55.684719900000,12.587884300000
+605630,Ella,Nielsen,2,Collinsgade,6,NULL,NULL,0,55.694712000000,12.578210200000
+606129,"Edelund Mathias",Nielsen,1,Kronprinsessegade,44,NULL,NULL,0,55.685146500000,12.583016800000
+606258,Einer,Nielsen,1,Rørholmsgade,10,NULL,NULL,0,55.689565400000,12.573030200000
+606272,Elisabeth,Nielsen,2,"Sankt Annæ Plads",18,NULL,NULL,0,55.681247200000,12.591731000000
+615604,Alma,Svane,2,Korsgade,62,0,0,0,55.686916200000,12.553672400000
+628815,"Astrid Helma Eleonora",Sivertsen,2,Helgolandsgade,16,NULL,NULL,0,55.671305100000,12.561377100000
+654917,"Amanda Kristina",Qvant,2,Kapelvej,47,25,4,0,55.686322600000,12.551556200000
+664098,"Lars Jacob",Thygesen,1,"Peder Hvitfeldts Stræde",5,0,0,0,55.681443800000,12.573960400000
+667204,"Anna Marie",Vedercantz,2,Korsgade,1,1,5,0,55.684485100000,12.559485800000
+671085,"Christiane Nicoline",Vieth,2,Slotsgade,9,1,5,0,55.688167200000,12.557520200000
+672372,"Holger Christian",Werchmeister,1,Guldbergsgade,16,0,0,0,55.691612500000,12.558408000000
+686313,Hilda,Carlsson,2,Frederiksgade,7,0,0,0,55.685417400000,12.589755100000
+691535,Christine,Andersson,2,Zinnsgade,4,27,7,0,55.694275900000,12.577756100000
+693592,"Eugen Frederik Carl F. von",Büttenheim,1,Frederiksgade,7,0,0,0,55.685417400000,12.589755100000
+712455,"Søren Vallentin",Sørensen,1,Rørholmsgade,7,2,5,0,55.689377400000,12.572853700000
+722159,"Edith Thora",Bing,2,"Store Kongensgade",70,0,0,0,55.684441400000,12.588029200000
+733620,"Aage Frederik",Andersen,1,Sofiegade,3,NULL,NULL,0,55.671447100000,12.590154100000
+735041,"Aage Simon",Andersen,1,Bagerstræde,2,NULL,NULL,0,55.672766600000,12.554846700000
+737529,"Anders Jakob",Andersen,1,Istedgade,64,0,0,0,55.669691900000,12.554576600000
+746150,"Christiane Theodora",Andersen,2,Østerbrogade,33,0,0,0,55.699889800000,12.577194700000
+748484,"Rudolf Georg",Hansson,1,Istedgade,132,0,0,0,55.668132600000,12.549320500000
+749394,"Kay Aage Oscar",Arn-Hansen,1,Heibergsgade,8,0,0,0,55.679132700000,12.587801900000
+749462,Anna,Christensen,2,Saxogade,18,1,11,0,55.671431600000,12.550234000000
+750968,"Niels Peter",Christiansen,1,Flensborggade,32,NULL,NULL,0,55.666213600000,12.547377700000
+751078,Kirstine,Christine,2,Westend,16,0,0,0,55.671175000000,12.551717600000
+754062,"John Edvin",Jönsson,1,Oehlenschlægersgade,13,0,0,0,55.671320100000,12.549931500000
+755705,"Constance Sundholm",Jonson,2,Istedgade,25,0,0,0,55.670714200000,12.558673000000
+756260,Hilda,Johnsson,2,Colbjørnsensgade,4,0,0,0,55.672925700000,12.561500800000
+758894,"Maren Dorthea",Christensen,2,Carstensgade,24,NULL,NULL,0,55.668884400000,12.538768700000
+760118,Heinrich,Buchardt,1,Dannebrogsgade,55,0,0,0,55.667479900000,12.553366600000
+760772,Kirstine,Esbensen,2,Frederiksstadsgade,13,0,0,0,55.668986300000,12.546238000000
+767022,Emilie,Buemann,2,"Gammel Kongevej",33,0,0,0,55.673458700000,12.553877000000
+767280,"Harald Georg Fellum",Jakobsen,1,Oehlenschlægersgade,15,0,0,0,55.671187500000,12.550024900000
+767765,Johanne,Egelund,2,Tullinsgade,7,0,0,0,55.673598100000,12.551726400000
+768566,"Karen Marie",Hansen,2,"Esbern Snares Gade",20,0,0,0,55.665093000000,12.554429200000
+769421,"Ludvig Henry Martin",Bentzen,1,Tranevej,3,0,0,0,55.701824100000,12.531999800000
+775950,Katte,Bögel,2,Reventlowsgade,20,0,0,0,55.671805500000,12.563944100000
+776109,Jens,Businius,1,Saxogade,10,0,0,0,55.671794300000,12.550470900000
+780350,"Asta Gynthe",Bokkenheuser,2,Stenosgade,7,NULL,NULL,0,55.673381300000,12.556797400000
+790088,Caroline,Cascka,2,"Lille Istedgade",1,0,0,0,55.671020500000,12.559843800000
+791940,"Johanne Elisabeth Louise",Frederiksen,2,Colbjørnsensgade,18,30,11,0,55.671647000000,12.562394300000
+794988,Johan,Gauffin,1,Vesterbrogade,25,0,0,0,55.672903300000,12.559247100000
+798037,"Valdemar Marius Sofus",Georg,1,Eskildsgade,52,0,0,0,55.669549200000,12.556543900000
+805554,"Carl Johan",Bergström,1,Hedebygade,26,1,5,0,55.668789900000,12.544364200000
+806646,"Harry Gilbert",Hildenborg,1,Helgolandsgade,14,0,0,0,55.671483900000,12.561299000000
+807366,"Lauritz Peter Vilhelm",Jacobsen,1,Fælledvej,15,11,11,0,55.689475600000,12.560053100000
+808353,"Rudolf Axel Gubrie",Hilmer,1,"Sankt Jørgens Allé",11,0,0,0,55.674050600000,12.558861500000
+809353,"Anders Thomas Christian",Jensen,1,Saxogade,107,0,0,0,55.667071100000,12.551657800000
+809407,Andres,Jensen,1,Saxogade,11,NULL,NULL,0,55.671753700000,12.550796100000
+810295,"Werner Andreas",Gustafsson,1,Dannebrogsgade,14,0,0,0,55.671313100000,12.552442500000
+812603,"Meinhardt Ernst",Cohen,3,Colbjørnsensgade,18,0,0,0,55.671647000000,12.562394300000
+814247,"Hans Egede",Conradsen,1,Helgolandsgade,15,0,0,0,55.671579800000,12.561628900000
+815463,Ragnhild,Haavik,2,Sankelmarksgade,19,0,0,0,55.665686800000,12.548750300000
+818120,"Charlotte Rasmine Amalie",Jensen,2,Nansensgade,7,0,0,0,55.681359400000,12.562369100000
+818929,Emil,Hygum,1,Tullinsgade,21,NULL,NULL,0,55.673481800000,12.551184600000
+824276,"Carl Eskild",Johansen,1,Sundevedsgade,8,0,0,0,55.670631900000,12.544039700000
+825173,"Hertha Marie Petrea",Christiansen,2,Vesterbrogade,113,NULL,NULL,0,55.671071900000,12.544108900000
+825706,Agnethe,Huusom,2,Vesterbrogade,41,0,0,0,55.672383400000,12.556612700000
+827265,"Skjold Herbert Ambrosius",Heyde,1,Absalonsgade,11,NULL,NULL,0,55.671231400000,12.554483400000
+829544,Constantin,Maisante,1,Saxogade,54,0,0,0,55.669531400000,12.550871900000
+832267,Marie,Müller,2,Westend,3,0,0,0,55.672245500000,12.551886900000
+838425,"Elisabeth Valborg Jensine",Nielsen,2,Oehlenschlægersgade,41,0,0,0,55.669081500000,12.550104200000
+839622,"Alfred Peter",Hansen,1,Matthæusgade,3,1,11,0,55.669786200000,12.551851700000
+847942,"Anna Marie",Nielsen,2,Vesterbrogade,31,0,0,0,55.672751100000,12.558429000000
+849306,Frederikke,Jørgensen,2,Saxogade,25,0,0,0,55.671435100000,12.550860100000
+849991,Hilma,Olsen,2,Saxogade,84,1,11,0,55.668696500000,12.551012800000
+851966,"Carl Johan",Hektor,1,"Ny Carlsberg Vej",70,0,0,0,55.666735500000,12.537816100000
+852320,"Dagmar Dorthea Henriette",Nielsen,2,Absalonsgade,3,0,0,0,55.672128000000,12.554029500000
+853183,Johan,Olsson,1,Colbjørnsensgade,13,0,0,0,55.671891500000,12.562583700000
+866935,"Niels Peter",Nielsen,1,Skydebanegade,14,0,0,0,55.668735200000,12.554053300000
+879803,"Axel Georg Heinrick Valdemar van",Meyeren,1,Valdemarsgade,49,0,0,0,55.668566800000,12.549242100000
+882920,"Christen Rudolf",Kondrup,1,"Abel Cathrines Gade",16,NULL,NULL,0,55.671297800000,12.559535900000
+885247,"Augusta Juliane",Lexenberg,2,Reventlowsgade,12,0,0,0,55.672720200000,12.563121100000
+885647,Vilhelm,Brandt-Jørgensen,1,Colbjørnsensgade,29,0,0,0,55.670786200000,12.563763200000
+889156,"Svend Aage Carl Christian",Melgaard,1,Dybbølsgade,14,1,11,0,55.665599100000,12.557311700000
+906561,Augusta,Olsen,2,Absalonsgade,13,0,0,0,55.671076800000,12.554584700000
+910480,Jenny,Fasth,2,Amagerbrogade,17,0,0,0,55.667079300000,12.598175900000
+914471,"Lilly Kate Marie",Brodersen,2,"Nordre Frihavnsgade",101,0,0,0,55.703794500000,12.590667000000
+921835,"Johanne Maja Vilhelmine Nielsine",Hansen,2,Marstalsgade,7,0,11,0,55.703678600000,12.584895300000
+932956,"Charles Martin Angamar",Olsen,1,Mysundegade,11,0,0,0,55.668559800000,12.548287500000
+940757,"Martha Ester Desideria",Riisberg,2,"Ny Kongensgade",15,0,0,0,55.673517300000,12.575976700000
+943761,Christian,Møller,1,Oehlenschlægersgade,8,0,0,0,55.671606800000,12.549622700000
+944048,Elise,Olsson,2,Sølvgade,93,0,0,0,55.689895900000,12.573001200000
+948009,"Sigrid Ingeborg",Molin,2,Estlandsgade,20,0,0,0,55.668007200000,12.551481600000
+950401,"Erik Petersen",Hummelgaard,1,Absalonsgade,14,NULL,NULL,0,55.671280900000,12.554125900000
+954009,"Christine Josefine",Mourau,2,Viktoriagade,21,1,11,0,55.670530300000,12.559343900000
+957801,Johanne,Nielsen,2,Classensgade,14,0,0,0,55.696437100000,12.580993300000
+958832,"Alfred Valdemar",Jensen,1,Vardegade,23,NULL,NULL,0,55.708602700000,12.586080200000
+962912,"Ingrid Christine",Nielsen,2,Aggersborggade,3,1,11,0,55.698521700000,12.587367900000
+986504,"Johan Frederik",Larsen,1,Østerbrogade,53,NULL,NULL,0,55.701621300000,12.577206400000
+991416,"Lauritz Christian",Larsen,1,Hornemansgade,33,1,5,0,55.715387100000,12.575796800000
+993578,"Mariane Cathrine",Clemmensen,2,"Nørre Sidealle",8,0,0,0,55.693478500000,12.560414500000
+993600,"Michalia Margrethe",Clemmensen,2,"Nørre Søgade",27,NULL,NULL,0,55.683781000000,12.563438100000
+994165,"Arthur Olaf",Larsen,1,Kildevældsgade,75,0,0,0,55.714087600000,12.571087400000
+994226,"Agnes Erikka",Olsson,2,Østerbrogade,76,0,0,0,55.699622500000,12.577966300000
+997693,"Caroline Amalie",Larsen,2,Faksegade,5,NULL,NULL,0,55.699734300000,12.580773500000
+999096,James,Marquard,1,Nørrebrogade,72,19,4,0,55.691334400000,12.553660100000
+1003081,"Helvine Petra Dybdal",Larsen,3,Landskronagade,27,0,0,0,55.713089900000,12.573280900000
+1003116,"Henning Louis Hans West",Larsen,1,Kuhlausgade,37,0,0,0,55.714956200000,12.574564800000
+1007127,Caroline,Sørensen,2,Østerbrogade,82,9,11,0,55.700383400000,12.577715900000
+1017034,"Axel Valdemar Hoyvard",Jonsen,1,Malmøgade,4,NULL,NULL,0,55.691676100000,12.579834400000
+1026200,"Karen Elisabeth",Pedersen,2,Landskronagade,49,0,0,0,55.712715900000,12.569296700000
+1026278,"Karen Jensine",Petersen,2,Frederiksborggade,43,NULL,NULL,0,55.685787700000,12.565690300000
+1026649,"Karen Marie",Petersen,2,Gartnergade,7,NULL,NULL,0,55.685863100000,12.554329800000
+1031311,"Einer Louis Marius",Petersen,1,Viktoriagade,13,0,0,0,55.671294100000,12.558530900000
+1031341,"Ejnar Vilhelm",Petersen,1,Vesterbrogade,110,0,0,0,55.671530800000,12.544943400000
+1033257,"Vilhelmine Christiane",Tofte,2,Faksegade,2,0,0,0,55.699502000000,12.581320100000
+1035452,"Georg Henrik",Petersen,1,Saxogade,83,0,0,0,55.668197700000,12.551397100000
+1035969,"Fritz Falk",Petersen,1,Svendsgade,2,0,0,0,55.671863800000,12.554581500000
+1036131,"Ingeborg Alma Hermine",Sørensen,2,Vesterbrogade,110,0,0,0,55.671530800000,12.544943400000
+1036697,"Hansine Bothilde Elisabeth",Petersen,2,Vesterbrogade,107,0,0,0,55.671354200000,12.545249900000
+1037927,"Carl Ludvig",Kofoed,1,Trepkasgade,8,0,0,0,55.694914600000,12.569458800000
+1038382,"Jenny Jensine Frederikke",Knudsen,2,Blegdamsvej,74,NULL,NULL,0,55.695393500000,12.570059400000
+1040677,"Agnes Nerry Gimhild Jensen",Topshøj,2,Livjægergade,28,0,0,0,55.698845700000,12.586673100000
+1047436,Engeline,Wessmann,2,"Ny Blegdamsvej",3,0,0,0,55.696054900000,12.571655400000
+1049611,"Vilhelmine Jacobine",Krause,2,"Knud Lavards Gade",1,0,0,0,55.664638200000,12.548249300000
+1051537,"Jens Frederik",Petersen,1,Tordenskjoldsgade,28,0,0,0,55.677117100000,12.587997900000
+1051537,"Jens Frederik",Petersen,1,Tordenskjoldsgade,28,0,0,0,55.677117100000,12.587997900000
+1058153,Tage,Persson,1,Valdemarsgade,33,0,0,0,55.669394400000,12.549011700000
+1058618,"Marie Anne Andreasen",Poulsen,2,"Lille Colbjørnsensgade",7,0,0,0,55.670424800000,12.562710200000
+1060516,"Eva Augusta",Molin,2,Ryesgade,127,0,0,0,55.698374800000,12.577675500000
+1060774,"Laura Marthine Gorm",Petersen,2,Westend,22,0,0,0,55.670777500000,12.551761600000
+1061599,"Laurids Christian",Petersen,1,Skydebanegade,7,0,0,0,55.669011600000,12.554495800000
+1061933,"Louise Charlotte Kirstine",Petersen,2,"Under Elmene",1,0,0,0,55.665199400000,12.596497400000
+1062286,"Niels Willads",Willadsen,1,Viktoriagade,28,0,0,0,55.670305700000,12.559201200000
+1062480,"Jensine Andrea",Sømberg,2,"Valby Langgade",49,0,0,0,55.666526300000,12.516946600000
+1062547,"Sara Christine",Petterson,2,Istedgade,81,0,0,0,55.668566800000,12.551665500000
+1062850,Louise,Petersen,2,Estlandsgade,16,0,0,0,55.668020400000,12.551783400000
+1063536,"Martha Hansine",Pedersen,2,"Gammel Kongevej",37,NULL,NULL,0,55.673753300000,12.552656900000
+1064266,"Martine Louise",Petersen,2,Sundevedsgade,5,0,0,0,55.670697800000,12.544333600000
+1064331,Mary,Petersen,2,Oehlenschlægersgade,15,0,0,0,55.671187500000,12.550024900000
+1064384,"Mary Christine",Petersen,2,Saxogade,22,0,0,0,55.670859200000,12.550634200000
+1064995,"Maren Johanne",Pedersen,2,Colbjørnsensgade,8,0,0,0,55.672521800000,12.561741600000
+1065858,"Marie Christine",Petersen,2,Estlandsgade,4,0,0,0,55.668057000000,12.552472500000
+1066475,"Johanne Rasmine",Rasmussen,2,Vesterbrogade,31,0,0,0,55.672751100000,12.558429000000
+1067922,"Caroline Vilhelmine",Poulsen,2,Valdemarsgade,34,0,0,0,55.668068100000,12.548878900000
+1068679,"Niels Johannes",Petersen,1,Horsensgade,8,0,0,0,55.704574700000,12.585827700000
+1069025,Peter,"Petersen (Kl. Skals)",1,Flensborggade,49,0,0,0,55.665948700000,12.547847700000
+1069355,"Peter Christian",Petersen,1,Saxogade,10,0,0,0,55.671794300000,12.550470900000
+1069365,"Peter Anders Møller",Petersen,1,"Sønder Boulevard",84,0,0,0,55.665016100000,12.547535600000
+1069896,"Frederikke Sophie",Schach,2,Frederiksstadsgade,5,0,0,0,55.669072500000,12.547576000000
+1070077,"Oda Sylvia Ingeborg",Petersen,2,Oehlenschlægersgade,26,0,0,0,55.670272900000,12.549714300000
+1070565,"Olga Margrethe",Pedersen,2,Vesterbrogade,28,0,0,0,55.672827000000,12.557556700000
+1070889,"Olaf Albert",Petersen,1,Dannebrogsgade,31,0,0,0,55.669704600000,12.553011500000
+1070889,"Olaf Albert",Petersen,1,Trepkasgade,8,0,0,0,55.694914600000,12.569458800000
+1071119,"Olaf la Cour",Petersen,1,Matthæusgade,6,0,0,0,55.669950500000,12.551781200000
+1071545,"Otto Henrik",Petersen,1,Istedgade,108,0,0,0,55.668837800000,12.551717200000
+1071545,"Otto Henrik",Petersen,1,Istedgade,81,0,0,0,55.668566800000,12.551665500000
+1071742,"Valdemar Peter",Petersen,1,Valdemarsgade,44,0,0,0,55.667253300000,12.549014100000
+1071780,Vallentin,Petersen,1,Vesterbrogade,77,0,0,0,55.672407900000,12.549437400000
+1072014,"Otto Ditlef",Petersen,1,Oehlenschlægersgade,50,0,0,0,55.668416500000,12.549843800000
+1073730,"Niels Peter",Rasmussen,1,Reverdilsgade,4,0,0,0,55.671955600000,12.563500500000
+1073975,Rasmus,Petersen,1,Tullinsgade,6,0,0,0,55.673696900000,12.551176500000
+1074263,"Johan Arnold",Sivertsen,1,Pilestræde,42,0,0,0,55.681060900000,12.579951300000
+1074389,"Peter Christian",Sivertsen,1,Vesterbrogade,77,0,0,0,55.672407900000,12.549437400000
+1074696,"Jens August Vilhelm",Scheil,1,"Sønder Boulevard",88,8,10,0,55.664879300000,12.547030300000
+1074792,"Carl Hjarne Viggo",Sjøberg,1,Røddinggade,6,0,0,0,55.665087800000,12.545074500000
+1076474,"Peter Martin",Petersen,1,Kuhlausgade,41,0,0,0,55.715062600000,12.574535100000
+1076713,Viggo,Pedersen,1,Oehlenschlægersgade,42,0,0,0,55.668945700000,12.549800300000
+1077086,"Just Thune",Waagepetersen,1,"Carl Johans Gade",15,0,0,0,55.702316200000,12.579900800000
+1077103,"Dorthea Johanne",Vohnsen,2,"Brønshøjholms Allé",12,1,11,0,55.705503600000,12.501942500000
+1080068,Käty,Slundt,3,Husumgade,16,0,0,0,55.693317100000,12.545655900000
+1082440,"Villiam Vogelius",Spange,1,Vesterbrogade,14,0,0,0,55.673721000000,12.559979000000
+1084244,"Jens Marius",Sørensen,1,Istedgade,116,0,0,0,55.668691400000,12.550743600000
+1084244,"Jens Marius",Sørensen,1,Istedgade,118,0,0,0,55.668569300000,12.550802300000
+1085883,"Robert Carl",Randrup,1,Matthæusgade,34,0,0,0,55.670264100000,12.547772800000
+1087396,Eduard,Thoresen,1,Oehlenschlægersgade,29,0,0,0,55.670116600000,12.550020500000
+1087854,"Albert Jens Jessen",Raupach,1,Dannebrogsgade,22,0,0,0,55.670708800000,12.552547400000
+1087887,Anna,Ravnkilde,2,"Store Kongensgade",92,0,0,0,55.685873700000,12.589227500000
+1088435,Laura,Reder,2,Saxogade,35,0,0,0,55.670717600000,12.550997300000
+1088528,"Peter Christian Hjallund",Redsted,1,Reventlowsgade,28,0,0,0,55.671050400000,12.564659800000
+1088531,"Anker Peter",Redsø,1,Flensborggade,36,NULL,NULL,0,55.665777000000,12.547467300000
+1088554,"Louise Georgine",Ree,2,Oehlenschlægersgade,49,0,0,0,55.668458800000,12.550135600000
+1088570,"Funder Sophus Vilhelm",Reeddtz,1,Reventlowsgade,24,7,0,0,55.671330300000,12.564396300000
+1088666,"Søren Peter",Sørensen,1,Flensborggade,21,0,0,0,55.668019600000,12.547411600000
+1088675,Elisabeth,Reinert,2,Hedebygade,3,0,0,0,55.669937100000,12.543814100000
+1090068,Ingrid,Wünsch,2,Randersgade,17,0,0,0,55.703190400000,12.581176000000
+1090222,Elise,Riegs,2,Viktoriagade,6,0,0,0,55.672161800000,12.557375100000
+1090813,"Jens Peter v.",Scholten,1,"Gammel Kongevej",25,NULL,NULL,0,55.673632900000,12.555842400000
+1090827,Christine,Larsen,2,Turesensgade,7,0,0,0,55.681281500000,12.563730300000
+1090856,"Gjertrud Kirstine",Larsen,2,"Nørre Voldgade",38,0,0,0,55.681098900000,12.569233100000
+1091828,"Julius Henrik",Schreuder,1,Istedgade,49,NULL,NULL,0,55.669551200000,12.554969100000
+1093159,"Ludvig Vilhelm",Schulian,1,"Esbern Snares Gade",7,NULL,NULL,0,55.665522300000,12.554443700000
+1093162,"Agnete Frida Angelica",Rasmussen,2,Kirsteinsgade,1,0,0,0,55.703592300000,12.578652100000
+1093609,"Peter Gustav",Ringius,1,Dybbølsgade,49,0,0,0,55.666574300000,12.550397700000
+1093875,"Carl Peter Niels",Riise,1,Toldbodgade,16,0,0,0,55.680680500000,12.592344100000
+1093890,"Emely Margrethe",Rice,2,"Gammel Kongevej",1,0,0,0,55.674403900000,12.560020700000
+1093890,"Emely Margrethe",Rice,2,Vesterbrogade,25,0,0,0,55.672903300000,12.559247100000
+1093890,"Emely Margrethe",Rice,2,Vesterbrogade,25,0,0,0,55.672903300000,12.559247100000
+1093901,"Ida Charlotte",Riise,2,"Gammel Kongevej",29,0,0,0,55.673284900000,12.555459500000
+1094600,Johann,Zainer,1,Nansensgade,53,0,0,0,55.684121700000,12.565639800000
+1094712,"Julie Johanne",Westberg,2,"Ny Carlsberg Vej",18,0,0,0,55.665854400000,12.545255500000
+1094959,"Georg Ferdinand Emanuel",Wulff,1,Korsgade,62,25,11,0,55.686916200000,12.553672400000
+1095609,"Victor Christian Frederik",Vecht,1,Husumgade,41,0,0,0,55.694127100000,12.544004200000
+1096379,"Villiam Ferd. Sørensen Ellermann",Wigandt,1,Eskildsgade,32,0,0,0,55.670353800000,12.555723900000
+1096696,"Niels Jørgen",Vesterdahl,1,Sundevedsgade,34,0,0,0,55.669611500000,12.545011000000
+1098032,"Dagmar Emilie",Wahlberg,2,Dannebrogsgade,34,0,0,0,55.669623700000,12.552674600000
+1098032,"Dagmar Emilie",Wahlberg,2,"Sankt Peders Stræde",32,0,0,0,55.678846000000,12.567324700000
+1099160,"Jens Willemoes",Thomsen,1,Saxogade,4,NULL,0,0,55.672325100000,12.550406400000
+1099402,"Astrid Kristine Jensen",Weng,2,Dybbølsgade,9,1,11,0,55.665312400000,12.557597000000
+1099402,"Astrid Kristine Jensen",Weng,2,"Sankt Peders Stræde",29,1,5,0,55.679126100000,12.569206400000
+1099953,Christian,Roes,1,Oehlenschlægersgade,67,0,0,0,55.667066100000,12.550249200000
+1100044,"Ib Christian Albert von Cotta",Schønberg,1,Broagergade,3,0,0,0,55.668461800000,12.546625100000
+1100614,"Peter Basse Christian",Westergaard,1,Classensgade,40,0,0,0,55.697321400000,12.584885400000
+1100963,"Andreas Hansen",Ringskov,1,Odensegade,24,1,5,0,55.700082900000,12.581626000000
+1100963,"Andreas Hansen",Ringskov,1,"Sønder Boulevard",53,0,0,0,55.666479800000,12.553018700000
+1100970,Otto,Wolff,1,"Enghave Plads",20,0,0,0,55.667623100000,12.544665100000
+1101066,Samuel,Wulff,1,Vesterbrogade,125,0,0,0,55.670591500000,12.542234200000
+1101725,"Viktor Hjalmar",Westerman,1,Oehlenschlægersgade,39,0,0,0,55.669222700000,12.550093800000
+1101842,Augusta,Vestlund,2,Absalonsgade,36,0,11,0,55.669374200000,12.555295200000
+1102871,"Dorthea Marie Kirstine",Vagner,2,Malmøgade,12,3,8,0,55.692108500000,12.578707100000
+1103055,"Svend Abraham",Wermerlund,1,Absalonsgade,19,0,0,0,55.670628900000,12.554857400000
+1103487,"Kitty Johanne Jørgensen",Wahlberg,2,"Gammel Kalkbrænderi Vej",29,0,0,0,55.704290500000,12.586295800000
+1103806,Alfried,Thollefsen,1,Istedgade,66,0,0,0,55.669594900000,12.554265200000
+1104216,Adolph,Samuel,1,Reverdilsgade,3,0,0,0,55.671773700000,12.563651500000
+1104328,Christina,Schmidt,2,Dannebrogsgade,15,0,0,0,55.671016400000,12.552801000000
+1106158,"Anina Rasmine Cathrine",Hansen,2,Nørrebrogade,221,0,0,0,55.699421300000,12.540895600000
+1107769,Hans,Hansen,1,Bragesgade,18,0,0,0,55.700030200000,12.544652800000
+1108391,"Ellen Ragnhild",Tonagel,2,Absalonsgade,26,0,0,0,55.670432500000,12.554656300000
+1110029,Frederik,Stougaard,1,"Sankt Jørgens Allé",10,0,0,0,55.674116800000,12.559159000000
+1113479,"Vilhelm Gustav Anders",Villemoe,1,Ingerslevsgade,116,0,0,0,55.664987400000,12.555026400000
+1113858,"Carl Hannibal  Ludvig",Wedellsborg-Wedell,1,"Vester Voldgade",92,0,0,0,55.673646300000,12.574311400000
+1114003,"Henry Carl Valdemar",Rundström,1,Saxogade,9,0,0,0,55.671946400000,12.550783900000
+1114264,Rasmus,Willing,1,Kingosgade,9,0,0,0,55.672141200000,12.544960900000
+1115315,"Herman Viggo",Wilsky,1,"Lille Colbjørnsensgade",8,0,0,0,55.670537500000,12.562585400000
+1118257,"Hans Peter",Winding,1,Valdemarsgade,34,0,0,0,55.668068100000,12.548878900000
+1118596,"Nielsine Cathrine Johansen",Vindt,2,"Gammel Kongevej",43,0,0,0,55.674120800000,12.551147300000
+1119757,"Knud Aage",Winsløv,1,Absalonsgade,7,24,7,0,55.671869300000,12.554101100000
+1119757,"Knud Aage",Winsløv,1,Frederikssundsvej,47,0,7,0,55.702873600000,12.530424500000
+1120111,"Carl Sofus Michal",Vinther,1,"Jesper Brochmands Gade",13,0,0,0,55.687317700000,12.546538200000
+1120111,"Carl Sofus Michal",Vinther,1,Saxogade,33,0,0,0,55.670876200000,12.550975400000
+1120201,"Edla Margrethe Hansine",Winther,2,Schacksgade,11,0,0,0,55.682198700000,12.563951000000
+1120201,"Edla Margrethe Hansine",Winther,2,Turesensgade,22,1,5,0,55.681938600000,12.562282000000
+1120725,"Hans Peter",Hansen,1,Valdemarsgade,81,0,0,0,55.666202600000,12.549500300000
+1121691,Holger,Hansen,1,"Holcks Plads",4,0,0,0,55.705249700000,12.496619200000
+1121968,"Helmuth Peter Reimar Jensenius",Struve,1,Dannebrogsgade,41,0,0,0,55.668707600000,12.553163900000
+1123137,"Emilie Bolette",Strøh,2,Kompagnistræde,19,0,0,0,55.677110900000,12.575623500000
+1123137,"Emilie Bolette",Strøh,2,Lavendelstræde,10,10,7,0,55.676468800000,12.571678800000
+1123251,Visti,Vistisen,1,Søllerødgade,33,0,0,0,55.694747100000,12.545638700000
+1124648,"Elly Harriet",Vith,2,Vesterbrogade,122,0,0,0,55.671207800000,12.543459900000
+1126736,"Marie Viktoria",Vahlers,2,Tornebuskegade,5,0,0,0,55.683825100000,12.573928800000
+1128115,"Victor Peter",Volck,1,Nørregade,38,0,0,0,55.682099800000,12.571120400000
+1129331,"Anders Christian",Vork,1,Helgolandsgade,14,0,0,0,55.671483900000,12.561299000000
+1130463,"Adolph Poul Ernst",Wolfrath,1,Vesterbrogade,131,0,0,0,55.670283100000,12.540969700000
+1130631,"Gorm Vilhelm",Vorsholt,1,Dannebrogsgade,44,0,0,0,55.668549000000,12.552888800000
+1130631,"Gorm Vilhelm",Vorsholt,1,Hedebygade,14,0,0,0,55.669270600000,12.543929800000
+1130631,"Gorm Vilhelm",Vorsholt,1,Hedebygade,16,0,0,0,55.669024800000,12.544120300000
+1130711,"Anna Petrea",Voss,2,Valdemarsgade,51,0,0,0,55.668347200000,12.549215000000
+1130715,"Augusta Frederikke",Woss,2,Reverdilsgade,4,0,0,0,55.671955600000,12.563500500000
+1130721,"Axel Julius Danneberg",Voss,1,Flensborggade,6,1,5,0,55.668806200000,12.546824300000
+1131549,"Ragnhild Esther",Hansen,2,"Houmanns Allé",3,0,0,0,55.704248700000,12.528270100000
+1132814,"Hans Christian",Walseth,1,Mysundegade,24,0,0,0,55.668053600000,12.547941000000
+1132973,"Ebba Charlotte Sofie",Walther,2,Istedgade,29,0,0,0,55.670572100000,12.558255600000
+1134051,Villiam,Sykes,1,Saxogade,8,0,0,0,55.672016800000,12.550461100000
+1134452,"Richardt Hans Peter",Hansen,1,Falkevej,9,0,0,0,55.698512100000,12.534698700000
+1135094,"Ernst Victor",Wulffsberg,1,"Andreas Bjørns Gade",20,15,11,0,55.675980000000,12.598318900000
+1136319,"Werner ?",Sandgreen,1,Oehlenschlægersgade,26,0,0,0,55.670272900000,12.549714300000
+1136630,"Oskar Adolf",Andersen,1,Haraldsgade,107,0,0,0,55.709972000000,12.560410400000
+1138433,"Albert Georg Corfix",Weber,1,Oehlenschlægersgade,16,0,0,0,55.670977600000,12.549658800000
+1138433,"Albert Georg Corfix",Weber,1,Tullinsgade,23,0,0,0,55.673448100000,12.550833300000
+1143458,"Charles Vilhelm",Christensen,1,Nørrebrogade,155,0,0,0,55.694559800000,12.548218200000
+1143466,Alfred,Wöhsner,1,Colbjørnsensgade,18,0,0,0,55.671647000000,12.562394300000
+1143606,"Augusta Marie Elisabeth",Zackariasen,2,"Asger Rygs Gade",16,0,0,0,55.664737300000,12.551857200000
+1145535,"Aage Emil Eyvind",Zeberg,1,"Sankt Jørgens Allé",9,0,0,0,55.673868900000,12.558978600000
+1150387,Fanny,Zimmermann,2,Boyesgade,7,NULL,NULL,0,55.672379900000,12.546602900000
+1161642,"Niels Sivert",Nielsen,1,Nørrebrogade,201,0,0,0,55.697732900000,12.543460700000
+1167563,"Gudrun Minna Kjelsmark",Jørgensen,2,Falkevej,1,0,0,0,55.698362300000,12.535552400000
+1167751,"Kirstine Andersen",Veje,2,Reverdilsgade,10,0,11,0,55.671749400000,12.562885500000
+1172995,"Ida Julie",Vejle,2,Istedgade,31,0,0,0,55.670446400000,12.557862400000
+1173573,"Carl Frederik",Christensen,1,"Houmanns Allé",5,0,0,0,55.704357000000,12.528393400000
+1174145,"Ivar Kjerulf",Weinschench,1,Valdemarsgade,24,0,0,0,55.668844700000,12.548717300000
+1174317,"Viola Dagmar Rasmine",Lorentzen,2,Ferskenvej,12,0,0,0,55.694847000000,12.518737000000
+1180584,"Marie Antonette",Weihe,2,"Ny Carlsberg Vej",4,0,0,0,55.665532900000,12.547118400000
+1182487,"Halvor Julius Ludvig",Weil,1,Mysundegade,13,0,0,0,55.668499600000,12.548190600000
+1182576,"Otto Hermann",Velborg,1,Saxogade,22,0,0,0,55.670859200000,12.550634200000
+1192379,"Aage Peter Kræsmer",Nolfi,1,Havdrupvej,91,0,0,0,55.698477600000,12.488743700000
+1193878,"Carl Christian Ulsøe",Houmann,1,Asminderødgade,17,0,0,0,55.698183800000,12.539217500000
+1195304,"Ferdinand Peter",Krüger,1,"Christianshavns Voldgade",11,0,0,0,55.669934800000,12.589666900000
+1198575,"Ane Sofie Emilie",Olsen,2,Thorsgade,13,0,0,0,55.696304300000,12.547009800000
+1199480,"Carl  L.",Magnusson,1,"Ny Toldbodgade",41,0,0,0,55.682656900000,12.593333000000
+1200313,"Maren Sofie",Raaberg,2,Tagensvej,39,0,0,0,55.699270800000,12.553732300000
+1200740,"Carl Christian",Olsen,1,Ravnsborggade,7,0,0,0,55.688501700000,12.561708500000
+1206042,"Jakob Aage",Marlow,1,Frederiksborgvej,48,0,0,0,55.705836200000,12.532294400000
+1209576,"Sigvald Erik",Eriksen,1,"Søndre Fasanvej",98,0,0,0,55.666850400000,12.517051500000
+1211730,"Anton Emil Petersen",Talleruphus,1,Nansensgade,29,0,0,0,55.682448000000,12.563654800000
+1214992,"Bertha Jensine Kathrine",Bertelsen,2,Smedestræde,10,1,5,0,55.666854100000,12.514147900000
+1215299,Poul,Olsen,1,"Nørre Farimagsgade",62,0,0,0,55.683972200000,12.567389000000
+1220295,"Hans Peter",Hansen,1,Holmbladsgade,4,1,5,0,55.663980400000,12.601516100000
+1221744,"Anders Christian",Andersen,1,Haderslevgade,14,0,0,0,55.667828300000,12.545664600000
+1224498,"Harry Albert",Olsen,1,"Degnemose Allé",51,0,0,0,55.701104300000,12.505256200000
+1227431,Karen,Petersen,2,"Vester Voldgade",25,0,0,0,55.677346000000,12.567790500000
+1230589,"Jens Peter",Jensen,1,Mysundegade,28,0,0,0,55.667878600000,12.547963100000
+1231105,"Kaj Ludvig Robert",Hansen,1,Nansensgade,39,0,0,0,55.683091000000,12.564413400000
+1231649,"Ole Christian",Christensen,1,Nørrebrogade,225,NULL,NULL,0,55.699615900000,12.540601500000
+1232366,"Vilhelmine Marie",Hansen,2,Viktoriagade,9,0,0,0,55.671570400000,12.558247700000
+1234338,"Ulla Christiane",Møller,2,"Ole Jørgensens Gade",6,0,0,0,55.700351000000,12.540932000000
+1235638,"Frederik Christian",Reiff,1,Rømersgade,24,0,0,0,55.685016600000,12.570298500000
+1243390,"Christian Frederik",Christiansen,1,Fjenneslevvej,1,0,0,0,55.703456300000,12.493033000000
+1244651,"Jens Bertelsen",Petersen,1,Valnøddevej,15,0,0,0,55.694226400000,12.513401300000
+1252963,"Anna Christine",Lagerberg,2,Theklavej,5,0,0,0,55.704202200000,12.529710800000
+1253182,Ellen,Bachhaus,2,Sundevedsgade,22,0,0,0,55.669929500000,12.544704900000
+1255138,"Emil Frederik",Bech,1,"Amalie Skrams Allé",27,1,11,0,55.665408300000,12.498567100000
+1255394,"Martin Louis",Jensen,1,Oehlenschlægersgade,66,0,0,0,55.667197400000,12.549922600000
+1255508,Froim,Benjovitch,1,"Mølle Allé",3,1,5,0,55.664849600000,12.518608500000
+1255508,Froim,Benjovitch,1,Valdemarsgade,44,0,11,0,55.667253300000,12.549014100000
+1255508,Froim,Benjovitch,1,Valdemarsgade,65,0,0,0,55.667412800000,12.549335400000
+1256438,"Jensine Kristine",Jepsen,2,Rughavevej,3,0,0,0,55.664567100000,12.515503700000
+1257289,"Peter Frederik",Bærentzen,1,Jægersborggade,6,0,0,0,55.691965400000,12.545180900000
+1258493,Viggo,Christiansen,1,"P. Knudsens Gade",28,1,11,0,55.652711300000,12.535405700000
+1258493,Viggo,Christiansen,1,Vardegade,13,0,5,0,55.707684300000,12.586540700000
+1259037,Christian,Christoffersen,1,"P. Knudsens Gade",20,0,0,0,55.653006400000,12.536558700000
+1259122,August,Trulsson,1,"Bjelkes Allé",16,0,0,0,55.692849400000,12.545083300000
+1261342,"Jens Aage Niels",Jensen-Broberg,1,"Esbern Snares Gade",6,0,0,0,55.665842700000,12.553722000000
+1261986,Theodor,Holm,1,Dannebrogsgade,45,0,0,0,55.668382600000,12.553213100000
+1262093,Clara,Thygersen,2,Nørrebrogade,157,0,0,0,55.694647200000,12.548033800000
+1262690,"Christian Svend Aage",Petersen,1,Havdrupvej,76,0,0,0,55.698425300000,12.488268700000
+1268010,"Kaj Gunnar Arild",Rasmussen,1,Landskronagade,27,0,0,0,55.713089900000,12.573280900000
+1270329,"Skyldfri Edith Viloa Angela",Prus,2,"Jernbane Allé",50,0,0,0,55.688153600000,12.489821700000
+1270997,Edwin,Chamberlain,1,"Gammel Jernbanevej",48,0,0,0,55.664475000000,12.516516100000
+1271181,"Anders Peter",Rasmussen,1,Enghavevej,30,NULL,5,0,55.669061100000,12.544963400000
+1271490,"Kirsten Anna Marie",Rasmussen,2,Kingosgade,7,0,0,0,55.672033500000,12.545066100000
+1274941,Hans,Rasmussen,1,Gadekærvej,2,NULL,NULL,0,55.666390800000,12.512612000000
+1277189,"Niels Peter L.",Petersen,1,Hvidtjørnevej,2,0,0,0,55.679711500000,12.481219000000
+1280084,"Ole Christoffersen",Petersen,1,Baldersgade,53,0,0,0,55.701032000000,12.547145900000
+1281900,"Carlo Ferdinand Alkestrup",Olsen,1,Brorsonsgade,3,0,0,0,55.672003400000,12.545890800000
+1283418,"Niels Peter",Hansen,1,Reverdilsgade,10,0,0,0,55.671749400000,12.562885500000
+1291839,"Peter Fritz",Sørensen,1,"Nordre Frihavnsgade",12,0,0,0,55.700188500000,12.578915100000
+1294773,"Hans Peter",Kofod,1,Istedgade,89,0,0,0,55.668299800000,12.550774300000
+1297375,"Franciska Marie Eleonora",Petersen,2,Stefansgade,3,0,0,0,55.696334000000,12.544911100000
+1297472,Albert,Weishaupt,1,Hyskenstræde,8,0,0,0,55.678219300000,12.576380400000
+1300708,"Anna Rigmor",Johannesen,2,"Jeppes Allé",14,0,0,0,55.718857300000,12.534776300000
+1305499,"Louis Frederik Christian",Vilhelmsen,1,Stefansgade,12,1,11,0,55.695961300000,12.544168500000
+1313552,"Harald Vilhelm",Serritslev,1,Larsbjørnsstræde,21,NULL,NULL,0,55.678787600000,12.568875400000
+1314520,"Hans Ejnar",Meyer,1,Steinsvej,8,0,0,0,55.661645500000,12.504286900000
+1317116,"Thea Rasmine",Christiansen,2,Hillerødgade,121,0,0,0,55.697551400000,12.542303800000
+1317265,"Axel Bernhard Valdemar",Andersen,1,"J.P.E. Hartmanns Allé",67,0,0,0,55.664425400000,12.497598800000
+1322729,"Frederik Otto",Steen,1,Frederiksborgvej,33,0,0,0,55.704231100000,12.532409800000
+1325929,"Martin Emanuel",Stoffersen,1,"Jeppes Allé",2,0,0,0,55.717563200000,12.534526000000
+1328840,Mathilde,Strømberg,2,Heimdalsgade,2,0,0,0,55.699612100000,12.541182400000
+1329991,"Alfred Johan",Schultz,1,Nørrebrogade,225,0,0,0,55.699615900000,12.540601500000
+1331413,"Nils Gustaf Adolf",Lindahl,1,Dannebrogsgade,41,0,0,0,55.668707600000,12.553163900000
+1331584,"Marie Magdalene",Nielsen,2,Helgolandsgade,4,NULL,NULL,0,55.672601600000,12.560789900000
+1340999,Frederik,Søfeldt,1,Helgolandsgade,15,0,0,0,55.671579800000,12.561628900000
+1343126,"Ebba Gertrud Oline",Nielsen,3,Frederikssundsvej,161,7,4,0,55.704532300000,12.501293000000
+1343126,"Ebba Gertrud Oline",Nielsen,3,"Kongens Nytorv",34,0,0,0,55.680596600000,12.584671000000
+1343126,"Ebba Gertrud Oline",Nielsen,3,"Vester Voldgade",25,0,0,0,55.677346000000,12.567790500000
+1343126,"Ebba Gertrud Oline",Nielsen,3,Vesterbrogade,80,0,1,0,55.672796500000,12.550618600000
+1343785,"Catharine Christine",Oehlerich,2,"Store Kongensgade",25,0,0,0,55.682598800000,12.586068100000
+1397578,"Anna Emmy",Scheil,2,"Sønder Boulevard",88,8,10,0,55.664879300000,12.547030300000
+1506342,"Anna Maria",Andersson,2,Livjægergade,15,0,0,0,55.696917700000,12.587708100000
+1510118,"Martha Frederikke",Berg,2,Nansensgade,48,0,0,0,55.682938600000,12.564657500000
+1514122,"Frederik Johan Elias",Bryde,1,"Lille Istedgade",5,0,0,0,55.670762600000,12.560133100000
+1514377,"Signe Marie",Buch,2,Baggesensgade,10,0,0,0,55.687025400000,12.560333000000
+1519703,"Peter Rasmus",Christensen,1,Sundevedsgade,26,0,0,0,55.669831600000,12.544805800000
+1519713,"Petra Augusta",Christensen,2,"Gammel Kongevej",47,0,0,0,55.674190100000,12.550852200000
+1520233,"Anna Marie",Christiansen,2,Ølandsgade,1,0,0,0,55.661718700000,12.602471300000
+1524615,"Vilhelmine Gerhardine Ingeborg Dorthea",Drøhse,2,Viktoriagade,20,0,0,0,55.671096700000,12.558361500000
+1524640,"Carl Willius",Ducjan,1,Prinsessegade,73,0,0,0,55.675489800000,12.599649900000
+1524683,Marie,Due,2,Vesterbrogade,94,0,0,0,55.672306400000,12.548098700000
+1525165,"Julie Dagmar",Edelmann,2,Slagelsegade,10,0,0,0,55.698144600000,12.579876300000
+1527089,"Otto Christian",Espersen,1,Helsingborggade,14,0,0,0,55.714390300000,12.570727000000
+1528842,"Hans Peter",Frandsen,1,Absalonsgade,41,NULL,NULL,0,55.668732200000,12.556018000000
+1531929,Karen,Golberg,2,Kingosgade,4,0,0,0,55.671981500000,12.545464800000
+1532474,Jens,Gregersen,1,Upsalagade,5,0,0,0,55.690858300000,12.577309000000
+1532479,Kirsten,Gregersen,2,Upsalagade,5,0,0,0,55.690858300000,12.577309000000
+1532716,"Carl Peter Vilhelm",Gross,1,Svanegade,24,0,0,0,55.689795400000,12.588616600000
+1533870,"Laura Frederikke",Haagensen,2,Nansensgade,1,0,0,0,55.681036200000,12.561682000000
+1534891,"Mette (Kl. Marie)",Hansdatter,2,Nansensgade,1,0,0,0,55.681036200000,12.561682000000
+1542842,"Niels Sørensen",Hansen,1,"Nørre Farimagsgade",44,NULL,NULL,0,55.683288800000,12.566688200000
+1544067,"Sophie Marie",Hansen,2,Istedgade,36,NULL,NULL,0,55.670767900000,12.558117500000
+1545365,"Caroline Amalie",Heberg,2,Carstensgade,17,0,0,0,55.668485800000,12.537987600000
+1546157,"Cecilie Cathrine Wenneke",Hemmingsen,2,Nansensgade,67,0,0,0,55.684908100000,12.566541900000
+1547290,"Hans Peter",Hermansen,1,Amagerbrogade,169,NULL,NULL,0,55.653611400000,12.611258800000
+1547448,Hans,Hertz,1,Værnedamsvej,16,0,0,0,55.674102700000,12.549999200000
+1547471,"Louise Henriette",Hertz,2,"Nørre Allé",41,0,0,0,55.694778200000,12.561043700000
+1547495,"Johan Georg Emil",Hertzog,1,Vendersgade,33,NULL,NULL,0,55.685332000000,12.565023400000
+1547881,Helene,Hirsch,2,Nørregade,6,NULL,NULL,0,55.678863900000,12.572242800000
+1549281,"Anna Margrethe",Holst,2,Nansensgade,50,NULL,NULL,0,55.682848500000,12.564937600000
+1550601,"Harald Thorvald",Høvert,1,"Overgaden oven Vandet",42,NULL,NULL,0,55.673061100000,12.592389700000
+1552031,"Hans Vilhelm Hansen",Jacobsen,1,Egegade,7,0,0,0,55.690545400000,12.558595800000
+1553862,"Ane Marie",Jensen,2,"Nørre Farimagsgade",61,NULL,NULL,0,55.684820900000,12.567787400000
+1554076,"Anna Marie",Jensen,2,Westend,16,NULL,NULL,0,55.671175000000,12.551717600000
+1554912,"Catharina Germania",Jensen,2,"Ernst Meyers Gade",6,NULL,NULL,0,55.668442200000,12.538335300000
+1555246,"Christian Emanuel",Jensen,1,"Abel Cathrines Gade",3,12,NULL,0,55.671897000000,12.558096800000
+1555351,"Christian Thorvald",Jensen,1,"Nørre Allé",41,0,0,0,55.694778200000,12.561043700000
+1558153,"Jette Marie",Jensen,2,Viktoriagade,7,0,0,0,55.671662000000,12.558139700000
+1562967,"Anna Elisabeth Ingeborg",Johansen,2,Reventlowsgade,4,0,0,0,55.673362700000,12.562720100000
+1578992,"Søren Johan",Larsen,1,Enghavevej,12,0,0,0,55.670612200000,12.545835900000
+1580761,"Peter Mortensen",Liljegren,1,Fredericiagade,44,0,0,0,55.686468700000,12.588364700000
+1583409,"Carl Adolf",Lyngbo,1,Ingerslevsgade,136,NULL,NULL,0,55.664489100000,12.551210700000
+1583801,"Fanny Helene",Løvener,2,Boyesgade,5,16,3,0,55.672518700000,12.546681800000
+1583801,"Fanny Helene",Løvener,2,Boyesgade,5,16,3,0,55.672518700000,12.546681800000
+1585835,"Lauritz Michael",Marcher,1,Dybensgade,20,0,0,0,55.677977900000,12.582514000000
+1585996,Marie,Markussen,2,Saxogade,7,0,0,0,55.672134300000,12.550743000000
+1593313,"Axel Carl Christian",Nielsen,1,Kompagnistræde,7,0,0,0,55.677520800000,12.576457400000
+1594770,"Emma Amalie",Nielsen,2,Helgolandsgade,4,0,0,0,55.672601600000,12.560789900000
+1595199,"Gustav Herman",Nielsen,1,Oehlenschlægersgade,73,0,0,0,55.666387000000,12.550290300000
+1602668,"Andreas Christian",Olsen,1,"Fakse Tværgade",6,0,0,0,55.700275100000,12.579707300000
+1602812,"Anna Agathe Vilhelmine",Olsen,2,Gyldenløvesgade,12,0,0,0,55.680551000000,12.562711900000
+1603671,"Frederik Oscar",Olsen,1,Saxogade,8,0,0,0,55.672016800000,12.550461100000
+1606988,"Paul Christian",Paulsen,1,Prinsessegade,19,NULL,NULL,0,55.671842600000,12.593066200000
+1608375,Ane,Petersen,2,Estlandsgade,14,NULL,NULL,0,55.668026300000,12.551902100000
+1608673,"Anna Jensine",Petersen,2,Absalonsgade,18,NULL,NULL,0,55.670994200000,12.554310600000
+1610338,"Ejnar Viggo Rhoar",Petersen,1,Vardegade,23,0,0,0,55.708602700000,12.586080200000
+1610536,"Emilie Fanny",Petersen,2,Schacksgade,8,0,0,0,55.682224000000,12.564514100000
+1613795,Lauritz,Petersen,1,Sofiegade,3,0,0,0,55.671447100000,12.590154100000
+1614172,Marie,Petersen,2,Saxogade,9,0,0,0,55.671946400000,12.550783900000
+1616473,"Søren Anton",Petersen,1,Dannebrogsgade,35,0,0,0,55.669446600000,12.553040200000
+1619989,"Caroline Henriette",Rasmussen,2,"Niels Hemmingsens Gade",36,0,0,0,55.680469200000,12.575805200000
+1621946,Peter,Rasmussen,1,Istedgade,84,0,0,0,55.669379700000,12.553539000000
+1622496,"Christian Frederik Emil von Holstein",Rathlou,1,Stockholmsgade,51,0,0,0,55.692378100000,12.582622800000
+1624008,"Hakon Valdemar",Rosenfeldt,1,Prinsessegade,75,NULL,NULL,0,55.675731500000,12.599944500000
+1624367,"Gudrun Sofie",Rud,2,Willemoesgade,35,NULL,NULL,0,55.698156800000,12.583384900000
+1624955,"Meta Christine Sofie",Saaby,2,Boyesgade,5,0,0,0,55.672518700000,12.546681800000
+1625016,"Anna Marie",Sachmann,2,"Esbern Snares Gade",6,0,0,0,55.665842700000,12.553722000000
+1625363,"Oda Vilhelmine Kjærulff",Sand,2,Oehlenschlægersgade,44,NULL,NULL,0,55.668805800000,12.549811600000
+1634175,"Bodil Marie",Sørensen,2,Bredgade,25,NULL,NULL,0,55.682114300000,12.588245800000
+1640662,"Oline Sofie",Vater,2,Helgolandsgade,11,0,0,0,55.672159600000,12.561368300000
+1642043,Volmer,Vielandt,1,"Sankt Jørgens Allé",10,0,0,0,55.674116800000,12.559159000000
+1642043,Volmer,Vielandt,1,Turesensgade,35,22,1,0,55.681870400000,12.561569000000
+1644876,"Ragnhild Louise",Hansen,2,Admiralgade,22,NULL,NULL,0,55.677844900000,12.581826000000
+1644883,"Carl Johan Fritz",Fried,1,Ravnsborggade,20,0,0,0,55.689351200000,12.563075300000
+1656905,"Jens Christian",Johansen,1,Farvergade,12,0,0,0,55.675774700000,12.571711800000
+1657374,"Carl Ernst Frederik",Nielsen,1,"Peder Skrams Gade",22,2,2,0,55.677460500000,12.589067000000
+1665064,"Else Marie",Sørensen,2,"Sankt Peders Stræde",39,0,0,0,55.678826000000,12.568049600000
+1665677,Frederik,Larsen,1,Livjægergade,28,0,0,0,55.698845700000,12.586673100000
+1682220,"Emilie Alfrida",Nielsen,2,Badstuestræde,4,NULL,NULL,0,55.678395500000,12.574737500000
+1686562,Hans,Johnsen,1,"Abel Cathrines Gade",9,NULL,NULL,0,55.671822400000,12.558557900000
+1689562,"Agnes Christiane",Bendtsen,2,"Mølle Allé",8,1,11,0,55.665193100000,12.518270100000
+1692163,"William Marius Hill",Jørgensen,1,Lipkesgade,7,1,5,0,55.697211200000,12.585396200000
+1709346,"Mary Johanne",Weiss,2,Oehlenschlægersgade,66,0,0,0,55.667197400000,12.549922600000
+1709507,"Arnolda Hanne",Petersen,2,Viktoriagade,23,NULL,NULL,0,55.670404100000,12.559440300000
+1711381,"Ellen Margrethe",Thomsen,2,Østerbrogade,50,0,0,0,55.696956800000,12.579781800000
+1720608,"Niels Christian",Fischer,1,Dannebrogsgade,8,0,0,0,55.671803500000,12.552397800000
+1736376,Rasmus,Willing,1,Kingosgade,9,0,0,0,55.672141200000,12.544960900000
+1738276,"Hans Christian",Pedersen,1,Absalonsgade,35,NULL,NULL,0,55.669176600000,12.555777700000
+1742786,"Petra Hermine Laura",Rasmussen,2,"Store Kongensgade",65,NULL,NULL,0,55.684719900000,12.587884300000
+1746354,Alfred,Sand,1,"Sankt Annæ Plads",12,NULL,NULL,0,55.681386800000,12.591233600000
+1747577,"Johanne Augusta",Raabye,2,Vesterbrogade,126,0,0,0,55.671077900000,12.543072500000
+1747910,"Alma Elfrida Marie",Rasch,2,Dannebrogsgade,11,0,0,0,55.671425100000,12.552755000000
+1751339,"Lorents Gustav Vichtor",Bengtson,1,Asminderødgade,16,3,12,0,55.698186200000,12.539597000000
+1751905,Svend,Rose,1,Colbjørnsensgade,32,NULL,NULL,0,55.670548200000,12.563588600000
+1752031,David,Rothschild,1,Absalonsgade,43,0,0,0,55.668573500000,12.556116500000
+1752603,"Anna Christine",Rasmussen,2,Valdemarsgade,75,0,0,0,55.666637500000,12.549435500000
+1765695,"Jens Andreas Vilhelm",Jensen,1,"Grøndalsvænge Allé",4,0,0,0,55.695999000000,12.521427500000
+1771294,Severin,Rasmussen,1,"Sankt Jørgens Allé",7,0,0,0,55.673728500000,12.559056200000
+1777964,"Nancy Caroline",Nielsen,2,Vesterbrogade,64,NULL,NULL,0,55.672746300000,12.552749300000
+1784003,Ane,Knudsen,2,Guldbergsgade,47,0,0,0,55.692956000000,12.555699600000
+1790585,"Georg Kurt",Schwager,1,"Sønder Boulevard",66,NULL,NULL,0,55.666011400000,12.550648000000
+1800226,"Inger Sine",Skou,2,"Lille Istedgade",3,0,0,0,55.670899200000,12.559995900000
+1801131,"Marie Sofie Frederikke",Sindberg,2,"Sønder Boulevard",62,0,0,0,55.666152100000,12.551006100000
+1811012,"Marie Mathilde",Vestergaard,2,Frederiksstadsgade,1,1,5,0,55.669126200000,12.548555100000
+1815828,"Hanne Dorthea",Dorph-Petersen,2,Enghavevej,25,0,0,0,55.670357900000,12.546074400000
+1816605,Aage,Sørensen,1,Skydebanegade,4,NULL,NULL,0,55.668986700000,12.553953200000
+1816906,"Søren Peter",Sørensen,1,Egegade,2,0,0,0,55.690344500000,12.559457700000
+1818932,"Hansine Chatrine",Grun,2,Istedgade,72,0,0,0,55.669772900000,12.554072700000
+1828692,"Marie Amalie",Heindorff,2,"Gammel Strand",38,NULL,NULL,0,55.677767800000,12.578538100000
+1842422,"Ture Ferdinand",Arnell,1,Landemærket,4,NULL,NULL,0,55.681989500000,12.576635800000
+1874206,"Hilma Cecilie Sofie",Frederiksen,2,Nørregade,20,0,0,0,55.681140700000,12.571324600000
+1874742,"Helga Eltrida Caroline",Petersen,2,Flensborggade,10,0,0,0,55.668413400000,12.546919600000
+1882852,Ingebjørg,Eyfjord,2,"Store Kannikestræde",19,0,0,0,55.680009600000,12.573989800000
+1883145,"Marie Kirstine",Eriksen,2,Nansensgade,37,0,0,0,55.682806900000,12.564072300000
+1902659,"Anny Alvilda",Jacobsen,2,Svanevej,24,0,0,0,55.698563200000,12.533267000000
