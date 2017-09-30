@@ -77,3 +77,14 @@ left join hack4dk_burial_deathcauses as dc ON d.deathcauses_id = dc.id
 left join PRB_koordinat as k ON a.street COLLATE utf8_danish_ci LIKE k.vejnavn AND a.street_number = k.vejnummer
 left join hack4dk_burial_position as pos ON p.id = pos.person_id
 ```
+###  Burial 
+```SQL
+SELECT person_id,firstnames,lastname,sex,civilstatus,position,relationtype,ageYears,yearOfBirth,dateOfDeath,dc.id,dc.deathcause,street,street_number,latitude,longitude,cemetary 
+FROM hack4dk.hack4dk_burial_position as d
+#SELECT * FROM hack4dk.hack4dk_burial_position as d
+left join hack4dk_burial_person as p ON p.id = d.person_id
+left join hack4dk_burial_deathcauses as dc on dc.id = p.id
+left join hack4dk_burial_address as a on a.persons_id = p.id
+where latitude is not null and p.dateOfDeath is not null
+```
+
