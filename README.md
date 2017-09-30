@@ -46,6 +46,11 @@ where relationtype = "Eget erhverv"
 ```SQL
 SELECT firstnames,lastname,gender,day,month,year,latitude,longitude FROM hack4dk.hack4dk_police_person as p
 left join hack4dk_police_address as a on a.person_id = p.id
+
+
+SELECT person_id,firstnames,lastname,gender,street,number,day,month,year,latitude,longitude FROM hack4dk.hack4dk_police_person as p
+left join hack4dk_police_address as a on a.person_id = p.id
+Where latitude IS NOT NULL
 ```
 ### Heste er søde 
 ```SQL
