@@ -1,0 +1,300 @@
+id,firstnames,lastname,ageYears,dateOfDeath,sex,street,street_number,deathcause,latitude,longitude
+30413,Ukendt,"Barselspatient nr. 321",28,1863-10-15,Kvinde,NULL,NULL,Barselbetændelse,NULL,NULL
+34307,"Johanne Caroline Jensine",Andersen,33,1880-05-23,Kvinde,Hindegade,5,"Barselkrampe ",55.685931900000,12.588164500000
+26849,"Lovise Florentine Constance",Klein,37,1877-09-05,Kvinde,Sundbyvester,NULL,Barselseng,NULL,NULL
+34269,"Johanne Henriette",Madsen,21,1881-03-09,Kvinde,Rosendalsvej,16,Barselseng,NULL,NULL
+34544,"Ane Mette Christine",Petersen,34,1877-07-15,Kvinde,Absalonsgade,43,Barselseng,55.668573500000,12.556116500000
+35369,"Johanne Marie & dødfødt søn",Sahlberg,32,1880-07-01,Kvinde,Fredensgade,16,Barselseng,NULL,NULL
+36804,"Ellen Kirstine",Andersen,33,1864-06-26,Kvinde,Dybensgade,5,Barselseng,55.678185100000,12.583838400000
+37699,"Johanne Jensine",Heldt,26,1864-11-23,Kvinde,Slotsgade,10,Barselseng,55.688276600000,12.557277600000
+45715,"Laura Kirstine",Reitz,31,1877-11-26,Kvinde,"Store Fiolstræde",17,Barselseng,NULL,NULL
+66691,"Olavia Severine Birgithe",Jørgensen,38,1882-09-20,Kvinde,Sølvgade,94,Barselseng,55.690190200000,12.572999600000
+76298,"Anna Thora",Lucike,32,1870-01-28,Kvinde,Åbenrå,24,Barselseng,NULL,NULL
+77488,"Caroline Vilhelmine",Gercke,42,1870-04-03,Kvinde,Boldhusgade,2,Barselseng,55.677552100000,12.582083500000
+80999,"Vilhelmine Emilie Petrea",Jensen,22,1870-08-13,Kvinde,Kronprinsensgade,10,Barselseng,55.680680300000,12.579495000000
+86555,"Ane Kirstine",Suhr,33,1862-04-02,Kvinde,Adelgade,18,Barselseng,NULL,NULL
+815,"Caroline Leopoldine",Olsen,40,1863-01-11,Kvinde,"Sankt Hans Gade",7,"Barselsfeber (Barselfeber)",55.689428000000,12.563889500000
+1611,"Emma Angelique Camilla",Tillge,27,1862-12-29,Kvinde,"Store Fiolstræde",34,"Barselsfeber (Barselfeber)",NULL,NULL
+2219,"Amalie Dorthea Christine",Christensen,33,1862-12-30,Kvinde,Krystalgade,28,"Barselsfeber (Barselfeber)",NULL,NULL
+2305,"Knudine Marie",Hoyer,48,1877-01-09,Kvinde,Tårnborgvej,8,"Barselsfeber (Barselfeber)",55.675933900000,12.546484500000
+2445,"Caroline Sophie",Struve,36,1884-06-28,Kvinde,Skyttegade,8,"Barselsfeber (Barselfeber)",55.687296800000,12.549144400000
+2782,Ane,Larsen,28,1877-01-14,Kvinde,Strandvejen,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+3079,Oline,Schow,30,1863-01-04,Kvinde,Lorentzensgade,8,"Barselsfeber (Barselfeber)",NULL,NULL
+3099,"Marie Sophie","Gundersdatter, nr. 536",22,1863-01-04,Kvinde,Amaliegade,23,"Barselsfeber (Barselfeber)",55.685265200000,12.594007700000
+3442,Catharine,Jasper,30,1863-01-01,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+3769,Catharine,Jasper,30,1863-01-01,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+4726,"Maren Kirstine",Madsen,30,1884-07-18,Kvinde,Batterivej,27,"Barselsfeber (Barselfeber)",NULL,NULL
+4812,"Juliane Marie",Petersen,43,1879-01-02,Kvinde,Ryesgade,49,"Barselsfeber (Barselfeber)",NULL,NULL
+5180,"Thora Marie & udøbt datter",Johansen,19,1863-01-13,Kvinde,Kokkegade,8,"Barselsfeber (Barselfeber)",NULL,NULL
+7840,"Caroline Emilie",Ishøi,24,1879-01-09,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+8060,"Johanne Marie",Petersen,42,1899-07-08,Kvinde,Århusgade,76,"Barselsfeber (Barselfeber)",55.706213400000,12.583987000000
+8060,"Johanne Marie",Petersen,42,1899-07-08,Kvinde,Århusgade,76,"Barselsfeber (Barselfeber)",55.706128400000,12.584012200000
+12483,"Laura Emilie Mathilde",Jensen,26,1884-12-16,Kvinde,Ravnsborggade,18,"Barselsfeber (Barselfeber)",55.689171800000,12.562860900000
+12483,"Laura Emilie Mathilde",Jensen,26,1884-12-16,Kvinde,Ravnsborggade,18,"Barselsfeber (Barselfeber)",55.689200300000,12.563007700000
+12483,"Laura Emilie Mathilde",Jensen,26,1884-12-16,Kvinde,Ravnsborggade,18,"Barselsfeber (Barselfeber)",55.689094100000,12.562890600000
+12483,"Laura Emilie Mathilde",Jensen,26,1884-12-16,Kvinde,Ravnsborggade,18,"Barselsfeber (Barselfeber)",55.689029500000,12.563040100000
+12483,"Laura Emilie Mathilde",Jensen,26,1884-12-16,Kvinde,Ravnsborggade,18,"Barselsfeber (Barselfeber)",55.689128400000,12.563163400000
+7698,"Ane Kirsten",Nielsen,36,1863-01-14,Kvinde,"Sankt Peders Stræde",32,"Barselsfeber (Barselfeber)",55.678846000000,12.567324700000
+7698,"Ane Kirsten",Nielsen,36,1863-01-14,Kvinde,"Sankt Peders Stræde",32,"Barselsfeber (Barselfeber)",55.678955700000,12.567279000000
+13154,Anonym,"Anonym Nr. 459",43,1884-11-15,Kvinde,*Uangivet/ukendt,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+13600,"Caroline Frederikke Albine",Berg,41,1863-01-21,Kvinde,"Store Kannikestræde",NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+15999,Uoplyst,Anonym,22,1884-12-24,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+15653,"Ane Marie",Jacobsen,28,1863-11-15,Kvinde,"Dronningens Tværgade",6,"Barselsfeber (Barselfeber)",55.683435600000,12.588198900000
+15653,"Ane Marie",Jacobsen,28,1863-11-15,Kvinde,"Dronningens Tværgade",6,"Barselsfeber (Barselfeber)",55.683662300000,12.588307800000
+15653,"Ane Marie",Jacobsen,28,1863-11-15,Kvinde,"Dronningens Tværgade",6,"Barselsfeber (Barselfeber)",55.683693300000,12.588382600000
+15653,"Ane Marie",Jacobsen,28,1863-11-15,Kvinde,"Dronningens Tværgade",6,"Barselsfeber (Barselfeber)",55.683813100000,12.588371700000
+16616,"Anonym (Serine)",Anonym(Rasmussen),27,1884-11-27,Kvinde,Ryesgade,70,"Barselsfeber (Barselfeber)",55.694827500000,12.571371700000
+16616,"Anonym (Serine)",Anonym(Rasmussen),27,1884-11-27,Kvinde,Ryesgade,70,"Barselsfeber (Barselfeber)",55.694740300000,12.571393400000
+16616,"Anonym (Serine)",Anonym(Rasmussen),27,1884-11-27,Kvinde,Ryesgade,70,"Barselsfeber (Barselfeber)",55.694687300000,12.571490900000
+16616,"Anonym (Serine)",Anonym(Rasmussen),27,1884-11-27,Kvinde,Ryesgade,70,"Barselsfeber (Barselfeber)",55.694642600000,12.571565300000
+16821,Sofie,Petersen,24,1879-08-29,Kvinde,Absalonsgade,44,"Barselsfeber (Barselfeber)",55.668758500000,12.555677000000
+17129,Sofie,Petersen,NULL,1879-08-29,Kvinde,Absalonsgade,44,"Barselsfeber (Barselfeber)",55.668758500000,12.555677000000
+17379,"Emma Emilie","Jacobsen N. 425",22,1863-10-30,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+17859,Ukendt,"Barselspatient 8835",24,1863-02-05,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+17897,"Karen Marie",Hansen,37,1863-09-26,Kvinde,"Mikkel Bryggers Gade",12,"Barselsfeber (Barselfeber)",NULL,NULL
+17975,"Emma Frederikke Emilie",Andersen,23,1863-08-10,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+18289,Henriette,Hansen,26,1863-09-05,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+18681,"Eleonore Marie",Andersen,25,1863-03-23,Kvinde,Stormgade,31,"Barselsfeber (Barselfeber)",NULL,NULL
+18687,Adolphine,"Thomsen nr. 446",25,1863-11-14,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+19052,Karen,Ipsen,37,1863-02-12,Kvinde,Adelgade,101,"Barselsfeber (Barselfeber)",NULL,NULL
+19457,"Ida & Ida Vilhelmine",Madsen,44,1863-06-04,Kvinde,Springgade,20,"Barselsfeber (Barselfeber)",NULL,NULL
+20043,"Christiane Sophie Frederikke",Mathisen,42,1863-01-27,Kvinde,Elefantgade,6,"Barselsfeber (Barselfeber)",NULL,NULL
+20091,"Margrethe Dorothea",Giese,26,1863-04-05,Kvinde,Amagergade,25,"Barselsfeber (Barselfeber)",NULL,NULL
+20128,"Ane Kristine","Jensen (Barselspatient nr. 470)",26,1863-11-28,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+20189,Johanne,Rasmussen,35,1863-06-30,Kvinde,Rosengården,5,"Barselsfeber (Barselfeber)",55.682164600000,12.573107400000
+20237,Johanne,Petersen,39,1863-04-30,Kvinde,"Dronningens Tværgade",47,"Barselsfeber (Barselfeber)",NULL,NULL
+20440,Ukendt,"Barselskvinde nr 8797",36,1863-01-31,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+21303,"Ane Christine",Olsen,38,1863-05-13,Kvinde,Pilestræde,4,"Barselsfeber (Barselfeber)",NULL,NULL
+21651,"Ane Sophie","Nielsen (Barselspatient 394)",22,1863-10-12,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+22014,"Jacobine Andrea Christine",Jacobsen,37,1863-04-25,Kvinde,Borgergade,55,"Barselsfeber (Barselfeber)",NULL,NULL
+22635,Ane,"Larsen (Barselspatient nr. 95)",25,1863-03-12,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+22802,"Marlene Sophie",Lychow,36,1863-08-20,Kvinde,Adelgade,87,"Barselsfeber (Barselfeber)",NULL,NULL
+22911,Amalia,Vellenberg,23,1863-12-12,Kvinde,"Christianshavns Torv",9,"Barselsfeber (Barselfeber)",NULL,NULL
+23537,Anonym,"Barselspatient nr 370",18,1863-09-23,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+24936,"Marie Kirstine",Hansen,36,1863-02-11,Kvinde,Adelgade,13,"Barselsfeber (Barselfeber)",NULL,NULL
+25007,"Laura Camilla",Svendsen,25,1863-04-16,Kvinde,Timiansgade,9,"Barselsfeber (Barselfeber)",55.688921500000,12.585493500000
+25090,"Frederikke Vilhelmine Maria",Hammer,36,1863-12-15,Kvinde,"Højbro Plads",12,"Barselsfeber (Barselfeber)",NULL,NULL
+25145,Anonym,"Barselspatient 8837",34,1863-02-13,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+25487,"Ane Marie",Nielsen,30,1863-03-13,Kvinde,"Lille Kannikestræde",9,"Barselsfeber (Barselfeber)",NULL,NULL
+25661,Stine,Hansen,38,1863-09-03,Kvinde,"Bag Børsen",14,"Barselsfeber (Barselfeber)",NULL,NULL
+26301,Jørgine,Christiansen,40,1870-03-05,Kvinde,Skindergade,8,"Barselsfeber (Barselfeber)",55.680767300000,12.575854200000
+26347,Mathilde,Nielsen,37,1870-03-02,Kvinde,Batterivej,13,"Barselsfeber (Barselfeber)",NULL,NULL
+26409,Anonym,"Barselspatient nr 466",28,1863-11-29,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+26617,Margrethe,Burgmann,42,1880-05-25,Kvinde,Grønnegade,10,"Barselsfeber (Barselfeber)",55.680787900000,12.582423800000
+26796,Vilhelmine,Troelsen,22,1877-04-05,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+26826,Christine,Olsen,26,1863-03-03,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+26866,Kirsten,Sørensen,39,1863-04-16,Kvinde,Borgergade,142,"Barselsfeber (Barselfeber)",55.687451700000,12.588597300000
+27186,Sophie,Larsen,22,1863-04-18,Kvinde,"Ny Adelgade",70,"Barselsfeber (Barselfeber)",NULL,NULL
+27700,Anna,Holih,26,1880-03-27,Kvinde,"Dronningens Tværgade",51,"Barselsfeber (Barselfeber)",NULL,NULL
+28035,"Dorthea Marie",Andersdatter,30,1863-03-04,Kvinde,Rosengade,6,"Barselsfeber (Barselfeber)",55.687270700000,12.583905500000
+28042,"Gunilla Lovise",Gabrielsen,40,1863-03-08,Kvinde,Landemærket,19,"Barselsfeber (Barselfeber)",55.682351800000,12.576725400000
+28767,"Thora Emile Sabine",Hogrefe,36,NULL,Kvinde,"Lille Istedgade",3,"Barselsfeber (Barselfeber)",55.670899200000,12.559995900000
+28844,"Mette Maria",Lund,41,1863-11-07,Kvinde,Rosengade,6,"Barselsfeber (Barselfeber)",55.687270700000,12.583905500000
+28911,"Ane Marie",Petersen,31,1863-02-13,Kvinde,Teglgårdstræde,11,"Barselsfeber (Barselfeber)",55.679590300000,12.568095500000
+29112,"Andrea Catherine & udøbt datter",Bendtsen,31,1880-02-15,Kvinde,Saxogade,17,"Barselsfeber (Barselfeber)",55.671538700000,12.550839300000
+29245,"Jensine Nikoline Margrethe",Petersen,29,1880-02-21,Kvinde,Klerkegade,31,"Barselsfeber (Barselfeber)",55.686983800000,12.582852300000
+29263,Marie,Mortensen,33,1880-03-24,Kvinde,Springgade,20,"Barselsfeber (Barselfeber)",NULL,NULL
+30030,Ukendt,"Gesvindtner (Barselspatient nr. 448)",27,1863-11-13,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+30193,Tilda,Christensen,31,1889-11-15,Kvinde,Sindshvilevej,19,"Barselsfeber (Barselfeber)",55.685343200000,12.534859000000
+30193,Tilda,Christensen,31,1889-11-15,Kvinde,Sindshvilevej,19,"Barselsfeber (Barselfeber)",55.685385400000,12.534692100000
+30379,"Marie Mathilde Christine","Andersen (Barselspatient nr. 4208)",20,1863-05-29,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+31026,Ukendt,"Barselspatient nr. 128",21,1863-04-01,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+31031,"Mariane Mathilde & Søren",Jensen,36,1863-03-30,Kvinde,Rosengade,7,"Barselsfeber (Barselfeber)",NULL,NULL
+31638,"Dorthea Christine",Valentin,41,1863-08-14,Kvinde,Amaliegade,25,"Barselsfeber (Barselfeber)",55.685487900000,12.594190900000
+31638,"Dorthea Christine",Valentin,41,1863-08-14,Kvinde,Amaliegade,25,"Barselsfeber (Barselfeber)",55.685864400000,12.593424600000
+31981,Uoplyst,"Anonym nr. 252",25,1879-06-18,Kvinde,Amaliegade,23,"Barselsfeber (Barselfeber)",55.685265200000,12.594007700000
+32210,"Sophie Jerome",Salto,39,1863-02-10,Kvinde,"Peder Hvitfeldts Stræde",14,"Barselsfeber (Barselfeber)",55.681902200000,12.573905400000
+32505,"Karen Sophie",Larsdatter,23,1863-03-22,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+32538,Ane,Nielsen,41,1863-04-23,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+32807,Ane,Hansen,26,1863-09-15,Kvinde,Vesterbro,78,"Barselsfeber (Barselfeber)",NULL,NULL
+33149,"Erdmuth Clara Therese",Olsen,27,1880-03-04,Kvinde,Vesterbrogade,48,"Barselsfeber (Barselfeber)",55.672527800000,12.554956100000
+34668,Ukendt,"Barselspatient nr 228",24,1863-06-08,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+35165,Ukendt,"Hemmelig fødende nr 427",27,1863-11-02,Kvinde,Amaliegade,25,"Barselsfeber (Barselfeber)",55.685487900000,12.594190900000
+35165,Ukendt,"Hemmelig fødende nr 427",27,1863-11-02,Kvinde,Amaliegade,25,"Barselsfeber (Barselfeber)",55.685864400000,12.593424600000
+35188,"Hedevig Emilie",Hansen,36,1863-04-12,Kvinde,Grønnegade,8,"Barselsfeber (Barselfeber)",NULL,NULL
+35757,Ukendt,"Barselspatient nr 8865",31,1863-02-18,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+35841,"Maren Kirstine",Petersen,38,1879-03-02,Kvinde,Fælledvej,15,"Barselsfeber (Barselfeber)",55.689475600000,12.560053100000
+35941,Ukendt,"Barselspatient nr. 8945",30,1863-11-24,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+36008,Christine,Andersen,27,1863-01-30,Kvinde,Vestergade,29,"Barselsfeber (Barselfeber)",55.677165800000,12.569488000000
+36008,Christine,Andersen,27,1863-01-30,Kvinde,Vestergade,29,"Barselsfeber (Barselfeber)",55.676972500000,12.569682700000
+36010,"Louise Emilie",Petersen,37,1863-02-01,Kvinde,Borgergade,88,"Barselsfeber (Barselfeber)",NULL,NULL
+36083,Vilhelmine,Sørensen,26,1863-07-07,Kvinde,"Dronningens Tværgade",24,"Barselsfeber (Barselfeber)",55.683919400000,12.586444100000
+36177,Ukendt,"Barselspatient nr 190",28,1863-05-13,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+36193,Wilhelmine,Hansen,25,1863-10-05,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+36204,Ukendt,"Barselspatient nr 8887",28,1863-03-05,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+36288,Ernestine,"Madsen Barselspatient nr 477",24,1863-12-05,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+36658,"Caroline Charlotte Amalie",Christiansen,29,1880-09-12,Kvinde,"J.A. Schwartz Gade",26,"Barselsfeber (Barselfeber)",55.693417000000,12.576390800000
+36747,Ukendt,"Hemmelig fødende nr 25",33,1864-02-24,Kvinde,Amaliegade,25,"Barselsfeber (Barselfeber)",55.685487900000,12.594190900000
+36747,Ukendt,"Hemmelig fødende nr 25",33,1864-02-24,Kvinde,Amaliegade,25,"Barselsfeber (Barselfeber)",55.685864400000,12.593424600000
+36866,"Maren Kristine",Sørensen,29,1864-10-15,Kvinde,Vandkunsten,7,"Barselsfeber (Barselfeber)",NULL,NULL
+36888,Ukendt,"Barselspatient nr 9634",24,1864-06-18,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+36925,"Ane Marie",Johnsen,28,1864-05-26,Kvinde,Kronprinsensgade,48,"Barselsfeber (Barselfeber)",NULL,NULL
+36942,Johanne,Nissen,26,1864-01-23,Kvinde,Vognmagergade,19,"Barselsfeber (Barselfeber)",NULL,NULL
+37307,Betty,"Schmidt (Barselspatient nr. 19)",28,1864-01-19,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+37501,"Augusta Caroline",Jacobsen,39,1879-03-28,Kvinde,"Lille Regnegade",8,"Barselsfeber (Barselfeber)",NULL,NULL
+37647,"Andrea Oline & Udøbt søn",Jespersen,24,1864-04-17,Kvinde,"Nørre Vold",28,"Barselsfeber (Barselfeber)",NULL,NULL
+37796,"Caroline Vilhelmine",Varhus,20,1880-07-19,Kvinde,Salviegade,47,"Barselsfeber (Barselfeber)",NULL,NULL
+37861,"Anna Cathrine",Hüh,29,1877-02-14,Kvinde,Asylgade,7,"Barselsfeber (Barselfeber)",55.678311500000,12.584271300000
+38411,Ukendt,"Barselspatient nr. 145",40,1864-04-17,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+38611,Ukendt,"Barselspatient nr. 491",28,1864-12-19,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+38622,Caroline,Mortensen,38,1864-03-18,Kvinde,Nybrogade,6,"Barselsfeber (Barselfeber)",NULL,NULL
+39737,"Frandsine Jacobine Charlotte",Bloch,32,1879-04-24,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+40401,Ukendt,"Barselspatient nr. 183",24,1864-05-05,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+40639,"Ane Sine","Sørensen (Barselspatient nr. 243)",43,1864-06-15,Kvinde,Åbenrå,13,"Barselsfeber (Barselfeber)",NULL,NULL
+40880,Ukendt,"Barselspatient nr. 9619",20,1864-06-16,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+40901,Emilie,Christophersen,37,1864-11-13,Kvinde,Stengade,19,"Barselsfeber (Barselfeber)",55.687334600000,12.556529400000
+41122,"Augusta Agnes Marie",Bech,33,1879-12-05,Kvinde,"Nørre Søgade",37,"Barselsfeber (Barselfeber)",55.682552100000,12.562237800000
+41122,"Augusta Agnes Marie",Bech,33,1879-12-05,Kvinde,"Nørre Søgade",37,"Barselsfeber (Barselfeber)",55.682406800000,12.562107000000
+41122,"Augusta Agnes Marie",Bech,33,1879-12-05,Kvinde,"Nørre Søgade",37,"Barselsfeber (Barselfeber)",55.682346900000,12.561964000000
+41122,"Augusta Agnes Marie",Bech,33,1879-12-05,Kvinde,"Nørre Søgade",37,"Barselsfeber (Barselfeber)",55.682571800000,12.562109900000
+41140,"Vilhelmine Elise",Hollmann,28,1864-05-25,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+41231,Ukendt,"Barselspatient nr. 92",34,1864-03-09,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+41720,"Hemmelig fødende barselspatient, nr. 228, & Laura Albina","Petersen, nr. 229/81",21,1881-05-19,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+42005,"Anna Helene Marie",Borgen,25,1881-05-06,Kvinde,"Store Helliggeiststræde",20,"Barselsfeber (Barselfeber)",NULL,NULL
+43797,"Laurine Amalie",Dideriksen,39,1877-06-05,Kvinde,"Wilders Plads",32,"Barselsfeber (Barselfeber)",NULL,NULL
+43849,Ukendt,"Barselspatient nr 9365",27,1864-01-29,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+45747,"Anna Margrethe",Knigge,38,1864-11-05,Kvinde,Korsgade,18,"Barselsfeber (Barselfeber)",NULL,NULL
+45923,"Cecilie Charlotte Amalie",Jensen,39,1864-04-27,Kvinde,"Overgaden Oven Vandet",32,"Barselsfeber (Barselfeber)",55.671594900000,12.589939700000
+45923,"Cecilie Charlotte Amalie",Jensen,39,1864-04-27,Kvinde,"Overgaden Oven Vandet",32,"Barselsfeber (Barselfeber)",55.671679000000,12.590074500000
+45923,"Cecilie Charlotte Amalie",Jensen,39,1864-04-27,Kvinde,"Overgaden Oven Vandet",32,"Barselsfeber (Barselfeber)",55.671737300000,12.590184200000
+45933,Ukendt,"Hemmeligt fødende nr. 205",24,1864-05-18,Kvinde,Amaliegade,25,"Barselsfeber (Barselfeber)",55.685487900000,12.594190900000
+45933,Ukendt,"Hemmeligt fødende nr. 205",24,1864-05-18,Kvinde,Amaliegade,25,"Barselsfeber (Barselfeber)",55.685864400000,12.593424600000
+47269,Ukendt,"Barselspatient nr. 459",29,1864-11-16,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+47434,"Ane Marie",Jensen,26,1864-08-17,Kvinde,Gothersgade,45,"Barselsfeber (Barselfeber)",55.682420300000,12.581265100000
+47464,Anonym,"Barselspatient nr. 103",35,1864-03-15,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+47565,"Doris Vilhelmine",Schultz,25,1864-04-10,Kvinde,"Store Kongensgade",99,"Barselsfeber (Barselfeber)",55.687028700000,12.589834600000
+47873,"Marie Cathrine",Andersson,34,1864-06-07,Kvinde,"Dronningens Tværgade",15,"Barselsfeber (Barselfeber)",NULL,NULL
+47891,"Kristine Marie",Møller,34,1864-06-14,Kvinde,Hummergade,18,"Barselsfeber (Barselfeber)",NULL,NULL
+49447,"Caroline Emilie Jacobine",Lauritzen,20,1864-07-12,Kvinde,Adelgade,93,"Barselsfeber (Barselfeber)",NULL,NULL
+49579,Ukendt,"Hemmelig fødende nr. 242",27,1864-06-12,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+49926,Ane,"Andersen (Barselspatient nr. 233)",35,1864-06-05,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+49927,"Johansine Caroline",Warhuus,23,1864-06-05,Kvinde,Antoniestræde,10,"Barselsfeber (Barselfeber)",NULL,NULL
+50026,Anonym,"Barselspatient nr. 104",19,1864-05-09,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+50220,Frederikke,Petersen,24,1864-09-24,Kvinde,Toldbodgade,14,"Barselsfeber (Barselfeber)",55.680566800000,12.592242200000
+50220,Frederikke,Petersen,24,1864-09-24,Kvinde,Toldbodgade,14,"Barselsfeber (Barselfeber)",55.680462700000,12.592425400000
+50220,Frederikke,Petersen,24,1864-09-24,Kvinde,Toldbodgade,14,"Barselsfeber (Barselfeber)",55.680430600000,12.592608700000
+50366,Bodil,Mogensen,38,1864-03-18,Kvinde,Amagergade,4,"Barselsfeber (Barselfeber)",55.670641100000,12.592791600000
+50366,Bodil,Mogensen,38,1864-03-18,Kvinde,Amagergade,4,"Barselsfeber (Barselfeber)",55.670671100000,12.592848500000
+50366,Bodil,Mogensen,38,1864-03-18,Kvinde,Amagergade,4,"Barselsfeber (Barselfeber)",55.670618400000,12.592958400000
+50366,Bodil,Mogensen,38,1864-03-18,Kvinde,Amagergade,4,"Barselsfeber (Barselfeber)",55.670562900000,12.592871300000
+50366,Bodil,Mogensen,38,1864-03-18,Kvinde,Amagergade,4,"Barselsfeber (Barselfeber)",55.670522000000,12.592795500000
+50366,Bodil,Mogensen,38,1864-03-18,Kvinde,Amagergade,4,"Barselsfeber (Barselfeber)",55.670601100000,12.592797600000
+50454,Pauline,Bertelsen,38,1864-06-10,Kvinde,Møntergade,26,"Barselsfeber (Barselfeber)",NULL,NULL
+51308,Ukendt,"Anonym nr. 9430",24,1864-02-19,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+51337,Ukendt,"Barselspatient nr. 9445",23,1864-02-26,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+51417,Elma,"Olsen (Barselspatient nr. 52)",26,1864-02-08,Kvinde,Borgergade,43,"Barselsfeber (Barselfeber)",NULL,NULL
+51775,Ane,Nielsen,24,1864-07-03,Kvinde,Sundbyvester,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+52167,Ukendt,Anonym,22,1881-09-20,Kvinde,Amaliegade,25,"Barselsfeber (Barselfeber)",55.685487900000,12.594190900000
+52167,Ukendt,Anonym,22,1881-09-20,Kvinde,Amaliegade,25,"Barselsfeber (Barselfeber)",55.685864400000,12.593424600000
+52453,Karen,Mortensen,41,1864-04-23,Kvinde,Trompetergangen,6,"Barselsfeber (Barselfeber)",NULL,NULL
+52901,Marie,Larsen,40,1864-04-13,Kvinde,Møntergade,2,"Barselsfeber (Barselfeber)",NULL,NULL
+53209,Ukendt,"Barselspatient nr 526",20,1864-01-20,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+53220,Frederikke,Frederiksen,21,1864-01-19,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+53742,Ukendt,"Barselspatient nr. 9638",23,1864-06-23,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+53746,Ukendt,"Barselspatient nr. 241",24,1864-06-23,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+54079,Christine,Olsen,42,1864-09-01,Kvinde,Borgergade,124,"Barselsfeber (Barselfeber)",NULL,NULL
+54275,"Fritsine Christiane","Gram (Barselspatient nr. 9511)",24,1864-04-04,Kvinde,Nørrebrogade,82,"Barselsfeber (Barselfeber)",55.691913300000,12.552740400000
+54423,Hanne,Ljungdahl,28,1877-06-07,Kvinde,Ryesgade,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+54433,"Anne Marie","Klausen (Fødende nr. 1398)",27,1902-12-11,Kvinde,Kurlandsgade,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+54499,Marie,"Hansdatter (Barselspatient nr. 214)",30,1864-05-25,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+54711,"Marthe Jacobine",Jacobsen,17,1864-04-08,Kvinde,"Lille Kongensgade",21,"Barselsfeber (Barselfeber)",NULL,NULL
+54717,"Franzisca Rasmine",Nielsen,35,1864-04-11,Kvinde,Dybensgade,4,"Barselsfeber (Barselfeber)",55.678322100000,12.583811900000
+55398,Sophie,"Henriksen Nr. 9420",28,1864-02-15,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+55400,Ukendt,"Barselspatient nr. 440",29,1864-10-29,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+55425,Ukendt,"Hemmeligt fødende nr. 406",29,1864-10-05,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+55622,Sophie,Glamann,32,1864-02-19,Kvinde,"Øster Fælled",22,"Barselsfeber (Barselfeber)",NULL,NULL
+55632,Marie,"Jensen (Barselspatient nr. 196)",24,1864-05-12,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+7871,Barselspatient,"Anonym, nr. 537",24,1863-01-17,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+57104,Johansine,Arentzen,25,1877-03-16,Kvinde,Fredericiagade,88,"Barselsfeber (Barselfeber)",55.687721600000,12.583795000000
+57104,Johansine,Arentzen,25,1877-03-16,Kvinde,Fredericiagade,88,"Barselsfeber (Barselfeber)",55.687795500000,12.583750800000
+57191,Frederikke,Eriksen,24,1882-07-04,Kvinde,Amaliegade,25,"Barselsfeber (Barselfeber)",55.685487900000,12.594190900000
+57191,Frederikke,Eriksen,24,1882-07-04,Kvinde,Amaliegade,25,"Barselsfeber (Barselfeber)",55.685864400000,12.593424600000
+58713,"Maren Kirstine",Hansen,28,1882-12-18,Kvinde,Fælledvej,7,"Barselsfeber (Barselfeber)",55.688912500000,12.559704600000
+59936,"Sidssel Marie",Eckeroth,25,1864-04-12,Kvinde,Borgergade,53,"Barselsfeber (Barselfeber)",NULL,NULL
+60579,"Ugift barselspatient & Dødfødt pige","Anonym, nr. 66",22,1877-02-12,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+61091,Ellen,Nielsen,36,1877-12-16,Kvinde,"Øster Søgade",104,"Barselsfeber (Barselfeber)",55.695166800000,12.578343900000
+61091,Ellen,Nielsen,36,1877-12-16,Kvinde,"Øster Søgade",104,"Barselsfeber (Barselfeber)",55.695054900000,12.578475700000
+62271,"Sidse Marie",Petersen,34,1884-02-15,Kvinde,"Toldbodvejs Runddel",42,"Barselsfeber (Barselfeber)",NULL,NULL
+64087,Eline,Clausen,31,1870-10-28,Kvinde,Ravnsborggade,15,"Barselsfeber (Barselfeber)",55.688915700000,12.562190200000
+64087,Eline,Clausen,31,1870-10-28,Kvinde,Ravnsborggade,15,"Barselsfeber (Barselfeber)",55.689004900000,12.562297000000
+64574,"Hemmelig fødende","Anonym, nr. 476",30,1882-11-12,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+65106,Christiane,Sørensen,22,1884-03-23,Kvinde,Asylgade,14,"Barselsfeber (Barselfeber)",NULL,NULL
+66533,"Anna Truelsen & Johan Christian Meyer",Truelsen,30,1864-05-17,Kvinde,"Store Kongensgade",80,"Barselsfeber (Barselfeber)",55.684980200000,12.588462000000
+67813,Marie,Jensen,37,1884-01-09,Kvinde,"Hauser Plads",32,"Barselsfeber (Barselfeber)",55.683029600000,12.575102700000
+67900,"Patient nr. 621",Uoplyst,32,1902-06-07,NULL,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+16688,Uoplyst,"Anonym nr. 240",24,1863-06-18,Kvinde,Amaliegade,25,"Barselsfeber (Barselfeber)",55.685487900000,12.594190900000
+16688,Uoplyst,"Anonym nr. 240",24,1863-06-18,Kvinde,Amaliegade,25,"Barselsfeber (Barselfeber)",55.685864400000,12.593424600000
+71547,"Marie Lovise Sophie",Petersen,41,1864-02-21,Kvinde,Nørrebrogade,40,"Barselsfeber (Barselfeber)",55.689107600000,12.557817500000
+75456,"Hemmelig Fødende","Nr. 120",26,1884-03-09,Kvinde,*Uangivet/ukendt,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+75797,"Anna Sophie",Brown,26,1864-03-09,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+75876,"Marie Elisabeth",Petersen,20,1864-06-08,Kvinde,Springgade,24,"Barselsfeber (Barselfeber)",NULL,NULL
+76470,Ukendt,"Barselspatient nr. 60 b",25,1870-02-07,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+76839,Sophie,Pannier,45,1870-03-09,Kvinde,Borgergade,7,"Barselsfeber (Barselfeber)",NULL,NULL
+77004,"Karen Kirstine",Petersen,38,1870-03-16,Kvinde,Amaliegade,25,"Barselsfeber (Barselfeber)",55.685487900000,12.594190900000
+77004,"Karen Kirstine",Petersen,38,1870-03-16,Kvinde,Amaliegade,25,"Barselsfeber (Barselfeber)",55.685864400000,12.593424600000
+77705,"Ane Marie",Foght,34,1870-04-08,Kvinde,"Store Strandstræde",8,"Barselsfeber (Barselfeber)",55.680944200000,12.588405800000
+77941,"Hemmelig Fødende","Anonym, nr. 273",36,1883-05-16,Kvinde,*Uangivet/ukendt,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+78097,Uoplyst,Uoplyst,23,1883-05-18,Kvinde,*Uangivet/ukendt,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+9064,Uoplyst,"Anonym nr. 529",19,1899-07-12,Kvinde,Brønshøjgade,8,"Barselsfeber (Barselfeber)",NULL,NULL
+78826,"Julie Frederikke",Lønqvist,28,1870-05-09,Kvinde,Guldbergsgade,1,"Barselsfeber (Barselfeber)",NULL,NULL
+81008,"Anonym 300","Anonym 300",23,1870-08-13,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+81477,"Mette Marie",Brandis,41,1870-09-12,Kvinde,Landemærket,11,"Barselsfeber (Barselfeber)",55.681935800000,12.576098200000
+82884,"Side Marie",Jensen,20,1870-11-20,Kvinde,"Ny Kronprinsessegade",4,"Barselsfeber (Barselfeber)",NULL,NULL
+83086,Karen,"Andersen (Barselspatient nr. 519)",20,1861-12-28,Kvinde,Grønnegade,18,"Barselsfeber (Barselfeber)",55.681005800000,12.582717500000
+83305,Henriette,Nielsen,35,1862-01-08,Kvinde,"Lille Kongensgade",24,"Barselsfeber (Barselfeber)",NULL,NULL
+83309,"Emilie Annette & Ludvig Theodor Samson",Jensen,23,1862-01-07,Kvinde,Amaliegade,25,"Barselsfeber (Barselfeber)",55.685487900000,12.594190900000
+83309,"Emilie Annette & Ludvig Theodor Samson",Jensen,23,1862-01-07,Kvinde,Amaliegade,25,"Barselsfeber (Barselfeber)",55.685864400000,12.593424600000
+83413,"Karen Marie","Larsen (Barselspatient nr. 7 fra Fødselsstiftelsen)",25,1862-01-12,Kvinde,Toldbodgade,11,"Barselsfeber (Barselfeber)",55.680315700000,12.591702800000
+83448,"Karen Marie","Larsen (Barselspatient nr. 7 fra Fødselsstiftelsen)",25,1862-01-12,Kvinde,Toldbodgade,11,"Barselsfeber (Barselfeber)",55.680315700000,12.591702800000
+83513,Caroline,Christensen,26,1862-01-15,Kvinde,Klerkegade,5,"Barselsfeber (Barselfeber)",55.686270200000,12.585366100000
+83528,"Sophie Frederikke",Deleuren,29,1862-01-16,Kvinde,Borgergade,112,"Barselsfeber (Barselfeber)",NULL,NULL
+83624,"Ane Dorthea & Birtha Julia",Larsen,44,1862-01-18,Kvinde,Toldbodgade,7,"Barselsfeber (Barselfeber)",55.680155500000,12.591572400000
+83624,"Ane Dorthea & Birtha Julia",Larsen,44,1862-01-18,Kvinde,Toldbodgade,7,"Barselsfeber (Barselfeber)",55.680232700000,12.591294300000
+83631,Laura,"Nielsen (Barselspatient nr. 23)",35,1862-01-19,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+83707,Ane,"Hansdatter (Barselspatient nr. 25)",35,1862-01-22,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+84160,"Maria Dorthea","Hansen (Barselspatient nr. 8292)",29,1862-02-02,Kvinde,Borgergade,142,"Barselsfeber (Barselfeber)",55.687451700000,12.588597300000
+84267,"Jacoba & Ernst Vilhelm",Jørgensen,35,1870-12-05,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+84323,"Maren Sophie","Thorndahl (Barselspatient nr. 562)",24,1870-12-11,Kvinde,Laksegade,15,"Barselsfeber (Barselfeber)",NULL,NULL
+84445,"Andrea Camilla",Nielsen,39,1870-12-13,Kvinde,Adelgade,20,"Barselsfeber (Barselfeber)",NULL,NULL
+84460,Henriette,Frantzen,32,1870-12-15,Kvinde,"Vester Vold",87,"Barselsfeber (Barselfeber)",NULL,NULL
+85022,"Ane Marie",Petersen,37,1862-02-10,Kvinde,Ørstedsgade,29,"Barselsfeber (Barselfeber)",NULL,NULL
+85023,"Ane Jacobine",Andersen,22,1862-02-08,Kvinde,Toldbodgade,3,"Barselsfeber (Barselfeber)",55.679998000000,12.591443200000
+85053,Ukendt,"Barselspatient nr. 65",22,1862-02-10,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+85064,Christiane,Sørensen,26,1862-02-13,Kvinde,"Sankt Peders Stræde",NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+85091,"Marie Kirstine",Gundrup,28,1862-02-12,Kvinde,Borgergade,132,"Barselsfeber (Barselfeber)",55.686413800000,12.587697400000
+85279,"Johanne Marie",Schultze,26,1862-02-17,Kvinde,"Gammel Mønt",27,"Barselsfeber (Barselfeber)",55.681513500000,12.580527000000
+85343,Karen,Peterson,23,1862-02-22,Kvinde,Gothersgade,112,"Barselsfeber (Barselfeber)",NULL,NULL
+85354,Ukendt,"Barselspatient nr. 8296",21,1862-02-20,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+85518,"Mariane Sophie Regine","Trolle (Barselspatient nr. 45)",22,1862-02-28,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+85529,"Ane Marie",Preisler,34,1862-03-28,Kvinde,"Gammel Mønt",10,"Barselsfeber (Barselfeber)",55.681699800000,12.580699900000
+85546,"Johanne Marie",Hansen,26,1862-03-02,Kvinde,"Store Fiolstræde",26,"Barselsfeber (Barselfeber)",NULL,NULL
+85602,"Johanne Sophie",Hansen,28,1862-03-04,Kvinde,Nyhavn,12,"Barselsfeber (Barselfeber)",55.679725100000,12.589765600000
+85602,"Johanne Sophie",Hansen,28,1862-03-04,Kvinde,Nyhavn,12,"Barselsfeber (Barselfeber)",55.679455800000,12.589593500000
+85602,"Johanne Sophie",Hansen,28,1862-03-04,Kvinde,Nyhavn,12,"Barselsfeber (Barselfeber)",55.679412100000,12.589561300000
+85863,Caroline,Jensen,23,1862-03-09,Kvinde,Borgergade,49,"Barselsfeber (Barselfeber)",NULL,NULL
+85970,Kirstine,"Petersen (Barselspatient nr. 109)",34,1862-03-13,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+86083,"Juliette Christine Regine",Giertsen,24,1862-03-14,Kvinde,Borgergade,64,"Barselsfeber (Barselfeber)",NULL,NULL
+86105,"Inger Margrethe Conradine",Hyllested,26,1862-03-14,Kvinde,Nørrebrogade,1,"Barselsfeber (Barselfeber)",55.687206300000,12.562082700000
+86378,Sophie,Eiberg,32,1862-03-25,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+86381,"Frederikke Marie",Helm,36,1862-03-24,Kvinde,"Sankt Peders Stræde",4,"Barselsfeber (Barselfeber)",55.679597400000,12.570278600000
+86522,"Fanny Heleonora",Engelhart,33,1862-03-31,Kvinde,Fælledvej,11,"Barselsfeber (Barselfeber)",55.689247800000,12.559947500000
+86531,"Laura Severine",Valløe,31,1862-03-31,Kvinde,Antoniestræde,14,"Barselsfeber (Barselfeber)",NULL,NULL
+86635,Ukendt,"Barselspatient nr. 8385",20,1862-04-09,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+87139,"Karen Marie",Jensen,23,1862-04-19,Kvinde,Borgergade,62,"Barselsfeber (Barselfeber)",NULL,NULL
+87187,Ane,Petersen,22,1862-04-18,Kvinde,"Dronningens Tværgade",44,"Barselsfeber (Barselfeber)",55.684912800000,12.584744100000
+87195,Ukendt,"Barselspatient nr. 8298",21,1862-04-19,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+87772,Anna,Helstrøm,29,1862-05-03,Kvinde,Borgergade,149,"Barselsfeber (Barselfeber)",NULL,NULL
+88017,"Anna Margrethe","Nielsen (Barselspatient nr. 197)",26,1862-05-13,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+88192,Ukendt,"Barselspatient nr. 8478",43,1862-05-30,Kvinde,NULL,NULL,"Barselsfeber (Barselfeber)",NULL,NULL
+88330,Mariane,Petersen,40,1862-06-03,Kvinde,Borgergade,67,"Barselsfeber (Barselfeber)",NULL,NULL
+25672,Caroline,Petersen,34,1863-06-21,Kvinde,"Store Fiolstræde",22,Barseltilstand,NULL,NULL
+17550,"Caroline Helene",Møller,35,1889-12-08,Kvinde,Nordvestvej,32,"Blodprop under barselseng",NULL,NULL
+16126,"Borgerpatient 8832","Borgerpatient 8832",27,1863-02-23,Kvinde,Amaliegade,23,"Feber efter Barselseng",55.685265200000,12.594007700000
+36017,Oline,Meyer,42,1863-09-19,Kvinde,"Lille Brøndstræde",3,"Følger af barselseng",NULL,NULL
+54389,"Karen Marie",Jacobsen,34,1902-02-26,Kvinde,"Olfert Fischers Gade",9,"Hjertesygdom (fødsel og barselseng)",55.686666800000,12.588384300000
+18891,"Susanne Frederikke",Lemnitz,42,1863-03-20,Kvinde,"Sankt Peders Stræde",28,"Pludselig død i barselseng",55.678913200000,12.567720200000
+18891,"Susanne Frederikke",Lemnitz,42,1863-03-20,Kvinde,"Sankt Peders Stræde",28,"Pludselig død i barselseng",55.678955500000,12.567696500000
+18891,"Susanne Frederikke",Lemnitz,42,1863-03-20,Kvinde,"Sankt Peders Stræde",28,"Pludselig død i barselseng",55.679118300000,12.567592900000
+41222,Marie,Nielsen,33,1864-02-15,Kvinde,Gormsgade,3,"Pludselig død i barselseng",NULL,NULL
+68785,"Vivian Nicoline Carlsine",Schou,33,1882-10-08,Kvinde,Pilestræde,33,"Pludselig død i barselseng",55.680664700000,12.580288800000
+49829,Marie,Eriksen,30,1864-09-04,Kvinde,"Bag Hovedvagten",13,"Underlivsbetændelse i barselssengen",NULL,NULL
