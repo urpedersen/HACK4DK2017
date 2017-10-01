@@ -21,10 +21,14 @@ Man kunne udvide fortællingerne om de enkelte personer med data fra
  * Aviser 
  * Døde i krigen
 
+## More info
+
+ * Det vil tage ca. 14 timer af gennemse alle skæbmer.
+
 # Code for HACK4DK 2017
 Most code is written for Processing. See subfolders for more.
 
-## SQL note
+## SQL snips
 
 ### Abort
 ```SQL
