@@ -19,7 +19,7 @@ Man kunne udvide fortællingerne om de enkelte personer med data fra
  * Døde i krigen
 
 # Code for HACK4DK 2017
-Most code is written for Processing. See 
+Most code is written for Processing. See subfolders for more.
 
 ## SQL note
 
