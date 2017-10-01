@@ -24,7 +24,7 @@ int curMonth = 1;
 int curDay = 1;
 
 int animCount = 0;
-  int startTime = 0;
+int startTime = 0;
 Boolean animating = false;
 Person tempPers;
 
@@ -99,302 +99,307 @@ void setup() {
     //tempId++;
     //}
   }
-  
+
   randomInt = new int[people.size()];
-  for (int i = 0; i < people.size(); i ++){
+  for (int i = 0; i < people.size(); i ++) {
     randomInt[i] = i;
   }
-  
-  for (int i = 0; i < people.size(); i ++){
-    int r1 = (int)random(0,people.size());
-    int r2 = (int)random(0,people.size());
+
+  for (int i = 0; i < people.size(); i ++) {
+    int r1 = (int)random(0, people.size());
+    int r2 = (int)random(0, people.size());
     int temp = randomInt[r1];
     randomInt[r1] = randomInt[r2];
-    randomInt[r2] = temp;    
+    randomInt[r2] = temp;
   }
 
   // Load the first person before setup finishes
   tempPers = people.get(randomInt[persCounter]);
   //tempPers = people.get((int)random(0, people.size()));
   tempPers.printInfo();  
-  
+
   String url = "http://www.politietsregisterblade.dk/component/sfup/index.php?option=com_sfup&controller=politregisterblade&task=viewRegisterbladImage&id="+tempPers.regiID+"&backside=1&tmpl=component";
   String[] lines = loadStrings(url);
   String imgUrl = "asdf";
-  for (String line: lines){
-     //println(line);
-     int imgPos = line.indexOf("img src=");
-     int imgPosEnd = line.indexOf(" alt=");
-     
-     if (imgPos> -1){
-         imgUrl = line.substring(imgPos+9,imgPosEnd-1);
-     }     
+  for (String line : lines) {
+    //println(line);
+    int imgPos = line.indexOf("img src=");
+    int imgPosEnd = line.indexOf(" alt=");
+
+    if (imgPos> -1) {
+      imgUrl = line.substring(imgPos+9, imgPosEnd-1);
+    }
   }
-  blad = loadImage("http://www.politietsregisterblade.dk/"+imgUrl,"png");
+  blad = loadImage("http://www.politietsregisterblade.dk/"+imgUrl, "png");
   tempPers.findCemetaryCoordinates();
 }
 void keyPressed() {
   if (key == CODED) {
-    if (keyCode == UP) {
+    if (keyCode == DOWN) {
       paused = true;
-    } else if (keyCode == DOWN) {
-      paused = false;
-    } else if (keyCode == RIGHT) {
-      curYear = 1924;
-      dead = true; 
+    } else if (keyCode == UP) {
+      if (paused == false){
+        curYear = 1924;
+        dead = true;
+      } else {
+        paused = false;
+      }
+    //} else if (keyCode == DOWN  ) {
     }
-  //} else {
-  //  fillVal = 126;
-  //}
+    //} else {
+    //  fillVal = 126;
+    //}
+  }
 }
-}
-void writeImages(){
+void writeImages() {
   //int imgID = curYear-firstYear;
   int stride = 10;
-  if (frameCount%stride == 0){
-    saveFrame("img/" + nf(frameCount/stride-1,4) + ".png");
+  if (frameCount%stride == 0) {
+    saveFrame("img/" + nf(frameCount/stride-1, 4) + ".png");
   }
-  
-  if(frameCount%1000==1)
+
+  if (frameCount%1000==1)
     saveFrame("image.png");
 }
 
 // Draw a clock
-void drawClock(){
+void drawClock() {
   noStroke();
   //fill(40);
   //rect(10,10,120,120);
   fill(60);
   arc(70, 70, 120, 120, -PI/2, PI*(curYear%10)/5-PI/2, PIE);
   fill(80);
-  text(curYear,31,170);
+  text(curYear, 31, 170);
 }
 
 void draw() {  
+  //scale(2);
+  //translate(-100,-100);
   if (paused == true) {
     //fill(0);
   } else {
     //fill(255);
-  
-  background(10);  
-  //blad.filter(GRAY);
-  //tint(100,5);
-  //image(blad,0,0,width,height);
-  //noTint();
-  //frameRate(2);
-  if (frameCount==1) {
-    drawAddress(true);
-    //saveFrame("background.png");
-    bg = get();
-  } else { 
-    //background = loadImage("background.png");
-    image(bg, 0, 0);
-  }
-  blad.filter(GRAY);
-  //tint(100,75);
-  image(blad,10,height/3,400,360);
-  //noTint();
-  //tint(255, 255);
-  //scale(2);
-  //int startYear = 1890;  
-  tempPers.displayAllPlaces();
-  //String url = "http://www.politietsregisterblade.dk/registerblade/11/0013/00833970.jpg";
 
-
-  //tempPers.printInfo();
-  
-  
-
-  //Boolean dead = false;
-  dead = false;
-
-
-  int age = curYear-tempPers.yearOfBirth;
-
-  int showIndex = 0;
-  for (int i = 0; i < tempPers.adds.size(); i++) {
-    if (tempPers.dates.get(i) < curYear*10000+curMonth*100+curDay) {
-      showIndex = i;
+    background(10);  
+    //blad.filter(GRAY);
+    //tint(100,5);
+    //image(blad,0,0,width,height);
+    //noTint();
+    //frameRate(2);
+    if (frameCount==1) {
+      drawAddress(true);
+      //saveFrame("background.png");
+      bg = get();
+    } else { 
+      //background = loadImage("background.png");
+      image(bg, 0, 0);
     }
-  }
-  //println(showIndex);
-  //println(tempPers.deathDate,tempPers.deathDateNum);
-  //if (curYear >  int(tempPers.deathDate.substring(0, 4))) {
+    blad.filter(GRAY);
+    //tint(100,75);
+    image(blad, 10, height/3, 400, 360);
+    //noTint();
+    //tint(255, 255);
+    //scale(2);
+    //int startYear = 1890;  
+    tempPers.displayAllPlaces();
+    //String url = "http://www.politietsregisterblade.dk/registerblade/11/0013/00833970.jpg";
+
+
+    //tempPers.printInfo();
+
+
+
+    //Boolean dead = false;
+    dead = false;
+
+
+    int age = curYear-tempPers.yearOfBirth;
+
+    int showIndex = 0;
+    for (int i = 0; i < tempPers.adds.size(); i++) {
+      if (tempPers.dates.get(i) < curYear*10000+curMonth*100+curDay) {
+        showIndex = i;
+      }
+    }
+    //println(showIndex);
+    //println(tempPers.deathDate,tempPers.deathDateNum);
+    //if (curYear >  int(tempPers.deathDate.substring(0, 4))) {
     textSize(16);
-  textAlign(CENTER);
-  fill(0,0,20);
-  for (int i = 0;i< allCemX.size();i++){
-    text("†",allCemX.get(i),allCemY.get(i));
-  }
-  textSize(32);
-  textAlign(LEFT);
-  float curX;
-  float curY;
-  String curLoc;
-  if (curYear*10000+curMonth*100+curDay >  tempPers.deathDateNum) {
-    fill(0, 100, 100);
-    age = tempPers.ageAtDeath;
-    dead = true;    
-    curX = tempPers.cemetaryCoor[1];
-    curY = tempPers.cemetaryCoor[0];
-    curLoc = tempPers.cemetary;
-    allCemX.append(curX);
-    allCemY.append(curY);
-    //delay(1000);
-    //curYear = 1950;
-  } else {
-    fill(0, 0, 90);
-    curX = tempPers.getAddX(showIndex);
-    curY = tempPers.getAddY(showIndex);
-    curLoc = tempPers.adds.get(showIndex).name;
-  }
-
-  int dotSize = 15; 
-  //curX = tempPers.getAddX(showIndex);
-  //curY = tempPers.getAddY(showIndex);
-  ellipse(curX, curY, dotSize, dotSize);
-  textAlign(CENTER);
-  text(age+" år", curX, curY-dotSize*2); 
-  //text(tempPers.firstName+" "+tempPers.lastName+", age: "+age, curX, curY-dotSize*2); 
-  text(curLoc, curX, curY+dotSize*3);
-  textAlign(LEFT);
-  //tempPers.displayInfo();
-
-  //println(curYear);
-  fill(0, 0, 100);
-  stroke(0, 0, 100);
-  textSize(64);
-  //text("Year: "+str(curYear)+", month: "+str(curMonth), 10,height-20);
-  textSize(32);
-
-  
-
-  if (curYear > 1923 || dead == true) {
-    
-    // HUGE cause of death text
-    //textSize(64);
-    //fill(0,100,100);
-    //pushMatrix();
-    //rotate(-0.2);
-    //text(tempPers.causeOfDeath,200,300);
-    //popMatrix();
-    //textSize(16); 
-    
-    //println(startTime, millis());
-    if (startTime + 2000 < millis()) {
-      curYear = startYear; 
-      dead = false;
-      persCounter++;
-      tempPers = people.get(randomInt[persCounter]);
-      //tempPers = people.get((int)random(0, people.size()));
-      tempPers.printInfo();
-      String url = "http://www.politietsregisterblade.dk/component/sfup/index.php?option=com_sfup&controller=politregisterblade&task=viewRegisterbladImage&id="+tempPers.regiID+"&backside=1&tmpl=component";
-      String[] lines = loadStrings(url);
-      String imgUrl = "asdf";
-      for (String line: lines){
-         //println(line);
-         int imgPos = line.indexOf("img src=");
-         int imgPosEnd = line.indexOf(" alt=");
-         
-         if (imgPos> -1){
-             imgUrl = line.substring(imgPos+9,imgPosEnd-1);
-         }     
-  }
-  blad = loadImage("http://www.politietsregisterblade.dk/"+imgUrl,"png");
-  tempPers.findCemetaryCoordinates();
-      //background(0);
-      //drawAddress(true);
+    textAlign(CENTER);
+    fill(0, 0, 20);
+    for (int i = 0; i< allCemX.size(); i++) {
+      text("†", allCemX.get(i), allCemY.get(i));
     }
-  } else {
-    startTime = millis();
-    //curYear++;
-  
-    //curDay = curDay+5;
-    //if (curDay > 31){
-    //  curMonth++;
-    //  curDay = 1;
+    textSize(32);
+    textAlign(LEFT);
+    float curX;
+    float curY;
+    String curLoc;
+    if (curYear*10000+curMonth*100+curDay >  tempPers.deathDateNum) {
+      fill(0, 100, 100);
+      age = tempPers.ageAtDeath;
+      dead = true;    
+      curX = tempPers.cemetaryCoor[1];
+      curY = tempPers.cemetaryCoor[0];
+      curLoc = tempPers.cemetary;
+      allCemX.append(curX);
+      allCemY.append(curY);
+      //delay(1000);
+      //curYear = 1950;
+    } else {
+      fill(0, 0, 90);
+      curX = tempPers.getAddX(showIndex);
+      curY = tempPers.getAddY(showIndex);
+      curLoc = tempPers.adds.get(showIndex).name;
+    }
+
+    int dotSize = 15; 
+    //curX = tempPers.getAddX(showIndex);
+    //curY = tempPers.getAddY(showIndex);
+    ellipse(curX, curY, dotSize, dotSize);
+    textAlign(CENTER);
+    text(age+" år", curX, curY-dotSize*2); 
+    //text(tempPers.firstName+" "+tempPers.lastName+", age: "+age, curX, curY-dotSize*2); 
+    text(curLoc, curX, curY+dotSize*3);
+    textAlign(LEFT);
+    //tempPers.displayInfo();
+
+    //println(curYear);
+    fill(0, 0, 100);
+    stroke(0, 0, 100);
+    textSize(64);
+    //text("Year: "+str(curYear)+", month: "+str(curMonth), 10,height-20);
+    textSize(32);
+
+
+
+    if (curYear > 1923 || dead == true) {
+
+      // HUGE cause of death text
+      //textSize(64);
+      //fill(0,100,100);
+      //pushMatrix();
+      //rotate(-0.2);
+      //text(tempPers.causeOfDeath,200,300);
+      //popMatrix();
+      //textSize(16); 
+
+      //println(startTime, millis());
+      if (startTime + 2000 < millis()) {
+        curYear = startYear; 
+        dead = false;
+        persCounter++;
+        tempPers = people.get(randomInt[persCounter]);
+        //tempPers = people.get((int)random(0, people.size()));
+        tempPers.printInfo();
+        String url = "http://www.politietsregisterblade.dk/component/sfup/index.php?option=com_sfup&controller=politregisterblade&task=viewRegisterbladImage&id="+tempPers.regiID+"&backside=1&tmpl=component";
+        String[] lines = loadStrings(url);
+        String imgUrl = "asdf";
+        for (String line : lines) {
+          //println(line);
+          int imgPos = line.indexOf("img src=");
+          int imgPosEnd = line.indexOf(" alt=");
+
+          if (imgPos> -1) {
+            imgUrl = line.substring(imgPos+9, imgPosEnd-1);
+          }
+        }
+        blad = loadImage("http://www.politietsregisterblade.dk/"+imgUrl, "png");
+        tempPers.findCemetaryCoordinates();
+        //background(0);
+        //drawAddress(true);
+      }
+    } else {
+      startTime = millis();
+      //curYear++;
+
+      //curDay = curDay+5;
+      //if (curDay > 31){
+      //  curMonth++;
+      //  curDay = 1;
+      //}
+      curMonth++;
+      if (curMonth > 12) {
+        curYear++;
+        curMonth = 1;
+      }
+    }
+
+
+
+
+
+    //if (!animating) {
+    //  tempPers = people.get((int)random(0, people.size()));
     //}
-    curMonth++;
-    if (curMonth > 12){
-      curYear++;
-      curMonth = 1;
-    }
-  }
-  
+    //scale(2);
+    //Address tAdd = tempPers.adds.get(0);
+    //println(tAdd.x);
+    //translate(-tAdd.x/2,-tAdd.y/2);
+
+
+    //  animCount++;
+
+    //  int numAddress = tempPers.adds.size();
+    //  int curAddNum = 0;
+
+    //  int maxAnim = 20;
+    //float posX = lerp(tempPers.getAddX(curAddNum),tempPers.getAddX(curAddNum), (float) animCount/maxAnim);
+    //float posX = lerp(tempPers.getAddY(curAddNum),tempPers.getAddY(curAddNum), (float) animCount/maxAnim);
+
+    //  int maxAnim = 20;
+    ////println(animating);
+    //if (tempPers.adds.size()> 1) {
+    //  //tempPers.animate();
+    //  float posX = lerp(tempPers.getAddX(curAddNum),tempPers.getAddX(curAddNum), (float) animCount/maxAnim);
+    //  float posY = lerp(tempPers.getAddY(curAddNum+1),tempPers.getAddY(curAddNum+1), (float) animCount/maxAnim);
+    //  fill(0,0,50);
+    //  ellipse(posX, posY, 15, 15);
+    //  println(animCount,posX,posY);
+    //  animating = true;
+    //  if (animCount >= maxAnim){
+    //    animCount = 0;     
+    //    animating = false;
+    //  }
+    //} else {
+    //  animating= false;
+    //}
+
+    //if (tempPers.adds.size()> 1) {
+    //  Address ad1 = tempPers.adds.get(0);
+    //  Address ad2 = tempPers.adds.get(1);
+
+    //  //println(ad1.x,ad2.x);
+    //  int maxAnim = 20;
+    //  float posX = lerp(ad1.x, ad2.x, (float) animCount/maxAnim);
+    //  float posY = lerp(ad1.y, ad2.y, (float) animCount/maxAnim);
+
+    //  //println((float)animCount/100,posX,posY);
+
+    //  fill(0,0,50);
+    //  ellipse(posX, posY, 15, 15);
+    //  animating = true;
+    //  if (animCount >= maxAnim){
+    //    animCount = 0;     
+    //    animating = false;
+    //  }
+
+    //}  
+
+
+    //for (int i = 0; i < people.size();i++){
+    //   Person tempPers = people.get(i);
+    //   tempPers.draw();
+    //}
 
 
 
+    //if(frameCount==1)
+    //  saveFrame("image.png");
 
-  //if (!animating) {
-  //  tempPers = people.get((int)random(0, people.size()));
-  //}
-  //scale(2);
-  //Address tAdd = tempPers.adds.get(0);
-  //println(tAdd.x);
-  //translate(-tAdd.x/2,-tAdd.y/2);
-
-
-  //  animCount++;
-
-  //  int numAddress = tempPers.adds.size();
-  //  int curAddNum = 0;
-
-  //  int maxAnim = 20;
-  //float posX = lerp(tempPers.getAddX(curAddNum),tempPers.getAddX(curAddNum), (float) animCount/maxAnim);
-  //float posX = lerp(tempPers.getAddY(curAddNum),tempPers.getAddY(curAddNum), (float) animCount/maxAnim);
-
-  //  int maxAnim = 20;
-  ////println(animating);
-  //if (tempPers.adds.size()> 1) {
-  //  //tempPers.animate();
-  //  float posX = lerp(tempPers.getAddX(curAddNum),tempPers.getAddX(curAddNum), (float) animCount/maxAnim);
-  //  float posY = lerp(tempPers.getAddY(curAddNum+1),tempPers.getAddY(curAddNum+1), (float) animCount/maxAnim);
-  //  fill(0,0,50);
-  //  ellipse(posX, posY, 15, 15);
-  //  println(animCount,posX,posY);
-  //  animating = true;
-  //  if (animCount >= maxAnim){
-  //    animCount = 0;     
-  //    animating = false;
-  //  }
-  //} else {
-  //  animating= false;
-  //}
-
-  //if (tempPers.adds.size()> 1) {
-  //  Address ad1 = tempPers.adds.get(0);
-  //  Address ad2 = tempPers.adds.get(1);
-
-  //  //println(ad1.x,ad2.x);
-  //  int maxAnim = 20;
-  //  float posX = lerp(ad1.x, ad2.x, (float) animCount/maxAnim);
-  //  float posY = lerp(ad1.y, ad2.y, (float) animCount/maxAnim);
-
-  //  //println((float)animCount/100,posX,posY);
-
-  //  fill(0,0,50);
-  //  ellipse(posX, posY, 15, 15);
-  //  animating = true;
-  //  if (animCount >= maxAnim){
-  //    animCount = 0;     
-  //    animating = false;
-  //  }
-
-  //}  
-
-
-  //for (int i = 0; i < people.size();i++){
-  //   Person tempPers = people.get(i);
-  //   tempPers.draw();
-  //}
-
-
-
-  //if(frameCount==1)
-  //  saveFrame("image.png");
-  
-  drawClock();
-  //writeImages();
+    drawClock();
+    //writeImages();
   }
 } // -------------------------------------- END OF DRAW FUNCTION -------------------------
 
@@ -446,17 +451,17 @@ class Person {
     firstName = fname;
     lastName = lname;
     deathDate = dD;
-    deathDateNum = int(dD.substring(0,4))*10000+int(dD.substring(5,7))*100+int(dD.substring(8,10));
+    deathDateNum = int(dD.substring(0, 4))*10000+int(dD.substring(5, 7))*100+int(dD.substring(8, 10));
     ageAtDeath = age;
     causeOfDeath = dc;
     //println(dD.substring(0,4));
     yearOfBirth = int(dD.substring(0, 4))-age;
-    if (ntitel.equals("NULL")){
+    if (ntitel.equals("NULL")) {
       titel = " ";
     } else {
       titel = ntitel;
     }
-    if (ntHolder.equals("Eget erhverv") || ntHolder.equals("NULL") ){
+    if (ntHolder.equals("Eget erhverv") || ntHolder.equals("NULL") ) {
       //titelHolder = "("+ntHolder+")";
       titelHolder = " ";
     } else {
@@ -468,48 +473,45 @@ class Person {
     dates.add(iniDate);
   }
 
-  void findCemetaryCoordinates(){
-    String cemetaryWF = cemetary.replace(' ','+');
-    cemetaryWF = cemetaryWF.replace('å','a');
-    cemetaryWF = cemetaryWF.replace('ø','o');
-    cemetaryWF = cemetaryWF.replace('æ','a');
+  void findCemetaryCoordinates() {
+    String cemetaryWF = cemetary.replace(' ', '+');
+    cemetaryWF = cemetaryWF.replace('å', 'a');
+    cemetaryWF = cemetaryWF.replace('ø', 'o');
+    cemetaryWF = cemetaryWF.replace('æ', 'a');
     String cemurl = "http://nominatim.openstreetmap.org/search?q="+cemetaryWF+"&format=xml&polygon=1&addressdetails=1";
     //String cemurl = "http://nominatim.openstreetmap.org/search?q=Assistens+Kirkegård&format=xml&polygon=1&addressdetails=1";
     //String cemurl = "http://nominatim.openstreetmap.org/search?q=assistens+kirkegrd&formal=html";
     String[] lines = loadStrings(cemurl);
-    
-             // If cemetary isn't found, make sure that the cemetary is not shown by moving it far away.
-         cemetaryCoor[0] = -1000;
-         cemetaryCoor[1] = -1000;
-         Boolean found = false;
-    for (String line: lines){
-         //println(line);
-         int latId = line.indexOf("lat='");
-         int lonId = line.indexOf("lon='");
-         //int imgPos = line.indexOf("img src=");
-         //int imgPosEnd = line.indexOf(" alt=");
-         
 
-         
-         if (latId> -1 && found == false){
-             cemetaryCoor[0] = float(line.substring(latId+5,latId+14));
-             cemetaryCoor[1] = float(line.substring(lonId+5,lonId+14));
-             //println(cemetaryCoor[0],cemetaryCoor[1]);
-              cemetaryCoor[0] = map(cemetaryCoor[0], latMax, latMin, 0, height);
-              cemetaryCoor[1] = map(cemetaryCoor[1], lonMin, lonMax, 0, width);
-             //imgUrl = line.substring(imgPos+9,imgPosEnd-1);
-             
-             // Displace cemetary positions sligthly:
-             int displacement = 20;
-             cemetaryCoor[0] += random(-displacement,displacement);
-             cemetaryCoor[1] += random(-displacement,displacement);
-             
-             found = true;
-         }     
+    // If cemetary isn't found, make sure that the cemetary is not shown by moving it far away.
+    cemetaryCoor[0] = -1000;
+    cemetaryCoor[1] = -1000;
+    Boolean found = false;
+    for (String line : lines) {
+      //println(line);
+      int latId = line.indexOf("lat='");
+      int lonId = line.indexOf("lon='");
+      //int imgPos = line.indexOf("img src=");
+      //int imgPosEnd = line.indexOf(" alt=");
+
+
+
+      if (latId> -1 && found == false) {
+        cemetaryCoor[0] = float(line.substring(latId+5, latId+14));
+        cemetaryCoor[1] = float(line.substring(lonId+5, lonId+14));
+        //println(cemetaryCoor[0],cemetaryCoor[1]);
+        cemetaryCoor[0] = map(cemetaryCoor[0], latMax, latMin, 0, height);
+        cemetaryCoor[1] = map(cemetaryCoor[1], lonMin, lonMax, 0, width);
+        //imgUrl = line.substring(imgPos+9,imgPosEnd-1);
+
+        // Displace cemetary positions sligthly:
+        int displacement = 20;
+        cemetaryCoor[0] += random(-displacement, displacement);
+        cemetaryCoor[1] += random(-displacement, displacement);
+
+        found = true;
       }
-      
-       
-    
+    }
   }
 
   void addAddress(Address newAdd, int newDate) {
@@ -546,9 +548,9 @@ class Person {
 
   void displayInfo() {
     text("This is where "+firstName+" "+lastName+" lived,"+
-          "\n working primarily as a '"+titel+
-          "'\n before dying on "+deathDate+
-          "\n dying due to "+causeOfDeath, 10, 20);
+      "\n working primarily as a '"+titel+
+      "'\n before dying on "+deathDate+
+      "\n dying due to "+causeOfDeath, 10, 20);
   }
 
   void displayAllPlaces() {
@@ -556,11 +558,11 @@ class Person {
 
     fill(0, 0, 80);
     text(regiID+
-          "\n"+firstName+" "+lastName+
-          "\n"+titel+" "+titelHolder+
-          "\n* "+yearOfBirth+" † "+deathDate.substring(0,4)+
-          "\n"+causeOfDeath+
-          "\n"+cemetary,10,height-300);
+      "\n"+firstName+" "+lastName+
+      "\n"+titel+" "+titelHolder+
+      "\n* "+yearOfBirth+" † "+deathDate.substring(0, 4)+
+      "\n"+causeOfDeath+
+      "\n"+cemetary, 10, height-300);
     //text("This is where "+firstName+" "+lastName+" lived,\n working primarily as a '"+titel+"'\n before dying on "+deathDate+"\n dying due to "+causeOfDeath, 10, 20);
 
     int xSize = 15;
@@ -575,16 +577,16 @@ class Person {
       stroke(0);
       if (i>=1) {
         Address oldAd = adds.get(i-1);
-        stroke(0,0,100,50);
+        stroke(0, 0, 100, 50);
         strokeWeight(4);
         line(oldAd.x, oldAd.y, ad.x, ad.y);
         strokeWeight(1);
       }
       ellipse(ad.x, ad.y, xSize, ySize);
       //text(ad.name, ad.x+xSize, ad.y+ySize*2);
-      
+
       textAlign(CENTER);
-      text("†",cemetaryCoor[1],cemetaryCoor[0]);
+      text("†", cemetaryCoor[1], cemetaryCoor[0]);
       textAlign(LEFT);
       //fill(0, 0, 0);
       //textSize(16);
