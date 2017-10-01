@@ -1,4 +1,5 @@
 # Livet før døden (life before death)
+## 10000 københavnske skæbner
 af Rasmus K. Pedersen og Ulf R. Pedersen
 
 Når man går en tur på kirkegården mærker man sin egen udødelighed. 
@@ -6,12 +7,19 @@ Hver gravsten repræsentere en skæbne.
 Her, vil vi give beskueren den samme oplevelse.
 
 ## Data
-Vi har prøvet at lave "small data" ud af "big data" - at får de enkelte fortællinger ud af store data om danmarks befolkning.
-De dataset vi har kompineret er:
- * politietsregisterblade fra København
- * 
+Vi ha lave "small data" ud af "big data" - at får de enkelte fortællinger ud af store data om danmarks befolkning.
+Dette gøres ved at kompinere dataset for at finde sammenfald.
+
+Vi har kompineret to data set:
+ * politietsregisterblade fra København (1890-1923)
+ * begrevelses register fra København (1861-1912)
+
+Man kunne udvide fortællingerne om de enkelte personer med data fra
+ * Aviser 
+ * Døde i krigen
 
 # Code for HACK4DK 2017
+Most code is written for Processing. See 
 
 ## SQL note
 
