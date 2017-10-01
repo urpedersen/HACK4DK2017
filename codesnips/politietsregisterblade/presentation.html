@@ -17,13 +17,19 @@
     
     /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
     .row.content {
-      height: 5000px
+      height: 1000px
+      /*height: 100%;*/
       
       /*background-color: #0F0F0F;*/
     }
 
     p {
       font-family: "befolkning2/OldStandard-Regular";
+      font-size: 150%;
+    }
+    a {
+      color: black;
+      font-size: 150%;
     }
     body {
       background-color: gray;
@@ -58,26 +64,29 @@
   
 <div class="container-fluid text-center">
   <div class="row content">
-    <div class="col-sm-2 sidenav">
+    <div class="col-sm-4 sidenav">
       <h1>Livet før døden</h1>
       <h2>10000 københavnske skæbner</h2>
+      <p>Når man går en tur på kirkegården mærker man sin egen dødelighed. </p>
+      <p>Hver gravsten repræsenterer en skæbne. </p>
+      <p>Her vil vi give beskueren den samme oplevelse.</p>
       <h3> af Rasmus K. Pedersen og Ulf R. Pedersen</h3>
-    <p>Et projekt lavet i forbindelse med Hack4dk 2017</p>
+    <p>Et projekt lavet under Hack4dk 2017</p>
+    
       <!-- <p>Animation af begravelse og politiregister data</p> -->
       
       <!-- <p><a href="epidemi.html">Link til epidemisimulering</a></p> -->
     </div>
     <!-- <div class="col-sm-2 text-left"><img src="BilledeRasmusKristofferPedersen.jpeg" class="img-responsive" alt="Rasmus Kristoffer Pedersen"> -->
-    <div class="col-sm-10 text-left">
-      <h2>Gravsten</h2>
-    <p>Når man går en tur på kirkegården mærker man sin egen dødelighed. Hver gravsten repræsentere en skæbne. Her vil vi give beskueren den samme oplevelse.</p>
-    </div>
     <div class="col-sm-8 text-left">
+    <br>
       <video loop autoplay width=100% height='auto' controls>
         <source src="https://github.com/urpedersen/HACK4DK2017/raw/master/codesnips/politietsregisterblade/befolkning2/grave01.mp4" type="video/mp4">
       Your browser does not support the video tag.
       </video>
       <h3>Data beskrivelse</h3>
+
+      <p><a href="https://github.com/urpedersen/HACK4DK2017/tree/master/codesnips/politietsregisterblade">Github link</a></p>
       <p>Vi har lavet "small data" ud af "big data" - at får de enkelte fortællinger ud af store data om danmarks befolkning. Dette gøres ved at kompinere dataset for at finde sammenfald.</p>
       <p>Vi har kompineret to data set:</p>
       <ul>
@@ -93,6 +102,7 @@
         <source src="https://github.com/urpedersen/HACK4DK2017/raw/master/codesnips/politietsregisterblade/befolkning2/grave.mp4" type="video/mp4">
       Your browser does not support the video tag.
       </video>
+
     </div>
     <div class="col-sm-10 text-left">
       <h2>Beboelsesdata</h2>
@@ -119,6 +129,15 @@
         <source src="https://github.com/urpedersen/HACK4DK2017/raw/master/codesnips/politietsregisterblade/befolkning3/vesterbro.mp4" type="video/mp4">
       Your browser does not support the video tag.
       </video>
+    </div>
+    <div class="col-sm-10 text-left">
+    <h1>Links:</h1>
+    <p><a href="http://www.hack4.dk">HACK4DK</a></p>
+    <p><a href="http://www.politietsregisterblade.dk">Politiets registerblade</a></p>
+    <h1>Contact:</h1>
+    <p><a href="http://urp.dk">Ulf R. Pedersen</a></p>
+
+    <p><a href="http://www.rasmuspedersen.com">Rasmus K. Pedersen</a></p>
     </div>
 
   </div>
