@@ -1,6 +1,6 @@
 # Livet før døden (life before death)
-## 10000 københavnske skæbner
 af Rasmus K. Pedersen og Ulf R. Pedersen
+## 10000 københavnske skæbner
 
 Når man går en tur på kirkegården mærker man sin egen udødelighed. 
 Hver gravsten repræsentere en skæbne.
