@@ -10,7 +10,7 @@ int[] years;
 
 int firstYear = 1892;
 //int lastYear = 1894;
-int lastYear = 1923;
+int lastYear = 1923; // For development
 
 float drawScale=1;
 
@@ -20,12 +20,17 @@ PImage bg;
 
 String path = "../befolkning/data/";
 
+// variables for changi
+int zoomID = 0;
+int numZoomIDs=4;
+String label;
+boolean hasChanged = true;
+
 void setup() {
  //fullScreen();
- //size(1920,1080);  // 1920x1080
- size(600,400);
+ size(1920,1080);  // 1920x1080
+ //size(600,400);
  background(0);
-
 
  //frameRate(10);
 
@@ -47,7 +52,25 @@ void draw() {
   //rect(0,0,width,height);
   
   // Select zoom level
-  String label = "Nørrebro";
+  //zoomID = 2;
+  
+  switch(zoomID) {
+    case 0:
+      label = "København";
+      break;
+    case 1:
+      label = "Vesterbro";
+      break;
+    case 2:
+      label = "Nørrebro";
+      break;
+    case 3:
+      label = "Østerbro";
+      break;
+    default:
+      println("WARNING: unknown zoomID");
+  }
+  
   if(label=="København") { 
     latMin = 55.62;
     latMax = 55.74;
@@ -75,11 +98,12 @@ void draw() {
   }
   
   // Cash backgroud image
-  if (frameCount==1) {
-    loadData();
+  if (frameCount==1 || hasChanged) {
     background(10);
     drawAddress(true);
     bg = get();
+    hasChanged = false;
+    if(frameCount==1) loadData();
   } else { 
     image(bg, 0, 0);
   }
@@ -97,6 +121,19 @@ void draw() {
 
   // writeImages();
 }
+
+void keyPressed() {
+  if (key == CODED) {
+    if (keyCode == LEFT) {
+      zoomID=(zoomID-1+numZoomIDs)%numZoomIDs;
+    } else if (keyCode == RIGHT) {
+      zoomID=(zoomID+1)%numZoomIDs;
+    } 
+    println("zoomID = ",zoomID);
+  }
+  hasChanged = true;
+}
+
 
 void loadData() {
   // Load person data into memory
