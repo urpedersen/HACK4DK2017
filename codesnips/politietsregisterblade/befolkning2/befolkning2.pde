@@ -148,8 +148,11 @@ void keyPressed() {
 }
 }
 void writeImages(){
-  //int imgID = year-firstYear;
-  //saveFrame("img/" + nf(imgID,4) + ".png");
+  //int imgID = curYear-firstYear;
+  int stride = 10;
+  if (frameCount%stride == 0){
+    saveFrame("img/" + nf(frameCount/stride-1,4) + ".png");
+  }
   
   if(frameCount%1000==1)
     saveFrame("image.png");
@@ -389,8 +392,8 @@ void draw() {
   //if(frameCount==1)
   //  saveFrame("image.png");
   
-  writeImages();
   drawClock();
+  //writeImages();
   }
 } // -------------------------------------- END OF DRAW FUNCTION -------------------------
 
