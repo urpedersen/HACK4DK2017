@@ -5,17 +5,17 @@ Web-page: urp.dk/lfd
 
 ## 10000 københavnske skæbner
 
-Når man går en tur på kirkegården mærker man sin egen udødelighed. 
+Når man går en tur på kirkegården mærker man sin egen dødelighed. 
 Hver gravsten repræsentere en skæbne.
-Her, vil vi give beskueren den samme oplevelse.
+Her vil vi give beskueren den samme oplevelse.
 
 ## Data
-Vi ha lave "small data" ud af "big data" - at får de enkelte fortællinger ud af store data om danmarks befolkning.
+Vi har lavet "small data" ud af "big data" - at får de enkelte fortællinger ud af store data om danmarks befolkning.
 Dette gøres ved at kompinere dataset for at finde sammenfald.
 
 Vi har kompineret to data set:
- * politietsregisterblade fra København (1890-1923)
- * begrevelses register fra København (1861-1912)
+ * Politietsregisterblade fra København (1890-1923)
+ * Begravelsesregister fra København (1861-1912)
 
 Man kunne udvide fortællingerne om de enkelte personer med data fra
  * Aviser 
