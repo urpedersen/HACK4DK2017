@@ -54,7 +54,8 @@ void setup() {
   //int month = 1;
   //person = loadTable("../befolkning/data/pos/" + year + "" + month + ".csv", "header"); 
   //data = loadTable("../BeggeDatabaser.csv", "header"); 
-  data = loadTable("BeggeDatabaser.csv", "header"); 
+  //data = loadTable("BeggeDatabaser.csv", "header"); 
+  data = loadTable("BeggeDatabaser10000Ny.csv", "header"); 
   //data = loadTable("../BeggeDatabaserNoCOD.csv", "header");
 
   drawAddress(true);
