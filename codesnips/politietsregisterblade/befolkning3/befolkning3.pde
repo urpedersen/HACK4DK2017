@@ -1,16 +1,22 @@
 Table address;
+
+Table[] persons;
 Table person;
 
 float latMin,latMax,lonMin,lonMax;
 
 int month,year;
+int[] years;
 
 int firstYear = 1892;
+//int lastYear = 1894;
 int lastYear = 1923;
 
 float drawScale=1;
 
 PFont font;
+
+PImage bg;
 
 String path = "../befolkning/data/";
 
@@ -20,17 +26,18 @@ void setup() {
  size(600,400);
  background(0);
 
+
+ //frameRate(10);
+
  colorMode(HSB, 100);
  address = loadTable(path + "address.csv", "header");
- println("Number of rows: " + address.getRowCount());
+ println("Number of rows in addresses: " + address.getRowCount());
  //table.sort("dateOfDeath");
- //trimTable(table);
  
   font = createFont( path + "OldStandard-Regular.ttf", 32);
   textFont(font, 32);
  
- 
-
+ text("loading data ...",80,80);
   //drawAddress(true);
 }
 
@@ -39,9 +46,8 @@ void draw() {
   //fill(0,1);
   //rect(0,0,width,height);
   
+  // Select zoom level
   String label = "Nørrebro";
-  
-  
   if(label=="København") { 
     latMin = 55.62;
     latMax = 55.74;
@@ -68,18 +74,42 @@ void draw() {
     drawScale=2;
   }
   
+  // Cash backgroud image
+  if (frameCount==1) {
+    loadData();
+    background(10);
+    drawAddress(true);
+    bg = get();
+  } else { 
+    image(bg, 0, 0);
+  }
+  
+  // Set year
   year = firstYear+frameCount%(lastYear-firstYear);
   println(year);
-  person = loadTable("pos/" + year + ".csv", "header"); 
+  person = persons[year-firstYear]; // loadTable("pos/" + year + ".csv", "header"); 
    
-  drawAddress(true);
+  //drawAddress(true);
   drawPersons();
   drawClock();
   
-
   text(label +  " anno " + firstYear + "-" + lastYear + " (Police registration cards)", 40,height-40);
 
-  writeImages();
+  // writeImages();
+}
+
+void loadData() {
+  // Load person data into memory
+  int delY = lastYear-firstYear;
+  println("years: ",firstYear,"-",firstYear,"=",lastYear-firstYear);
+  years = new int[delY];
+  persons = new Table[delY];
+  for(int i=0;i<delY;i++){
+    year = firstYear+i;
+    println("load year ", year," i = ",i);
+    years[i]=i+firstYear;
+    persons[i] = loadTable("pos/" + year + ".csv", "header");
+  }
 }
 
 void writeImages(){
