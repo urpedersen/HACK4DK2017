@@ -1,5 +1,17 @@
-# HACK4DK2017
-Code for HACK4DK 2017
+# Livet før døden (life before death)
+af Rasmus K. Pedersen og Ulf R. Pedersen
+
+Når man går en tur på kirkegården mærker man sin egen udødelighed. 
+Hver gravsten repræsentere en skæbne.
+Her, vil vi give beskueren den samme oplevelse.
+
+## Data
+Vi har prøvet at lave "small data" ud af "big data" - at får de enkelte fortællinger ud af store data om danmarks befolkning.
+De dataset vi har kompineret er:
+ * politietsregisterblade fra København
+ * 
+
+# Code for HACK4DK 2017
 
 ## SQL note
 
