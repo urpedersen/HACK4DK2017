@@ -16,8 +16,8 @@ String path = "../befolkning/data/";
 
 void setup() {
  //fullScreen();
- size(1920,1080);  // 1920x1080
- //size(600,400);
+ //size(1920,1080);  // 1920x1080
+ size(600,400);
  background(0);
 
  colorMode(HSB, 100);
@@ -39,7 +39,7 @@ void draw() {
   //fill(0,1);
   //rect(0,0,width,height);
   
-  String label = "Østerbro";
+  String label = "Nørrebro";
   
   
   if(label=="København") { 
@@ -59,6 +59,12 @@ void draw() {
     latMax = 55.711;
     lonMin = 12.562;
     lonMax = 12.608;
+    drawScale=2;
+  }  else if(label=="Nørrebro") { 
+    latMin = 55.680;
+    latMax = 55.712;
+    lonMin = 12.529;
+    lonMax = 12.570;
     drawScale=2;
   }
   
