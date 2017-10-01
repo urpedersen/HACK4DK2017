@@ -8,6 +8,10 @@ Boolean paused = false;
 
 ArrayList<Person> people = new ArrayList<Person>();
 
+FloatList allCemX = new FloatList();
+FloatList allCemY = new FloatList();
+
+
 float latMin, latMax, lonMin, lonMax;
 
 int startYear = 1890;
@@ -25,13 +29,15 @@ void setup() {
   //size(1000, 800);
   size(1920, 1080);
   colorMode(HSB, 100);
-  font = createFont("../befolkning/data/OldStandard-Regular.ttf", 32);
+  //font = createFont("../befolkning/data/OldStandard-Regular.ttf", 32);
+  font = createFont("OldStandard-Regular.ttf", 32);
   textFont(font, 32);
   //frameRate(10);
   //frameRate(1);
   //frameRate(100);
   textSize(32);
-  address = loadTable("../befolkning/data/address.csv", "header");
+  //address = loadTable("../befolkning/data/address.csv", "header");
+  address = loadTable("address.csv", "header");
   //println("Number of rows: " + address.getRowCount());
   //table.sort("dateOfDeath");
   //trimTable(table);
@@ -43,7 +49,8 @@ void setup() {
   //int year = 1900;
   //int month = 1;
   //person = loadTable("../befolkning/data/pos/" + year + "" + month + ".csv", "header"); 
-  data = loadTable("../BeggeDatabaser.csv", "header"); 
+  //data = loadTable("../BeggeDatabaser.csv", "header"); 
+  data = loadTable("BeggeDatabaser.csv", "header"); 
   //data = loadTable("../BeggeDatabaserNoCOD.csv", "header");
 
   drawAddress(true);
@@ -76,9 +83,10 @@ void setup() {
       String dod = row.getString("dateOfDeath");
       String tit = row.getString("position");
       String deaC = row.getString("deathcause");
+      String cem = row.getString("cemetary");
       int reid = row.getInt("registerblad_id");
       //println(dod.substring(0, 4));
-      people.add(new Person(tempId, fn, ln, age, dod, tit, deaC, reid, tempAddress, tempDate));
+      people.add(new Person(tempId, fn, ln, age, dod, tit, deaC, cem, reid, tempAddress, tempDate));
     }
 
 
@@ -104,6 +112,7 @@ void setup() {
      }     
   }
   blad = loadImage("http://www.politietsregisterblade.dk/"+imgUrl,"png");
+  tempPers.findCemetaryCoordinates();
 }
 void keyPressed() {
   if (key == CODED) {
@@ -117,6 +126,24 @@ void keyPressed() {
   //}
 }
 }
+void writeImages(){
+  //int imgID = year-firstYear;
+  //saveFrame("img/" + nf(imgID,4) + ".png");
+  
+  if(frameCount%100==1)
+    saveFrame("image.png");
+}
+
+// Draw a clock
+void drawClock(){
+  noStroke();
+  //fill(40);
+  //rect(10,10,120,120);
+  fill(60);
+  arc(70, 70, 120, 120, -PI/2, PI*(curYear%10)/5-PI/2, PIE);
+  fill(80);
+  text(curYear,31,170);
+}
 
 void draw() {  
   if (paused == true) {
@@ -124,7 +151,11 @@ void draw() {
   } else {
     //fill(255);
   
-  background(10);
+  background(10);  
+  //blad.filter(GRAY);
+  //tint(100,5);
+  //image(blad,0,0,width,height);
+  //noTint();
   //frameRate(2);
   if (frameCount==1) {
     drawAddress(true);
@@ -137,7 +168,7 @@ void draw() {
   blad.filter(GRAY);
   //tint(100,75);
   image(blad,10,height/3,400,360);
-  noTint();
+  //noTint();
   //tint(255, 255);
   //scale(2);
   //int startYear = 1890;  
@@ -163,24 +194,43 @@ void draw() {
   //println(showIndex);
   //println(tempPers.deathDate,tempPers.deathDateNum);
   //if (curYear >  int(tempPers.deathDate.substring(0, 4))) {
+    textSize(16);
+  textAlign(CENTER);
+  fill(0,0,20);
+  for (int i = 0;i< allCemX.size();i++){
+    text("†",allCemX.get(i),allCemY.get(i));
+  }
+  textSize(32);
+  textAlign(LEFT);
+  float curX;
+  float curY;
+  String curLoc;
   if (curYear*10000+curMonth*100+curDay >  tempPers.deathDateNum) {
     fill(0, 100, 100);
     age = tempPers.ageAtDeath;
-    dead = true;
+    dead = true;    
+    curX = tempPers.cemetaryCoor[1];
+    curY = tempPers.cemetaryCoor[0];
+    curLoc = tempPers.cemetary;
+    allCemX.append(curX);
+    allCemY.append(curY);
     //delay(1000);
     //curYear = 1950;
   } else {
     fill(0, 0, 90);
+    curX = tempPers.getAddX(showIndex);
+    curY = tempPers.getAddY(showIndex);
+    curLoc = tempPers.adds.get(showIndex).name;
   }
 
   int dotSize = 15; 
-  float curX = tempPers.getAddX(showIndex);
-  float curY = tempPers.getAddY(showIndex);
+  //curX = tempPers.getAddX(showIndex);
+  //curY = tempPers.getAddY(showIndex);
   ellipse(curX, curY, dotSize, dotSize);
   textAlign(CENTER);
   text(age+" år", curX, curY-dotSize*2); 
   //text(tempPers.firstName+" "+tempPers.lastName+", age: "+age, curX, curY-dotSize*2); 
-  text(tempPers.adds.get(showIndex).name, curX, curY+dotSize*3);
+  text(curLoc, curX, curY+dotSize*3);
   textAlign(LEFT);
   //tempPers.displayInfo();
 
@@ -191,7 +241,7 @@ void draw() {
   //text("Year: "+str(curYear)+", month: "+str(curMonth), 10,height-20);
   textSize(32);
 
-
+  
 
   if (curYear > 1923 || dead == true) {
     
@@ -223,6 +273,7 @@ void draw() {
          }     
   }
   blad = loadImage("http://www.politietsregisterblade.dk/"+imgUrl,"png");
+  tempPers.findCemetaryCoordinates();
       //background(0);
       //drawAddress(true);
     }
@@ -313,6 +364,9 @@ void draw() {
 
   //if(frameCount==1)
   //  saveFrame("image.png");
+  
+  writeImages();
+  drawClock();
   }
 } // -------------------------------------- END OF DRAW FUNCTION -------------------------
 
@@ -351,12 +405,14 @@ class Person {
   int yearOfBirth;
   String titel;
   String causeOfDeath;
+  String cemetary;
+  float[] cemetaryCoor = new float[2];
   int regiID;
   ArrayList<Address> adds = new ArrayList<Address>();
   ArrayList<Integer> dates = new ArrayList<Integer>();
 
 
-  Person(int nId, String fname, String lname, int age, String dD, String ntitel, String dc, int re, Address iniAdd, int iniDate) {
+  Person(int nId, String fname, String lname, int age, String dD, String ntitel, String dc, String cem, int re, Address iniAdd, int iniDate) {
     id = nId;
     firstName = fname;
     lastName = lname;
@@ -367,13 +423,45 @@ class Person {
     //println(dD.substring(0,4));
     yearOfBirth = int(dD.substring(0, 4))-age;
     if (ntitel.equals("NULL")){
-      titel = "Unknown occupation";
+      titel = " ";
     } else {
       titel = ntitel;
     }
+    cemetary = cem;
     regiID = re;
     adds.add(iniAdd);
     dates.add(iniDate);
+  }
+
+  void findCemetaryCoordinates(){
+    String cemetaryWF = cemetary.replace(' ','+');
+    cemetaryWF = cemetaryWF.replace('å','a');
+    String cemurl = "http://nominatim.openstreetmap.org/search?q="+cemetaryWF+"&format=xml&polygon=1&addressdetails=1";
+    //String cemurl = "http://nominatim.openstreetmap.org/search?q=Assistens+Kirkegård&format=xml&polygon=1&addressdetails=1";
+    //String cemurl = "http://nominatim.openstreetmap.org/search?q=assistens+kirkegrd&formal=html";
+    String[] lines = loadStrings(cemurl);
+    
+    
+         Boolean found = false;
+    for (String line: lines){
+         //println(line);
+         int latId = line.indexOf("lat='");
+         int lonId = line.indexOf("lon='");
+         //int imgPos = line.indexOf("img src=");
+         //int imgPosEnd = line.indexOf(" alt=");
+         if (latId> -1 && found == false){
+             cemetaryCoor[0] = float(line.substring(latId+5,latId+14));
+             cemetaryCoor[1] = float(line.substring(lonId+5,lonId+14));
+             //println(cemetaryCoor[0],cemetaryCoor[1]);
+              cemetaryCoor[0] = map(cemetaryCoor[0], latMax, latMin, 0, height);
+              cemetaryCoor[1] = map(cemetaryCoor[1], lonMin, lonMax, 0, width);
+             //imgUrl = line.substring(imgPos+9,imgPosEnd-1);
+             found = true;
+         }     
+      }
+      
+      
+    
   }
 
   void addAddress(Address newAdd, int newDate) {
@@ -423,7 +511,8 @@ class Person {
           "\n"+firstName+" "+lastName+
           "\n"+titel+
           "\n* "+yearOfBirth+" † "+deathDate.substring(0,4)+
-          "\n"+causeOfDeath,10,height-250);
+          "\n"+causeOfDeath+
+          "\n"+cemetary,10,height-300);
     //text("This is where "+firstName+" "+lastName+" lived,\n working primarily as a '"+titel+"'\n before dying on "+deathDate+"\n dying due to "+causeOfDeath, 10, 20);
 
     int xSize = 15;
@@ -445,7 +534,10 @@ class Person {
       }
       ellipse(ad.x, ad.y, xSize, ySize);
       //text(ad.name, ad.x+xSize, ad.y+ySize*2);
-
+      
+      textAlign(CENTER);
+      text("†",cemetaryCoor[1],cemetaryCoor[0]);
+      textAlign(LEFT);
       //fill(0, 0, 0);
       //textSize(16);
       //text(i+1, ad.x-xSize/2, ad.y+ySize/3);
